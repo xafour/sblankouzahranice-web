@@ -1,0 +1,309 @@
+{
+ "post": {
+  "ID": 1486,
+  "post_title": "Default Kit",
+  "post_name": "default-kit-2",
+  "post_status": "publish",
+  "post_type": "elementor_library",
+  "post_content": ""
+ },
+ "meta": {
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "kit",
+  "_wp_page_template": "default",
+  "_elementor_data": [],
+  "_elementor_version": "3.24.7",
+  "_elementor_page_settings": {
+   "default_generic_fonts": "Sans-serif",
+   "container_width": {
+    "unit": "px",
+    "size": "1200",
+    "sizes": []
+   },
+   "custom_colors": [
+    {
+     "_id": "kadence1",
+     "title": "Tématický akcent",
+     "color": "#080808"
+    },
+    {
+     "_id": "kadence2",
+     "title": "Téma Akcent - alt",
+     "color": "#0a431b"
+    },
+    {
+     "_id": "kadence3",
+     "title": "Nejsilnější text",
+     "color": "#DEE5A3"
+    },
+    {
+     "_id": "kadence4",
+     "title": "Silný text",
+     "color": "#eae6bf"
+    },
+    {
+     "_id": "kadence5",
+     "title": "Střední text",
+     "color": "#afbfc8"
+    },
+    {
+     "_id": "kadence6",
+     "title": "Jemný text",
+     "color": "#e9efef"
+    },
+    {
+     "_id": "kadence7",
+     "title": "Jemné pozadí",
+     "color": "#e0e0e0"
+    },
+    {
+     "_id": "kadence8",
+     "title": "Světlejší pozadí",
+     "color": "#f8f9f1"
+    },
+    {
+     "_id": "kadence9",
+     "title": "Bílá nebo smetanová",
+     "color": "#ffffff"
+    },
+    {
+     "_id": "c61b4ef",
+     "title": "Nová položka #10",
+     "color": "#DEE5A3"
+    },
+    {
+     "_id": "11f029e",
+     "title": "Nová položka #11",
+     "color": "#B1B8B8"
+    },
+    {
+     "_id": "bc0c41d",
+     "title": "Nová položka #12",
+     "color": ""
+    },
+    {
+     "_id": "a3fabfc",
+     "title": "Nová položka #13",
+     "color": ""
+    }
+   ],
+   "site_description": "do Rakouska / do přírody",
+   "site_name": "s Blankou za hranice ",
+   "kadence_colors": [
+    {
+     "_id": "palette1",
+     "title": "Tématický akcent",
+     "color": "#080808"
+    },
+    {
+     "_id": "palette2",
+     "title": "Téma Akcent - alt",
+     "color": "#0a431b"
+    },
+    {
+     "_id": "palette3",
+     "title": "Nejsilnější text",
+     "color": "#DEE5A3"
+    },
+    {
+     "_id": "palette4",
+     "title": "Silný text",
+     "color": "#eae6bf"
+    },
+    {
+     "_id": "palette5",
+     "title": "Střední text",
+     "color": "#afbfc8"
+    },
+    {
+     "_id": "palette6",
+     "title": "Jemný text",
+     "color": "#e9efef"
+    },
+    {
+     "_id": "palette7",
+     "title": "Jemné pozadí",
+     "color": "#e0e0e0"
+    },
+    {
+     "_id": "palette8",
+     "title": "Světlejší pozadí",
+     "color": "#f8f9f1"
+    },
+    {
+     "_id": "palette9",
+     "title": "Bílá nebo smetanová",
+     "color": "#ffffff"
+    }
+   ],
+   "system_colors": [
+    {
+     "_id": "primary",
+     "title": "Primární",
+     "color": "#E9EFEF"
+    },
+    {
+     "_id": "secondary",
+     "title": "Sekundární",
+     "color": "#E4E7C5"
+    },
+    {
+     "_id": "text",
+     "title": "HTML",
+     "color": "#294568"
+    },
+    {
+     "_id": "accent",
+     "title": "Akcent",
+     "color": "#0A431B"
+    }
+   ],
+   "system_typography": [
+    {
+     "_id": "primary",
+     "title": "Primární",
+     "typography_typography": "custom",
+     "typography_font_family": "Tahoma",
+     "typography_font_weight": "600",
+     "typography_line_height": {
+      "unit": "em",
+      "size": 1.5,
+      "sizes": []
+     }
+    },
+    {
+     "_id": "secondary",
+     "title": "Sekundární",
+     "typography_typography": "custom",
+     "typography_font_family": "Helvetica",
+     "typography_font_weight": "400"
+    },
+    {
+     "_id": "text",
+     "title": "HTML",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_weight": "400"
+    },
+    {
+     "_id": "accent",
+     "title": "Akcent",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_weight": "500"
+    }
+   ],
+   "custom_typography": [],
+   "page_title_selector": "h1.entry-title",
+   "activeItemIndex": 1,
+   "viewport_md": 768,
+   "viewport_lg": 1025,
+   "body_typography_typography": "custom",
+   "link_normal_color": "#294568",
+   "h1_typography_typography": "custom",
+   "h1_typography_line_height": {
+    "unit": "em",
+    "size": 1.5,
+    "sizes": []
+   },
+   "h3_typography_typography": "custom",
+   "h3_typography_line_height": {
+    "unit": "em",
+    "size": 1.5,
+    "sizes": []
+   },
+   "h4_typography_typography": "custom",
+   "h4_typography_line_height": {
+    "unit": "em",
+    "size": 1.5,
+    "sizes": []
+   },
+   "h6_typography_typography": "custom",
+   "h1_typography_font_size": {
+    "unit": "px",
+    "size": 24,
+    "sizes": []
+   },
+   "h2_typography_typography": "custom",
+   "h2_typography_font_size": {
+    "unit": "px",
+    "size": 23,
+    "sizes": []
+   },
+   "h3_typography_font_size": {
+    "unit": "px",
+    "size": 21,
+    "sizes": []
+   },
+   "h3_typography_font_weight": "600",
+   "h4_typography_font_size": {
+    "unit": "px",
+    "size": 22,
+    "sizes": []
+   },
+   "h5_color": "#010101",
+   "h5_typography_typography": "custom",
+   "h5_typography_font_size": {
+    "unit": "px",
+    "size": 20,
+    "sizes": []
+   },
+   "h6_typography_font_size": {
+    "unit": "px",
+    "size": 20,
+    "sizes": []
+   },
+   "__globals__": {
+    "h1_color": "globals/colors?id=kadence2",
+    "h2_color": "globals/colors?id=kadence2",
+    "h4_color": "globals/colors?id=kadence2",
+    "h6_color": "globals/colors?id=kadence3"
+   },
+   "body_typography_line_height": {
+    "unit": "em",
+    "size": 1.4,
+    "sizes": []
+   },
+   "h2_typography_line_height": {
+    "unit": "em",
+    "size": 1.5,
+    "sizes": []
+   },
+   "h5_typography_line_height": {
+    "unit": "em",
+    "size": 1.5,
+    "sizes": []
+   },
+   "h6_typography_line_height": {
+    "unit": "em",
+    "size": 1.5,
+    "sizes": []
+   },
+   "body_typography_letter_spacing": {
+    "unit": "px",
+    "size": 0,
+    "sizes": []
+   },
+   "active_breakpoints": [
+    "viewport_mobile",
+    "viewport_tablet",
+    "viewport_laptop",
+    "viewport_widescreen"
+   ],
+   "colors_enable_styleguide_preview": "yes"
+  },
+  "_elementor_pro_version": "3.24.4",
+  "_elementor_css": {
+   "time": 1792017888,
+   "fonts": [
+    "Tahoma",
+    "Helvetica",
+    "Roboto"
+   ],
+   "icons": [],
+   "dynamic_elements_ids": [],
+   "status": "file",
+   "0": ""
+  }
+ }
+}
