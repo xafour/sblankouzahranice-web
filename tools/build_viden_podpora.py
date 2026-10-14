@@ -1,0 +1,460 @@
+"""Postaví novou verzi stránky „Vídeň – individuální cestovní podpora“ v jednotném designu.
+
+Vstup: snapshots/post-19575.json (původní stránka). Texty, fotky a reference se berou z ní.
+Výstup: build/viden-podpora.json (Elementor data pro novou stránku).
+Používá jen prvky Elementoru zdarma a globální barvy/písma s id sbz_* (design/design-system.json).
+"""
+import hashlib
+import html
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+SRC = json.loads((ROOT / "snapshots/post-19575.json").read_text())["meta"]["_elementor_data"]
+UP = "https://sandbox.xafour.eu/wp-content/uploads/"
+KONTAKT = "/kontakt-s-blankou-za-hranice/"
+OBJEDNAT_PODPORU = "https://form.simpleshop.cz/4zRXn/buy/"
+OBJEDNAT_PRUVODCE = "https://form.simpleshop.cz/AaExm/buy/"
+TELEFON = "tel:+420777060809"
+
+_n = 0
+
+
+def eid():
+    global _n
+    _n += 1
+    return hashlib.md5(f"sbz-viden-{_n}".encode()).hexdigest()[:7]
+
+
+def g(kind, id_):
+    return f"globals/{kind}?id={id_}"
+
+
+# ---------- obsah z původní stránky ----------
+images = {}
+testimonials = []
+
+
+def _walk(els):
+    for e in els:
+        s = e.get("settings", {})
+        for v in s.values():
+            if isinstance(v, dict) and v.get("id") and str(v.get("url", "")).lower().endswith((".jpg", ".jpeg", ".png")):
+                images[v["url"].split("/uploads/")[-1]] = v["id"]
+        if e.get("widgetType") == "testimonial":
+            img = s.get("testimonial_image") or {}
+            testimonials.append({
+                "content": s.get("testimonial_content", ""),
+                "name": s.get("testimonial_name", ""),
+                "job": s.get("testimonial_job", ""),
+                "image": {"id": img.get("id"), "url": img.get("url")} if img.get("id") else None,
+            })
+        _walk(e.get("elements", []))
+
+
+_walk(SRC)
+
+
+def img(path):
+    return {"id": images[path], "url": UP + path, "size": "", "alt": "", "source": "library"}
+
+
+def clean_html(s):
+    """Text z editoru bez ručních stylů (barvy, písma, velikosti)."""
+    s = re.sub(r'\s(style|class|data-[\w-]+)="[^"]*"', "", s)
+    s = re.sub(r"</?span>", "", s)
+    s = re.sub(r"</?font[^>]*>", "", s)
+    s = s.replace("https://sandbox.xafour.eu/kontakt", KONTAKT.rstrip("/"))
+    return s.strip()
+
+
+# ---------- stavební prvky ----------
+def heading(title, level="h2", typo=None, color="sbz_zelena", align="left", css=""):
+    typo = typo or {"h1": "sbz_h1", "h2": "sbz_h2", "h3": "sbz_h3"}.get(level, "sbz_h3")
+    return {"id": eid(), "elType": "widget", "widgetType": "heading", "elements": [], "settings": {
+        "title": title, "header_size": level, "align": align, "_css_classes": css,
+        "__globals__": {"typography_typography": g("typography", typo), "title_color": g("colors", color)}}}
+
+
+def eyebrow(text, align="left", color="sbz_oliva"):
+    return heading(text, "p", "sbz_nadtitulek", color, align)
+
+
+def text(html_, align="left", color="sbz_text", typo="sbz_text", css="sbz-text"):
+    return {"id": eid(), "elType": "widget", "widgetType": "text-editor", "elements": [], "settings": {
+        "editor": html_, "align": align, "_css_classes": css,
+        "__globals__": {"typography_typography": g("typography", typo), "text_color": g("colors", color)}}}
+
+
+def button(label, url, style="primary", align="left", inline=False):
+    s = {"text": label, "link": {"url": url, "is_external": "on" if url.startswith("http") else "", "nofollow": ""},
+         "align": align, "size": "md",
+         "border_radius": {"unit": "px", "top": "8", "right": "8", "bottom": "8", "left": "8", "isLinked": True},
+         "text_padding": {"unit": "px", "top": "15", "right": "28", "bottom": "15", "left": "28", "isLinked": False},
+         "__globals__": {"typography_typography": g("typography", "sbz_tlacitko")}}
+    G = s["__globals__"]
+    if style == "primary":        # plné zelené
+        G.update(background_color=g("colors", "sbz_zelena"), button_text_color=g("colors", "sbz_bila"),
+                 button_background_hover_color=g("colors", "sbz_oliva"), hover_color=g("colors", "sbz_bila"))
+    elif style == "secondary":    # obrysové zelené
+        s.update(background_color="rgba(0,0,0,0)", border_border="solid",
+                 border_width={"unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": True})
+        G.update(button_text_color=g("colors", "sbz_zelena"), border_color=g("colors", "sbz_zelena"),
+                 button_background_hover_color=g("colors", "sbz_zelena"), hover_color=g("colors", "sbz_bila"),
+                 button_hover_border_color=g("colors", "sbz_zelena"))
+    elif style == "light":        # na tmavém pozadí: světlé plné
+        G.update(background_color=g("colors", "sbz_svetla"), button_text_color=g("colors", "sbz_zelena"),
+                 button_background_hover_color=g("colors", "sbz_bila"), hover_color=g("colors", "sbz_zelena"))
+    elif style == "outline-light":  # na tmavém pozadí: bílý obrys
+        s.update(background_color="rgba(0,0,0,0)", border_border="solid",
+                 border_width={"unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": True})
+        G.update(button_text_color=g("colors", "sbz_bila"), border_color=g("colors", "sbz_bila"),
+                 button_background_hover_color=g("colors", "sbz_bila"), hover_color=g("colors", "sbz_zelena"),
+                 button_hover_border_color=g("colors", "sbz_bila"))
+    if inline:
+        s["_element_width"] = "auto"
+        s["_margin"] = {"unit": "px", "top": "0", "right": "12", "bottom": "12", "left": "0", "isLinked": False}
+    return {"id": eid(), "elType": "widget", "widgetType": "button", "elements": [], "settings": s}
+
+
+def icon_list(items, icon="fas fa-check", color="sbz_text", icon_color="sbz_oliva"):
+    return {"id": eid(), "elType": "widget", "widgetType": "icon-list", "elements": [], "settings": {
+        "icon_list": [{"_id": eid(), "text": t, "selected_icon": {"value": icon, "library": "fa-solid"}} for t in items],
+        "space_between": {"unit": "px", "size": 12, "sizes": []},
+        "icon_size": {"unit": "px", "size": 16, "sizes": []},
+        "icon_self_align": "left", "icon_self_vertical_align": "flex-start",
+        "icon_vertical_offset": {"unit": "px", "size": 4, "sizes": []},
+        "text_indent": {"unit": "px", "size": 10, "sizes": []},
+        "__globals__": {"icon_color": g("colors", icon_color), "text_color": g("colors", color),
+                        "icon_typography_typography": g("typography", "sbz_text")}}}
+
+
+def image(path, caption="", css="sbz-foto", link=None):
+    s = {"image": img(path), "image_size": "large", "_css_classes": css, "align": "center"}
+    if caption:
+        s.update(caption_source="custom", caption=caption)
+    if link:
+        s.update(link_to="custom", link={"url": link, "is_external": "", "nofollow": ""})
+    return {"id": eid(), "elType": "widget", "widgetType": "image", "elements": [], "settings": s}
+
+
+def icon_box(icon, title, desc=""):
+    return {"id": eid(), "elType": "widget", "widgetType": "icon-box", "elements": [], "settings": {
+        "selected_icon": {"value": icon, "library": "fa-solid"}, "title_text": title, "description_text": desc,
+        "title_size": "h3", "view": "stacked", "shape": "circle", "position": "top",
+        "icon_size": {"unit": "px", "size": 26, "sizes": []}, "icon_padding": {"unit": "px", "size": 18, "sizes": []},
+        "_css_classes": "sbz-karta",
+        "__globals__": {"primary_color": g("colors", "sbz_svetla"), "secondary_color": g("colors", "sbz_zelena"),
+                        "title_typography_typography": g("typography", "sbz_h3"), "title_color": g("colors", "sbz_zelena"),
+                        "description_typography_typography": g("typography", "sbz_text"),
+                        "description_color": g("colors", "sbz_text")}}}
+
+
+def testimonial(t):
+    s = {"testimonial_content": re.sub(r"\s*\n\s*\n\s*", "<br><br>", t["content"].strip()).replace("\n", "<br>"), "testimonial_name": t["name"], "testimonial_job": t["job"],
+         "testimonial_alignment": "left", "testimonial_image_position": "top", "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {"unit": "px", "top": "0", "right": "0", "bottom": "24", "left": "0", "isLinked": False},
+         "__globals__": {"content_typography_typography": g("typography", "sbz_text"),
+                         "content_content_color": g("colors", "sbz_text"),
+                         "name_typography_typography": g("typography", "sbz_tlacitko"),
+                         "name_text_color": g("colors", "sbz_zelena"),
+                         "job_typography_typography": g("typography", "sbz_maly"),
+                         "job_text_color": g("colors", "sbz_seda")}}
+    if t["image"]:
+        s["testimonial_image"] = {**t["image"], "size": "", "alt": t["name"], "source": "library"}
+        s["testimonial_image_size"] = "thumbnail"
+    return {"id": eid(), "elType": "widget", "widgetType": "testimonial", "elements": [], "settings": s}
+
+
+def column(widgets, size=100, css="", align="", valign="", mobile=None):
+    s = {"_column_size": int(size), "_inline_size": None if size == 100 else size, "css_classes": css}
+    if mobile:
+        s["_inline_size_mobile"] = mobile
+    if align:
+        s["align"] = align
+    if valign:
+        s["content_position"] = valign
+    return {"id": eid(), "elType": "column", "isInner": False, "settings": s, "elements": widgets}
+
+
+def section(columns, bg=None, pad=88, pad_m=56, gap="extended", width=1140, anchor="", extra=None, valign=""):
+    s = {"layout": "boxed", "content_width": {"unit": "px", "size": width, "sizes": []}, "gap": gap,
+         "padding": {"unit": "px", "top": str(pad), "right": "24", "bottom": str(pad), "left": "24", "isLinked": False},
+         "padding_mobile": {"unit": "px", "top": str(pad_m), "right": "16", "bottom": str(pad_m), "left": "16", "isLinked": False},
+         "__globals__": {}}
+    bg = bg or "sbz_bila"  # bez barvy by sekce převzala krémové pozadí šablony
+    s["background_background"] = "classic"
+    s["__globals__"]["background_color"] = g("colors", bg)
+    if anchor:
+        s["_element_id"] = anchor
+    if valign:
+        s["content_position"] = valign
+    if extra:
+        s.update(extra)
+    return {"id": eid(), "elType": "section", "isInner": False, "settings": s, "elements": columns}
+
+
+def hl(before, mark, after=""):
+    return f'{before}<span class="sbz-hl">{mark}</span>{after}'
+
+
+# ---------- stránka ----------
+P = []
+
+# 1) Úvod (hero)
+P.append(section([column([
+    eyebrow("Individuální cestovní podpora ve Vídni", "center", "sbz_svetla"),
+    heading("Vídeň bez starostí, na míru a s podporou za zády", "h1", color="sbz_bila", align="center"),
+    text("<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>",
+         "center", "sbz_bila"),
+    button("Domluvit 15 minut zdarma", TELEFON, "light", inline=True),
+    button("Objednat službu", OBJEDNAT_PODPORU, "outline-light", inline=True),
+], align="center")], pad=120, pad_m=72, extra={
+    "height": "min-height", "custom_height": {"unit": "px", "size": 560, "sizes": []},
+    "custom_height_mobile": {"unit": "px", "size": 480, "sizes": []},
+    "background_background": "classic", "background_image": img("2024/09/Zahlavi-individ.podpora2.png"),
+    "background_position": "center center", "background_size": "cover", "background_repeat": "no-repeat",
+    "background_overlay_background": "classic", "background_overlay_opacity": {"unit": "px", "size": 0.62, "sizes": []},
+    "__globals__": {"background_overlay_color": g("colors", "sbz_zelena")}}, valign="middle"))
+
+# 2) Chystáte se do Vídně?
+P.append(section([column([
+    heading("Chystáte se do Vídně?", "h2", align="center"),
+])], bg="sbz_krem", pad=72, pad_m=48, extra={"padding": {"unit": "px", "top": "72", "right": "24", "bottom": "16", "left": "24", "isLinked": False}}))
+P.append(section([
+    column([icon_box("fas fa-hourglass-half", "Nemáte čas trávit hodiny hledáním, kam se podívat?")], 33.333),
+    column([icon_box("fas fa-route", "Nevíte si rady s plánováním cesty?")], 33.333),
+    column([icon_box("fas fa-comments", "Bojíte se, že se nedomluvíte?")], 33.333),
+], bg="sbz_krem", pad=16))
+P.append(section([column([
+    heading("Nechte to na mě a využijte službu cestovní podpory, abyste si své dny ve Vídni opravdu užili.",
+            "h3", align="center", color="sbz_zelena"),
+])], bg="sbz_krem", pad=24, extra={"padding": {"unit": "px", "top": "24", "right": "24", "bottom": "80", "left": "24", "isLinked": False}}, width=820))
+
+# 3) Na míru + Zažijte Vídeň jinak
+P.append(section([
+    column([
+        eyebrow("Služba na míru"),
+        heading("Nechte si ušít návštěvu Vídně na míru"),
+        text("<p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. "
+             "Jako Češka, žijící ve Vídni už 10 let, vám pomohu objevit skutečnou duši tohoto města a vyhnout se turistickým pastem.</p>"
+             "<p>Mé služby jsou navržené tak, abyste z Vídně získali maximum, ať už máte na návštěvu den nebo týden.</p>"),
+        heading("Zažijte Vídeň jinak", "h3"),
+        icon_list(["Bez starostí a v klidu.", "Bez bloudění a ztráty času.", "S informacemi, které se hodí."]),
+    ], 55, valign="middle"),
+    column([image("2023/09/do-hlavicky1.jpg", css="sbz-foto-vysoka sbz-bez-ramu")], 45, valign="middle"),
+], valign="middle"))
+
+# 4) Tři pilíře služby
+P.append(section([
+    column([icon_box("fas fa-map-marked-alt", "Itineráře na míru", "Plán cesty přesně podle vašich přání, tempa a délky pobytu.")], 33.333),
+    column([icon_box("fas fa-hands-helping", "Organizační pomoc na místě", "Jízdenky, doprava, orientace ve městě – vyřešíme to spolu.")], 33.333),
+    column([icon_box("fas fa-walking", "Osobní doprovod ve Vídni", "Procházka městem s příběhy, které v průvodcích nenajdete.")], 33.333),
+], pad=0, pad_m=0, extra={"padding": {"unit": "px", "top": "0", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
+
+# 5) Tahle nabídka je i pro vás
+P.append(section([
+    column([image("2023/09/do-hlavicky2.jpg", css="sbz-foto-vysoka sbz-bez-ramu")], 40, valign="middle"),
+    column([
+        heading(hl("Tahle nabídka je ", "i pro vás")),
+        icon_list([
+            "Pokud jedete do Vídně a <strong>nechcete bloudit a ztrácet čas</strong>.",
+            "Pokud chcete <strong>ušetřit dlouhé minuty a hodiny hledání</strong> na internetu.",
+            "Pokud budete Vídní projíždět a <strong>chcete svůj čas efektivně využít</strong>.",
+            "Pokud <strong>máte jasnou představu a nevíte, kde přesně hledat</strong>.",
+            "Pokud by se vám hodil <strong>předem rámcový plán cesty</strong>.",
+            "Pokud chcete <strong>zažít město očima obyvatelky Vídně</strong> se skutečným životem, a ne jen prostřednictvím „suchých dat a letopočtů“.",
+            "Pokud <strong>jste si nejistí kvůli němčině</strong> a bojíte se, že se v Rakousku nedorozumíte.",
+        ]),
+    ], 60, valign="middle"),
+], bg="sbz_krem", valign="middle"))
+
+# 6) Výzva k akci
+P.append(section([column([
+    heading("Nechte si připravit detailní plán cesty na míru nebo využijte podporu na místě", "h2",
+            color="sbz_bila", align="center"),
+    text("<p>Dejme si 15minutovku zdarma a řekněte mi své představy.</p>", "center", "sbz_svetla"),
+    button("Zavolat hned pro domluvu", TELEFON, "light", inline=True),
+    button("Pošlete mi telefon, ozvu se vám", KONTAKT, "outline-light", inline=True),
+    text("<p>Nebuďte zaskočeni, volat vám bude rakouské číslo.</p>", "center", "sbz_svetla", "sbz_maly"),
+], align="center")], bg="sbz_zelena", pad=80, width=860))
+
+# 7) Průvodce do kapsy
+P.append(section([
+    column([image("2026/03/houpaci-kreslo.png", css="sbz-foto", link="/den-ve-vidni/")], 40, valign="middle"),
+    column([
+        eyebrow("Ekonomičtější varianta"),
+        heading("Neshodneme se v termínu nebo chcete ušetřit?"),
+        text("<p>Pak se vám bude hodit on-line <strong>Průvodce do kapsy</strong> – stejná trasa, kterou chodím s klienty při osobním doprovodu.</p>"
+             "<p>Trasa širším centrem Vídně s popisem památek a mapkou ke stažení do mobilu. Vede vás jasně, klidně a bez zbytečného zdržování. "
+             "Nebloudíte, nehledáte a máte jistotu, že jdete správně. Roky prověřená trasa a spokojení klienti.</p>"
+             "<p><strong>Váš bod jistoty při objevování Vídně – klidný den za 40 € / 980 Kč.</strong></p>"),
+        button("Vyzkouším Průvodce do kapsy", OBJEDNAT_PRUVODCE, "primary", inline=True),
+        button("Více o průvodci", "/den-ve-vidni/", "secondary", inline=True),
+    ], 60, valign="middle"),
+], valign="middle"))
+
+# 8) Proč využít
+P.append(section([column([
+    heading(hl("Proč využít ", "cestovní podporu", " nebo Průvodce do kapsy"), align="center"),
+])], bg="sbz_krem", extra={"padding": {"unit": "px", "top": "88", "right": "24", "bottom": "24", "left": "24", "isLinked": False}}))
+P.append(section([
+    column([icon_list([
+        "<strong>Ušetříte čas</strong> hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat.",
+        "<strong>Neztratíte se ve výběru</strong> a pořizování nejvýhodnějších jízdenek městské dopravy.",
+        "<strong>Snadno se zorientujete v dopravě</strong> a zjistíte, jak nejlépe z místa A do místa B.",
+        "<strong>Během jednoho odpoledne projdete</strong> kolem nejznámějších turistických cílů Vídně.",
+    ])], 50),
+    column([icon_list([
+        "<strong>Lehce najdete legendární Hotel Sacher</strong>, kde si v kavárně vychutnáte pravou vídeňskou kávu a Sacher dort.",
+        "<strong>Dozvíte se něco praktického z běžného života ve Vídni</strong> a poznáte Rakousko autentičtěji.",
+        "<strong>Užijete si své dny naplno</strong>, protože budete mít ve Vídni pomoc a podporu za zády.",
+    ])], 50),
+], bg="sbz_krem", pad=8))
+P.append(section([
+    column([image("2023/05/Hofburg.jpg", "Hofburg")], 33.333, mobile=50),
+    column([image("2023/05/Karlskirche.jpg", "Karlskirche")], 33.333, mobile=50),
+    column([image("2023/05/Opera.jpg", "Státní opera")], 33.333, mobile=50),
+], bg="sbz_krem", pad=24))
+P.append(section([column([
+    button("Tak to se hodí, chci cestovní podporu", OBJEDNAT_PODPORU, "primary", inline=True),
+    button("Vyzkouším Průvodce do kapsy", OBJEDNAT_PRUVODCE, "secondary", inline=True),
+], align="center")], bg="sbz_krem", extra={"padding": {"unit": "px", "top": "16", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
+
+# 9) Jak spolupráce probíhá
+P.append(section([
+    column([
+        eyebrow("Individuální cestovní podpora"),
+        heading(hl("Jak ", "spolupráce probíhá", "?")),
+        text("<ol>"
+             "<li>Při prvním kontaktu e-mailem či telefonem si ujasníme vaše přání, představy a potřeby.</li>"
+             "<li>Ujasníme si délku a termín vašeho pobytu.</li>"
+             "<li>Na základě těchto informací zpracuji nabídku do konkrétní objednávky včetně cenové kalkulace a zašlu vám ji k odsouhlasení.</li>"
+             "<li>Po vašem potvrzení začnu na objednávce nebo itineráři pracovat detailně.</li>"
+             "<li>Podle potvrzeného harmonogramu vám zašlu finální verzi itineráře či služby.</li>"
+             "<li>Potvrdíme si předání dokumentu, případně doupřesníme detaily.</li>"
+             "<li>Většinou klientům předem zašlu nebo při příjezdu předám malý dárek navíc – vždy něco, co pomůže při výletu do Vídně.</li>"
+             "<li>Pak už se na vás těší Vídeň i já.</li>"
+             "</ol>", css="sbz-text sbz-kroky"),
+    ], 58),
+    column([
+        heading("Platba", "h3"),
+        text("<p>Platba probíhá ve dvou částech:</p><p><strong>a)</strong> záloha 50 % po potvrzení prvotní objednávky,<br>"
+             "<strong>b)</strong> doplatek 50 % po zaslání finální verze itineráře nebo několik dní před vaším příjezdem do Vídně. "
+             "Termín splatnosti je vždy součástí objednávky.</p>"),
+        heading("Co služba nezahrnuje", "h3"),
+        text("<p><strong>Součástí služby není provádění jakýchkoliv rezervací.</strong> Rezervace ubytování, dopravy a podobně si provádíte sami "
+             "na základě doporučených podkladů nebo podle vlastního výběru.</p>"),
+    ], 42, css="sbz-karta"),
+]))
+
+# 10) Co služba zahrnuje
+P.append(section([column([
+    heading(hl("Co služba cestovní podpory ", "zahrnuje")),
+])], bg="sbz_krem", extra={"padding": {"unit": "px", "top": "88", "right": "24", "bottom": "16", "left": "24", "isLinked": False}}))
+P.append(section([
+    column([icon_list([
+        "Doporučení ohledně dopravního spojení.",
+        "Doporučení a výběr nejvýhodnějších jízdenek pro městskou dopravu a váš pobyt ve Vídni.",
+        "Itinerář na příslušný počet dní včetně trasy prohlídky městem, případně i s mapkou ke stažení do mobilu.",
+        "Základní informace o místech a památkách na vaší trase.",
+    ])], 50),
+    column([icon_list([
+        "Doporučení výhodného ubytování – cenou nebo polohou – podle vašich přání.",
+        "Na přání osobní vyzvednutí na nádraží a pomoc s prvotní orientací ve městě.",
+        "Na přání osobní doprovod po městě nebo na vybrané památky ve Vídni a okolí – půldenní, celodenní i vícedenní program.",
+        "Podpora nemusí být po celou dobu pobytu. Často stačí 1–2 dny pro základní nebo hlubší orientaci.",
+    ])], 50),
+], bg="sbz_krem", extra={"padding": {"unit": "px", "top": "16", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
+
+# 11) Reference
+real = [t for t in testimonials if not t["content"].strip().startswith("Zde může být")]
+left, right = real[0::2], real[1::2]
+P.append(section([column([
+    heading(hl("Přečtěte si ", "reference", " od mých klientů"), align="center"),
+])], anchor="individualnipodporareference", extra={"padding": {"unit": "px", "top": "88", "right": "24", "bottom": "24", "left": "24", "isLinked": False}}))
+P.append(section([
+    column([testimonial(t) for t in left], 50),
+    column([testimonial(t) for t in right], 50),
+], pad=8))
+P.append(section([column([
+    text("<p>Zde může být i vaše recenze. Chystáte se do Vídně a chcete pobyt prožít bez stresu a starostí? "
+         "Napište mi – program na míru mám i pro vás.</p>", "center"),
+    button("Napsat Blance", KONTAKT, "secondary", "center"),
+])], width=760, extra={"padding": {"unit": "px", "top": "16", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
+
+# 12) Kdo vám bude oporou
+P.append(section([
+    column([image("2023/11/20170704_183039.jpg", css="sbz-foto-vysoka")], 40, valign="middle"),
+    column([
+        heading(hl("Kdo vám bude ", "oporou", " ve Vídni")),
+        text("<p>Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni. Z Prahy do Vídně jsem se přestěhovala ve věku 50 let. "
+             "Byl to velký skok do neznáma, a tak mám stále v živé paměti, jak se člověk v novém prostředí nesnadno orientuje.</p>"
+             "<p>Rakousko jsem začala objevovat především prostřednictvím výletů do přírody a postupně se seznamovala se životem ve Vídni. "
+             "V roce 2020 vznikl můj projekt „s Blankou za hranice“, ve kterém pomáhám krajanům s poznáváním Vídně a Rakouska. "
+             "Jsem milovnice přírody a všeho opravdového.</p>"
+             '<p>Více o mně si můžete přečíst <a href="/o-mne/">na stránce Kdo je Blanka</a>, '
+             'rozhovor v rádiu ORF si můžete <a href="https://volksgruppen.orf.at/cesi/radiotelevize/stories/3145808" target="_blank" rel="noopener">poslechnout zde</a>.</p>'
+             "<p>Těším se na vás v metropoli Rakouska a pomohu vám, abyste si svůj pobyt ve Vídni opravdu užili.</p>"),
+        button("Objednat službu", OBJEDNAT_PODPORU, "primary", inline=True),
+        button("Poslat zprávu", KONTAKT, "secondary", inline=True),
+    ], 60, valign="middle"),
+], bg="sbz_krem", valign="middle"))
+
+# 13) Co můžete ve Vídni vidět
+gal = [("2023/05/Burggarten-1.jpg", "Schmetterlinghaus"), ("2023/06/Fiakr2-S.jpg", "Typický vídeňský fiakr"),
+       ("2023/06/Albertina.jpg", "Albertina"), ("2023/05/Hundertwasserhaus.jpg", "Hundertwasserhaus"),
+       ("2023/05/Liliputbahn.jpg", "Vláček v parku Prátr"), ("2023/06/nocni.jpg", "Vídeňská opera"),
+       ("2023/05/Belveder-1.jpg", "Zámek Belvedere"), ("2023/05/Belveder-2.jpg", "Zámek Belvedere"),
+       ("2023/05/Belveder-3.jpg", "Zámek Belvedere"), ("2023/05/Schonbrunn-1.jpg", "Zámek Schönbrunn"),
+       ("2023/05/Schonbrunn-3.jpg", "Zámek Schönbrunn"), ("2023/05/Schonbrunn-2.jpg", "Zámek Schönbrunn"),
+       ("2023/05/Hotel-Sacher-Wien.jpg", "Hotel Sacher"), ("2023/05/Sachr-2.jpg", "Originál Sacher dort"),
+       ("2023/05/Hofburg-2.jpg", "Hofburg")]
+P.append(section([column([
+    heading(hl("Co ", "můžete ve Vídni vidět", " a navštívit"), align="center"),
+    text("<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>", "center"),
+])], width=820, extra={"padding": {"unit": "px", "top": "88", "right": "24", "bottom": "16", "left": "24", "isLinked": False}}))
+for i in range(0, len(gal), 3):
+    P.append(section([column([image(p, c)], 33.333, mobile=50) for p, c in gal[i:i + 3]], pad=8, pad_m=0))
+P.append(section([column([])], pad=40, pad_m=24))
+
+# 14) Bonus
+P.append(section([
+    column([image("2024/03/Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.png", css="sbz-obrazek")], 40, valign="middle"),
+    column([
+        eyebrow("A to není zdaleka vše"),
+        heading(hl("Bonus = ", "dárek", " pro každého klienta")),
+        text("<p>Pro každého klienta, který si objedná jakoukoliv formu služby cestovní podpory, je připraven bonus navíc, "
+             "který vám ušetří další náklady. Se službou cestovní podpory ušetříte nejen peníze, ale i čas a nervy.</p>"
+             "<p>Bonus má podobu slevy na jednu akci během pobytu. Vybrat si můžete z deseti zajímavých atrakcí pro děti i dospělé, "
+             "návštěv typických restaurací nebo vstupů na zajímavá turistická místa v metropoli Rakouska.</p>"),
+        button("Seznam bonusů", "/bonusy-pro-klienty/", "secondary"),
+    ], 60, valign="middle"),
+], bg="sbz_krem", valign="middle"))
+
+# 15) Pro skupiny
+P.append(section([
+    column([
+        eyebrow("Pro firmy, školy a spolky"),
+        heading(hl("Nabídku připravím ", "i pro skupiny")),
+        text("<p>Na základě služby cestovní podpory mohu stejně nebo podobně připravit výlety a pobyty ve Vídni a okolí i pro vaši organizaci. "
+             "Některé věci budete mít zajištěné a nemusíte se o ně starat, něco si zařídíte sami.</p>"
+             "<p>Dopravu do Vídně a zpět a rezervaci ubytování je nutné provést samostatně – dostanete tipy na vlakovou a autobusovou dopravu "
+             "a na různé typy ubytování podle vašeho zadání. Organizační pomoc na místě po příjezdu v rozsahu objednávky je zajištěna.</p>"
+             "<p>Další služby, jako doprovod na celodenní výlety v okolí Vídně (zámek, lázeňské město…) nebo rezervace vstupenek, jsou na domluvě. "
+             "Program je možné jakkoliv upravovat. Cena se odvíjí od rozsahu služeb, počtu hodin a počtu účastníků.</p>"),
+        button("Chci nabídku pro skupinu", KONTAKT, "primary"),
+    ], 58),
+    column([
+        heading("Doprovázela jsem takto již", "h3"),
+        icon_list(["Skupinu podnikatelek Ženy z Vysočiny.", "30 studentů Česko-německého gymnázia z Prahy.",
+                   "Spolek 50 seniorů z Poděbrad.", "Firmu z Moravy v čele s jejím majitelem a ředitelem."],
+                  icon="fas fa-users"),
+    ], 42, css="sbz-karta"),
+]))
+
+out = ROOT / "build/viden-podpora.json"
+out.write_text(json.dumps(P, ensure_ascii=False, indent=1))
+print(f"sections: {len(P)}, testimonials: {len(real)}, images known: {len(images)} -> {out}")
