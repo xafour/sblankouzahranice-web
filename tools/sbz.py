@@ -93,8 +93,8 @@ def text(html_, align="left", color="sbz_text", typo="sbz_text", css="sbz-text")
 
 def button(label, url, style="primary", align="left", inline=False):
     """Jednotná tlačítka na celém webu (přání Blanky 15. 10.: žádné změny barvy po najetí myší).
-    primary = plné tmavě zelené, po najetí jen o odstín tmavší (CSS .sbz-btn);
-    secondary = bílé se zeleným obrysem, po najetí světle olivové – je vidět na fotce i na barevném pozadí.
+    primary = tmavě zelené, po najetí světle olivové se zeleným textem;
+    secondary = světle olivové (bílé na bílém pozadí zanikalo), po najetí tmavě zelené. Terakota na tlačítkách ne.
     Staré styly "light"/"outline-light" (pro tmavé sekce) už nejsou, tmavé sekce na webu nebudou."""
     style = {"light": "primary", "outline-light": "secondary"}.get(style, style)
     s = {"text": label, "link": {"url": url, "is_external": "on" if url.startswith("http") else "", "nofollow": ""},
@@ -108,10 +108,10 @@ def button(label, url, style="primary", align="left", inline=False):
     G.update(border_color=g("colors", "sbz_zelena"), button_hover_border_color=g("colors", "sbz_zelena"))
     if style == "primary":
         G.update(background_color=g("colors", "sbz_zelena"), button_text_color=g("colors", "sbz_bila"),
-                 button_background_hover_color=g("colors", "sbz_zelena"), hover_color=g("colors", "sbz_bila"))
-    else:
-        G.update(background_color=g("colors", "sbz_bila"), button_text_color=g("colors", "sbz_zelena"),
                  button_background_hover_color=g("colors", "sbz_louka"), hover_color=g("colors", "sbz_zelena"))
+    else:
+        G.update(background_color=g("colors", "sbz_louka"), button_text_color=g("colors", "sbz_zelena"),
+                 button_background_hover_color=g("colors", "sbz_zelena"), hover_color=g("colors", "sbz_bila"))
     if inline:
         s["_element_width"] = "auto"
         s["_margin"] = {"unit": "px", "top": "0", "right": "12", "bottom": "12", "left": "0", "isLinked": False}
@@ -196,7 +196,8 @@ def section(columns, bg=None, pad=88, pad_m=56, gap="extended", width=1140, anch
 
 
 def hl(before, mark, after=""):
-    return f'{before}<span class="sbz-hl">{mark}</span>{after}'
+    """Dřív podbarvení části nadpisu (náhrada animovaného textu z Elementor Pro). Blanka 15. 10.: nechce, ruší čistotu nadpisu."""
+    return f"{before}{mark}{after}"
 
 
 
@@ -208,11 +209,11 @@ def hl(before, mark, after=""):
 #   "broskev" – závoj ve světlé doplňkové barvě, zelený text
 #   "oliva"   – světle olivový závoj (jako lišta cookies / dnešní web), zelený text
 #   "karta"   – fotka bez závoje, text v krémové kartě uprostřed
-UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.74), "broskev": ("sbz_svetla", 0.70),
+UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.42), "broskev": ("sbz_svetla", 0.70),
               "oliva": ("#E6EBC0", 0.74)}
 
 
-def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="pulka", vyska=560):
+def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="krem", vyska=560):
     """tlacitka = [(text, url), ...] – první je hlavní, druhé obrysové."""
     if styl == "pulka":
         # Fotka jako obrázek (ne pozadí): neořízne se, nezvětšuje se nad svou velikost, a proto zůstane ostrá.

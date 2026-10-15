@@ -1,50 +1,76 @@
 [
  {
-  "id": "82322b0",
+  "id": "096c916",
   "elType": "section",
   "isInner": false,
   "settings": {
    "layout": "boxed",
    "content_width": {
     "unit": "px",
-    "size": 1200,
+    "size": 1140,
     "sizes": []
    },
    "gap": "extended",
    "padding": {
     "unit": "px",
-    "top": "64",
+    "top": "120",
     "right": "24",
-    "bottom": "64",
+    "bottom": "120",
     "left": "24",
     "isLinked": false
    },
    "padding_mobile": {
     "unit": "px",
-    "top": "40",
+    "top": "72",
     "right": "16",
-    "bottom": "40",
+    "bottom": "72",
     "left": "16",
     "isLinked": false
    },
    "__globals__": {
-    "background_color": "globals/colors?id=sbz_louka"
+    "background_overlay_color": "globals/colors?id=sbz_krem"
    },
    "background_background": "classic",
    "content_position": "middle",
-   "css_classes": "sbz-uvod sbz-uvod-pulka",
-   "reverse_order_mobile": "reverse-mobile"
+   "height": "min-height",
+   "custom_height": {
+    "unit": "px",
+    "size": 540,
+    "sizes": []
+   },
+   "custom_height_mobile": {
+    "unit": "px",
+    "size": 480,
+    "sizes": []
+   },
+   "background_image": {
+    "id": 24575,
+    "url": "https://sandbox.xafour.eu/wp-content/uploads/2026/02/Zahlavi-new.jpg",
+    "size": "",
+    "alt": "",
+    "source": "library"
+   },
+   "background_position": "center center",
+   "background_size": "cover",
+   "background_repeat": "no-repeat",
+   "css_classes": "sbz-uvod sbz-uvod-krem",
+   "background_overlay_background": "classic",
+   "background_overlay_opacity": {
+    "unit": "px",
+    "size": 0.42,
+    "sizes": []
+   }
   },
   "elements": [
    {
-    "id": "096c916",
+    "id": "948a03e",
     "elType": "column",
     "isInner": false,
     "settings": {
-     "_column_size": 48,
-     "_inline_size": 48,
+     "_column_size": 100,
+     "_inline_size": null,
      "css_classes": "",
-     "content_position": "middle"
+     "align": "center"
     },
     "elements": [
      {
@@ -55,7 +81,7 @@
       "settings": {
        "title": "On-line průvodce do kapsy",
        "header_size": "p",
-       "align": "left",
+       "align": "center",
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_nadtitulek",
@@ -71,7 +97,7 @@
       "settings": {
        "title": "Den ve Vídni – váš průvodce do kapsy",
        "header_size": "h1",
-       "align": "left",
+       "align": "center",
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_h1",
@@ -86,7 +112,7 @@
       "elements": [],
       "settings": {
        "editor": "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
-       "align": "left",
+       "align": "center",
        "_css_classes": "sbz-text",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_text",
@@ -140,8 +166,8 @@
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila"
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        },
        "_element_width": "auto",
        "_margin": {
@@ -198,10 +224,10 @@
         "typography_typography": "globals/typography?id=sbz_tlacitko",
         "border_color": "globals/colors?id=sbz_zelena",
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
-        "background_color": "globals/colors?id=sbz_bila",
+        "background_color": "globals/colors?id=sbz_louka",
         "button_text_color": "globals/colors?id=sbz_zelena",
-        "button_background_hover_color": "globals/colors?id=sbz_louka",
-        "hover_color": "globals/colors?id=sbz_zelena"
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
+        "hover_color": "globals/colors?id=sbz_bila"
        },
        "_element_width": "auto",
        "_margin": {
@@ -215,42 +241,11 @@
       }
      }
     ]
-   },
-   {
-    "id": "fe630d5",
-    "elType": "column",
-    "isInner": false,
-    "settings": {
-     "_column_size": 52,
-     "_inline_size": 52,
-     "css_classes": "",
-     "content_position": "middle"
-    },
-    "elements": [
-     {
-      "id": "948a03e",
-      "elType": "widget",
-      "widgetType": "image",
-      "elements": [],
-      "settings": {
-       "image": {
-        "id": 24575,
-        "url": "https://sandbox.xafour.eu/wp-content/uploads/2026/02/Zahlavi-new.jpg",
-        "size": "",
-        "alt": "",
-        "source": "library"
-       },
-       "image_size": "full",
-       "_css_classes": "sbz-uvod-foto",
-       "align": "center"
-      }
-     }
-    ]
    }
   ]
  },
  {
-  "id": "22ecb7d",
+  "id": "07d316a",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -285,7 +280,7 @@
   },
   "elements": [
    {
-    "id": "c80b241",
+    "id": "07df106",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -296,7 +291,7 @@
     },
     "elements": [
      {
-      "id": "59eca07",
+      "id": "fe630d5",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -312,7 +307,7 @@
       }
      },
      {
-      "id": "98d6bc4",
+      "id": "82322b0",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -328,7 +323,7 @@
       }
      },
      {
-      "id": "6fdd6fd",
+      "id": "59eca07",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -343,7 +338,7 @@
       }
      },
      {
-      "id": "efb6a1c",
+      "id": "98d6bc4",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -359,14 +354,14 @@
       }
      },
      {
-      "id": "0e01c04",
+      "id": "6fdd6fd",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "3122bb2",
+         "_id": "efb6a1c",
          "text": "Itinerář trasy s popisem památek a turistických cílů.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -374,7 +369,7 @@
          }
         },
         {
-         "_id": "ad25214",
+         "_id": "0e01c04",
          "text": "Mapu ke stažení do mobilu pro snadnější orientaci.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -382,7 +377,7 @@
          }
         },
         {
-         "_id": "24b4ed8",
+         "_id": "3122bb2",
          "text": "Praktickou přílohu: přehled jízdenek a ticketů na městskou dopravu ve Vídni.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -420,7 +415,7 @@
       }
      },
      {
-      "id": "07df106",
+      "id": "ad25214",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -435,7 +430,7 @@
       }
      },
      {
-      "id": "9ff6f16",
+      "id": "24b4ed8",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -480,15 +475,15 @@
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila"
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        }
       }
      }
     ]
    },
    {
-    "id": "464c6cd",
+    "id": "c80b241",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -499,7 +494,7 @@
     },
     "elements": [
      {
-      "id": "07d316a",
+      "id": "9ff6f16",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -521,7 +516,7 @@
   ]
  },
  {
-  "id": "410844d",
+  "id": "f2fddf2",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -555,7 +550,7 @@
   },
   "elements": [
    {
-    "id": "d7c1339",
+    "id": "a986f31",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -565,12 +560,12 @@
     },
     "elements": [
      {
-      "id": "a986f31",
+      "id": "464c6cd",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Možná to <span class=\"sbz-hl\">znáte i vy</span>",
+       "title": "Možná to znáte i vy",
        "header_size": "h2",
        "align": "center",
        "_css_classes": "",
@@ -581,7 +576,7 @@
       }
      },
      {
-      "id": "f2fddf2",
+      "id": "22ecb7d",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -600,7 +595,7 @@
   ]
  },
  {
-  "id": "b345f70",
+  "id": "fea800f",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -635,7 +630,7 @@
   },
   "elements": [
    {
-    "id": "8d1c838",
+    "id": "c7f109c",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -646,12 +641,12 @@
     },
     "elements": [
      {
-      "id": "22fb552",
+      "id": "d7c1339",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Průvodce je <span class=\"sbz-hl\">pro vás</span>, pokud",
+       "title": "Průvodce je pro vás, pokud",
        "header_size": "h2",
        "align": "left",
        "_css_classes": "",
@@ -662,14 +657,14 @@
       }
      },
      {
-      "id": "bb46725",
+      "id": "410844d",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "614be37",
+         "_id": "22fb552",
          "text": "Chcete jasně danou trasu širším centrem města a vidět nejdůležitější památky a cíle <strong>bez stresu a časových ztrát</strong>.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -677,7 +672,7 @@
          }
         },
         {
-         "_id": "c7f109c",
+         "_id": "bb46725",
          "text": "<strong>Nepotřebujete osobní doprovod</strong> nebo nemáme společný volný termín.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -685,7 +680,7 @@
          }
         },
         {
-         "_id": "a40cf88",
+         "_id": "614be37",
          "text": "Chcete mít <strong>jistotu, že jdete „správně“</strong>.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -725,7 +720,7 @@
     ]
    },
    {
-    "id": "4862071",
+    "id": "1fa36a8",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -736,7 +731,7 @@
     },
     "elements": [
      {
-      "id": "1fa36a8",
+      "id": "a40cf88",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -752,7 +747,7 @@
       }
      },
      {
-      "id": "fea800f",
+      "id": "8d1c838",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -771,7 +766,7 @@
   ]
  },
  {
-  "id": "44cef31",
+  "id": "b6541dc",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -806,7 +801,7 @@
   },
   "elements": [
    {
-    "id": "2ddf2fa",
+    "id": "b345f70",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -816,12 +811,12 @@
     },
     "elements": [
      {
-      "id": "b6541dc",
+      "id": "4862071",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Co průvodce <span class=\"sbz-hl\">přesně obsahuje</span>",
+       "title": "Co průvodce přesně obsahuje",
        "header_size": "h2",
        "align": "left",
        "_css_classes": "",
@@ -836,7 +831,7 @@
   ]
  },
  {
-  "id": "4f36dff",
+  "id": "9ba0cb7",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -870,7 +865,7 @@
   },
   "elements": [
    {
-    "id": "6b9d871",
+    "id": "3837676",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -880,14 +875,14 @@
     },
     "elements": [
      {
-      "id": "c6aa642",
+      "id": "2ddf2fa",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "26e81bc",
+         "_id": "44cef31",
          "text": "<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -895,7 +890,7 @@
          }
         },
         {
-         "_id": "6fddcb2",
+         "_id": "c6aa642",
          "text": "<strong>Podrobný itinerář trasy</strong> s popisem všech památek po cestě.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -903,7 +898,7 @@
          }
         },
         {
-         "_id": "3837676",
+         "_id": "26e81bc",
          "text": "<strong>Souvislosti, informace z historie a zajímavosti</strong>, které se mnozí turisté nedozví.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -911,7 +906,7 @@
          }
         },
         {
-         "_id": "1f9d632",
+         "_id": "6fddcb2",
          "text": "<strong>QR kód a odkaz ke stažení mapy do mobilu</strong> pro pohodlnou orientaci na trase.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -951,7 +946,7 @@
     ]
    },
    {
-    "id": "df68af4",
+    "id": "62da84c",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -961,14 +956,14 @@
     },
     "elements": [
      {
-      "id": "0fdc8ec",
+      "id": "1f9d632",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "8a042c9",
+         "_id": "6b9d871",
          "text": "<strong>Přehlednou PDF verzi s fotografiemi</strong> připravenou k okamžitému použití.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -976,7 +971,7 @@
          }
         },
         {
-         "_id": "62da84c",
+         "_id": "0fdc8ec",
          "text": "<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -984,7 +979,7 @@
          }
         },
         {
-         "_id": "9ba0cb7",
+         "_id": "8a042c9",
          "text": "<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1026,7 +1021,7 @@
   ]
  },
  {
-  "id": "866d8ff",
+  "id": "6c5d7c7",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1061,7 +1056,7 @@
   },
   "elements": [
    {
-    "id": "22806bf",
+    "id": "4f36dff",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1072,7 +1067,7 @@
     },
     "elements": [
      {
-      "id": "7d78245",
+      "id": "df68af4",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1092,7 +1087,7 @@
     ]
    },
    {
-    "id": "68f1896",
+    "id": "220c3b4",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1103,7 +1098,7 @@
     },
     "elements": [
      {
-      "id": "8b18972",
+      "id": "7d78245",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1119,7 +1114,7 @@
       }
      },
      {
-      "id": "220c3b4",
+      "id": "22806bf",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1134,7 +1129,7 @@
       }
      },
      {
-      "id": "6c5d7c7",
+      "id": "8b18972",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1179,8 +1174,8 @@
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila"
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        }
       }
      }
@@ -1189,7 +1184,7 @@
   ]
  },
  {
-  "id": "2ac7efa",
+  "id": "de5ff2f",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1224,7 +1219,7 @@
   },
   "elements": [
    {
-    "id": "002009e",
+    "id": "04a77c4",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1235,12 +1230,12 @@
     },
     "elements": [
      {
-      "id": "7901819",
+      "id": "68f1896",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Co vám průvodce <span class=\"sbz-hl\">přinese</span>",
+       "title": "Co vám průvodce přinese",
        "header_size": "h2",
        "align": "left",
        "_css_classes": "",
@@ -1251,14 +1246,14 @@
       }
      },
      {
-      "id": "43e4dd7",
+      "id": "866d8ff",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "2bd93d0",
+         "_id": "7901819",
          "text": "Získáte odzkoušenou trasu městem a nezabloudíte mezi památkami.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1266,7 +1261,7 @@
          }
         },
         {
-         "_id": "d608be4",
+         "_id": "43e4dd7",
          "text": "Za jeden půlden uvidíte z Vídně to podstatné bez chaosu a zbytečného přejíždění.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1274,7 +1269,7 @@
          }
         },
         {
-         "_id": "caf372b",
+         "_id": "2bd93d0",
          "text": "Ke každé památce na trase budete mít informace.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1282,7 +1277,7 @@
          }
         },
         {
-         "_id": "a505c67",
+         "_id": "d608be4",
          "text": "Projdete si Vídeň v pohodě, vlastním tempem, a sami rozhodnete, kde se zdržíte a co navštívíte.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1290,7 +1285,7 @@
          }
         },
         {
-         "_id": "04a77c4",
+         "_id": "caf372b",
          "text": "Po celou dobu budete mít pocit, že vás vede někdo místní.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1298,7 +1293,7 @@
          }
         },
         {
-         "_id": "3f9482f",
+         "_id": "a505c67",
          "text": "Budete vědět, jaký typ jízdenky na MHD si vybrat (novinky pro rok 2026 jsou v příloze).",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1338,7 +1333,7 @@
     ]
    },
    {
-    "id": "6d0fdfd",
+    "id": "002009e",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1349,7 +1344,7 @@
     },
     "elements": [
      {
-      "id": "de5ff2f",
+      "id": "3f9482f",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1371,7 +1366,7 @@
   ]
  },
  {
-  "id": "4ee17fc",
+  "id": "187accd",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1405,7 +1400,7 @@
   },
   "elements": [
    {
-    "id": "b2e235a",
+    "id": "2ac7efa",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1415,12 +1410,12 @@
     },
     "elements": [
      {
-      "id": "187accd",
+      "id": "6d0fdfd",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Jaký je rozdíl oproti <span class=\"sbz-hl\">osobnímu doprovodu</span>?",
+       "title": "Jaký je rozdíl oproti osobnímu doprovodu?",
        "header_size": "h2",
        "align": "center",
        "_css_classes": "",
@@ -1435,7 +1430,7 @@
   ]
  },
  {
-  "id": "cf14ba9",
+  "id": "1de2047",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1469,7 +1464,7 @@
   },
   "elements": [
    {
-    "id": "ce27660",
+    "id": "b4739ec",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1479,7 +1474,7 @@
     },
     "elements": [
      {
-      "id": "60a3513",
+      "id": "b2e235a",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1497,7 +1492,7 @@
       }
      },
      {
-      "id": "ff91c0e",
+      "id": "4ee17fc",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1513,7 +1508,7 @@
       }
      },
      {
-      "id": "b4739ec",
+      "id": "60a3513",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1528,7 +1523,7 @@
       }
      },
      {
-      "id": "97b74ba",
+      "id": "ff91c0e",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1571,17 +1566,17 @@
         "typography_typography": "globals/typography?id=sbz_tlacitko",
         "border_color": "globals/colors?id=sbz_zelena",
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
-        "background_color": "globals/colors?id=sbz_bila",
+        "background_color": "globals/colors?id=sbz_louka",
         "button_text_color": "globals/colors?id=sbz_zelena",
-        "button_background_hover_color": "globals/colors?id=sbz_louka",
-        "hover_color": "globals/colors?id=sbz_zelena"
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
+        "hover_color": "globals/colors?id=sbz_bila"
        }
       }
      }
     ]
    },
    {
-    "id": "9817600",
+    "id": "e365c1a",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1591,7 +1586,7 @@
     },
     "elements": [
      {
-      "id": "75ab68e",
+      "id": "97b74ba",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1609,7 +1604,7 @@
       }
      },
      {
-      "id": "55bd8c6",
+      "id": "ce27660",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1625,7 +1620,7 @@
       }
      },
      {
-      "id": "e365c1a",
+      "id": "75ab68e",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1640,7 +1635,7 @@
       }
      },
      {
-      "id": "1de2047",
+      "id": "55bd8c6",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1685,8 +1680,8 @@
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila"
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        }
       }
      }
@@ -1695,7 +1690,7 @@
   ]
  },
  {
-  "id": "1957893",
+  "id": "a628dd3",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1730,7 +1725,7 @@
   },
   "elements": [
    {
-    "id": "6319d21",
+    "id": "2901264",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1741,7 +1736,7 @@
     },
     "elements": [
      {
-      "id": "38a8a2b",
+      "id": "9817600",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1757,14 +1752,14 @@
       }
      },
      {
-      "id": "d313d09",
+      "id": "cf14ba9",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "7e212fb",
+         "_id": "38a8a2b",
          "text": "<strong>Délka trasy:</strong> cca 6 km.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1772,7 +1767,7 @@
          }
         },
         {
-         "_id": "7d8865c",
+         "_id": "d313d09",
          "text": "<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1780,7 +1775,7 @@
          }
         },
         {
-         "_id": "2901264",
+         "_id": "7e212fb",
          "text": "<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1788,7 +1783,7 @@
          }
         },
         {
-         "_id": "cf34ca6",
+         "_id": "7d8865c",
          "text": "<strong>Stažení:</strong> ihned po zaplacení (PDF).",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1828,7 +1823,7 @@
     ]
    },
    {
-    "id": "ac77502",
+    "id": "daf5328",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1839,7 +1834,7 @@
     },
     "elements": [
      {
-      "id": "daf5328",
+      "id": "cf34ca6",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1854,7 +1849,7 @@
       }
      },
      {
-      "id": "a628dd3",
+      "id": "6319d21",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1899,8 +1894,8 @@
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila"
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        }
       }
      }
@@ -1909,7 +1904,7 @@
   ]
  },
  {
-  "id": "24c9b5f",
+  "id": "e5d4612",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1943,7 +1938,7 @@
   },
   "elements": [
    {
-    "id": "48572a7",
+    "id": "1957893",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1953,7 +1948,7 @@
     },
     "elements": [
      {
-      "id": "1427442",
+      "id": "ac77502",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1973,7 +1968,7 @@
     ]
    },
    {
-    "id": "3968dbb",
+    "id": "ca8e6ce",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1983,12 +1978,12 @@
     },
     "elements": [
      {
-      "id": "3785fe9",
+      "id": "1427442",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Kdo pro vás trasu <span class=\"sbz-hl\">připravil</span>",
+       "title": "Kdo pro vás trasu připravil",
        "header_size": "h2",
        "align": "left",
        "_css_classes": "",
@@ -1999,7 +1994,7 @@
       }
      },
      {
-      "id": "7486ace",
+      "id": "48572a7",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2015,7 +2010,7 @@
       }
      },
      {
-      "id": "6334e2c",
+      "id": "3785fe9",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2030,7 +2025,7 @@
       }
      },
      {
-      "id": "96891a5",
+      "id": "7486ace",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2046,7 +2041,7 @@
       }
      },
      {
-      "id": "846f5fa",
+      "id": "6334e2c",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2061,7 +2056,7 @@
       }
      },
      {
-      "id": "e98077d",
+      "id": "96891a5",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2077,7 +2072,7 @@
       }
      },
      {
-      "id": "ca8e6ce",
+      "id": "846f5fa",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2092,7 +2087,7 @@
       }
      },
      {
-      "id": "e5d4612",
+      "id": "e98077d",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -2137,8 +2132,8 @@
         "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila"
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        }
       }
      }
@@ -2147,7 +2142,7 @@
   ]
  },
  {
-  "id": "80bce57",
+  "id": "ebce5b7",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2181,7 +2176,7 @@
   },
   "elements": [
    {
-    "id": "df9a013",
+    "id": "f7a7620",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2191,12 +2186,12 @@
     },
     "elements": [
      {
-      "id": "f7a7620",
+      "id": "3968dbb",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Co na trase <span class=\"sbz-hl\">uvidíte</span>",
+       "title": "Co na trase uvidíte",
        "header_size": "h2",
        "align": "center",
        "_css_classes": "",
@@ -2207,7 +2202,7 @@
       }
      },
      {
-      "id": "ebce5b7",
+      "id": "24c9b5f",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2226,7 +2221,7 @@
   ]
  },
  {
-  "id": "bef4551",
+  "id": "7a8afe3",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2260,7 +2255,7 @@
   },
   "elements": [
    {
-    "id": "3e14fe8",
+    "id": "80bce57",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2271,7 +2266,7 @@
     },
     "elements": [
      {
-      "id": "ec4cb53",
+      "id": "df9a013",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2293,7 +2288,7 @@
     ]
    },
    {
-    "id": "6d2ce24",
+    "id": "3e14fe8",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2304,7 +2299,7 @@
     },
     "elements": [
      {
-      "id": "d22ecba",
+      "id": "ec4cb53",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2326,7 +2321,7 @@
     ]
    },
    {
-    "id": "14db036",
+    "id": "6d2ce24",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2337,7 +2332,7 @@
     },
     "elements": [
      {
-      "id": "7a8afe3",
+      "id": "d22ecba",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2361,7 +2356,7 @@
   ]
  },
  {
-  "id": "8303b00",
+  "id": "1da5f20",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2395,7 +2390,7 @@
   },
   "elements": [
    {
-    "id": "dcb3e7c",
+    "id": "bef4551",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2406,7 +2401,7 @@
     },
     "elements": [
      {
-      "id": "77c74f4",
+      "id": "14db036",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2428,7 +2423,7 @@
     ]
    },
    {
-    "id": "2f26b84",
+    "id": "dcb3e7c",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2439,7 +2434,7 @@
     },
     "elements": [
      {
-      "id": "11f22a5",
+      "id": "77c74f4",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2461,7 +2456,7 @@
     ]
    },
    {
-    "id": "5b6bf06",
+    "id": "2f26b84",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2472,7 +2467,7 @@
     },
     "elements": [
      {
-      "id": "1da5f20",
+      "id": "11f22a5",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2496,7 +2491,7 @@
   ]
  },
  {
-  "id": "6709517",
+  "id": "9e64e65",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2530,7 +2525,7 @@
   },
   "elements": [
    {
-    "id": "6638da7",
+    "id": "8303b00",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2541,7 +2536,7 @@
     },
     "elements": [
      {
-      "id": "121b678",
+      "id": "5b6bf06",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2563,7 +2558,7 @@
     ]
    },
    {
-    "id": "9a725dc",
+    "id": "6638da7",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2574,7 +2569,7 @@
     },
     "elements": [
      {
-      "id": "96ca462",
+      "id": "121b678",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2596,7 +2591,7 @@
     ]
    },
    {
-    "id": "d2506ed",
+    "id": "9a725dc",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2607,7 +2602,7 @@
     },
     "elements": [
      {
-      "id": "9e64e65",
+      "id": "96ca462",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2631,7 +2626,7 @@
   ]
  },
  {
-  "id": "0f21ddd",
+  "id": "ff4677a",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2665,7 +2660,7 @@
   },
   "elements": [
    {
-    "id": "95a72c0",
+    "id": "6709517",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2676,7 +2671,7 @@
     },
     "elements": [
      {
-      "id": "482dcc6",
+      "id": "d2506ed",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2698,7 +2693,7 @@
     ]
    },
    {
-    "id": "32616c3",
+    "id": "95a72c0",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2709,7 +2704,7 @@
     },
     "elements": [
      {
-      "id": "b731739",
+      "id": "482dcc6",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2731,7 +2726,7 @@
     ]
    },
    {
-    "id": "58625f7",
+    "id": "32616c3",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2742,7 +2737,7 @@
     },
     "elements": [
      {
-      "id": "ff4677a",
+      "id": "b731739",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2766,7 +2761,7 @@
   ]
  },
  {
-  "id": "4cd680d",
+  "id": "fcc04dd",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2800,7 +2795,7 @@
   },
   "elements": [
    {
-    "id": "a8331d8",
+    "id": "0f21ddd",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2811,7 +2806,7 @@
     },
     "elements": [
      {
-      "id": "314d0cd",
+      "id": "58625f7",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2833,7 +2828,7 @@
     ]
    },
    {
-    "id": "b6df96a",
+    "id": "a8331d8",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2844,7 +2839,7 @@
     },
     "elements": [
      {
-      "id": "ffde584",
+      "id": "314d0cd",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2866,7 +2861,7 @@
     ]
    },
    {
-    "id": "ff2a45f",
+    "id": "b6df96a",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2877,7 +2872,7 @@
     },
     "elements": [
      {
-      "id": "fcc04dd",
+      "id": "ffde584",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2901,7 +2896,7 @@
   ]
  },
  {
-  "id": "0f6251c",
+  "id": "4cd680d",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2935,7 +2930,7 @@
   },
   "elements": [
    {
-    "id": "a38bbb8",
+    "id": "ff2a45f",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2948,7 +2943,7 @@
   ]
  },
  {
-  "id": "eb65b08",
+  "id": "f6f9c2a",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2982,7 +2977,7 @@
   },
   "elements": [
    {
-    "id": "c2537ed",
+    "id": "e5026bb",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2992,7 +2987,7 @@
     },
     "elements": [
      {
-      "id": "91d0c32",
+      "id": "a38bbb8",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -3008,12 +3003,12 @@
       }
      },
      {
-      "id": "e5026bb",
+      "id": "0f6251c",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
       "settings": {
-       "title": "Získejte jasnou trasu, <span class=\"sbz-hl\">jistotu a klid</span> při objevování Vídně",
+       "title": "Získejte jasnou trasu, jistotu a klid při objevování Vídně",
        "header_size": "h2",
        "align": "center",
        "_css_classes": "",
@@ -3024,7 +3019,7 @@
       }
      },
      {
-      "id": "f6f9c2a",
+      "id": "91d0c32",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -3043,7 +3038,7 @@
   ]
  },
  {
-  "id": "b63c9b7",
+  "id": "0a6e22c",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -3078,7 +3073,7 @@
   },
   "elements": [
    {
-    "id": "b4d10e2",
+    "id": "01c5a20",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -3088,7 +3083,7 @@
     },
     "elements": [
      {
-      "id": "01c5a20",
+      "id": "c2537ed",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -3104,7 +3099,7 @@
       }
      },
      {
-      "id": "0a6e22c",
+      "id": "eb65b08",
       "elType": "widget",
       "settings": {
        "html": "<!-- www.SimpleShop.cz form#141712 start -->\r\n<div data-SimpleShopForm=\"AaExm\"><div>Prodejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.</div></div>\r\n<script>\r\n (function(i, s, o, g, r, a, m){\r\n  i[r] = i[r] || function(){\r\n   (i[r].q = i[r].q || []).push(arguments)\r\n  }, i[r].l = 1 * new Date();\r\n  a = s.createElement(o),\r\n  m = s.getElementsByTagName(o)[0];\r\n  a.async = 1;\r\n  a.src = g;\r\n  m.parentNode.insertBefore(a, m)\r\n })(window, document, \"script\", \"https://form.simpleshop.cz/prj/js/SimpleShopService.js\", \"sss\");\r\n sss(\"createForm\", \"AaExm\");\r\n</script>\r\n<!-- www.SimpleShop.cz form#141712 end -->",

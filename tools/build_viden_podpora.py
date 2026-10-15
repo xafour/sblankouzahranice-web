@@ -16,7 +16,7 @@ import sbz  # noqa: E402
 load("post-19575.json", prefix="sbz-viden")
 testimonials = sbz.testimonials
 
-UVOD = os.environ.get("SBZ_UVOD", "pulka")  # styl úvodní fotky, viz sbz.hero
+UVOD = os.environ.get("SBZ_UVOD", "krem")  # styl úvodní fotky, viz sbz.hero
 
 # ---------- stránka ----------
 P = []

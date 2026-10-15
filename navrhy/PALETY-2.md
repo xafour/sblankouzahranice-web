@@ -12,12 +12,13 @@ všude stejnou barvu a úvodní fotka má být víc vidět.
   - **tmavě zelená #145A38** na tlačítka a nadpisy,
   - **doplňková tmavá barva** jen na drobnosti: nadtitulky a odškrtávátka v seznamech.
 - **Žádná velká tmavá plocha.** Sytě zelený pruh „Praktické informace“ je teď světle olivový.
-- **Všechna tlačítka jsou stejná:**
-  - hlavní tlačítko je tmavě zelené a po najetí myší jen o odstín ztmavne, nezmění barvu,
-  - vedlejší tlačítko je bílé se zeleným rámečkem a po najetí se podbarví světle olivovou.
-  - Modrá ani červená po najetí už nikde není.
-- **Úvod bez závoje:** vlevo text na světle olivovém pozadí, vpravo celá fotka.
-  - Tlačítko „Co průvodce obsahuje“ je bílé, takže je vidět i bez najetí myší.
+- **Tlačítka (upraveno podle Blanky 15. 10. odpoledne):**
+  - hlavní tlačítko je tmavě zelené a po najetí myší zesvětlá do světle olivové,
+  - vedlejší tlačítko (např. Osobní doprovod) je světle olivové a po najetí ztmavne do tmavě zelené,
+  - terakota, modrá ani jiné barvy už na tlačítkách nejsou.
+- **Úvodní fotka přes celou šířku** se slabým krémovým závojem (dřív zakrýval 74 % fotky, teď 42 %).
+  Kolem písmen je jemná světlá záře, aby text zůstal čitelný.
+- **Žádné podbarvené slovo v nadpisech.** Dřív to nahrazovalo animovaný text z Elementor Pro, teď jsou nadpisy čisté.
 
 ## Palety
 
@@ -34,13 +35,10 @@ Hlavní stránka https://sandbox.xafour.eu/den-ve-vidni-novy-design/ je zatím v
 
 ![Palety vedle sebe – mobil](obrazky/palety-den-ve-vidni-mobil.jpg)
 
-## Proč byla úvodní fotka rozmazaná
+## Ostrost úvodní fotky
 
-Fotka `Zahlavi-new.jpg` má šířku jen 1200 bodů. Přes celou šířku obrazovky ji prohlížeč musel zvětšit, a proto byla neostrá.
-Závoj ji ještě víc zesvětlil.
-
-- **Teď:** fotka se ukazuje ve své skutečné velikosti, ničím zakrytá, a proto je ostrá.
-- **Fotka přes celou šířku:** chtěla byste ji mít jako dřív? Pak potřebuju stejnou fotku ve větším rozlišení, aspoň 2400 bodů na šířku (originál z telefonu stačí).
+Fotka `Zahlavi-new.jpg` má šířku jen 1200 bodů, takže ji prohlížeč přes celou obrazovku zvětšuje.
+Na velkém monitoru proto může být lehce měkká. Stejná fotka ve větším rozlišení (aspoň 2400 bodů, stačí originál z telefonu) by byla ostrá.
 
 ## Formulář SimpleShop: barvy se nastavují u SimpleShopu
 

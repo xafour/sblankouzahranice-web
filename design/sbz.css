@@ -31,11 +31,13 @@
 /* Úvodní fotka (hero): styl „karta“ = text v krémové kartě nad fotkou bez závoje */
 .sbz-uvod-karta>.elementor-widget-wrap{background:rgba(251,246,239,.94);border-radius:16px;padding:44px 36px!important;box-shadow:0 12px 40px rgba(20,40,30,.18)}
 @media (max-width:767px){.sbz-uvod-karta>.elementor-widget-wrap{padding:28px 18px!important}}
+/* Slabší krémový závoj: nadpis a text čitelné díky jemné světlé záři kolem písmen */
+.sbz-uvod-krem .elementor-heading-title,.sbz-uvod-krem .elementor-widget-text-editor{text-shadow:0 0 18px rgba(251,247,240,.95),0 0 4px rgba(251,247,240,.9)}
 /* Světlé závoje: tlačítka vedle sebe i na mobilu zarovnaná na střed */
 .sbz-uvod .elementor-widget-button{text-align:center}
-/* Tlačítka: jedna barva, po najetí myší jen o odstín tmavší (žádná jiná barva) */
+/* Tlačítka: po najetí myší se prohodí tmavě zelená a světle olivová */
 .sbz-btn .elementor-button{transition:filter .2s,background-color .2s,box-shadow .2s}
-.sbz-btn-primary .elementor-button:hover,.sbz-btn-primary .elementor-button:focus{filter:brightness(.82);box-shadow:0 4px 14px rgba(20,40,30,.18)}
+.sbz-btn .elementor-button:hover,.sbz-btn .elementor-button:focus{box-shadow:0 4px 14px rgba(20,40,30,.18)}
 /* Úvod „půlka“: text vlevo, fotka vpravo celá a ostrá (bez závoje) */
 .sbz-uvod-foto img{width:100%;height:auto;border-radius:16px;box-shadow:0 10px 30px rgba(20,40,30,.15)}
 @media (max-width:767px){.sbz-uvod-pulka .elementor-widget-heading h1{font-size:28px}}
