@@ -1,12 +1,12 @@
 {
   "_poznamka": "Nové globální barvy a písma. Přidávají se do Elementor kitu VEDLE stávajících (stávající stránky se nemění). Prefix id 'sbz'.",
   "colors": [
-    {"_id": "sbz_zelena", "title": "Nový – Zelená (hlavní)",      "color": "#0A431B"},
-    {"_id": "sbz_oliva",  "title": "Nový – Olivová (akcent)",     "color": "#6F7B0D"},
-    {"_id": "sbz_svetla", "title": "Nový – Světle olivová",       "color": "#DEE5A3"},
-    {"_id": "sbz_krem",   "title": "Nový – Krémové pozadí",       "color": "#F8F9F1"},
+    {"_id": "sbz_zelena", "title": "Nový – Zelená (hlavní)",      "color": "#145A38"},
+    {"_id": "sbz_oliva",  "title": "Nový – Terakota (akcent)",    "color": "#B0532B"},
+    {"_id": "sbz_svetla", "title": "Nový – Světlá terakota",      "color": "#F3D6C1"},
+    {"_id": "sbz_krem",   "title": "Nový – Krémové pozadí",       "color": "#FBF6EF"},
     {"_id": "sbz_text",   "title": "Nový – Text",                 "color": "#1F2A22"},
-    {"_id": "sbz_seda",   "title": "Nový – Šedá (popisky)",       "color": "#6B7268"},
+    {"_id": "sbz_seda",   "title": "Nový – Šedá (popisky)",       "color": "#6E655E"},
     {"_id": "sbz_bila",   "title": "Nový – Bílá",                 "color": "#FFFFFF"}
   ],
   "typography": [

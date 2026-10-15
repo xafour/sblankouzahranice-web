@@ -29,8 +29,7 @@
 /* Mobil: menší mezery mezi fotkami v mřížce */
 @media (max-width:767px){.sbz-foto .widget-image-caption{font-size:13px}.elementor-column:has(>.elementor-widget-wrap>.sbz-foto){padding:0 4px}}
 /* ---- Varianty k výběru (platí jen pro zkušební stránky variant; po výběru se jedna z nich stane hlavní paletou) ---- */
-/* B „Teplá“: lesní zelená + terakota (střechy, podzimní Vídeňský les) */
-body.page-id-25040{--e-global-color-sbz_oliva:#B0532B;--e-global-color-sbz_svetla:#F3D6C1;--e-global-color-sbz_krem:#FBF6EF;--e-global-color-sbz_seda:#6E655E}
+/* B „Teplá“ = od 15. 10. hlavní paleta (vybrala Blanka, se zelenou z varianty C) – stránka varianty B už nic nepřepisuje */
 /* C „Moderní“: bezpatkové nadpisy, svěžejší zelená + medová */
 body.page-id-25043{--e-global-color-sbz_zelena:#145A38;--e-global-color-sbz_oliva:#B07D12;--e-global-color-sbz_svetla:#F5E3B0;--e-global-color-sbz_krem:#F7F7F4;
  --e-global-typography-sbz_h1-font-family:"Source Sans 3";--e-global-typography-sbz_h2-font-family:"Source Sans 3";--e-global-typography-sbz_h3-font-family:"Source Sans 3";

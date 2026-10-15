@@ -7,7 +7,29 @@ Stačí Claudovi napsat třeba *„bod 2 ano, bod 5 ne“*.
 
 ---
 
-## Varianty vzhledu – vyberte si
+## ✅ Vybráno (15. 10.): písmo a terakota z varianty B, zelená z varianty C
+
+Blanka vybrala kombinaci: nadpisy písmem Lora a terakotový akcent z varianty B, světlejší zelená **#145A38** z varianty C (blíž dnešní zelené na webu).
+Nová paleta je nastavená pro všechny stránky v novém designu:
+
+| Barva | Kód | Kde se použije |
+|---|---|---|
+| Zelená (hlavní) | `#145A38` | nadpisy, tmavá tlačítka, pruh s výzvou |
+| Terakota (akcent) | `#B0532B` | drobné nadtitulky, odrážky, ikonky |
+| Světlá terakota | `#F3D6C1` | zvýraznění v nadpisech, světlá tlačítka, kolečka ikon |
+| Krémové pozadí | `#FBF6EF` | pozadí sekcí |
+
+| Vídeň – cestovní podpora | Den ve Vídni (mobil) |
+|---|---|
+| ![](obrazky/viden-cestovni-podpora-novy-design-vybrana-1280.jpg) | ![](obrazky/den-ve-vidni-novy-design-vybrana-390.jpg) |
+
+Odkazy: [Vídeň – cestovní podpora](https://sandbox.xafour.eu/viden-cestovni-podpora-novy-design/) · [Den ve Vídni](https://sandbox.xafour.eu/den-ve-vidni-novy-design/)
+
+Původní varianty pro srovnání zůstávají níže (stránka varianty B teď vypadá stejně jako vybraná kombinace).
+
+---
+
+## Varianty vzhledu – vyberte si (původní nabídka)
 
 Stránka „Vídeň – individuální cestovní podpora“ ve třech barevných variantách. Obsah je stejný, liší se jen barvy a písmo nadpisů.
 
