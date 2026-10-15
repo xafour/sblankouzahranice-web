@@ -1,0 +1,40 @@
+/* ===== BEGIN sbz design system (spravuje git: BlankaWeb/design/sbz.css) ===== */
+/* Zvýraznění části nadpisu (náhrada „fancy text“) */
+.sbz-hl{background:linear-gradient(transparent 60%,var(--e-global-color-sbz_svetla) 60%);padding:0 .12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+/* Karta: bílé pozadí, jemný stín */
+.sbz-karta>.elementor-widget-container,.sbz-karta.elementor-column>.elementor-widget-wrap{background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 2px rgba(10,67,27,.06),0 8px 24px rgba(10,67,27,.07)}
+.sbz-karta.elementor-column>.elementor-widget-wrap{height:100%;align-content:flex-start}
+/* Fotky v mřížce: stejný poměr stran */
+.sbz-foto img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px}
+.sbz-foto-vysoka img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:12px}
+.sbz-foto .widget-image-caption,.sbz-foto figcaption{font-size:15px;color:var(--e-global-color-sbz_seda);margin-top:8px;text-align:left}
+/* Číslované kroky */
+.sbz-kroky ol{counter-reset:k;list-style:none;padding:0;margin:0}
+.sbz-kroky li{counter-increment:k;position:relative;padding:4px 0 20px 56px;margin:0}
+.sbz-kroky li::before{content:counter(k);position:absolute;left:0;top:0;width:38px;height:38px;border-radius:50%;background:var(--e-global-color-sbz_zelena);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:600}
+/* Odkazy v textu */
+.sbz-text a{color:var(--e-global-color-sbz_zelena);text-decoration:underline;text-underline-offset:2px}
+.sbz-text a:hover{color:var(--e-global-color-sbz_oliva)}
+.sbz-text p:last-child{margin-bottom:0}
+/* Reference */
+.sbz-reference .elementor-testimonial-content{font-style:normal}
+/* Grafika s textem: bez ořezu, jen zaoblení */
+.sbz-obrazek img{width:100%;height:auto;border-radius:12px}
+/* Fotky s vlastním rámečkem v obrázku: rámeček odříznout */
+.sbz-bez-ramu .elementor-widget-container{overflow:hidden;border-radius:12px}
+.sbz-bez-ramu img{transform:scale(1.07)}
+/* Karty v jedné řadě stejně vysoké */
+.elementor-column>.elementor-widget-wrap:has(>.elementor-widget-icon-box.sbz-karta){align-content:stretch}
+.elementor-widget-icon-box.sbz-karta,.elementor-widget-icon-box.sbz-karta>.elementor-widget-container{height:100%}
+/* Mobil: menší mezery mezi fotkami v mřížce */
+@media (max-width:767px){.sbz-foto .widget-image-caption{font-size:13px}.elementor-column:has(>.elementor-widget-wrap>.sbz-foto){padding:0 4px}}
+/* ---- Varianty k výběru (platí jen pro zkušební stránky variant; po výběru se jedna z nich stane hlavní paletou) ---- */
+/* B „Teplá“: lesní zelená + terakota (střechy, podzimní Vídeňský les) */
+body.page-id-25040{--e-global-color-sbz_oliva:#B0532B;--e-global-color-sbz_svetla:#F3D6C1;--e-global-color-sbz_krem:#FBF6EF;--e-global-color-sbz_seda:#6E655E}
+/* C „Moderní“: bezpatkové nadpisy, svěžejší zelená + medová */
+body.page-id-25043{--e-global-color-sbz_zelena:#145A38;--e-global-color-sbz_oliva:#B07D12;--e-global-color-sbz_svetla:#F5E3B0;--e-global-color-sbz_krem:#F7F7F4;
+ --e-global-typography-sbz_h1-font-family:"Source Sans 3";--e-global-typography-sbz_h2-font-family:"Source Sans 3";--e-global-typography-sbz_h3-font-family:"Source Sans 3";
+ --e-global-typography-sbz_h1-font-weight:700;--e-global-typography-sbz_h2-font-weight:700;--e-global-typography-sbz_h3-font-weight:700}
+body.page-id-25043 .sbz-karta>.elementor-widget-container,body.page-id-25043 .sbz-karta.elementor-column>.elementor-widget-wrap{border-radius:4px;box-shadow:none;border:1px solid #E3E5DE}
+body.page-id-25043 .sbz-foto img,body.page-id-25043 .sbz-foto-vysoka img,body.page-id-25043 .sbz-obrazek img{border-radius:4px}
+/* ===== END sbz design system ===== */

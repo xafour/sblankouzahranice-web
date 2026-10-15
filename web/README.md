@@ -15,6 +15,7 @@ Automatický export (`tools/export_web.py`). U každé položky je kompletní da
 | [CHECKLIST na výlety- poděkování](https://sblankouzahranice.eu/checklist-na-vylety-podekovani/) | [json](stranky/checklist-na-vylety-podekovani.json) | [text](texty/stranky/checklist-na-vylety-podekovani.md) |
 | [Dekorace](https://sblankouzahranice.eu/dekorace-do-bytu/) | [json](stranky/dekorace-do-bytu.json) | [text](texty/stranky/dekorace-do-bytu.md) |
 | [Dekorace do bytu-Rokem krok za krokem](https://sblankouzahranice.eu/dekorace-rokem-krok-za-krokem/) | [json](stranky/dekorace-rokem-krok-za-krokem.json) | [text](texty/stranky/dekorace-rokem-krok-za-krokem.md) |
+| [Den ve Vídni – váš průvodce do kapsy (nový design)](https://sandbox.xafour.eu/den-ve-vidni-novy-design/) | [json](stranky/den-ve-vidni-novy-design.json) | [text](texty/stranky/den-ve-vidni-novy-design.md) |
 | [Den ve Vídni-váš plán do kapsy](https://sblankouzahranice.eu/den-ve-vidni/) | [json](stranky/den-ve-vidni.json) | [text](texty/stranky/den-ve-vidni.md) |
 | [Domů](https://sblankouzahranice.eu/) | [json](stranky/home-s-blankou-za-hranice.json) | [text](texty/stranky/home-s-blankou-za-hranice.md) |
 | [Fotogalerie](https://sblankouzahranice.eu/fotogalerie/) | [json](stranky/fotogalerie.json) | [text](texty/stranky/fotogalerie.md) |
@@ -47,6 +48,7 @@ Automatický export (`tools/export_web.py`). U každé položky je kompletní da
 | [Vídeň adventní](https://sblankouzahranice.eu/viden-adventni/) | [json](stranky/viden-adventni.json) | [text](texty/stranky/viden-adventni.md) |
 | [Vídeň relaxační](https://sblankouzahranice.eu/viden-relaxacni/) | [json](stranky/viden-relaxacni.json) | [text](texty/stranky/viden-relaxacni.md) |
 | [Vídeň s podporou za zády](https://sblankouzahranice.eu/viden-s-podporou-za-zady/) | [json](stranky/viden-s-podporou-za-zady.json) | [text](texty/stranky/viden-s-podporou-za-zady.md) |
+| [Vídeň – individuální cestovní podpora (nový design)](https://sandbox.xafour.eu/viden-cestovni-podpora-novy-design/) | [json](stranky/viden-cestovni-podpora-novy-design.json) | [text](texty/stranky/viden-cestovni-podpora-novy-design.md) |
 | [VÍDNÍ - pěšky i na kole](https://sblankouzahranice.eu/vidni-pesky-i-na-kole/) | [json](stranky/vidni-pesky-i-na-kole.json) | [text](texty/stranky/vidni-pesky-i-na-kole.md) |
 | [VÍDNÍ pěšky i na kole - poděkování](https://sblankouzahranice.eu/vidni-pesky-i-na-kole-podekovani/) | [json](stranky/vidni-pesky-i-na-kole-podekovani.json) | [text](texty/stranky/vidni-pesky-i-na-kole-podekovani.md) |
 | [Výlety](https://sblankouzahranice.eu/vylety/) | [json](stranky/vylety.json) | [text](texty/stranky/vylety.md) |

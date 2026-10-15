@@ -1,0 +1,21 @@
+{
+  "_poznamka": "Nové globální barvy a písma. Přidávají se do Elementor kitu VEDLE stávajících (stávající stránky se nemění). Prefix id 'sbz'.",
+  "colors": [
+    {"_id": "sbz_zelena", "title": "Nový – Zelená (hlavní)",      "color": "#0A431B"},
+    {"_id": "sbz_oliva",  "title": "Nový – Olivová (akcent)",     "color": "#6F7B0D"},
+    {"_id": "sbz_svetla", "title": "Nový – Světle olivová",       "color": "#DEE5A3"},
+    {"_id": "sbz_krem",   "title": "Nový – Krémové pozadí",       "color": "#F8F9F1"},
+    {"_id": "sbz_text",   "title": "Nový – Text",                 "color": "#1F2A22"},
+    {"_id": "sbz_seda",   "title": "Nový – Šedá (popisky)",       "color": "#6B7268"},
+    {"_id": "sbz_bila",   "title": "Nový – Bílá",                 "color": "#FFFFFF"}
+  ],
+  "typography": [
+    {"_id": "sbz_h1", "title": "Nový – Nadpis 1", "family": "Lora", "weight": "600", "size": 44, "size_tablet": 38, "size_mobile": 30, "lh": 1.2},
+    {"_id": "sbz_h2", "title": "Nový – Nadpis 2", "family": "Lora", "weight": "600", "size": 32, "size_tablet": 28, "size_mobile": 24, "lh": 1.25},
+    {"_id": "sbz_h3", "title": "Nový – Nadpis 3", "family": "Lora", "weight": "600", "size": 22, "size_tablet": 21, "size_mobile": 20, "lh": 1.3},
+    {"_id": "sbz_text", "title": "Nový – Text", "family": "Source Sans 3", "weight": "400", "size": 18, "size_tablet": 18, "size_mobile": 17, "lh": 1.6},
+    {"_id": "sbz_maly", "title": "Nový – Drobný text", "family": "Source Sans 3", "weight": "400", "size": 15, "size_tablet": 15, "size_mobile": 15, "lh": 1.5},
+    {"_id": "sbz_tlacitko", "title": "Nový – Tlačítko / zvýraznění", "family": "Source Sans 3", "weight": "600", "size": 17, "size_tablet": 17, "size_mobile": 16, "lh": 1.3},
+    {"_id": "sbz_nadtitulek", "title": "Nový – Nadtitulek", "family": "Source Sans 3", "weight": "600", "size": 14, "size_tablet": 14, "size_mobile": 13, "lh": 1.4, "transform": "uppercase", "letter_spacing": 1.5}
+  ]
+}

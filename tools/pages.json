@@ -1,0 +1,30 @@
+{
+ "viden-podpora": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-podpora.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-novy-design",
+  "title": "Vídeň – individuální cestovní podpora (nový design)"
+ },
+ "den-ve-vidni": {
+  "build": "tools/build_den_ve_vidni.py",
+  "json": "build/den-ve-vidni.json",
+  "source_id": 24571,
+  "slug": "den-ve-vidni-novy-design",
+  "title": "Den ve Vídni – váš průvodce do kapsy (nový design)"
+ },
+ "viden-podpora-varianta-b": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-podpora.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-varianta-b",
+  "title": "Vídeň – cestovní podpora (varianta B – teplá)"
+ },
+ "viden-podpora-varianta-c": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-podpora.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-varianta-c",
+  "title": "Vídeň – cestovní podpora (varianta C – moderní)"
+ }
+}

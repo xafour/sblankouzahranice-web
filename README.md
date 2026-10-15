@@ -5,6 +5,8 @@ Všechno se nejdřív zkouší na zkušební kopii **[sandbox.xafour.eu](https:/
 
 👉 **Blanko, začněte tady: [PRUVODCE.md](PRUVODCE.md)** – co je git a GitHub a jak tu číst změny.
 
+💡 **Návrhy, co dalšího zlepšit, a varianty vzhledu: [navrhy/NAVRHY.md](navrhy/NAVRHY.md)**
+
 ## Co tu je
 
 | Složka | Co obsahuje |
