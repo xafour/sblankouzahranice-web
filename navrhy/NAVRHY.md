@@ -29,6 +29,31 @@ Původní varianty pro srovnání zůstávají níže (stránka varianty B teď 
 
 ---
 
+## Úvodní fotka bez tmavě zeleného závoje – vyberte si (15. 10.)
+
+Blance se nelíbil tmavě zelený závoj přes úvodní fotku: je moc tmavý a neláká číst dál. Připravil jsem proto 4 světlé varianty. Ve všech je text zelený a tlačítka plná zelená + obrysová.
+Varianta „krémová“ je teď nastavená na obou stránkách v novém designu. Až si vyberete, nastaví se vybraná na všech stránkách.
+
+| | Odkaz |
+|---|---|
+| 1 – krémový závoj (teď nastavený) | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-novy-design/) |
+| 2 – broskvový závoj (světlá terakota) | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-uvod-broskev/) |
+| 3 – světle olivový závoj (jako lišta cookies a dnešní web) | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-uvod-oliva/) |
+| 4 – fotka bez závoje, text v krémové kartě | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-uvod-karta/) |
+| (pro srovnání: původní tmavě zelený) | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-uvod-zelena/) |
+
+Počítač (1 krémová, 2 broskvová / 3 olivová, 4 karta):
+
+![Varianty úvodu – počítač](obrazky/uvod-varianty-pocitac.jpg)
+
+Mobil (zleva 1, 2, 3, 4):
+
+![Varianty úvodu – mobil](obrazky/uvod-varianty-mobil.jpg)
+
+Průhlednost závoje jde doladit (víc nebo méně fotky).
+
+---
+
 ## Varianty vzhledu – vyberte si (původní nabídka)
 
 Stránka „Vídeň – individuální cestovní podpora“ ve třech barevných variantách. Obsah je stejný, liší se jen barvy a písmo nadpisů.
@@ -94,13 +119,33 @@ Kontrola všech 147 stránek ze sitemapy:
 
 | Zjištění | Kolik | Proč to vadí |
 |---|---|---|
-| Stránky **bez hlavního nadpisu (H1)** | 48 | Google podle H1 pozná, o čem stránka je. Na mnoha stránkách je místo nadpisu obrázek s textem. |
+| Stránky **bez hlavního nadpisu (H1)** | 48 | Google podle H1 pozná, o čem stránka je. **Seznam s návodem: [H1-NADPISY.md](H1-NADPISY.md)** |
+| Stránky se **stejným obecným titulkem** jako úvodní stránka | 12 (mj. Do Rakouska, Do přírody, Reference, Regenerační procházky) | Google je od sebe nerozliší. |
 | **Obrázky bez popisku (alt)** | 102 obrázků na 33 stránkách | Google obrázky „nečte“, popisek mu řekne, co na nich je. Pomáhá to i nevidomým. |
 | Stránky **bez popisu pro Google** | 10 (mj. Nabídka pro kolektivy, Vídeň adventní, Obchodní podmínky) | Google si pak vybere náhodný kus textu. |
 | Stránky **Test** a **Ukázková stránka** jsou v Googlu | 2 | Stránka Test by ve vyhledávání být neměla. Ochrana osobních údajů má adresu `/sample-page/`, šlo by ji změnit na `/ochrana-osobnich-udaju/` s přesměrováním. |
-| Titulek úvodní stránky | „s Blankou za hranice - do Rakouska / do přírody“ | Chybí v něm, co nabízíte. Návrh: *„Vídeň s průvodkyní Češkou – výlety, e-průvodci a cestovní podpora \| s Blankou za hranice“*. |
+| Titulek úvodní stránky | „s Blankou za hranice - do Rakouska / do přírody“ | Chybí v něm, co nabízíte. Návrh je níže pod tabulkou. |
 | Odkazy na `www.` a `http://` verzi webu | na 6 stránkách | Každý takový odkaz prochází přesměrováním navíc. |
 | Nefunkční odkaz | `http://www.test.sblankouzahranice.eu/vylety` | Vede na neexistující adresu. |
+
+### Doporučený titulek a popis úvodní stránky
+
+Google ukáže asi 60 znaků titulku, proto je na začátku to, co lidé hledají.
+
+- **SEO titulek (doporučuji):** `Vídeň a Rakousko s českou průvodkyní | s Blankou za hranice` (58 znaků)
+- Kratší varianta: `Vídeň s českou průvodkyní | s Blankou za hranice` (48 znaků)
+- **Popis pro Google (meta popis):** `Žiju ve Vídni přes 10 let a pomůžu vám ji poznat bez stresu: cestovní podpora na míru, e-průvodci do kapsy, výlety a pobyty v Rakousku i v přírodě.` (148 znaků)
+
+Kam to napsat: Stránky → Domů → Upravit (WordPress, ne Elementor) → dole box **Yoast SEO** → **SEO titulek** a **Meta popis**.
+
+### Jak skrýt stránku Test z Googlu (můžete hned i na živém webu)
+
+1. Stránky → **Test** → **Upravit** (WordPress, ne Elementor).
+2. Dole v boxu **Yoast SEO** klikněte na **Pokročilé**.
+3. „Povolit vyhledávačům zobrazit tuto stránku ve výsledcích vyhledávání?“ → **Ne**.
+4. **Aktualizovat.** Google ji při další návštěvě z výsledků vyřadí, obvykle do pár týdnů.
+
+Stejně skrýt: Mustr nové stránky, poděkovací stránky a kopii „jak-se-zije-za-hranici-duplicate“. Na sandboxu jsou Test a Mustr skryté už teď. Až budeme přenášet změny na živý web, udělám to tam i za vás.
 
 ## 5. Cache na živém webu — *hotovo na sandboxu, čeká na přenos*
 

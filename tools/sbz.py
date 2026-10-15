@@ -203,3 +203,40 @@ def hl(before, mark, after=""):
     return f'{before}<span class="sbz-hl">{mark}</span>{after}'
 
 
+
+
+# Úvodní fotka stránky (hero). Styly k výběru:
+#   "zelena"  – tmavě zelený závoj, bílý text (první návrh)
+#   "krem"    – světlý krémový závoj, zelený text
+#   "broskev" – závoj ve světlé terakotě, zelený text
+#   "oliva"   – světle olivový závoj (jako lišta cookies / dnešní web), zelený text
+#   "karta"   – fotka bez závoje, text v krémové kartě uprostřed
+UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.74), "broskev": ("sbz_svetla", 0.70),
+              "oliva": ("#E6EBC0", 0.74)}
+
+
+def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="krem", vyska=560):
+    """tlacitka = [(text, url), ...] – první je hlavní, druhé obrysové."""
+    tmavy = styl == "zelena"
+    w = [eyebrow(nadtitulek, "center", "sbz_svetla" if tmavy else "sbz_oliva"),
+         heading(nadpis, "h1", color="sbz_bila" if tmavy else "sbz_zelena", align="center"),
+         text(popis_html, "center", "sbz_bila" if tmavy else "sbz_text")]
+    for i, (t, u) in enumerate(tlacitka):
+        w.append(button(t, u, ("light" if i == 0 else "outline-light") if tmavy else ("primary" if i == 0 else "secondary"),
+                        inline=True))
+    extra = {"height": "min-height", "custom_height": {"unit": "px", "size": vyska, "sizes": []},
+             "custom_height_mobile": {"unit": "px", "size": 480, "sizes": []},
+             "background_background": "classic", "background_image": img(obrazek),
+             "background_position": "center center", "background_size": "cover", "background_repeat": "no-repeat",
+             "css_classes": "sbz-uvod sbz-uvod-" + styl}
+    if styl in UVOD_ZAVOJ:
+        barva, kryti = UVOD_ZAVOJ[styl]
+        extra.update({"background_overlay_background": "classic",
+                      "background_overlay_opacity": {"unit": "px", "size": kryti, "sizes": []}})
+        if barva.startswith("#"):
+            extra["background_overlay_color"] = barva
+        else:
+            extra["__globals__"] = {"background_overlay_color": g("colors", barva)}
+    col = column(w, align="center", css="sbz-uvod-karta" if styl == "karta" else "")
+    return section([col], pad=120 if styl != "karta" else 96, pad_m=72 if styl != "karta" else 40,
+                   width=1140 if styl != "karta" else 800, extra=extra, valign="middle")

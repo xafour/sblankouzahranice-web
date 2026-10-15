@@ -5,3 +5,5 @@ __pycache__/
 # interní data Blanky – nedávat do veřejného repa
 navstevnost-*.csv
 zaloha-*.html
+
+build/viden-uvod-*.json

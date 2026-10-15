@@ -5,6 +5,7 @@ Výstup: build/den-ve-vidni.json. Spuštění: python3 tools/build_den_ve_vidni.
 """
 import copy
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -33,20 +34,10 @@ KOUPIT = OBJEDNAT_PRUVODCE
 P = []
 
 # 1) Úvod
-P.append(section([column([
-    eyebrow("On-line průvodce do kapsy", "center", "sbz_svetla"),
-    heading("Den ve Vídni – váš průvodce do kapsy", "h1", color="sbz_bila", align="center"),
-    text("<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
-         "center", "sbz_bila"),
-    button("Koupit průvodce", KOUPIT, "light", inline=True),
-    button("Co průvodce obsahuje", "#obsah", "outline-light", inline=True),
-], align="center")], pad=120, pad_m=72, valign="middle", extra={
-    "height": "min-height", "custom_height": {"unit": "px", "size": 540, "sizes": []},
-    "custom_height_mobile": {"unit": "px", "size": 480, "sizes": []},
-    "background_background": "classic", "background_image": img("2026/02/Zahlavi-new.jpg"),
-    "background_position": "center center", "background_size": "cover", "background_repeat": "no-repeat",
-    "background_overlay_background": "classic", "background_overlay_opacity": {"unit": "px", "size": 0.62, "sizes": []},
-    "__globals__": {"background_overlay_color": g("colors", "sbz_zelena")}}))
+P.append(hero("On-line průvodce do kapsy", "Den ve Vídni – váš průvodce do kapsy",
+              "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
+              [("Koupit průvodce", KOUPIT), ("Co průvodce obsahuje", "#obsah")],
+              "2026/02/Zahlavi-new.jpg", os.environ.get("SBZ_UVOD", "krem"), 540))
 
 # 2) Co to je
 P.append(section([
@@ -223,6 +214,6 @@ P.append(section([column([
 ], css="sbz-karta")], bg="sbz_krem", width=760, anchor="objednat",
     extra={"padding": {"unit": "px", "top": "8", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
 
-out = ROOT / "build/den-ve-vidni.json"
+out = ROOT / os.environ.get("SBZ_OUT", "build/den-ve-vidni.json")
 out.write_text(json.dumps(P, ensure_ascii=False, indent=1))
 print(f"sections: {len(P)} -> {out}")

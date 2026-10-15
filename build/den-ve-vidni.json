@@ -28,7 +28,7 @@
     "isLinked": false
    },
    "__globals__": {
-    "background_overlay_color": "globals/colors?id=sbz_zelena"
+    "background_overlay_color": "globals/colors?id=sbz_krem"
    },
    "background_background": "classic",
    "content_position": "middle",
@@ -53,10 +53,11 @@
    "background_position": "center center",
    "background_size": "cover",
    "background_repeat": "no-repeat",
+   "css_classes": "sbz-uvod sbz-uvod-krem",
    "background_overlay_background": "classic",
    "background_overlay_opacity": {
     "unit": "px",
-    "size": 0.62,
+    "size": 0.74,
     "sizes": []
    }
   },
@@ -84,7 +85,7 @@
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_nadtitulek",
-        "title_color": "globals/colors?id=sbz_svetla"
+        "title_color": "globals/colors?id=sbz_oliva"
        }
       }
      },
@@ -100,7 +101,7 @@
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_h1",
-        "title_color": "globals/colors?id=sbz_bila"
+        "title_color": "globals/colors?id=sbz_zelena"
        }
       }
      },
@@ -115,7 +116,7 @@
        "_css_classes": "sbz-text",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_text",
-        "text_color": "globals/colors?id=sbz_bila"
+        "text_color": "globals/colors?id=sbz_text"
        }
       }
      },
@@ -151,10 +152,10 @@
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
-        "background_color": "globals/colors?id=sbz_svetla",
-        "button_text_color": "globals/colors?id=sbz_zelena",
-        "button_background_hover_color": "globals/colors?id=sbz_bila",
-        "hover_color": "globals/colors?id=sbz_zelena"
+        "background_color": "globals/colors?id=sbz_zelena",
+        "button_text_color": "globals/colors?id=sbz_bila",
+        "button_background_hover_color": "globals/colors?id=sbz_oliva",
+        "hover_color": "globals/colors?id=sbz_bila"
        },
        "_element_width": "auto",
        "_margin": {
@@ -199,11 +200,11 @@
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
-        "button_text_color": "globals/colors?id=sbz_bila",
-        "border_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_bila",
-        "hover_color": "globals/colors?id=sbz_zelena",
-        "button_hover_border_color": "globals/colors?id=sbz_bila"
+        "button_text_color": "globals/colors?id=sbz_zelena",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
+        "hover_color": "globals/colors?id=sbz_bila",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena"
        },
        "background_color": "rgba(0,0,0,0)",
        "border_border": "solid",

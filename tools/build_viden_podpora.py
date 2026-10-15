@@ -4,6 +4,7 @@ Vstup: snapshots/post-19575.json (původní stránka). Texty, fotky a reference 
 Výstup: build/viden-podpora.json. Spuštění: python3 tools/build_viden_podpora.py
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -15,24 +16,16 @@ import sbz  # noqa: E402
 load("post-19575.json", prefix="sbz-viden")
 testimonials = sbz.testimonials
 
+UVOD = os.environ.get("SBZ_UVOD", "krem")  # styl úvodní fotky, viz sbz.hero
+
 # ---------- stránka ----------
 P = []
 
 # 1) Úvod (hero)
-P.append(section([column([
-    eyebrow("Individuální cestovní podpora ve Vídni", "center", "sbz_svetla"),
-    heading("Vídeň bez starostí, na míru a s podporou za zády", "h1", color="sbz_bila", align="center"),
-    text("<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>",
-         "center", "sbz_bila"),
-    button("Domluvit 15 minut zdarma", TELEFON, "light", inline=True),
-    button("Objednat službu", OBJEDNAT_PODPORU, "outline-light", inline=True),
-], align="center")], pad=120, pad_m=72, extra={
-    "height": "min-height", "custom_height": {"unit": "px", "size": 560, "sizes": []},
-    "custom_height_mobile": {"unit": "px", "size": 480, "sizes": []},
-    "background_background": "classic", "background_image": img("2024/09/Zahlavi-individ.podpora2.png"),
-    "background_position": "center center", "background_size": "cover", "background_repeat": "no-repeat",
-    "background_overlay_background": "classic", "background_overlay_opacity": {"unit": "px", "size": 0.62, "sizes": []},
-    "__globals__": {"background_overlay_color": g("colors", "sbz_zelena")}}, valign="middle"))
+P.append(hero("Individuální cestovní podpora ve Vídni", "Vídeň bez starostí, na míru a s podporou za zády",
+              "<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>",
+              [("Domluvit 15 minut zdarma", TELEFON), ("Objednat službu", OBJEDNAT_PODPORU)],
+              "2024/09/Zahlavi-individ.podpora2.png", UVOD, 560))
 
 # 2) Chystáte se do Vídně?
 P.append(section([column([
@@ -270,6 +263,6 @@ P.append(section([
     ], 42, css="sbz-karta"),
 ]))
 
-out = ROOT / "build/viden-podpora.json"
+out = ROOT / os.environ.get("SBZ_OUT", "build/viden-podpora.json")
 out.write_text(json.dumps(P, ensure_ascii=False, indent=1))
 print(f"sections: {len(P)}, testimonials: {len(real)}, images known: {len(images)} -> {out}")

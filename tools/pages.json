@@ -26,5 +26,45 @@
   "source_id": 19575,
   "slug": "viden-cestovni-podpora-varianta-c",
   "title": "Vídeň – cestovní podpora (varianta C – moderní)"
+ },
+ "viden-uvod-broskev": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-uvod-broskev.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-uvod-broskev",
+  "title": "Vídeň – cestovní podpora (úvod: broskvový závoj)",
+  "env": {
+   "SBZ_UVOD": "broskev"
+  }
+ },
+ "viden-uvod-oliva": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-uvod-oliva.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-uvod-oliva",
+  "title": "Vídeň – cestovní podpora (úvod: světle olivový závoj)",
+  "env": {
+   "SBZ_UVOD": "oliva"
+  }
+ },
+ "viden-uvod-karta": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-uvod-karta.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-uvod-karta",
+  "title": "Vídeň – cestovní podpora (úvod: text v kartě, bez závoje)",
+  "env": {
+   "SBZ_UVOD": "karta"
+  }
+ },
+ "viden-uvod-zelena": {
+  "build": "tools/build_viden_podpora.py",
+  "json": "build/viden-uvod-zelena.json",
+  "source_id": 19575,
+  "slug": "viden-cestovni-podpora-uvod-zelena",
+  "title": "Vídeň – cestovní podpora (úvod: tmavě zelený závoj (první návrh))",
+  "env": {
+   "SBZ_UVOD": "zelena"
+  }
  }
 }

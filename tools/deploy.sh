@@ -5,7 +5,9 @@ ROOT=$(cd "$(dirname "$0")/.." && pwd)
 PAYLOAD=$(mktemp --suffix=.json); trap 'rm -f "$PAYLOAD"' EXIT
 KEY=${1:?zadej klíč stránky z tools/pages.json}
 BUILD=$(python3 -I -c "import json,sys;print(json.load(open(sys.argv[1]))[sys.argv[2]]['build'])" "$ROOT/tools/pages.json" "$KEY")
-python3 -I "$ROOT/$BUILD"
+# volitelné proměnné pro sestavení (např. styl úvodní fotky): "env": {"SBZ_UVOD": "oliva"} v pages.json
+ENVS=$(python3 -I -c "import json,sys;c=json.load(open(sys.argv[1]))[sys.argv[2]];print(' '.join(f'{k}={v}' for k,v in dict(c.get('env',{}),SBZ_OUT=c['json']).items()))" "$ROOT/tools/pages.json" "$KEY")
+env $ENVS python3 -I "$ROOT/$BUILD"
 python3 -I - "$ROOT" "$KEY" "$PAYLOAD" <<'PY'
 import json,sys,pathlib
 r=pathlib.Path(sys.argv[1]); cfg=json.loads((r/"tools/pages.json").read_text())[sys.argv[2]]
