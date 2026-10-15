@@ -4,6 +4,24 @@
 
 > **Novější: [3 nové palety a úvod bez závoje (PALETY-2.md)](PALETY-2.md)**. Palety a varianty úvodu níže jsou starší.
 
+## Stav bodů 1–9 (15. 10. večer, podle poznámek Blanky)
+
+| Bod | Stav na sandboxu | Co je potřeba od Blanky |
+|---|---|---|
+| 1 Fotky ve WebP | ✅ hotovo, nové fotky se převádějí samy při nahrání | nic |
+| 2 Rychlost / Google Language Translator | čeká na rozhodnutí o němčině (bod 6) | rozhodnout |
+| 3 PNG → JPG | ✅ 269 obrázků převedeno (originály ~85 % menší) | nic |
+| 4 H1 nadpisy | ✅ 44 stránek | nic |
+| 4 odkazy www/http a test.subdoména | ✅ opraveno (8 stránek a šablon) | nic |
+| 4 Ochrana osobních údajů | ✅ adresa `/ochrana-osobnich-udaju/`, stará přesměrovaná, skrytá z Googlu | nic |
+| 4 titulky, popisy, alt texty | návrhy v [SEO-NAVRHY.md](SEO-NAVRHY.md) | schválit / upravit |
+| 4 titulek úvodní stránky | – | napíše Blanka (bez slova „průvodkyně“) |
+| 5 Cache | ✅ | nic |
+| 6 Němčina | ukázka: https://sandbox.xafour.eu/de/den-ve-vidni-novy-design/, popis v [NEMCINA.md](NEMCINA.md) | podívat se a rozhodnout |
+| 7 Instagram | ✅ rozbitý kód v bočním panelu nahrazen odkazem na Instagram, plugin vypnutý | nic |
+| 8 Hlavička a patička | po výběru palety, bez Elementor Pro | vybrat paletu |
+| 9 Formuláře bez Elementor Pro | odloženo do roku 2027 | nic |
+
 U každého bodu je napsané, **co to přinese**, **kolik to dá práce** a jestli je to **už vyzkoušené na sandboxu**.
 Stačí Claudovi napsat třeba *„bod 2 ano, bod 5 ne“*.
 
