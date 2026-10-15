@@ -1,0 +1,1500 @@
+{
+ "ID": 5258,
+ "categories": [
+  "Blog",
+  "Inspirace přírodou"
+ ],
+ "date": "2021-04-23 20:13:47",
+ "excerpt": "Ani ne po 10 minutách chůze se zatáhlo a začalo pršet. A já, světe div se, jsem se vůbec nezlobila. Zalezla jsem si pod první košatý strom a říkala si, že chvilku počkám, než to přejde. Byla jsem v úplném klidu a tichu a rozhlížela se kolem. A v tomhle krásném rozpoložení ...",
+ "link": "https://sblankouzahranice.eu/dojdi-si-pro-zivot/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "55da144",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "af9dbad"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d9cb856",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "fc04a9d"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "792f71e",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\">Jak už víte z mé sekce <span style=\"text-decoration: underline; color: #008000;\"><a style=\"color: #008000; text-decoration: underline;\" href=\"https://sblankouzahranice.eu/vylety/\" rel=\"noopener\"><strong>VÝLETY</strong></a></span>, tak procházky v přírodě ve Vídni, výlety do okolí Vídně i po celém Rakousku jsou mojí vášní a radostí.</p><p style=\"text-align: center;\"><strong>A hlavně důvodem ke každodenní vděčnosti</strong>.</p><p>Procházky prostě miluji! Vždycky si při nich báječně „vyčistím“ hlavu, a hlavně mě při chůzi v přírodě vždy napadne nějaká synchronicita s životem.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "b893363"
+          }
+         ],
+         "text_color": "#1C6E1C",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "400",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "23275ff",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "19e7d32"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "4a445e4",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#F9F9F9A1",
+     "border_border": "solid",
+     "border_color": "#B0BC48A1",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "21655a7"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23c12ac",
+        "settings": {
+         "image": {
+          "id": 5270,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-v-lese-a-ja1.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "1f179fa"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5e24347",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f56f439"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "1f84d0c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "2d97d98"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1872dd8",
+        "settings": {
+         "editor": "<p>Vyjít si na procházku ven (od práce na PC) jsem se rozhodla právě tehdy, když vylezlo sluníčko po docela dlouhé době deště. Šla jsem po louce kolem lesa a říkala jsem si, jak je vše kolem krásné, když je to tak nádherně zalité sluncem. <br /><br /></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4dffbf2"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e5b9ff8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7dd1383"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "3ed7a00",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "e94a19b"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5fb3f93",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "3230ff4"
+          }
+         ],
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "ed91324",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4e31152"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2865bcb",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-24",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-48",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ebd3612"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9935f20",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Ani ne po 10 minutách chůze se zatáhlo a začalo pršet. A já, světe div se, jsem se vůbec nezlobila, nezkazilo mi to náladu, ani mě to nerozmrzelo.  Zalezla jsem si pod první košatý strom a říkala jsem si, že chvilku počkám, než to přejde.</p><p>Byla jsem v úplném klidu a tichu a rozhlížela se kolem.<br />A v tomhle krásném rozpoložení, schovaná pod stromem, jsem nedaleko uviděla krásné žluté narcisy.<br />Najednou tam v tom dešti bylo něco, co svítilo a zářilo jako sluníčko. Stejně žluté a krásné a já se i pod kapkami deště usmívala.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "952e526"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5ce072c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 55,
+       "_inline_size_tablet": 60,
+       "pa_condition_repeater": [
+        {
+         "_id": "163802d"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "da371b8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "66",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "déšť",
+          "id": 14205,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/prsi.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "480",
+          "width": "650"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "d65264a"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "45b2661",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 45,
+       "_inline_size_tablet": 40,
+       "pa_condition_repeater": [
+        {
+         "_id": "6d912f5"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "15118a5",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-24",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-33",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-27",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "63b5adb"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e879963",
+        "settings": {
+         "editor": "<p>Po zhruba 10 minutách vysvitlo slunce, já pokračovala dál ve své procházce a v tu chvíli to přišlo-to krásné uvědomění, propojení, záblesk, ten „aha moment“. Co se stalo?  Najednou jsem jasně cítila a uvědomila si, že tento okamžik změny počasí se dá jednoduše vztáhnout na všechny činnosti našeho života-na celé naše bytí.<br />Jak? Vysvětlím. Já osobně jsem nyní v procesu tvorby webových stránek a psaní příspěvků na blog. Občas se mi daří více a občas méně, ale já se nezlobím, protože mě celá ta činnost a tvorba moc baví. Proto otázka zní: „Proč jsme vlastně my lidé často rozmrzelí z toho, když se v našich vztazích s partnerem (kou), v naší nejbližší rodině, v zaměstnání vyskytne mráček?  </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "5ee81aa"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a51bbb1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3db2a40"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "5094e46",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#B0BC48A1",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "9b0449f"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "096eafa",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "4df15fd"
+          }
+         ],
+         "title": "Vždyť je to úplně normální proces. ",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "184eec6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a623e2e"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c743a91",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "3df737a"
+      }
+     ],
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1bb0c67",
+        "settings": {
+         "editor": "<p>Tak jako se v přírodě střídá slunce a mraky, tak i v našem soukromí (v našich partnerských vztazích, v naší rodině, v profesi) se občas můžou objevit mráčky.  Ale to není důvod k panice, ani známka že je něco špatně, ani důvod, zkazit si den. Protože až se mráčky přeženou, tak se zase objeví sluníčko. Pokud máme lidi (nebo činnosti) v našem životě a kolem sebe rádi (rády), berme jako normální, že se občas objeví mraky, které se poté zase vystřídají se sluncem.</p><p>Už náš mistr tai-chi nám před lety vždy říkal: „<strong>všechny události ve vesmíru mají tendenci se vyrovnávat a vybalancovat</strong>“.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "d57cb49"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e22399b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "816562d"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c763742",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "de80f11"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "783a3e8",
+        "settings": {
+         "image": {
+          "id": 5274,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/marfeldkanal.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "4fe2ba2"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1e37ccb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "aa6dba7"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0316085",
+        "settings": {
+         "image": {
+          "id": 5275,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/bobri-prekousali-strom-rotated.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "983c14f"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bd71d8e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1959ca5"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cbbba4a",
+        "settings": {
+         "image": {
+          "id": 5276,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/oblazky.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "dfee3ab"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "57268be",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f0e12c6"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1bc4da7",
+        "settings": {
+         "image": {
+          "id": 5277,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/snek.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "bb2de52"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6b15c90",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "013ca89"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d3d8cf3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "e84108a"
+      }
+     ],
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1ab0af4",
+        "settings": {
+         "editor": "<p>A jak jsem si tak šla pomalým krokem a obdivovala vše kolem, najednou jsem věděla, že mně dnešní procházka přinesla opět velké uvědomění. Dostala jsem odpověď na něco, co právě ve svém životě řeším a zažívám. Zakusila jsem poznání, že tak, jak se v přírodě střídají roční cykly, období a počasí, tak se i v našem každodenním životě střídají cykly, kdy se nám daří lépe, kdy jsme výkonnější s obdobími, kdy se nám daří hůře nebo jsme méně výkonnější. A zrovna tak se nám střídají i nálady během dne.</p><p style=\"text-align: center;\"><strong>Střídají se prostě stejně jako to počasí.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "8a8504c"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "249f70f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f3409d2"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "9b310b2",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#B0BC48A1",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "5095485"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1fd4741",
+        "settings": {
+         "editor": "<p>Berme toto všechno jako přirozený cyklus a neupínejme se ve svých životech pouze k těm slunečným dnům, protože v každém dni je něco krásného.</p><p style=\"text-align: center;\"><br /><strong>V každém kroku na naší cestě je dar přítomného a jedinečného</strong>.</p><p><br />Jediné, co sledujme a pozorujme je, aby všechna činnost, kterou děláme, nám přinášela potěšení, a aby lidi, kterými se obklopujeme, jsme měli rádi a věděli, proč s nimi jsme a trávíme s nimi společné chvíle.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "3cf7c33"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "edcb555",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "caac3b4"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "fcb8767",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "13",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b5b49e8"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cadda4a",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "348b489"
+          }
+         ],
+         "title": "Každý den nemusí být zalitý sluncem, ale každý den je dar, a tak ho i vnímejme.",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5580f50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "80d0900"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "ca12187",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#B0BC48A1",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e7bd62a"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f623dc1",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Vždyť jen tehdy když se v přírodě vystřídá slunce a déšť, můžeme poté spatřit duhu.</strong></p><p style=\"text-align: center;\"><strong>Stejné je to i v našem životě! </strong></p><p style=\"text-align: center;\"><strong>Jen tehdy, když prožijeme sluncem zalité dny i ty zamračené, dokážeme rozeznat a vnímat barevnost života.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e498810"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2fb6dc6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "61b410c"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d6a1129",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#B0BC48A1",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "c7b2708"
+      }
+     ],
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9139d13",
+        "settings": {
+         "image": {
+          "id": 5287,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/duha-zivota.png"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "c9c170d"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "478d997",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b1679d7"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "4ceba2c",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "53de4c5"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42d8ed6",
+        "settings": {
+         "editor": "<p>A ještě na závěr mě to vede k jednomu poznání, které musím zmínit.</p><p style=\"text-align: center;\"><span style=\"color: #3366ff;\"><strong>Život se neodehrává za zavřenými dveřmi, v izolaci, v kanceláři nebo před počítačem, život se odehrává tam venku!</strong></span></p><p style=\"text-align: left;\">Proto se seberme a běžme se projít do přírody, dýchat čerstvý vzduch, jen tak být, vypnout logické myšlení a myšlenky.</p><p style=\"text-align: center;\"><strong>Nechme se inspirovat…</strong></p><p style=\"text-align: left;\">Logikou v poslanecké sněmovně nebo u jednacího stolu nevymyslíme, jak na život, život se musí žít!</p><p style=\"text-align: center;\"><strong><span style=\"color: #3366ff;\">A pokud zůstaneme zavření doma, možná na nás „neskočí“ bacil či vir, ale zároveň ani nespatříme duhu.</span></strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "dbdbb67"
+          }
+         ],
+         "text_color": "#0A0909",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "23d5fc8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2997c74"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d6c83ff",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "981b18d"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "541d2fc",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">O tom, jaké poznání a \"aha moment\" přinesl jeden adventní výlet mně, se můžete dočíst v mém článku <span style=\"text-decoration: underline;\"><strong><span style=\"color: #000080; text-decoration: underline;\">ZDE</span></strong></span></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "bd024ae"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ed1f847",
+        "settings": {
+         "image": {
+          "alt": "ja na skale",
+          "id": 9965,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/12/sedim-na-skale-a-dekuji.jpg"
+         },
+         "image_size": "medium",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/priroda-je-brana-k-bohu-do-nebe/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "8ff80f1"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2877b9c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "abdbe70"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "eaf7b0e",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#0A431B",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "c6abe1b"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "df4afb4",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "b169e1b"
+          }
+         ],
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "f157401",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "03c3fee"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "8b32bd5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "b4c56c0"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "5d2dcd1c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "_inline_size_tablet": 20,
+       "pa_condition_repeater": [
+        {
+         "_id": "1701d94"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4017e10b",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbil se ti můj článek? <br />Ráda ti dám o nových vědět e-mailem.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0fe20f5"
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "757b43d",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "6e50fae"
+          }
+         ],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "1a59ed43",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 60,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "35278ca"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "67c71250",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "914b7f9"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "61d80c23",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "fc82a8b"
+      }
+     ],
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "41bf1c1",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "2b41e68"
+          }
+         ],
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "a37affb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d4203be"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "f73ead4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "b6e1fa5"
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "5259",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Dojdi si pro život. Inspirace přírodou.",
+  "_yoast_wpseo_metadesc": "Dojdi si pro život .Proměnlivost přírody může být inspirací pro naše osobní, lidské životy. V přírodě nacházíme moudrost, inspiraci a příležitost k zamyšlení. Stejně tak lze principy odehrávající se v přírodě s úspěchem aplikovat i do našich životů. Tak se vydej s Blankou za hranice."
+ },
+ "modified": "2022-08-24 15:14:27",
+ "obsah_wordpress": "<p style=\"text-align: left;\">Jak už víte z mé sekce <a style=\"color: #008000; text-decoration: underline;\" href=\"https://sblankouzahranice.eu/vylety/\" rel=\"noopener\"><strong>VÝLETY</strong></a>, tak procházky v přírodě ve Vídni, výlety do okolí Vídně i po celém Rakousku jsou mojí vášní a radostí.</p><p style=\"text-align: center;\"><strong>A hlavně důvodem ke každodenní vděčnosti</strong>.</p><p>Procházky prostě miluji! Vždycky si při nich báječně „vyčistím“ hlavu, a hlavně mě při chůzi v přírodě vždy napadne nějaká synchronicita s životem.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"419\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-v-lese-a-ja1.png\" alt=\"cesta v lese\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-v-lese-a-ja1.png 800w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-v-lese-a-ja1-300x157.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-v-lese-a-ja1-768x402.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Vyjít si na procházku ven (od práce na PC) jsem se rozhodla právě tehdy, když vylezlo sluníčko po docela dlouhé době deště. Šla jsem po louce kolem lesa a říkala jsem si, jak je vše kolem krásné, když je to tak nádherně zalité sluncem. <br /><br /></p>\t\t\n\t\t<p>Ani ne po 10 minutách chůze se zatáhlo a začalo pršet. A já, světe div se, jsem se vůbec nezlobila, nezkazilo mi to náladu, ani mě to nerozmrzelo.  Zalezla jsem si pod první košatý strom a říkala jsem si, že chvilku počkám, než to přejde.</p><p>Byla jsem v úplném klidu a tichu a rozhlížela se kolem.<br />A v tomhle krásném rozpoložení, schovaná pod stromem, jsem nedaleko uviděla krásné žluté narcisy.<br />Najednou tam v tom dešti bylo něco, co svítilo a zářilo jako sluníčko. Stejně žluté a krásné a já se i pod kapkami deště usmívala.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"719\" height=\"639\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/prsi.jpg\" alt=\"déšť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/prsi.jpg 719w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/prsi-300x267.jpg 300w\" sizes=\"(max-width: 719px) 100vw, 719px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Po zhruba 10 minutách vysvitlo slunce, já pokračovala dál ve své procházce a v tu chvíli to přišlo-to krásné uvědomění, propojení, záblesk, ten „aha moment“. Co se stalo?  Najednou jsem jasně cítila a uvědomila si, že tento okamžik změny počasí se dá jednoduše vztáhnout na všechny činnosti našeho života-na celé naše bytí.<br />Jak? Vysvětlím. Já osobně jsem nyní v procesu tvorby webových stránek a psaní příspěvků na blog. Občas se mi daří více a občas méně, ale já se nezlobím, protože mě celá ta činnost a tvorba moc baví. Proto otázka zní: „Proč jsme vlastně my lidé často rozmrzelí z toho, když se v našich vztazích s partnerem (kou), v naší nejbližší rodině, v zaměstnání vyskytne mráček?  </p>\t\t\n\t\t\t<h4>Vždyť je to úplně normální proces. </h4>\t\t\n\t\t<p>Tak jako se v přírodě střídá slunce a mraky, tak i v našem soukromí (v našich partnerských vztazích, v naší rodině, v profesi) se občas můžou objevit mráčky.  Ale to není důvod k panice, ani známka že je něco špatně, ani důvod, zkazit si den. Protože až se mráčky přeženou, tak se zase objeví sluníčko. Pokud máme lidi (nebo činnosti) v našem životě a kolem sebe rádi (rády), berme jako normální, že se občas objeví mraky, které se poté zase vystřídají se sluncem.</p><p>Už náš mistr tai-chi nám před lety vždy říkal: „<strong>všechny události ve vesmíru mají tendenci se vyrovnávat a vybalancovat</strong>“.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/marfeldkanal.jpg\" alt=\"Marfeldkanal\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/marfeldkanal.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/marfeldkanal-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/bobri-prekousali-strom-rotated.jpg\" alt=\"bobři okousali strom\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/bobri-prekousali-strom-rotated.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/bobri-prekousali-strom-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/oblazky.jpg\" alt=\"oblazky\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/oblazky.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/oblazky-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/snek.jpg\" alt=\"šnek\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/snek.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/snek-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>A jak jsem si tak šla pomalým krokem a obdivovala vše kolem, najednou jsem věděla, že mně dnešní procházka přinesla opět velké uvědomění. Dostala jsem odpověď na něco, co právě ve svém životě řeším a zažívám. Zakusila jsem poznání, že tak, jak se v přírodě střídají roční cykly, období a počasí, tak se i v našem každodenním životě střídají cykly, kdy se nám daří lépe, kdy jsme výkonnější s obdobími, kdy se nám daří hůře nebo jsme méně výkonnější. A zrovna tak se nám střídají i nálady během dne.</p><p style=\"text-align: center;\"><strong>Střídají se prostě stejně jako to počasí.</strong></p><p>Berme toto všechno jako přirozený cyklus a neupínejme se ve svých životech pouze k těm slunečným dnům, protože v každém dni je něco krásného.</p><p style=\"text-align: center;\"><br /><strong>V každém kroku na naší cestě je dar přítomného a jedinečného</strong>.</p><p><br />Jediné, co sledujme a pozorujme je, aby všechna činnost, kterou děláme, nám přinášela potěšení, a aby lidi, kterými se obklopujeme, jsme měli rádi a věděli, proč s nimi jsme a trávíme s nimi společné chvíle.</p>\t\t\n\t\t\t<h4>Každý den nemusí být zalitý sluncem, ale každý den je dar, a tak ho i vnímejme.</h4>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Vždyť jen tehdy když se v přírodě vystřídá slunce a déšť, můžeme poté spatřit duhu.</strong></p><p style=\"text-align: center;\"><strong>Stejné je to i v našem životě! </strong></p><p style=\"text-align: center;\"><strong>Jen tehdy, když prožijeme sluncem zalité dny i ty zamračené, dokážeme rozeznat a vnímat barevnost života.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"691\" height=\"361\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/duha-zivota.png\" alt=\"Duha\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/duha-zivota.png 691w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/duha-zivota-300x157.png 300w\" sizes=\"(max-width: 691px) 100vw, 691px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>A ještě na závěr mě to vede k jednomu poznání, které musím zmínit.</p><p style=\"text-align: center;\"><strong>Život se neodehrává za zavřenými dveřmi, v izolaci, v kanceláři nebo před počítačem, život se odehrává tam venku!</strong></p><p style=\"text-align: left;\">Proto se seberme a běžme se projít do přírody, dýchat čerstvý vzduch, jen tak být, vypnout logické myšlení a myšlenky.</p><p style=\"text-align: center;\"><strong>Nechme se inspirovat…</strong></p><p style=\"text-align: left;\">Logikou v poslanecké sněmovně nebo u jednacího stolu nevymyslíme, jak na život, život se musí žít!</p><p style=\"text-align: center;\"><strong>A pokud zůstaneme zavření doma, možná na nás „neskočí“ bacil či vir, ale zároveň ani nespatříme duhu.</strong></p><p style=\"text-align: center;\">O tom, jaké poznání a \"aha moment\" přinesl jeden adventní výlet mně, se můžete dočíst v mém článku <strong>ZDE</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/priroda-je-brana-k-bohu-do-nebe/\">\n\t\t\t\t\t\t\t<img width=\"300\" height=\"157\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/12/sedim-na-skale-a-dekuji-300x157.jpg\" alt=\"ja na skale\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/12/sedim-na-skale-a-dekuji-300x157.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/12/sedim-na-skale-a-dekuji.jpg 708w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\"><strong>Líbil se ti můj článek? <br />Ráda ti dám o nových vědět e-mailem.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "dojdi-si-pro-zivot",
+ "title": "Dojdi si pro život",
+ "type": "post"
+}

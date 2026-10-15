@@ -1,0 +1,625 @@
+{
+ "ID": 24931,
+ "categories": [],
+ "date": "2026-09-25 21:11:19",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=flip-box-z-epro-nahrada-3-vedle-sebe",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "79a193d1",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přírodou ke zdraví"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5a3dcbe8",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "-15",
+          "isLinked": true,
+          "left": "-15",
+          "right": "-15",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "editor": "<p>Esence z přírody a aromaterapie. </p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3728f8f9",
+        "settings": {
+         "description_text": "Objevte pro sebe to nejlepší z přírody, pro regeneraci zdraví těla i mysli. ",
+         "image": {
+          "alt": "Do prirody rozcestnik2",
+          "id": 19295,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/8.png"
+         },
+         "image_size": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Esenciální oleje a produkty pro zdraví."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5d623e34",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Chci si prohlédnout."
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "3767816e",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#0a431b",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "8",
+        "isLinked": true,
+        "left": "8",
+        "right": "8",
+        "top": "8",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a59af88",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přírodou ke zdraví"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5f715e56",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "-15",
+          "isLinked": true,
+          "left": "-15",
+          "right": "-15",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "editor": "<p>Esence z přírody a aromaterapie. </p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4a5e2ccb",
+        "settings": {
+         "description_text": "Objevte pro sebe to nejlepší z přírody, pro regeneraci zdraví těla i mysli. ",
+         "image": {
+          "alt": "Do prirody rozcestnik2",
+          "id": 19295,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/8.png"
+         },
+         "image_size": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Esenciální oleje a produkty pro zdraví."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "48ae1c36",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Chci si prohlédnout."
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "1b74a967",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#0a431b",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "10",
+        "isLinked": true,
+        "left": "10",
+        "right": "10",
+        "top": "10",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "35acb483",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přírodou ke zdraví"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b4c4d20",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "-15",
+          "isLinked": true,
+          "left": "-15",
+          "right": "-15",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "editor": "<p>Esence z přírody a aromaterapie. </p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f62df3c",
+        "settings": {
+         "description_text": "Objevte pro sebe to nejlepší z přírody, pro regeneraci zdraví těla i mysli. ",
+         "image": {
+          "alt": "Do prirody rozcestnik2",
+          "id": 19295,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/8.png"
+         },
+         "image_size": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Esenciální oleje a produkty pro zdraví."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "47f17618",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Chci si prohlédnout."
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "2c59b1af",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#0a431b",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "10",
+        "isLinked": true,
+        "left": "10",
+        "right": "10",
+        "top": "10",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "23587030",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "35",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2026-09-25 21:11:19",
+ "obsah_wordpress": "<h2>Přírodou ke zdraví</h2>\t\t\t\t\n\t\t<p>Esence z přírody a aromaterapie. </p>\t\t\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/8.png\" alt=\"Do prirody rozcestnik2\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\">Esenciální oleje a produkty pro zdraví.</a></h3><p>Objevte pro sebe to nejlepší z přírody, pro regeneraci zdraví těla i mysli. </p>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci si prohlédnout.\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Přírodou ke zdraví</h2>\t\t\t\t\n\t\t<p>Esence z přírody a aromaterapie. </p>\t\t\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/8.png\" alt=\"Do prirody rozcestnik2\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\">Esenciální oleje a produkty pro zdraví.</a></h3><p>Objevte pro sebe to nejlepší z přírody, pro regeneraci zdraví těla i mysli. </p>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci si prohlédnout.\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Přírodou ke zdraví</h2>\t\t\t\t\n\t\t<p>Esence z přírody a aromaterapie. </p>\t\t\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/8.png\" alt=\"Do prirody rozcestnik2\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\">Esenciální oleje a produkty pro zdraví.</a></h3><p>Objevte pro sebe to nejlepší z přírody, pro regeneraci zdraví těla i mysli. </p>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci si prohlédnout.\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "flip-box-z-epro-nahrada-3-vedle-sebe",
+ "title": "Flip box z EPro- náhrada 3 vedle sebe",
+ "type": "elementor_library"
+}

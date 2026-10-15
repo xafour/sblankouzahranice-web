@@ -1,0 +1,153 @@
+{
+ "ID": 23737,
+ "categories": [],
+ "date": "2025-07-06 15:10:18",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=vylety-shrnuti-trasy",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a53b5f6",
+        "settings": {
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Shrnutí výletního místa:"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "22d2b542",
+        "settings": {
+         "_margin": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "icon_align": "left",
+         "icon_list": [
+          {
+           "_id": "62035b0",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Pět různých turistických okruhů rozdílných délek a obtížnosti  pro celou rodinu."
+          },
+          {
+           "_id": "deec304",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-star"
+           },
+           "text": "Nejstarší přírodní park v Rakousku(založen r.1962)."
+          },
+          {
+           "_id": "aea5102",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-child"
+           },
+           "text": "Místo přívětivé k dětem. Interaktivní prvky, hrací plochy, hřiště a vodní prvky."
+          },
+          {
+           "_id": "596ea41",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-car-side"
+           },
+           "text": "Dobrá dostupnost autem i MHD z Vídně."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_self_vertical_align_mobile": "flex-start",
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset_tablet": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "4313cb03",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4724250",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2025-07-06 15:10:19",
+ "obsah_wordpress": "<h4>Shrnutí výletního místa:</h4>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPět různých turistických okruhů rozdílných délek a obtížnosti  pro celou rodinu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tNejstarší přírodní park v Rakousku(založen r.1962).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMísto přívětivé k dětem. Interaktivní prvky, hrací plochy, hřiště a vodní prvky.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tDobrá dostupnost autem i MHD z Vídně.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>",
+ "parent": 0,
+ "slug": "vylety-shrnuti-trasy",
+ "title": "Výlety-Shrnutí trasy",
+ "type": "elementor_library"
+}

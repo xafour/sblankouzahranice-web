@@ -1,0 +1,159 @@
+{
+ "ID": 22101,
+ "categories": [],
+ "date": "2024-10-24 15:43:33",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=socialni-site-a-like",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2718e2ea",
+        "settings": {
+         "editor": "<p>Líbil se ti článek. Dej mi like nebo ho pošli dál, ať vím, že má smysl psát dál.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "55eec24",
+        "settings": {
+         "layout": "button_count",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "size": "large"
+        },
+        "widgetType": "facebook-button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "107e2cc5",
+        "settings": {
+         "_border_border": "none",
+         "_border_radius": {
+          "bottom": "6",
+          "isLinked": true,
+          "left": "6",
+          "right": "6",
+          "top": "6",
+          "unit": "px"
+         },
+         "alignment": "left",
+         "border_size": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         },
+         "button_height": {
+          "size": 3.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "button_size": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 2,
+          "sizes": [],
+          "unit": "em"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "row_gap": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "shape": "rounded",
+         "share_buttons": [
+          {
+           "_id": "2ddf5bc"
+          },
+          {
+           "_id": "fd87e61",
+           "button": "linkedin"
+          },
+          {
+           "_id": "13c5c06",
+           "button": "telegram"
+          }
+         ],
+         "skin": "framed",
+         "view": "icon"
+        },
+        "widgetType": "share-buttons"
+       }
+      ],
+      "id": "edce533",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "43c90c3d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2024-10-24 15:43:34",
+ "obsah_wordpress": "<p>Líbil se ti článek. Dej mi like nebo ho pošli dál, ať vím, že má smysl psát dál.</p>",
+ "parent": 0,
+ "slug": "socialni-site-a-like",
+ "title": "Sociální sítě a like",
+ "type": "elementor_library"
+}

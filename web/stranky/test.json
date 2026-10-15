@@ -1,0 +1,59 @@
+{
+ "ID": 22048,
+ "categories": [],
+ "date": "2024-10-10 21:30:11",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/test/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b8de5ff",
+        "settings": {
+         "form_id": "653",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "wpforms"
+       }
+      ],
+      "id": "484c05a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1e6eff3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-page",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_meta-robots-noindex": "1"
+ },
+ "modified": "2024-10-10 21:31:07",
+ "obsah_wordpress": "<form id=\"wpforms-form-653\" data-formid=\"653\" method=\"post\" enctype=\"multipart/form-data\" action=\"/wp-admin/admin-ajax.php\" data-token=\"4b13109e7eb603ec8ad9c85d0905b325\" data-token-time=\"1728595867\"><noscript>Chcete-li vyplnit tento formulář, prosím povolte v prohlížeči JavaScript.</noscript><label for=\"wpforms-653-field_3\">Jméno a příjmení *</label><input type=\"text\" id=\"wpforms-653-field_3\" name=\"wpforms[fields][3]\" required><label for=\"wpforms-653-field_1\">E-mail *</label><input type=\"email\" id=\"wpforms-653-field_1\" name=\"wpforms[fields][1]\" spellcheck=\"false\" required><label for=\"wpforms-653-field_5\">Zpráva *</label><textarea id=\"wpforms-653-field_5\" name=\"wpforms[fields][5]\" required></textarea><label for=\"wpforms-653-field_6\">Souhlas se zpracováním osobních údajů *</label><ul id=\"wpforms-653-field_6\"><li><input type=\"checkbox\" id=\"wpforms-653-field_6_1\" name=\"wpforms[fields][6][]\" value=\"Souhlasím se zpracováním os.údajů v souladu se Zásadami o zpracování os.údajů\" required ><label for=\"wpforms-653-field_6_1\">Souhlasím se zpracováním os.údajů v souladu se Zásadami o zpracování os.údajů</label></li></ul><!-- .wpforms-field-container --><label for=\"wpforms-653-field-hp\">Message</label><input type=\"text\" name=\"wpforms[hp]\" id=\"wpforms-653-field-hp\"><input type=\"hidden\" name=\"wpforms[id]\" value=\"653\">\t\t\t<input\n\t\t\t\ttype=\"hidden\"\n\t\t\t\tname=\"wpforms[nonce]\"\n\t\t\t\tvalue=\"807df8cfc2\"\n\t\t\t/>\n\t\t\t<input type=\"hidden\" name=\"page_title\" value=\"\"><input type=\"hidden\" name=\"page_url\" value=\"https://sblankouzahranice.eu/test/\"><button type=\"submit\" name=\"wpforms[submit]\" id=\"wpforms-submit-653\" data-alt-text=\"Odesílání...\" data-submit-text=\"Odeslat\" aria-live=\"assertive\" value=\"wpforms-submit\">Odeslat</button></form>  <!-- .wpforms-container -->",
+ "parent": 0,
+ "slug": "test",
+ "title": "Test",
+ "type": "page"
+}

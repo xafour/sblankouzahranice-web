@@ -1,0 +1,1162 @@
+{
+ "ID": 10274,
+ "categories": [
+  "Dekorace do bytu"
+ ],
+ "date": "2022-01-10 17:14:00",
+ "excerpt": "Měsíc PROSINEC zakončuje celý rok.\nJe nejenom měsícem adventního období, svátků vánočních, ale i období ročního bilancování a spřádání plánů i tužeb do dalšího, nového roku. \nDnes spolu budeme tvořit ...",
+ "link": "https://sblankouzahranice.eu/prosincova-dekorace/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "885143c",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Měsíc PROSINEC zakončuje celý rok i cyklus měsíčních inspirací na výrobu dekorací do bytu z materiálů nasbíraných v přírodě s názvem ROKEM KROK ZA KROKEM.</p><p style=\"text-align: center;\">Prosinec je nejenom měsícem adventního období, svátků vánočních, ale i období ročního bilancování a spřádání plánů a tužeb do dalšího, nového roku.</p><p style=\"text-align: center;\">Dnes spolu budeme tvořit již poslední, a to PROSINCOVOU DEKORACI, a tentokrát máte opět možnost tvořit ve dvou variantách.  </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "04a66df"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d01f069",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f8c0007"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b9ee82c",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#0A431B",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "f55d281"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1efba6e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><span style=\"color: #003300;\"><strong>První variantu můžete použít ještě v období Vánoc</strong></span> a tato dekorace vám ozdobí klasickou vánoční větev.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "69b5c6a"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f01b3e1",
+        "settings": {
+         "image": {
+          "alt": "ja a dekorace",
+          "id": 10284,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Vystrizek-uvod-foto.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "73d410d"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "cce1b9f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "789204c"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6e0bd51",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "115",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "69",
+          "unit": "px"
+         },
+         "editor": "<p><strong><span style=\"color: #800000;\">Druhou variantu pak můžete použít v období příchodu nového roku.</span></strong><br />Buď jako takové poděkování za vše, čeho se vám v průběhu roku dostalo, co se vám povedlo nebo co jste dokázali, anebo jako „strom splněných přání“, na který si zavěsíte svá přání, tužby a cíle pro rok nadcházející.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "82dd649"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "4bc1b32",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "272e8fe"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e3b5353",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d068c4b"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "603fdf3",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong><span style=\"color: #003300;\">O čem že je to tedy řeč?</span></strong></p><p style=\"text-align: center;\">Tento měsíc budeme tvořit, z nám již známých, dřevěných špalíčků, které jsme použili již v měsíci květnu.<br />Špalíčky již máme nařezané a připravené, jen jim dáme jinou podobu i význam.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a9cb327"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "0df18cd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f682d08"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dde5a8e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "be37889"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a8f55b7",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "56f402b"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tak vzhůru do&nbsp;toho, protože už je nejvyšší čas vyrobit si poslední dekoraci tohoto roku.\n",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a2a6331",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "823083e"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fb016cc",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d243d95"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "00a81e8",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://youtu.be/y8k2Gw-ZtdY"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "1acb8b9"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Video z tvoření zde"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "0f5ffae",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4562b01"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4ee042b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "e5e68d7"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a17d4c6",
+        "settings": {
+         "dailymotion_url": "https://www.dailymotion.com/video/x6tqhqb",
+         "pa_condition_repeater": [
+          {
+           "_id": "619133b"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "videopress_url": "https://videopress.com/v/ZCAOzTNk",
+         "vimeo_url": "https://vimeo.com/235215203",
+         "youtube_url": "https://youtu.be/y8k2Gw-ZtdY"
+        },
+        "widgetType": "video"
+       }
+      ],
+      "id": "8ff5955",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1fc307a"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "65077ed",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "42ed404"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "80b6a64",
+        "settings": {
+         "editor": "<p><strong>CO BUDEME NA VÝROBU PROSINCOVÉ DEKORACE POTŘEBOVAT:</strong></p><ul><li>Dřevěné špalíčky nařezané z větve stromu v tloušťce cca 1 – 1,5 cm.</li><li>Šňůrku či ozdobný provázek.</li><li>Nůžky.</li><li>Fixu a propisku, event. kousek papíru na zapsání poděkování či přání.</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0c883c3"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a4a3a62",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8d6cc5a"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "01e543a",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#0A431B",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e9964cd"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e34d3c4",
+        "settings": {
+         "editor": "<p><strong>Postup výroby:</strong></p><ol><li>Do dřevěných špalíčků provrtáme dírku pro možné provlečení šňůrky či provázku na zavěšení. <br />Provlečeme závěs dle našeho výběru=provázek, barevná šňůrka, mašlička atd.</li><li>Poté špalíčky ozdobíme fixou.<br />Varianta č.1 = malujeme vánoční motivy např. stomeček, vločku, sněhuláka, zvoneček, srdíčko, hvězdičku aj.<br />Varianta č.2 = na špalíčky napíšeme slova díků za to, co se nám povedlo během roku (např.: děkuji za novou práci, pevné zdraví, přírůstek do rodiny atd.) a to buď přímo na dřevo nebo na papírek, který na špalíček buď nalepíme nebo zasuneme do praskliny či pod kůru. <br />Stejně tak ale můžete špalíčky využít jako symbol pro zhmotnění vašeho přání do dalšího roku (např.: hojnost, uzavření manželství, úspěšná maturita, dokončené státnice atd.)<p>Takto označené špalíčky pak navážete  při variantě č.1 na větvičku z jehličí a při variantě č.2 na suchou větvičku, která  na vám vydrží jako dekorace ve váze bez vody celý rok. <br /><em>Já využila krásnou suchou větev jmelí, která svým vzhledem připomíná samorost</em>.</p><p style=\"text-align: center;\"> </p></li></ol>",
+         "pa_condition_repeater": [
+          {
+           "_id": "32b606a"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6667976",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5954d70"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a18792a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "18",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6c61a00"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "efae59d",
+        "settings": {
+         "editor": "<blockquote><p><strong><em>TIP PRO VÁS</em></strong><br />Takto můžete dát svému tvoření zcela osobitý nádech, význam i podobu. Záleží jen na vás, zda chcete mít ozdobenu vánoční větev na svátky Vánoc během prosince, nebo zda využijete tento tip jako celoroční připomínku vašich úspěchů či přání.</p></blockquote>",
+         "pa_condition_repeater": [
+          {
+           "_id": "551bdf2"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2f86039",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2947a3a"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "358cb4a",
+    "isInner": false,
+    "settings": {
+     "border_border": "dotted",
+     "border_color": "#0A431B",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-43",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d5db644"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "77990a6",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "eae04fb"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přeji vám, ať se vám vydaří nejen společné tvoření, ale především svátky vánoční i vstup do nového roku.\n\n\n ",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "60e23c0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7a9071f"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "23260fd",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#0A431B",
+     "heading_color": "#FFF6F6",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1e261f1"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d49025a",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "ebd3051"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-tree"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "0fa1d39",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "_inline_size_mobile": 33,
+       "pa_condition_repeater": [
+        {
+         "_id": "ecfc803"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "85dc115",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "ebd7cfd"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-tree"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "f932ec4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "_inline_size_mobile": 33,
+       "pa_condition_repeater": [
+        {
+         "_id": "9a0e0d3"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a1548ce",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "9d9839d"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-tree"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "50dce85",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "_inline_size_mobile": 33,
+       "pa_condition_repeater": [
+        {
+         "_id": "8c0b711"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "08df12b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "457122a"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23fbd7c",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "eae04fb"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Děkuji vám, pokud jste s mými tipy na výrobu dekorací prošli pomalu a tvořivě celým rokem a přeji vám hodně inspirace, radosti a tvoření i v roce následujícím.\n\n ",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "92f4549",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7a9071f"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5404ac9",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#0A431B",
+     "heading_color": "#FFF6F6",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1e261f1"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a8c35e7",
+        "settings": {
+         "align": "center",
+         "align_tablet": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "685b949"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Všechny předchozí měsíční dekorace od ledna do listopadu najdete zde na mém webu nebo na youtoube kanále ",
+         "title_color": "#0A431B",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "dbbadac",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "969b38b"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4bc4d47",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7f03b90"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "741d7ff",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-300",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "88",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-249",
+          "top": "-7",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "ca6abc4"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-right"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "5197fef",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7cdbdb9"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23c7e2c",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "130",
+          "right": "0",
+          "top": "-75",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\"><span style=\"color: #003300;\"><a style=\"color: #003300;\" href=\"https://studio.youtube.com/channel/UCdmSNZrUrCnEj3Lqrjg3pNg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D\" target=\"_blank\" rel=\"noopener\">ZDE</a></span></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "9c802e5"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_color": "#0A431B",
+         "typography_font_size": {
+          "size": 27,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "37e3142",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "146be5e"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d955430",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "da9a32a"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "10275",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Prosincová dekorace do bytu z cyklu ROKEM KROK ZA KROKEM.",
+  "_yoast_wpseo_metadesc": "V rámci cyklu ROKEM KROK ZA KROKEM jsme se dostali k závěru roku a prosincové dekoraci, kterou můžete opět tvořit spolu s dětmi z darů přírody a připomenout si tak koloběh života a jednotlivá roční období. Již tradičně vás nebude dekorace stát žádné peníze a umožní vám prožít tvůrčí čas společně s dětmi. Dekoraci můžete využít dvěma způsoby, buď při tvoření s dětmi, nebo při tvoření vlastních záměrů do nového roku."
+ },
+ "modified": "2024-04-13 19:57:11",
+ "obsah_wordpress": "<p style=\"text-align: center;\">Měsíc PROSINEC zakončuje celý rok i cyklus měsíčních inspirací na výrobu dekorací do bytu z materiálů nasbíraných v přírodě s názvem ROKEM KROK ZA KROKEM.</p><p style=\"text-align: center;\">Prosinec je nejenom měsícem adventního období, svátků vánočních, ale i období ročního bilancování a spřádání plánů a tužeb do dalšího, nového roku.</p><p style=\"text-align: center;\">Dnes spolu budeme tvořit již poslední, a to PROSINCOVOU DEKORACI, a tentokrát máte opět možnost tvořit ve dvou variantách.  </p><p><strong>První variantu můžete použít ještě v období Vánoc</strong> a tato dekorace vám ozdobí klasickou vánoční větev.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"875\" height=\"497\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Vystrizek-uvod-foto.jpg\" alt=\"ja a dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Vystrizek-uvod-foto.jpg 875w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/Vystrizek-uvod-foto-300x170.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/Vystrizek-uvod-foto-768x436.jpg 768w\" sizes=\"(max-width: 875px) 100vw, 875px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong>Druhou variantu pak můžete použít v období příchodu nového roku.</strong><br />Buď jako takové poděkování za vše, čeho se vám v průběhu roku dostalo, co se vám povedlo nebo co jste dokázali, anebo jako „strom splněných přání“, na který si zavěsíte svá přání, tužby a cíle pro rok nadcházející.</p><p style=\"text-align: center;\"><strong>O čem že je to tedy řeč?</strong></p><p style=\"text-align: center;\">Tento měsíc budeme tvořit, z nám již známých, dřevěných špalíčků, které jsme použili již v měsíci květnu.<br />Špalíčky již máme nařezané a připravené, jen jim dáme jinou podobu i význam.</p>\t\t\n\t\t\t<h4>Tak vzhůru do&nbsp;toho, protože už je nejvyšší čas vyrobit si poslední dekoraci tohoto roku.\n</h4>\t\t\n\t\t\t<a href=\"https://youtu.be/y8k2Gw-ZtdY\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tVideo z tvoření zde\n\t\t\t\t\t</a>\n\t\thttps://youtu.be/y8k2Gw-ZtdY<p><strong>CO BUDEME NA VÝROBU PROSINCOVÉ DEKORACE POTŘEBOVAT:</strong></p><ul><li>Dřevěné špalíčky nařezané z větve stromu v tloušťce cca 1 – 1,5 cm.</li><li>Šňůrku či ozdobný provázek.</li><li>Nůžky.</li><li>Fixu a propisku, event. kousek papíru na zapsání poděkování či přání.</li></ul><p><strong>Postup výroby:</strong></p><ol><li>Do dřevěných špalíčků provrtáme dírku pro možné provlečení šňůrky či provázku na zavěšení. <br />Provlečeme závěs dle našeho výběru=provázek, barevná šňůrka, mašlička atd.</li><li>Poté špalíčky ozdobíme fixou.<br />Varianta č.1 = malujeme vánoční motivy např. stomeček, vločku, sněhuláka, zvoneček, srdíčko, hvězdičku aj.<br />Varianta č.2 = na špalíčky napíšeme slova díků za to, co se nám povedlo během roku (např.: děkuji za novou práci, pevné zdraví, přírůstek do rodiny atd.) a to buď přímo na dřevo nebo na papírek, který na špalíček buď nalepíme nebo zasuneme do praskliny či pod kůru. <br />Stejně tak ale můžete špalíčky využít jako symbol pro zhmotnění vašeho přání do dalšího roku (např.: hojnost, uzavření manželství, úspěšná maturita, dokončené státnice atd.)<p>Takto označené špalíčky pak navážete  při variantě č.1 na větvičku z jehličí a při variantě č.2 na suchou větvičku, která  na vám vydrží jako dekorace ve váze bez vody celý rok. <br /><em>Já využila krásnou suchou větev jmelí, která svým vzhledem připomíná samorost</em>.</p><p style=\"text-align: center;\"> </p></li></ol><blockquote><p><strong><em>TIP PRO VÁS</em></strong><br />Takto můžete dát svému tvoření zcela osobitý nádech, význam i podobu. Záleží jen na vás, zda chcete mít ozdobenu vánoční větev na svátky Vánoc během prosince, nebo zda využijete tento tip jako celoroční připomínku vašich úspěchů či přání.</p></blockquote>\t\t\n\t\t\t<h4>Přeji vám, ať se vám vydaří nejen společné tvoření, ale především svátky vánoční i vstup do nového roku.\n </h4>\t\t\n\t\t\t<h4>Děkuji vám, pokud jste s mými tipy na výrobu dekorací prošli pomalu a tvořivě celým rokem a přeji vám hodně inspirace, radosti a tvoření i v roce následujícím.\n </h4>\t\t\n\t\t\t<h4>Všechny předchozí měsíční dekorace od ledna do listopadu najdete zde na mém webu nebo na youtoube kanále </h4>\t\t\n\t\t<p style=\"text-align: left;\"><a style=\"color: #003300;\" href=\"https://studio.youtube.com/channel/UCdmSNZrUrCnEj3Lqrjg3pNg/videos/upload?filter=%5B%5D&amp;sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D\" target=\"_blank\" rel=\"noopener\">ZDE</a></p>",
+ "parent": 0,
+ "slug": "prosincova-dekorace",
+ "title": "Prosincová dekorace",
+ "type": "post"
+}

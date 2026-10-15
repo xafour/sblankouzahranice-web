@@ -1,0 +1,2490 @@
+{
+ "ID": 23694,
+ "categories": [
+  "Děti vítány",
+  "Okolí Vídně",
+  "Výlety"
+ ],
+ "date": "2025-07-06 13:23:36",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/naturpark-sparbach-nejstarsi-prirodni-park-rakouska/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1c8656a0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-23",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "11c92aaf",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "background_background": "classic",
+       "background_color": "#FFFBFB",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "55ee777e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-17",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-shoe-prints"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "178d3137",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 9,
+       "_inline_size_mobile": 6,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "41",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "deb267a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-32",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Pěší turistika.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3654827c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 85.648,
+       "_inline_size_mobile": 65,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "11cb34ee",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5c70877",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Pokud hledáte místo, kde si užijete přírodu, krásné vyhlídky a zábavu pro děti i dospělé, pak je ideální volbou:</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "4ae2e9d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "105dbb0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7c1a038",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Naturpark Sparbach – nejstarší přírodní park Rakouska jen 30 minut od Vídně.",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ef0500c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c7d3efa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9a8b89d",
+        "settings": {
+         "editor": "<p>Tento nádherný kout Wienerwaldu najdete u obce Hinterbrühl. Kromě dopravy autem je Sparbach dostupný také autobusem z Vídně nebo z Mödling (BUS 264).</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "994f89f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dfad4fa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e61fabb",
+        "settings": {
+         "image": {
+          "alt": "Naturpark Sparbach",
+          "id": 23730,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4a7289e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7de9118",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1919c82",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Naturpark Sparbach je skvělým místem pokud hledáte kombinaci klidné přírody, historických památek a možností zábavy i hravého poznání pro rodiny s dětmi. Blízkost Vídně, pestrá nabídka tras a krásné přírodní scenérie dělají z parku ideální místo na půldenní či celodenní výlet.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "00a626f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "88c4040",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "92479b7",
+        "settings": {
+         "image": {
+          "alt": "Vstup Naturpark Sparbach",
+          "id": 23699,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "800",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e35d179",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2377116",
+        "settings": {
+         "image": {
+          "alt": "Vstup Naturpark Sparbach",
+          "id": 23700,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-v-clanku.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2138e56",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65d17fe",
+        "settings": {
+         "image": {
+          "alt": "Vstup Naturpark Sparbach",
+          "id": 23701,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-2.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3820a44",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "325a904",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "10",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "744f462",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "2a2005b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "aeef3e3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9e9db96",
+        "settings": {
+         "_margin": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "icon_align": "left",
+         "icon_list": [
+          {
+           "_id": "62035b0",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-car-side"
+           },
+           "text": "U vstupu najdete parkoviště, informační centrum, toalety a možnost občerstvení."
+          },
+          {
+           "_id": "deec304",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-baby-carriage"
+           },
+           "text": "U vchodu jsou k zapůjčení dětské vozíky pro snadnější pohyb s dětmi a dětským vybavením."
+          },
+          {
+           "_id": "aea5102",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-money-bill-alt"
+           },
+           "text": "Vstup je zpoplatněn, děti do 5 let a držitelé NÖ-Card mají vstup zdarma. Dospělí 8,50 Euro, děti 6-18 let 5 Euro (ceny platné pro rok 2025)."
+          },
+          {
+           "_id": "596ea41",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-calendar-check"
+           },
+           "text": "Otevřeno od března do  listopadu od 9,00 do 18,00 hod."
+          },
+          {
+           "_id": "d9947b8",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-dog"
+           },
+           "text": "Psi mají do parku vstup zakázán kvůli ochraně volně žijících zvířat."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align_mobile": "flex-start",
+         "icon_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset_tablet": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "57e8b79",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bd1a38f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e0b5002",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23702,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/vchod.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2e15796",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "32745c1",
+        "settings": {
+         "image": {
+          "alt": "Naturpark Sparbach",
+          "id": 23703,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/vozik-pro-deti.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d5ce475",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "921a5a6",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2107110",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pět oficiálně značených turistických okruhů-od snadných pro rodiny s kočárky až po středně náročné. ",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a70d3b2",
+        "settings": {
+         "editor": "<p><strong>Přehled turistických tras v Naturparku Sparbach</strong></p><ol><li data-start=\"1553\" data-end=\"1585\"><strong data-start=\"1553\" data-end=\"1585\">Route 1 – Bezbariérová trasa</strong><ul><li data-start=\"1591\" data-end=\"1602\">Délka: 2 km</li><li data-start=\"1608\" data-end=\"1676\">Nenáročný okruh vhodný pro kočárky a osoby se sníženou pohyblivostí.</li><li data-start=\"1682\" data-end=\"1762\">Vede kolem návštěvnického centra, k jezírku Lenau-Teich a k menší zvířecí oboře, dále k mlýnské dřevěné stavbě.<br /><br /></li></ul></li><li data-start=\"1767\" data-end=\"1794\"><strong data-start=\"1767\" data-end=\"1794\">Route 2 – Rodinná trasa</strong><ul><li data-start=\"1800\" data-end=\"1814\">Délka: 4,25 km</li><li data-start=\"1820\" data-end=\"1882\">Trasa ideální pro rodiny s dětmi, částečně sjízdná s kočárkem.</li><li data-start=\"1888\" data-end=\"1981\">Po cestě uvidíte zříceninu Johannstein, staré stromy, hřiště a Galerie volně žijících zvířat.<br /><br /></li></ul></li><li data-start=\"1986\" data-end=\"2021\"><strong data-start=\"1986\" data-end=\"2021\">Route 3 – Biedermeier-Wanderung</strong><ul><li data-start=\"2027\" data-end=\"2040\">Délka: 6,5 km</li><li data-start=\"2046\" data-end=\"2110\">Středně náročná trasa, kombinující přírodu s historickými prvky.</li><li data-start=\"2116\" data-end=\"2210\">Prochází kolem Dianina pramene (Dianaquelle), zříceniny Johannstein a dalších zajímavých míst jako Galerie zvířat a místo se starými stromy.<br /><br /></li></ul></li><li data-start=\"2215\" data-end=\"2246\"><strong data-start=\"2215\" data-end=\"2246\">Route 4 – Kaisersteig-Runde</strong><ul><li data-start=\"2252\" data-end=\"2265\">Délka: 7–8 km</li><li data-start=\"2271\" data-end=\"2321\">Výšlap pro zdatnější turisty, převýšení cca 170 m. Doporučená pevná obuv.</li><li data-start=\"2327\" data-end=\"2400\">Hlavním cílem je ruinová rozhledna Köhlerhaus na vrcholu Heuberg (571 m).<br /><br /></li></ul></li><li data-start=\"2405\" data-end=\"2437\"><strong data-start=\"2405\" data-end=\"2437\">Route 5 – Wienerwald-Rundweg</strong><ul><li data-start=\"2443\" data-end=\"2458\">Délka: cca 7 km</li><li data-start=\"2464\" data-end=\"2528\">Lesní okruh, který vede podobně jako route 3+4, a navíc dále vede po delších lesních cestách spojující klidné úseky mimo hlavní turistický ruch.</li></ul></li></ol>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2622dd9",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6f18371",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6e8e344",
+        "settings": {
+         "image": {
+          "alt": "Sparbach zvirata",
+          "id": 23708,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/zvirata.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1bf3b5a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8f87642",
+        "settings": {
+         "image": {
+          "alt": "Sparbach prasat",
+          "id": 23709,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/prasata.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "dd56f10",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a3d1d0b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0027887",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23710,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/rybnik.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "73502b6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3ed19c6",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23711,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/mlyn.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0b7142f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4f01963",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "75fd40e",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23713,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ceea118",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "41ea6ec",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23712,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-3.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "55a5b1d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "caca166",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "95b93da",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23714,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk2.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0a20e96",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7c3715d",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23715,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/oddechove-misto.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "038fd33",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4d6254d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33a0b1c",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23721,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bde4b7c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5fd7602",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23720,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7bf861e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6ae8514",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e90fa8",
+        "settings": {
+         "editor": "<blockquote><p><strong>Všechny stezky jsou přehledně značené a po cestě najdete spoustu laviček, přístřešků, odpočívadel i pitné vody. Zajímavostí je, že během procházky potkáte volně pobíhající zvířata – například muflony nebo divoká prasata, kteří jsou na přítomnost lidí zvyklí.</strong></p><p data-start=\"1337\" data-end=\"1495\"><strong>V celém parku jsou navíc rozmístěné herní a interaktivní prvky, které zabaví malé i velké. Najdete tu například dětské hřiště, naučné tabule nebo vodní prvky.</strong></p></blockquote>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d37541d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "692e972",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6f4e59e",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23719,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-3.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "116f7a3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "af8a191",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23718,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-2.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "40eb78e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "31ed6f4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4c414c9",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23723,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "cc20187",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "307c2c6",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23725,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny-3.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2e16a6a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2cacb63",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23724,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a349414",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d90df39",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "360ae2b",
+        "settings": {
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_stroke_text_stroke_type": "yes",
+         "title": "Naturpark Sparbach v průběhu roku:",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "049e7c3",
+        "settings": {
+         "editor": "<ul style=\"text-align: left;\"><li data-start=\"3107\" data-end=\"3176\"><strong>Na jaře park ožívá</strong> květinami, potoky, pramen Dianawiese s vodou a také novými mláďaty volně žijících zvířat.<br />Spousta interaktivní zábavy pro děti.<br /><br /></li><li data-start=\"3179\" data-end=\"3256\"><strong>V létě poskytují lesy příjemný stín</strong>, nechybí vodní hřiště a přírodní zákoutí. Množství motýlů, včel, broučků i kobylek spatříte na rozkvetlých loukách.<br /><br /></li><li data-start=\"3259\" data-end=\"3337\"><strong>Na podzim se příroda zbarví</strong> do zlatých a červených odstínů listů stromů a poskytuje přírodní divadlo barev. Zpevněné cesty jsou však stále vhodné na turistiku. Navíc ideální doba na focení.<br /><br /></li><li data-start=\"3259\" data-end=\"3337\"><strong>V zimě</strong> (pokud je park otevřen) <strong>nabízí tiché lesy a klidnou atmosféru</strong> fauny i flóry.<br />Sníh dodává parku magický vzhled.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "329e9dd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f7cf658",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8c32e6d",
+        "settings": {
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_stroke_text_stroke_type": "yes",
+         "title": "Proč navštívit Naturpark Sparbach:",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cd7800c",
+        "settings": {
+         "editor": "<p>Naturpark Sparbach je vůbec nejstarším přírodním parkem v Rakousku. Založen byl v roce 1962 a dodnes si zachovává kombinaci krásné přírody, historických památek a možností pro rekreaci.</p><p><strong>Vidět a navštívit můžete třeba tato místa:<br /><br />• <span style=\"color: #003300;\">Ruina Johannstein</span></strong> – starobylá zřícenina s krásnými výhledy na okolní lesy.<br /><br />• <span style=\"color: #003300;\"><strong>Köhlerhausruine</strong></span> – romantická ruinová rozhledna s panoramatem celého parku.<br /><br />• <span style=\"color: #003300;\"><strong>Dianaquelle</strong></span> – malebný pramen zasazený do přírodní scenérie.<br /><br />• <span style=\"color: #003300;\"><strong>Triumphbogen</strong></span> – historický oblouk inspirovaný klasicistní architekturou.<br /><br />• <span style=\"color: #003300;\"><strong>Lenau-Teich</strong></span> – jezírko obklopené stromy, ideální na odpočinek.<br /><br />• <strong><span style=\"color: #003300;\">Galerie volně žijících zvířat</span></strong> – ideální místo pro pozorování muflonů a daňků.<br /><br />• <span style=\"color: #003300;\"><strong>Staré duby a borovice</strong></span>, z nichž některé jsou starší než 200 let.<strong><br /></strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3b123ec",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b7a420b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "03faeed",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23731,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/Vlajka-parku-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5011b68",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0aee5d0",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23732,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "500",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3b0322b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8685354",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "76d12b0",
+        "settings": {
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Shrnutí výletního místa:"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dd19deb",
+        "settings": {
+         "_margin": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_align": "left",
+         "icon_list": [
+          {
+           "_id": "62035b0",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Pět různých turistických okruhů rozdílných délek a obtížnosti  pro celou rodinu."
+          },
+          {
+           "_id": "deec304",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-star"
+           },
+           "text": "Nejstarší přírodní park Rakouska (založen r.1962)."
+          },
+          {
+           "_id": "aea5102",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-child"
+           },
+           "text": "Místo přívětivé k dětem. Interaktivní prvky, hrací plochy, hřiště a vodní prvky."
+          },
+          {
+           "_id": "596ea41",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-car-side"
+           },
+           "text": "Dobrá dostupnost autem i MHD z Vídně."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_self_vertical_align_mobile": "flex-start",
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset_tablet": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0c217f3",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Více informací o parku naleznete <span style=\"text-decoration: underline;\"><strong><a href=\"https://www.naturpark-sparbach.at/\" target=\"_blank\" rel=\"noopener\">ZDE.</a></strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "599a28b",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d9a9023",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2662c61",
+        "settings": {
+         "image": {
+          "alt": "Sparbach",
+          "id": 23740,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/borovice-rotated.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cc2730e",
+        "settings": {
+         "align": "left",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Výlety v dalších z přírodních parků Rakouska naleznete zde:",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eaf74e0",
+        "settings": {
+         "editor": "<ul><li><span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/hagenbachklamm/\">Naturpark Eichenhaim </a></strong></span></li><li><span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/naturpark-leiser-berge/\">Naturpark Leiser Berge</a></strong></span></li><li><span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/hohe-wand-vyhlidka-skywalk/\">Naturpark Hohe Wand-Skywalk</a></strong></span></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3dabe22",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e4cc65d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a70df80",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "59fda0a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f81daac",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a7fe744",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Podobně zajímavé tipy, které v průvodcích nenajdete, vám nabízím i pro vaše cesty do Vídně. ",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1132e30",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=text"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-cestovni-podpora/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_stroke_text_stroke": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_stroke_text_stroke_type": "yes",
+         "title": "Využijte moji službu CESTOVNÍ PODPORY.",
+         "typography_text_decoration": "underline",
+         "typography_text_transform": "none",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5f5f6f6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d06c186",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5ae40540",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Pokud chcete, aby vám už žádný z výletů neutekl, můžete si to zajistit zde:</strong> </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "5c3c5c4"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5a1362e8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"3769855:v1z3u3\">\r\n</div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "324fade"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "73f4cbfd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 49.967,
+       "border_color": "#919F1AA1",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "17f314f"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17bbc499",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Praktický pomocník, který vám pomůže, abyste si svůj výlet opravdu užili, je ke stažení zde: </strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ebf8659"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "10e7f5ee",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"4151254:y7g3p8\">\r\n</div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0e2d0be"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "7a1d4b34",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "border_color": "#919F1AA1",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "59f2937"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5d7bd981",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "c8d1733"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "71c3f1c",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "65243ee",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ed23b75",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "23698",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Nejstarší přírodní park Rakouska. Národní parky Rakouska.",
+  "_yoast_wpseo_metadesc": "Naturpark Sparbach najdete jen kousek od Vídně a je to nejstarší přírodní park Rakouska.Výletní místo pro celou rodinu."
+ },
+ "modified": "2025-07-06 21:14:39",
+ "obsah_wordpress": "<p>Pěší turistika.</p><p style=\"text-align: center;\">Pokud hledáte místo, kde si užijete přírodu, krásné vyhlídky a zábavu pro děti i dospělé, pak je ideální volbou:</p>\t\t\n\t\t\t\t\t<h4>Naturpark Sparbach – nejstarší přírodní park Rakouska jen 30 minut od Vídně.</h4>\t\t\t\t\n\t\t<p>Tento nádherný kout Wienerwaldu najdete u obce Hinterbrühl. Kromě dopravy autem je Sparbach dostupný také autobusem z Vídně nebo z Mödling (BUS 264).</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"386\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-900x386.jpg\" alt=\"Naturpark Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-900x386.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-300x129.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-768x330.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-1536x659.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka.jpg 1708w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Naturpark Sparbach je skvělým místem pokud hledáte kombinaci klidné přírody, historických památek a možností zábavy i hravého poznání pro rodiny s dětmi. Blízkost Vídně, pestrá nabídka tras a krásné přírodní scenérie dělají z parku ideální místo na půldenní či celodenní výlet.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/vstup-r8d0m9ai6yhsh6o9m4yfxh6vsw92mcox8kpoq2cips.jpg\" title=\"Vstup Naturpark Sparbach\" alt=\"Vstup Naturpark Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"507\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-v-clanku-507x900.jpg\" alt=\"Vstup Naturpark Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-v-clanku-507x900.jpg 507w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-v-clanku-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-v-clanku-768x1364.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-v-clanku.jpg 820w\" sizes=\"(max-width: 507px) 100vw, 507px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"507\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-2-507x900.jpg\" alt=\"Vstup Naturpark Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-2-507x900.jpg 507w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-2-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-2-768x1364.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/vstup-2.jpg 820w\" sizes=\"(max-width: 507px) 100vw, 507px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tU vstupu najdete parkoviště, informační centrum, toalety a možnost občerstvení.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tU vchodu jsou k zapůjčení dětské vozíky pro snadnější pohyb s dětmi a dětským vybavením.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVstup je zpoplatněn, děti do 5 let a držitelé NÖ-Card mají vstup zdarma. Dospělí 8,50 Euro, děti 6-18 let 5 Euro (ceny platné pro rok 2025).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tOtevřeno od března do  listopadu od 9,00 do 18,00 hod.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPsi mají do parku vstup zakázán kvůli ochraně volně žijících zvířat.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/vchod-r8d1ddwtftkpxyko13q7j9brnryqb9gw7nar97a2hg.jpg\" title=\"Sparbach\" alt=\"Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/vozik-pro-deti-r8d1e9vbw6sgwpa8uhjiw19fuvl7kyzro1h9klyolw.jpg\" title=\"Naturpark Sparbach\" alt=\"Naturpark Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h4>Pět oficiálně značených turistických okruhů-od snadných pro rodiny s kočárky až po středně náročné. </h4>\t\t\t\t\n\t\t<p><strong>Přehled turistických tras v Naturparku Sparbach</strong></p><ol><li data-start=\"1553\" data-end=\"1585\"><strong data-start=\"1553\" data-end=\"1585\">Route 1 – Bezbariérová trasa</strong><ul><li data-start=\"1591\" data-end=\"1602\">Délka: 2 km</li><li data-start=\"1608\" data-end=\"1676\">Nenáročný okruh vhodný pro kočárky a osoby se sníženou pohyblivostí.</li><li data-start=\"1682\" data-end=\"1762\">Vede kolem návštěvnického centra, k jezírku Lenau-Teich a k menší zvířecí oboře, dále k mlýnské dřevěné stavbě.<br /><br /></li></ul></li><li data-start=\"1767\" data-end=\"1794\"><strong data-start=\"1767\" data-end=\"1794\">Route 2 – Rodinná trasa</strong><ul><li data-start=\"1800\" data-end=\"1814\">Délka: 4,25 km</li><li data-start=\"1820\" data-end=\"1882\">Trasa ideální pro rodiny s dětmi, částečně sjízdná s kočárkem.</li><li data-start=\"1888\" data-end=\"1981\">Po cestě uvidíte zříceninu Johannstein, staré stromy, hřiště a Galerie volně žijících zvířat.<br /><br /></li></ul></li><li data-start=\"1986\" data-end=\"2021\"><strong data-start=\"1986\" data-end=\"2021\">Route 3 – Biedermeier-Wanderung</strong><ul><li data-start=\"2027\" data-end=\"2040\">Délka: 6,5 km</li><li data-start=\"2046\" data-end=\"2110\">Středně náročná trasa, kombinující přírodu s historickými prvky.</li><li data-start=\"2116\" data-end=\"2210\">Prochází kolem Dianina pramene (Dianaquelle), zříceniny Johannstein a dalších zajímavých míst jako Galerie zvířat a místo se starými stromy.<br /><br /></li></ul></li><li data-start=\"2215\" data-end=\"2246\"><strong data-start=\"2215\" data-end=\"2246\">Route 4 – Kaisersteig-Runde</strong><ul><li data-start=\"2252\" data-end=\"2265\">Délka: 7–8 km</li><li data-start=\"2271\" data-end=\"2321\">Výšlap pro zdatnější turisty, převýšení cca 170 m. Doporučená pevná obuv.</li><li data-start=\"2327\" data-end=\"2400\">Hlavním cílem je ruinová rozhledna Köhlerhaus na vrcholu Heuberg (571 m).<br /><br /></li></ul></li><li data-start=\"2405\" data-end=\"2437\"><strong data-start=\"2405\" data-end=\"2437\">Route 5 – Wienerwald-Rundweg</strong><ul><li data-start=\"2443\" data-end=\"2458\">Délka: cca 7 km</li><li data-start=\"2464\" data-end=\"2528\">Lesní okruh, který vede podobně jako route 3+4, a navíc dále vede po delších lesních cestách spojující klidné úseky mimo hlavní turistický ruch.</li></ul></li></ol>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"850\" height=\"479\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/zvirata.jpg\" alt=\"Sparbach zvirata\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/zvirata.jpg 850w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/zvirata-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/zvirata-768x433.jpg 768w\" sizes=\"(max-width: 850px) 100vw, 850px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/prasata-900x507.jpg\" alt=\"Sparbach prasat\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/prasata-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/prasata-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/prasata-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/prasata.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/rybnik-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/rybnik-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/rybnik-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/rybnik-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/rybnik.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"586\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/mlyn-900x586.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/mlyn-900x586.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mlyn-300x195.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mlyn-768x500.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mlyn.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-3-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-3-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-3-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-3-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/deti-3.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk2-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk2-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk2-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk2-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk2.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/oddechove-misto-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/oddechove-misto-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/oddechove-misto-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/oddechove-misto-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/oddechove-misto.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Oblouk.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny-900x507.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/Ruiny.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<blockquote><p><strong>Všechny stezky jsou přehledně značené a po cestě najdete spoustu laviček, přístřešků, odpočívadel i pitné vody. Zajímavostí je, že během procházky potkáte volně pobíhající zvířata – například muflony nebo divoká prasata, kteří jsou na přítomnost lidí zvyklí.</strong></p><p data-start=\"1337\" data-end=\"1495\"><strong>V celém parku jsou navíc rozmístěné herní a interaktivní prvky, které zabaví malé i velké. Najdete tu například dětské hřiště, naučné tabule nebo vodní prvky.</strong></p></blockquote>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"820\" height=\"462\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-3.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-3.jpg 820w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-3-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-3-768x433.jpg 768w\" sizes=\"(max-width: 820px) 100vw, 820px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"820\" height=\"462\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-2.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-2.jpg 820w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-2-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/posezeni-2-768x433.jpg 768w\" sizes=\"(max-width: 820px) 100vw, 820px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Ruiny-2-r8d3sp549t4pb6fiuzrk7ft6vyijuw1o2ru44evilg.jpg\" title=\"Sparbach Ruiny 2\" alt=\"Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Ruiny-3-r8d3u5s2wj4rdcb2bmio32j05jb3txumy0dazwpgx0.jpg\" title=\"Sparbach Ruiny 3\" alt=\"Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Ruiny2-r8d3tia45o8lb3974uczuqghawixhi9cis25zzob8k.jpg\" title=\"Sparbach Ruiny2\" alt=\"Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h5>Naturpark Sparbach v průběhu roku:</h5>\t\t\t\t\n\t\t<ul style=\"text-align: left;\"><li data-start=\"3107\" data-end=\"3176\"><strong>Na jaře park ožívá</strong> květinami, potoky, pramen Dianawiese s vodou a také novými mláďaty volně žijících zvířat.<br />Spousta interaktivní zábavy pro děti.<br /><br /></li><li data-start=\"3179\" data-end=\"3256\"><strong>V létě poskytují lesy příjemný stín</strong>, nechybí vodní hřiště a přírodní zákoutí. Množství motýlů, včel, broučků i kobylek spatříte na rozkvetlých loukách.<br /><br /></li><li data-start=\"3259\" data-end=\"3337\"><strong>Na podzim se příroda zbarví</strong> do zlatých a červených odstínů listů stromů a poskytuje přírodní divadlo barev. Zpevněné cesty jsou však stále vhodné na turistiku. Navíc ideální doba na focení.<br /><br /></li><li data-start=\"3259\" data-end=\"3337\"><strong>V zimě</strong> (pokud je park otevřen) <strong>nabízí tiché lesy a klidnou atmosféru</strong> fauny i flóry.<br />Sníh dodává parku magický vzhled.</li></ul>\t\t\n\t\t\t\t\t<h5>Proč navštívit Naturpark Sparbach:</h5>\t\t\t\t\n\t\t<p>Naturpark Sparbach je vůbec nejstarším přírodním parkem v Rakousku. Založen byl v roce 1962 a dodnes si zachovává kombinaci krásné přírody, historických památek a možností pro rekreaci.</p><p><strong>Vidět a navštívit můžete třeba tato místa:<br /><br />• Ruina Johannstein</strong> – starobylá zřícenina s krásnými výhledy na okolní lesy.<br /><br />• <strong>Köhlerhausruine</strong> – romantická ruinová rozhledna s panoramatem celého parku.<br /><br />• <strong>Dianaquelle</strong> – malebný pramen zasazený do přírodní scenérie.<br /><br />• <strong>Triumphbogen</strong> – historický oblouk inspirovaný klasicistní architekturou.<br /><br />• <strong>Lenau-Teich</strong> – jezírko obklopené stromy, ideální na odpočinek.<br /><br />• <strong>Galerie volně žijících zvířat</strong> – ideální místo pro pozorování muflonů a daňků.<br /><br />• <strong>Staré duby a borovice</strong>, z nichž některé jsou starší než 200 let.<strong><br /></strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Vlajka-parku-S-r8d51pmvk6pwdqd3cavgjv7u8jqxxasjqljjfj2uj8.jpg\" title=\"Vlajka parku-S\" alt=\"Sparbach\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"768\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras-768x768.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras-768x768.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras-300x300.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras-900x900.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras-150x150.jpg 150w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/mapka-tras.jpg 1024w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h4>Shrnutí výletního místa:</h4>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPět různých turistických okruhů rozdílných délek a obtížnosti  pro celou rodinu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tNejstarší přírodní park Rakouska (založen r.1962).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMísto přívětivé k dětem. Interaktivní prvky, hrací plochy, hřiště a vodní prvky.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tDobrá dostupnost autem i MHD z Vídně.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p style=\"text-align: center;\">Více informací o parku naleznete <strong><a href=\"https://www.naturpark-sparbach.at/\" target=\"_blank\" rel=\"noopener\">ZDE.</a></strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"433\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/borovice-768x433.jpg\" alt=\"Sparbach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/borovice-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/borovice-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/borovice-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/07/borovice-rotated.jpg 1200w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Výlety v dalších z přírodních parků Rakouska naleznete zde:</h2>\t\t\t\t\n\t\t<ul><li><strong><a href=\"https://sblankouzahranice.eu/hagenbachklamm/\">Naturpark Eichenhaim </a></strong></li><li><strong><a href=\"https://sblankouzahranice.eu/naturpark-leiser-berge/\">Naturpark Leiser Berge</a></strong></li><li><strong><a href=\"https://sblankouzahranice.eu/hohe-wand-vyhlidka-skywalk/\">Naturpark Hohe Wand-Skywalk</a></strong></li></ul>\t\t\n\t\t\t\t\t<h4>Podobně zajímavé tipy, které v průvodcích nenajdete, vám nabízím i pro vaše cesty do Vídně. </h4>\t\t\t\t\n\t\t\t\t\t<h5><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">Využijte moji službu CESTOVNÍ PODPORY.</a></h5>\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Pokud chcete, aby vám už žádný z výletů neutekl, můžete si to zajistit zde:</strong> </p>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Praktický pomocník, který vám pomůže, abyste si svůj výlet opravdu užili, je ke stažení zde: </strong></p>",
+ "parent": 0,
+ "slug": "naturpark-sparbach-nejstarsi-prirodni-park-rakouska",
+ "title": "Naturpark Sparbach. Nejstarší přírodní park Rakouska.",
+ "type": "post"
+}

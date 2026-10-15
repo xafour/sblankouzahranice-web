@@ -1,0 +1,2203 @@
+{
+ "ID": 10539,
+ "categories": [
+  "Kombinované výlety"
+ ],
+ "date": "2022-01-20 15:37:48",
+ "excerpt": "Benediktinský klášter Göttweig se neomylně tyčí ve výšce 422 m nad mořem na východním okraji světoznámého Wachau v oblasti Niederösterreich. \nOpatství Göttweig je od roku 2000 zapsán na seznamu světového dědictví UNESCO a právem si tam toto místo zaslouží. \nJe nejen magnetem pro hosty z celého světa, ale také duchovním centrem v srdci Dolního Rakouska.",
+ "link": "https://sblankouzahranice.eu/stift-gottweig/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6b844f17",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c939eea"
+          }
+         ],
+         "primary_color": "#050505",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-street-view"
+         },
+         "size": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "62145ad1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 6,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-1",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "ff10de6"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5d638700",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "82371f6"
+          }
+         ],
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-gem"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "2124abdb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "24",
+        "right": "0",
+        "top": "11",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "5a15864"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e8db562",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "24",
+          "right": "0",
+          "top": "12",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a00880f"
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3400f682",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 89.648,
+       "_inline_size_mobile": 83,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-8",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "3e10818"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "3accf2ba",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "265c4f7"
+      }
+     ],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b001236",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Benediktinský klášter Göttweig se neomylně tyčí ve výšce 422 m nad mořem na východním okraji světoznámého Wachau v oblasti Niederösterreich.</strong></p><p style=\"text-align: center;\">Opatství-Stift Göttweig je od roku 2000 zapsáno na seznamu světového dědictví UNESCO a právem si tam toto místo zaslouží. <br />Je nejen magnetem pro hosty z celého světa, ale také duchovním centrem v srdci Dolního Rakouska, které podporuje komunita 39 mnichů.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "549ad85"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "772ae78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4ec4bef"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "756ea15",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#C9D36EA3",
+     "pa_condition_repeater": [
+      {
+       "_id": "f447a90"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "98cb9a2",
+        "settings": {
+         "image": {
+          "alt": "mapka trasy",
+          "id": 10385,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "c6babad"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b787c4e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "82902c1"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "3978bc1",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "10",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7195adb"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5d4e114",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Klášter</strong> – díky své nádherné horské poloze <strong>nazývaný také „rakouské Montecassino“</strong> – byl <strong>založen v roce 1083</strong> jako klášter pro komunitu kanovníků, kteří žili podle Augustinovy ​​regule. <br />V roce 1094 byl Stift Göttweig předán Benediktinům.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "549ad85"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6208e86",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4ec4bef"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "9c765f9",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#C9D36EA3",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "f447a90"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7c43671",
+        "settings": {
+         "image": {
+          "alt": "maketa opatstvi",
+          "id": 10549,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/maketa-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5788bee"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ac2bce5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5940583"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "6a6a0aa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ee95edb"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "868bfd4",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "f0293f6"
+          }
+         ],
+         "title": "Opatství nebo chcete-li klášter Göttweig je skvostnou dominantou nad městem Paudorf.",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "e37ea33",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c18234e"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2e6f8b7",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "55549d5"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e455a94",
+        "settings": {
+         "image": {
+          "alt": "opatstvi",
+          "id": 10550,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Stift-pohled-od-vchodu-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "3411bad"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f9d5c9f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b9da580"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1411123",
+        "settings": {
+         "image": {
+          "alt": "pohled do krajiny",
+          "id": 10551,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-od-panstvi-do-udoli-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "3411bad"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ce82581",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b9da580"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "45a6e1d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "43b8e86"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bcf2eb8",
+        "settings": {
+         "image": {
+          "alt": "Opatství se zahradou",
+          "id": 10567,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Pohled-zevnitrku-zahrady-a-parku-S-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "680",
+          "width": "1200"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "b705b62"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f29f701",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d64852d"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "b37b7ac",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4b3623a"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0af1177",
+        "settings": {
+         "_margin": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "16bd2b0"
+          }
+         ],
+         "title": "Co vše zde můžete obdivovat a vychutnávat:",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "2c9b390",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "989557b"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c3d98cf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "6eae925"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8e769c5",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Cestou od vstupu do kláštera na recepci brány na klášterní nádvoří provází hosta <strong>stálá expozice „Klášterní život“</strong>, která informuje o životě a díle göttweigských mnichů.</p><p style=\"text-align: center;\">U kláštera se nachází také <strong>krásná bylinková a meruňková zahrada</strong>. Jedná se o nejvýše položený meruňkový sad ve Wachau.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "c7ace68"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a8d33b3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "08ed740"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "f590c3d",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "a2179a9"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "07b933c",
+        "settings": {
+         "image": {
+          "alt": "stift Göttweig",
+          "id": 10555,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/stift-pohled-zdalky-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "e90a7e6"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6d16957",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "eee520a"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2b15698",
+        "settings": {
+         "image": {
+          "alt": "smerovky",
+          "id": 10556,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Stift-Gottweig-406m-cedule-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "d0e71c2"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3d734d7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "da0e4e1"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "06068c9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d234762"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b12a1aa",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Když vejdete <strong>vstupní bránou</strong> do areálu uchvátí vás nejen rozloha celého areálu, ale i krásná architektura této památky.</p><p style=\"text-align: center;\">Můžete se zajít <strong>podívat do kostela</strong>, kde je krásná výzdoba a velké varhany, nebo v letních měsících navštívit restauraci či muzeum.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "b98f75c"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a943aea",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7fa5119"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "e5a3623",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1cabfc9"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b12a698",
+        "settings": {
+         "image": {
+          "alt": "brana u stifu",
+          "id": 10557,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Opatstvi-vchod-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "680",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "2546279"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "728a5ed",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "23c3922"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "28d02b3",
+        "settings": {
+         "image": {
+          "alt": "park u stifu",
+          "id": 10558,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/park-u-stiftu-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "680",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "5bdffe1"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c81dd93",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7b86c12"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "5b811ea",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "43285f4"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f1ddf3",
+        "settings": {
+         "image": {
+          "alt": "vnitrek kostela",
+          "id": 10559,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/vnitrek-kostela-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "298073a"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8e89cb8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "098807c"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83edb88",
+        "settings": {
+         "image": {
+          "alt": "varhany v kostele",
+          "id": 10561,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/varhany-kostela-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "68505e6"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "665d76a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b2fa840"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2c470d2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "668ca4d"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "03b5e1f",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Klášterní restaurace Göttweig</strong> vás rozmazlí regionálními specialitami a víny z vlastních klášterních vinic.</p><p style=\"text-align: center;\"><strong>Vyhlídková terasa</strong> nabízí jedinečný panoramatický výhled na údolí Dunaje a Wachau.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "9bf5395"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ce9c9c6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "37461a2"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "115046f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e8b8013"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f6f2e6b",
+        "settings": {
+         "image": {
+          "alt": "vyhled z opatstvi",
+          "id": 10562,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-na-okoli-ze-stiftu-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4ba9511"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c0cab88",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d813710"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "03ab1b3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "9e0ae4a"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7b5da7f",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>V muzeu</strong>, v části věnované císaři v tzv. císařském křídle stojí <strong>největší barokní schodiště v Rakousku</strong> a některé zdroje uvádí, že dokonce <strong>největší v celé Evropě</strong>.</p><p style=\"text-align: center;\"><br />Vykročte pod obrovskou nástropní fresku Paula Trogera – jako kdysi Marie Terezie nebo císař Napoleon – a <strong>zažijte nejkrásnější prostory kláštera!</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "069f835"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5267651",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d5599ef"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "25d3dba",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "fa27ae5"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eb25f59",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "3eb8cf3"
+          }
+         ],
+         "title": "To ale stále není vše!",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "68ac24f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4a4c1a1"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "39654a8",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2c37082"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "13f07f2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "42",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Stejně tak pod heslem</p><p style=\"text-align: center;\">\"<strong>Dovolená v klášteře=tichý luxus</strong>\"</p><p>mají hosté k dispozici jak klášterní jednoduché, tak <strong>moderní pokoje s fantastickým výhledem na celou okolní krajinu</strong>.</p><p>Na Vaši návštěvu čeká i byt bývalého opata Benedikta o velikosti 120 m².</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "b77d85e"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ab97e95",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "6f6a32d"
+          }
+         ],
+         "primary_color": "#060606",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-bed"
+         },
+         "size": {
+          "size": 79,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "79abfdd",
+        "settings": {
+         "editor": "<p style=\"text-align: left;\">V nabídce jsou však i <strong>konferenční prostory </strong>k pronájmu.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "14d9572"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f844873",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6c5e76a"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5316e1e",
+        "settings": {
+         "image": {
+          "alt": "pohled do krajiny",
+          "id": 10563,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/okno-a-pruhled-do-krajiny-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "400"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "d75c726"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d22d748",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "510363d"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "a17cf8e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c2b7f8b"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3ed4ed7",
+        "settings": {
+         "image": {
+          "alt": "kaplicka u opatstvi",
+          "id": 10569,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/kaplicka-uvnitr-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "580",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "bd4a91b"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "55f0f15",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "24c69c4"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "08a1bf1",
+        "settings": {
+         "image": {
+          "alt": "pamatka unesco",
+          "id": 10568,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/svet.dedictvi-Unesco-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "580",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "cae47cf"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "31e24e8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "25ee426"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "ab5548d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "5046f06"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "c5f36f0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c189626"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "4b21729",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5b089fa"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "7228f28",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "377ac23"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "031158e",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "d6ef025"
+          }
+         ],
+         "primary_color": "#0C0C0C",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-bus"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "025cf56",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Příjezd vlakem a autobusem:</strong></p><p>Z Vídně a Salzburku: Westbahn do St. Pöltenu - vlakové spojení do Paudorfu nebo Furthu/Göttweigu.</p><p>Z Vídně: Franz-Josefs-Bahn do Krems - vlakové spojení do Furth/Göttweig nebo Paudorf.</p><p>Nastupte na autobus VOR WL4 (vyjíždí také z vlakového nádraží Krems) a vystupte na zastávce \"Göttweig Stift\". Přesný jízdní řád najdete na <span style=\"text-decoration: underline; color: #000080;\"><a style=\"color: #000080;\" href=\"http://www.vor.at\">www.vor.at</a>.</span></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "62e272d"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "de12bff",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f1f4ed6"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d866de6",
+    "isInner": false,
+    "settings": {
+     "border_border": "dashed",
+     "border_color": "#C9D36EA3",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b54b4c6"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "aa8c5d1",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Ještě pár tipů jako bonus!</strong></p><p style=\"text-align: left;\">Od kláštera můžete pokračovat buď turistickou stezkou nebo autem na další úžasná místa a unikáty v okolí.</p><ol><li><b>Mammutbäume - Úchvatné sekvoje.<br /></b>Výchozí bod je u parkoviště, odbočka z hlavní silnice na Bruckweg (na spojnici Paudorf směr Klein-Wien), která je dobře značená i při příjezdu z Göttweigu. Více o tomto pozoruhodném místě <a href=\"https://sblankouzahranice.eu/mammutbaume-jedinecne-sekvoje/\" rel=\"noopener\"><span style=\"text-decoration: underline; color: #000080;\">ZDE.</span></a></li><li><strong>Sculpturenweg – Stezka dřevěných soch</strong>, která se nachází nedaleko výchozího bodu k sekvojím, začíná naproti u parkoviště SPAR. Více o této zajímavé atrakci a procházce <span style=\"text-decoration: underline; color: #000080;\"><span style=\"text-decoration: underline; color: #000080;\"><a style=\"color: #000080;\" href=\"https://sblankouzahranice.eu/skulpturenweg-stezka-drevenych-soch/\" rel=\"noopener\">ZDE.</a></span></span><p> </p></li><li><strong>Občerstvení v Konditorei Koller,</strong> kde si můžete pochutnat na výborných dortech nebo v letních měsících i na domácí zmrzlině.</li></ol>",
+         "pa_condition_repeater": [
+          {
+           "_id": "37d04ed"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1364058",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "503f382"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "35068b6",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D1CB83",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6bb86e2"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d6be8f4",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "21b6030"
+          }
+         ],
+         "pattern_height": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "style": "curly",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "8cfe0ed",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9de8ffb"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "ffb8dd8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c415bed"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "33a32ea",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 15,
+       "_inline_size_tablet": 9,
+       "pa_condition_repeater": [
+        {
+         "_id": "18f2a95"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c025fc9",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbil se ti tento výlet?<br />Pokud chceš, aby ti žádný další výlet neutekl, přihlas se zde:</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "62ed5a9"
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7df4f40",
+        "settings": {
+         "align": "center",
+         "background_color": "#50585A",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "9b8549c"
+          }
+         ],
+         "text": "Mám zájem",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "baca271",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 70,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#D1CB83",
+       "border_border": "solid",
+       "border_color": "#DADFE2",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "6b6e7d2"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "1855314",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 14.994,
+       "pa_condition_repeater": [
+        {
+         "_id": "94a734c"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "023d3d6",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "5215715"
+      }
+     ],
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "493f068",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "f1ba406"
+          }
+         ],
+         "title": "Další výlety nedaleko Vídně, kde můžete najít zajímavé objekty z rakouské historie.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "1707207",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e7bebe8"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "1f41da6",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d7ea2d8"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5a04614",
+        "settings": {
+         "image": {
+          "alt": "kostel",
+          "id": 9144,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "ff624d6"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e97bd5d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "73d69a0"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8aea245",
+        "settings": {
+         "image": {
+          "alt": "nadvori",
+          "id": 9192,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/vylet-heiligenkreuz/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "1a2232d"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "59fb178",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1559ac7"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "9ab3838",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "9a9bd49"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e9536fa",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "13f5829"
+          }
+         ],
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "8b6ceb4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b1fdf86"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "25b922d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "0b004c7"
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "10541",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Stift Göttweig v oblasti Niederösterreich.",
+  "_yoast_wpseo_metadesc": "Benediktienerstift Göttweig v oblasti Wachau v Niederösterreich je od r.2000 zapsán na seznamu UNESCO. Je magnetem pro hosty z celého světa."
+ },
+ "modified": "2022-08-25 14:18:15",
+ "obsah_wordpress": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p><p style=\"text-align: center;\"><strong>Benediktinský klášter Göttweig se neomylně tyčí ve výšce 422 m nad mořem na východním okraji světoznámého Wachau v oblasti Niederösterreich.</strong></p><p style=\"text-align: center;\">Opatství-Stift Göttweig je od roku 2000 zapsáno na seznamu světového dědictví UNESCO a právem si tam toto místo zaslouží. <br />Je nejen magnetem pro hosty z celého světa, ale také duchovním centrem v srdci Dolního Rakouska, které podporuje komunita 39 mnichů.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"442\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-768x442.jpg\" alt=\"mapka trasy\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-768x442.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-300x173.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-1024x590.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf.jpg 1231w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Klášter</strong> – díky své nádherné horské poloze <strong>nazývaný také „rakouské Montecassino“</strong> – byl <strong>založen v roce 1083</strong> jako klášter pro komunitu kanovníků, kteří žili podle Augustinovy ​​regule. <br />V roce 1094 byl Stift Göttweig předán Benediktinům.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/maketa-S-s.jpg\" alt=\"maketa opatstvi\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/maketa-S-s.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/maketa-S-s-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Opatství nebo chcete-li klášter Göttweig je skvostnou dominantou nad městem Paudorf.</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Stift-pohled-od-vchodu-S-s.jpg\" alt=\"opatstvi Göttweig\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Stift-pohled-od-vchodu-S-s.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/Stift-pohled-od-vchodu-S-s-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-od-panstvi-do-udoli-S-s.jpg\" alt=\"pohled do krajiny\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-od-panstvi-do-udoli-S-s.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-od-panstvi-do-udoli-S-s-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Pohled-zevnitrku-zahrady-a-parku-S-s.jpg\" alt=\"Opatství se zahradou\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Pohled-zevnitrku-zahrady-a-parku-S-s.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/Pohled-zevnitrku-zahrady-a-parku-S-s-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Co vše zde můžete obdivovat a vychutnávat:</h3>\t\t\n\t\t<p style=\"text-align: center;\">Cestou od vstupu do kláštera na recepci brány na klášterní nádvoří provází hosta <strong>stálá expozice „Klášterní život“</strong>, která informuje o životě a díle göttweigských mnichů.</p><p style=\"text-align: center;\">U kláštera se nachází také <strong>krásná bylinková a meruňková zahrada</strong>. Jedná se o nejvýše položený meruňkový sad ve Wachau.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/stift-pohled-zdalky-S-v-pjaoc4du01ly0e9vow595n4rpuu02a6noowc9qd4z4.jpg\" title=\"stift pohled zdalky-S-v\" alt=\"stift Göttweig\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Stift-Gottweig-406m-cedule-S-v-pjaodppzkxsfolyle2xhvqnvycze3tia8koyjuc6wg.jpg\" title=\"Stift Göttweig 406m- cedule-S-v\" alt=\"smerovky\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Když vejdete <strong>vstupní bránou</strong> do areálu uchvátí vás nejen rozloha celého areálu, ale i krásná architektura této památky.</p><p style=\"text-align: center;\">Můžete se zajít <strong>podívat do kostela</strong>, kde je krásná výzdoba a velké varhany, nebo v letních měsících navštívit restauraci či muzeum.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Opatstvi-vchod-S-v-pjaoiobbngldbsmlw32kv69h4nahr0s8bx1hcjvats.jpg\" title=\"Opatstvi vchod-S-v\" alt=\"opatství Gottweig\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/park-u-stiftu-S-v-pjaojcr4l5itpnn3xdmvo03gkny1b5h93a03tqv2c0.jpg\" title=\"park u stiftu-S-v\" alt=\"park u kláštera\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/vnitrek-kostela-S-v-pjaon0cj5yisq34oa4wwsy4zmge5v0ebhboqelhgf8.jpg\" title=\"vnitrek kostela-S-v\" alt=\"vnitrek kostela\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/varhany-kostela-S-v-pjaoog1nluhkgn1kw99e433canbcmd3k0fkfstcsx0.jpg\" title=\"varhany kostela-S-v\" alt=\"Stifft\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Klášterní restaurace Göttweig</strong> vás rozmazlí regionálními specialitami a víny z vlastních klášterních vinic.</p><p style=\"text-align: center;\"><strong>Vyhlídková terasa</strong> nabízí jedinečný panoramatický výhled na údolí Dunaje a Wachau.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-na-okoli-ze-stiftu-S-s.jpg\" alt=\"pohled do krajiny\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-na-okoli-ze-stiftu-S-s.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/pohled-na-okoli-ze-stiftu-S-s-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>V muzeu</strong>, v části věnované císaři v tzv. císařském křídle stojí <strong>největší barokní schodiště v Rakousku</strong> a některé zdroje uvádí, že dokonce <strong>největší v celé Evropě</strong>.</p><p style=\"text-align: center;\"><br />Vykročte pod obrovskou nástropní fresku Paula Trogera – jako kdysi Marie Terezie nebo císař Napoleon – a <strong>zažijte nejkrásnější prostory kláštera!</strong></p>\t\t\n\t\t\t<h4>To ale stále není vše!</h4>\t\t\n\t\t<p style=\"text-align: center;\">Stejně tak pod heslem</p><p style=\"text-align: center;\">\"<strong>Dovolená v klášteře=tichý luxus</strong>\"</p><p>mají hosté k dispozici jak klášterní jednoduché, tak <strong>moderní pokoje s fantastickým výhledem na celou okolní krajinu</strong>.</p><p>Na Vaši návštěvu čeká i byt bývalého opata Benedikta o velikosti 120 m².</p>\t\t\n\t\t<p style=\"text-align: left;\">V nabídce jsou však i <strong>konferenční prostory </strong>k pronájmu.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/okno-a-pruhled-do-krajiny-S-v-pjap4w7yljlztz2jmwsrow8k0q4rzsslby9r39hu9c.jpg\" title=\"okno a pruhled do krajiny-S-v\" alt=\"pohled do krajiny\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kaplicka-uvnitr-S-v-pjapjjjfpj1o8lqg9y3c4ribiv4kdr61gwp8yaofqg.jpg\" title=\"kaplicka uvnitr-S-v\" alt=\"kaplicka\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/svet.dedictvi-Unesco-S-v-pjapit7ye61n7isojmps6y5ew2qae89k1afnj2tbxk.jpg\" title=\"svet.dedictvi Unesco-S-v\" alt=\"Stifft - dědictví UNESCO\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Příjezd vlakem a autobusem:</strong></p><p>Z Vídně a Salzburku: Westbahn do St. Pöltenu - vlakové spojení do Paudorfu nebo Furthu/Göttweigu.</p><p>Z Vídně: Franz-Josefs-Bahn do Krems - vlakové spojení do Furth/Göttweig nebo Paudorf.</p><p>Nastupte na autobus VOR WL4 (vyjíždí také z vlakového nádraží Krems) a vystupte na zastávce \"Göttweig Stift\". Přesný jízdní řád najdete na <a style=\"color: #000080;\" href=\"http://www.vor.at\">www.vor.at</a>.</p><p style=\"text-align: center;\"><strong>Ještě pár tipů jako bonus!</strong></p><p style=\"text-align: left;\">Od kláštera můžete pokračovat buď turistickou stezkou nebo autem na další úžasná místa a unikáty v okolí.</p><ol><li><b>Mammutbäume - Úchvatné sekvoje.<br /></b>Výchozí bod je u parkoviště, odbočka z hlavní silnice na Bruckweg (na spojnici Paudorf směr Klein-Wien), která je dobře značená i při příjezdu z Göttweigu. Více o tomto pozoruhodném místě <a href=\"https://sblankouzahranice.eu/mammutbaume-jedinecne-sekvoje/\" rel=\"noopener\">ZDE.</a></li><li><strong>Sculpturenweg – Stezka dřevěných soch</strong>, která se nachází nedaleko výchozího bodu k sekvojím, začíná naproti u parkoviště SPAR. Více o této zajímavé atrakci a procházce <a style=\"color: #000080;\" href=\"https://sblankouzahranice.eu/skulpturenweg-stezka-drevenych-soch/\" rel=\"noopener\">ZDE.</a><p> </p></li><li><strong>Občerstvení v Konditorei Koller,</strong> kde si můžete pochutnat na výborných dortech nebo v letních měsících i na domácí zmrzlině.</li></ol>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbil se ti tento výlet?<br />Pokud chceš, aby ti žádný další výlet neutekl, přihlas se zde:</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t\t<h4>Další výlety nedaleko Vídně, kde můžete najít zajímavé objekty z rakouské historie.</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/\">\n\t\t\t\t\t\t\t<img width=\"451\" height=\"566\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg\" alt=\"Nahled.obrazek vylety kostely\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg 451w, https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1-239x300.jpg 239w\" sizes=\"(max-width: 451px) 100vw, 451px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylet-heiligenkreuz/\">\n\t\t\t\t\t\t\t<img width=\"452\" height=\"564\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet.jpg\" alt=\"Nahled.obrazek vylety\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet.jpg 452w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet-240x300.jpg 240w\" sizes=\"(max-width: 452px) 100vw, 452px\" />\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "stift-gottweig",
+ "title": "Benediktinerstift Göttweig-opatství Göttweig",
+ "type": "post"
+}

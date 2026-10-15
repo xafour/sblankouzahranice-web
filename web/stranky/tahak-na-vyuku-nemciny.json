@@ -1,0 +1,2218 @@
+{
+ "ID": 4965,
+ "categories": [],
+ "date": "2021-04-20 10:15:05",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/tahak-na-vyuku-nemciny/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59b8d7a",
+        "settings": {
+         "after_text": "jak se naučit jazyk hravě a vtipně",
+         "before_text": "Tahák na výuku němčiny - ",
+         "highlighted_text": "3 skvělé tipy,",
+         "pa_condition_repeater": [
+          {
+           "_id": "7d8a1dc",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#E6AC95",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cdc810b",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "945e5a9",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "včetně tří praktických video ukázek ",
+         "title_color": "#1E3870",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "58e6ee3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "db217af",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c06ff39",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "2141c8d",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "006498a",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence6"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "100",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "100",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "tahak na vyuku nemčiny",
+          "id": 14819,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/09/vystrizek-novy2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "1800",
+          "width": "1100"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "3bc1618",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bfda93c",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=primary"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 50,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "edd3ede",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d5880dd",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_color": "#0A431B",
+         "icon_list": [
+          {
+           "_id": "3172ffa",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-meh-rolling-eyes"
+           },
+           "text": "Nebaví vás biflování a nudné šprtání gramatiky?"
+          },
+          {
+           "_id": "59bcc30",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-smile"
+           },
+           "text": "Bavíte se rádi při každé činnosti?"
+          },
+          {
+           "_id": "bb3005a",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-check-circle"
+           },
+           "text": "Máte chuť se učit jazyk s vtipem a legrací?"
+          }
+         ],
+         "icon_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size_mobile": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_family": "Tahoma",
+         "icon_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_weight": "600",
+         "icon_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "066cab9",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between_mobile": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_color": "#0A431B"
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9cfcfe3",
+        "settings": {
+         "_border_border": "solid",
+         "_border_color": "#BE6161",
+         "_border_radius": {
+          "bottom": "20",
+          "isLinked": true,
+          "left": "20",
+          "right": "20",
+          "top": "20",
+          "unit": "px"
+         },
+         "_border_width": {
+          "bottom": "4",
+          "isLinked": true,
+          "left": "4",
+          "right": "4",
+          "top": "4",
+          "unit": "px"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Pak je to právě pro vás! <br /><span style=\"color: #993366;\">Tahák na výuku němčiny spojuje zábavu a povinnost<br /></span> tak, aby vás to celé bavilo.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a55b85a",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_family": "Tahoma",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "851371f",
+        "settings": {
+         "_border_border": "none",
+         "_border_color": "#FAF3F3",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "37",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "10",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><span style=\"color: #000000;\"><strong>Tímto produktem si nekladu za cíl předávat odborné znalosti výuky jazyka.</strong></span></p><p><strong>Jsem člověk, který rád nachází řešení tam, kde je jiní nevidí. Věci dělám tak, aby mě bavily a dávaly mi smysl. Proto jsem sepsala tento „tahák studenta“, kterého nebaví klasická školní výuka a biflování a přesto se chce dorozumět.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "466b588",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_color": "#1E3870",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e426bd0",
+        "settings": {
+         "align": "center",
+         "align_tablet": "center",
+         "editor": "<p style=\"text-align: center;\"><strong>BUDU RÁDA, KDYŽ V NĚM NAJDETE INSPIRACI, POTĚŠENÍ ČI MILÉ POČTENÍ.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a75380e",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4843253",
+        "settings": {
+         "_margin": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "align": "center",
+         "background_color": "#BE6161",
+         "border_border": "none",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/x7h1f9"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "To se hodí",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "eb21a4a",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=primary"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 50,
+       "background_background": "classic",
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "f69078c",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "04f76b3",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2f7e85b",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5597c8e",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "a1bd80f",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_shadow_text_shadow": {
+          "blur": 5,
+          "color": "rgba(245.09999084472653, 79.39108399100925, 116.13523290205089, 0.3)",
+          "horizontal": 12,
+          "vertical": 0
+         },
+         "text_shadow_text_shadow_type": "yes",
+         "title": "Co o tomto TAHÁKU napsali první čtenáři, kteří se s ním už seznámili:",
+         "title_color": "#1E3870",
+         "typography_font_style": "italic",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f2fba0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5ab53fa",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4d47d1e",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-22",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#1E3870",
+         "job_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://baars.cz/"
+         },
+         "name_text_color": "#070607",
+         "pa_condition_repeater": [
+          {
+           "_id": "5d3d7b4",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Blančin \"Tahák na výuku němčiny\" přináší originální a neotřelé tipy, jak se učit němčinu hravou formou a neutratit u toho půlku výplaty za kurzy, které vás nakonec ani nebudou bavit.\nOceňuji spoustu užitečných odkazů a detailní vysvětlení u každého bodu.\nMoc mě baví Blančin příběh, protože ona sama je živoucím důkazem toho,\nže výuka jazyka není doménou jen náctiletých, a že i přesto, že je cesta k novým znalostem občas dost trnitá, výsledek vždy stojí za to.\nTěším se na další produkty.",
+         "testimonial_image": {
+          "id": 5408,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/veronika-baars.jpg"
+         },
+         "testimonial_job": "www.baars.cz",
+         "testimonial_name": "Verča Baars"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "de15eb6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c5f2218",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "56681e0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#1E3870",
+         "job_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://excelhrou.cz/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "98426a0",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Tahák na výuku němčiny mě velmi oslovil a pomohl mi při opětovném ponoření se do němčiny. Je znát, že autorka má bohaté osobní zkušenosti s učením se německého jazyka v cizí zemi a tipy, které v taháku uvádí, jsou velmi dostupné časově i finančně, efektivní, hravé, a především praxí ověřené. Navíc je ebook-tahák doplněn videi, ve kterých jsou všechny tři metody názorně ukázané. Tahák na výuku němčiny doporučuji každému, kdo se chce zdokonalit v porozumění a získat větší jistotu při konverzaci v němčině.",
+         "testimonial_image": {
+          "id": 5393,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Lucie-recenze-foto.jpg"
+         },
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "www.excelhrou.cz",
+         "testimonial_name": "Lucie Cagášková"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a696812",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "2ff32ce",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "7b3ed31",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bf55001",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e62a735",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "9316579",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pokud chcete tahák obdržet, pak vyplňte formulář níže.",
+         "title_color": "#BE6161",
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e3131b7",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"3956974:x7h1f9\">\r\n</div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "bc6df25",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "73bd104",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4701f88",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ebfe5a8",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "da83484",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c26da77",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "2",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#1E3870",
+         "job_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.petrabockova.cz/"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "aab5ec6",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "„Blančin „Tahák na výuku němčiny“ ve mně vzbudil zvědavost hned od první chvíle, a nakonec ještě výrazně předčil všechna má očekávání. Němčinu jsem se učila naposledy před 15 lety a nikdy jsem ji neovládala na vysoké úrovni. \nZe začátku jsem se proto bála, že to bude velký hendikep. K mému překvapení jsem ale velice brzy zjistila, že „Tahák“ je tak univerzální, že je vhodný opravdu pro každého. Moc se mi líbí interaktivní formát doplněný odkazy na videa, díky kterým získáte možnost seznámit se s jednotlivými metodami výuky přímo v praxi. Blančin „Tahák“ doporučuji všem, kteří mají zájem učit se jazyk efektivně a formou, která je bude bavit.“",
+         "testimonial_image": {
+          "id": 5820,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/05/Vystrizek-foto-Petra-Bockova.jpg"
+         },
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "www.petrabockova.cz",
+         "testimonial_name": "Mgr. Petra Bočková, webová kodérka"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "919bac6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "81728be",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "79c0ea3",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-39",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "847cb55",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cbf0e57",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-17",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#1E3870",
+         "job_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://kamilavrtiskova.cz/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5581bca",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "\"Tahák na výuku němčiny \" vám ukáže několik nových způsobů, jak pokořit němčinu. Vychází z osobní zkušenosti Blanky, která vyzkoušela všechny možné i nemožné způsoby studia tohoto jazyka. Nakonec našla ty nejefektivnější a nejjednodušší nástroje. Rozhodně si \"Tahák\" stáhněte, dozvíte se zajímavé informace, které využijete při studiu i jiných jazyků.",
+         "testimonial_image": {
+          "id": 6064,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/05/Kamila-foto.jpg"
+         },
+         "testimonial_job": "www.kamilavrtiskova.cz",
+         "testimonial_name": "Kamila z Cestujme společně"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "59ed7c1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "f377144",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "eacd08c",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-33",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b32b042",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5df1e7b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-24",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-13",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "d73b412",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "cbb6bd5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9fe71ff",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "7f48bee",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "25a9a4d",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c211cc2",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-12",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d75e24d",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac8c34f",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "28",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#1E3870",
+         "job_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": ""
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "8d9ef2f",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Tahák, jak na němčinu je hodnotný, přehledný a přínosný návod pro lidi, co jdou za prací do Rakouska, anebo rádi cestují do německy mluvících zemí a hledají tipy, jak se naučit komunikovat v běžných každodenních situacích.\nV taháku najdete několik přínosných návodů a praktických ukázkových videí. \nDíky za propracovaný, a lidsky napsaný, návod nabitý přínosnými informacemi.",
+         "testimonial_image": {
+          "id": 4994,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/foto-monika.jpg"
+         },
+         "testimonial_job": "vášnivá kuchařka",
+         "testimonial_name": "Monika"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "7360db9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8f6df5a",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c56babf",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "24",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-108",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#1E3870",
+         "job_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": ""
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "1be0fe3",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Právě jsem si jedním dechem přečetla tvůj tahák i mrkla na videa. Je to super inspirace. Vůbec jsem neměla tušení, že existují takové zábavné metody. Němčina se mi nelíbí, ale možná jí díky tvému taháku nakonec ještě přijdu na kloub. Máš to moc hezky zpracované.",
+         "testimonial_image": {
+          "id": 5400,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Iren-recenze-foto.jpg"
+         },
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "koučka",
+         "testimonial_name": "Iren Machová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c94b031",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-251",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-314",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-315",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c7385ea",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "43c05ce",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "10",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "ef97d06",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "42ef0f0",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-10",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-15",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2ba6ca0",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2358af0",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "04c4738",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "da0029a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "531bf6f",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7f7e9da",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-32",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "a658e3e",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "99121a7",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "240",
+          "right": "240",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "-36",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Tak si:</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "9c9466c",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7a66d62",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "240",
+          "right": "240",
+          "top": "-44",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-9",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "02bdfba",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "13342de",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "240",
+          "right": "240",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "icon_align": "center",
+         "icon_color": "#070707",
+         "icon_list": [
+          {
+           "_id": "270ac80",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-arrow-alt-circle-right"
+           },
+           "text": "stáhni ZDARMA"
+          },
+          {
+           "_id": "bd8f41a",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-book-reader"
+           },
+           "text": "přečti TAHÁK"
+          },
+          {
+           "_id": "d6e9c49",
+           "text": "pusť si VIDEO"
+          },
+          {
+           "_id": "0c0c80a",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "www.test.sblankouzahranice.eu/vylety"
+           },
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-smile"
+           },
+           "text": "bav se a uč se..."
+          }
+         ],
+         "icon_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "a6abe19",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between_tablet": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_color": "#0A0A0A"
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "da75096",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "240",
+          "right": "240",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Nejlépe s Blankou za hranice.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e7bbb52",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "600cbf6",
+        "settings": {
+         "align": "center",
+         "background_color": "#BE6161",
+         "border_border": "none",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/x7h1f9"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Chci TAHÁK",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "f63571a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "90949ec",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "50c0046",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_overlay_color": "globals/colors?id=kadence7"
+     },
+     "background_background": "classic",
+     "background_image": {
+      "alt": "pozadi sekce pocitac",
+      "id": 13989,
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/7-1.png"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_opacity": {
+      "size": 0.38,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_repeat": "no-repeat",
+     "background_size": "cover",
+     "background_size_mobile": "cover",
+     "background_size_tablet": "cover",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "8517caf",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "padding": {
+      "bottom": "50",
+      "isLinked": false,
+      "left": "50",
+      "right": "50",
+      "top": "30",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": "020",
+      "right": "020",
+      "top": "20",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "6397",
+  "_wp_page_template": "elementor_header_footer",
+  "_yoast_wpseo_focuskw": "Tahák na výuku němčiny. Německy hravě a vtipně.",
+  "_yoast_wpseo_metadesc": "S tímto tahákem na výuku němčiny se budete učit jazyk s radostí a vtipem. Návod je doplněn 3 praktickými videi ze života studenta němčiny, kterého nebaví nudné biflování. Vydejte se s Blankou za hranice a stáhněte si TAHÁK zdarma."
+ },
+ "modified": "2024-05-08 09:39:20",
+ "obsah_wordpress": "<h3>\n\t\t\t\t\tTahák na výuku němčiny - \n\t\t\t\t\t3 skvělé tipy,\n\t\t\t\t\tjak se naučit jazyk hravě a vtipně\n\t\t\t\t\t</h3>\n\t\t\t<h3>včetně tří praktických video ukázek </h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"452\" height=\"468\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/09/vystrizek-novy2.jpg\" alt=\"tahak na vyuku nemčiny\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/09/vystrizek-novy2.jpg 452w, https://sblankouzahranice.eu/wp-content/uploads/2022/09/vystrizek-novy2-290x300.jpg 290w\" sizes=\"(max-width: 452px) 100vw, 452px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tNebaví vás biflování a nudné šprtání gramatiky?\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBavíte se rádi při každé činnosti?\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMáte chuť se učit jazyk s vtipem a legrací?\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p style=\"text-align: center;\">Pak je to právě pro vás! <br />Tahák na výuku němčiny spojuje zábavu a povinnost<br /> tak, aby vás to celé bavilo.</p><p><strong>Tímto produktem si nekladu za cíl předávat odborné znalosti výuky jazyka.</strong></p><p><strong>Jsem člověk, který rád nachází řešení tam, kde je jiní nevidí. Věci dělám tak, aby mě bavily a dávaly mi smysl. Proto jsem sepsala tento „tahák studenta“, kterého nebaví klasická školní výuka a biflování a přesto se chce dorozumět.</strong></p><p style=\"text-align: center;\"><strong>BUDU RÁDA, KDYŽ V NĚM NAJDETE INSPIRACI, POTĚŠENÍ ČI MILÉ POČTENÍ.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/x7h1f9\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tTo se hodí\n\t\t\t\t\t</a>\n\t\t\t<h4>Co o tomto TAHÁKU napsali první čtenáři, kteří se s ním už seznámili:</h4>\t\t\n\t\t\t\t\t\t\tBlančin \"Tahák na výuku němčiny\" přináší originální a neotřelé tipy, jak se učit němčinu hravou formou a neutratit u toho půlku výplaty za kurzy, které vás nakonec ani nebudou bavit.\nOceňuji spoustu užitečných odkazů a detailní vysvětlení u každého bodu.\nMoc mě baví Blančin příběh, protože ona sama je živoucím důkazem toho,\nže výuka jazyka není doménou jen náctiletých, a že i přesto, že je cesta k novým znalostem občas dost trnitá, výsledek vždy stojí za to.\nTěším se na další produkty.\n\t\t\t\t\t\t\t<a href=\"https://baars.cz/\" target=\"_blank\" rel=\"noopener\"><img width=\"180\" height=\"159\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/veronika-baars.jpg\" alt=\"Veronika Baars\" /></a>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://baars.cz/\" target=\"_blank\" rel=\"noopener\">Verča Baars</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://baars.cz/\" target=\"_blank\" rel=\"noopener\">www.baars.cz</a>\n\t\t\t\t\t\t\tTahák na výuku němčiny mě velmi oslovil a pomohl mi při opětovném ponoření se do němčiny. Je znát, že autorka má bohaté osobní zkušenosti s učením se německého jazyka v cizí zemi a tipy, které v taháku uvádí, jsou velmi dostupné časově i finančně, efektivní, hravé, a především praxí ověřené. Navíc je ebook-tahák doplněn videi, ve kterých jsou všechny tři metody názorně ukázané. Tahák na výuku němčiny doporučuji každému, kdo se chce zdokonalit v porozumění a získat větší jistotu při konverzaci v němčině.\n\t\t\t\t\t\t\t<a href=\"https://excelhrou.cz/\" target=\"_blank\" rel=\"noopener\"><img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Lucie-recenze-foto-150x150.jpg\" alt=\"Lucie foto\" /></a>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://excelhrou.cz/\" target=\"_blank\" rel=\"noopener\">Lucie Cagášková</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://excelhrou.cz/\" target=\"_blank\" rel=\"noopener\">www.excelhrou.cz</a>\n\t\t\t<h4>Pokud chcete tahák obdržet, pak vyplňte formulář níže.</h4>\t\t\n\t\t\t\t\t\t\t„Blančin „Tahák na výuku němčiny“ ve mně vzbudil zvědavost hned od první chvíle, a nakonec ještě výrazně předčil všechna má očekávání. Němčinu jsem se učila naposledy před 15 lety a nikdy jsem ji neovládala na vysoké úrovni. \nZe začátku jsem se proto bála, že to bude velký hendikep. K mému překvapení jsem ale velice brzy zjistila, že „Tahák“ je tak univerzální, že je vhodný opravdu pro každého. Moc se mi líbí interaktivní formát doplněný odkazy na videa, díky kterým získáte možnost seznámit se s jednotlivými metodami výuky přímo v praxi. Blančin „Tahák“ doporučuji všem, kteří mají zájem učit se jazyk efektivně a formou, která je bude bavit.“\n\t\t\t\t\t\t\t<a href=\"https://www.petrabockova.cz/\" target=\"_blank\" rel=\"noopener\"><img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/Vystrizek-foto-Petra-Bockova-150x150.jpg\" alt=\"Petra\" /></a>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.petrabockova.cz/\" target=\"_blank\" rel=\"noopener\">Mgr. Petra Bočková, webová kodérka</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.petrabockova.cz/\" target=\"_blank\" rel=\"noopener\">www.petrabockova.cz</a>\n\t\t\t\t\t\t\t\"Tahák na výuku němčiny \" vám ukáže několik nových způsobů, jak pokořit němčinu. Vychází z osobní zkušenosti Blanky, která vyzkoušela všechny možné i nemožné způsoby studia tohoto jazyka. Nakonec našla ty nejefektivnější a nejjednodušší nástroje. Rozhodně si \"Tahák\" stáhněte, dozvíte se zajímavé informace, které využijete při studiu i jiných jazyků.\n\t\t\t\t\t\t\t<a href=\"https://kamilavrtiskova.cz/\" target=\"_blank\" rel=\"noopener\"><img width=\"209\" height=\"233\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/Kamila-foto.jpg\" alt=\"Kamila\" /></a>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://kamilavrtiskova.cz/\" target=\"_blank\" rel=\"noopener\">Kamila z Cestujme společně</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://kamilavrtiskova.cz/\" target=\"_blank\" rel=\"noopener\">www.kamilavrtiskova.cz</a>\n\t\t\t\t\t\t\tTahák, jak na němčinu je hodnotný, přehledný a přínosný návod pro lidi, co jdou za prací do Rakouska, anebo rádi cestují do německy mluvících zemí a hledají tipy, jak se naučit komunikovat v běžných každodenních situacích.\nV taháku najdete několik přínosných návodů a praktických ukázkových videí. \nDíky za propracovaný, a lidsky napsaný, návod nabitý přínosnými informacemi.\n\t\t\t\t\t\t\t<img width=\"183\" height=\"175\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/foto-monika.jpg\" alt=\"Monika foto\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMonika\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvášnivá kuchařka\n\t\t\t\t\t\t\tPrávě jsem si jedním dechem přečetla tvůj tahák i mrkla na videa. Je to super inspirace. Vůbec jsem neměla tušení, že existují takové zábavné metody. Němčina se mi nelíbí, ale možná jí díky tvému taháku nakonec ještě přijdu na kloub. Máš to moc hezky zpracované.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Iren-recenze-foto-150x150.jpg\" alt=\"Iren Machová\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIren Machová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tkoučka\n\t\t<p style=\"text-align: center;\">Tak si:</p>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tstáhni ZDARMA\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tpřečti TAHÁK\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tpusť si VIDEO\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://www.test.sblankouzahranice.eu/vylety\">\n\t\t\t\t\t\t\t\t\t\tbav se a uč se...\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p style=\"text-align: center;\">Nejlépe s Blankou za hranice.</p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/x7h1f9\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tChci TAHÁK\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "tahak-na-vyuku-nemciny",
+ "title": "Tahák na výuku němčiny",
+ "type": "page"
+}

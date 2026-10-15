@@ -1,0 +1,69 @@
+{
+ "ID": 19600,
+ "categories": [],
+ "date": "2023-11-12 21:15:06",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=organizacni-podpora-sekce-c-3",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6d5bbf29",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "17",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "3c954513",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "15f66c78",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2023-11-12 21:15:06",
+ "obsah_wordpress": "",
+ "parent": 0,
+ "slug": "organizacni-podpora-sekce-c-3",
+ "title": "ORGANIZAČNÍ PODPORA - sekce č.3",
+ "type": "elementor_library"
+}

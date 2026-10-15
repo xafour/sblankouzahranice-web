@@ -1,0 +1,3253 @@
+{
+ "ID": 4399,
+ "categories": [
+  "Okolí Vídně",
+  "Rakousko - Niederösterreich",
+  "Vyhlídky",
+  "Výlety"
+ ],
+ "date": "2021-03-29 23:20:44",
+ "excerpt": "Pěší turistika. Oblast Hohe Wand se spolu s dalšími oblastmi jako Raxalpen, Schneeberg a další označuje jako Vídeňské Alpy. Důvod je zcela jasný – všechny jmenované regiony jsou kousek za Vídní cca 1 hod cesty autem z Vídně. Oblast nese statut přírodního parku.",
+ "link": "https://sblankouzahranice.eu/hohe-wand-vyhlidka-skywalk/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5595388e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-23",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "d31676d",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "61fd387",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "background_background": "classic",
+       "background_color": "#FFFBFB",
+       "pa_condition_repeater": [
+        {
+         "_id": "115eae0",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "12245da7",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-17",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "0b9c279",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-shoe-prints"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "4b4b315f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 9,
+       "_inline_size_mobile": 6,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "41",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "1a8cee0",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6075c74",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-32",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Pěší turistika.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "8cefef3",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "76ef96c5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 85.648,
+       "_inline_size_mobile": 65,
+       "pa_condition_repeater": [
+        {
+         "_id": "27d5796",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "374bdcbc",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "14018a0",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "185954a",
+        "settings": {
+         "image": {
+          "id": 5447,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-trasa-70-km-1-hod.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "edc6aed",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "74843a4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c3aaca7",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3e212fe",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d8462fe",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83ec771",
+        "settings": {
+         "editor": "<p>Oblast Hohe Wand se spolu s dalšími oblastmi jako Raxalpen, Schneeberg a další označuje jako Vídeňské Alpy. <br />Důvod je zcela jasný – všechny jmenované regiony jsou kousek za Vídní cca 1 hod cesty autem z Vídně.<br />Oblast nese statut přírodního parku.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ca9475a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6d06506",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bcfe995",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "66321f6",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#81C8EC4A",
+     "margin": {
+      "bottom": "020",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "020",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "57fbaa4",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d26ca0a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-97",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "28",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "checklist na bote",
+          "id": 7329,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d8fc35e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 45,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "902a49a",
+        "settings": {
+         "align_mobile": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Checklist na výlety - 10 věcí, na které je dobré myslet, než se vydáte na výlet.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f665878",
+        "settings": {
+         "editor": "<p>Praktický pomocník do kterého jsem pro vás sbalila své KNOW-HOW z výletování.<br />Abyste si svůj výlet opravdu užili, stáhněte si ZDARMA zde tuto příručku i s praktickým seznamem věcí k odškrtání.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "abceab2",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=text",
+          "button_text_color": "globals/colors?id=text",
+          "typography_typography": ""
+         },
+         "align": "center",
+         "background_color": "#87CAD1",
+         "border_border": "solid",
+         "border_color": "#294568",
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/checklist-na-vylety/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "chci svůj CHECKLIST",
+         "typography_font_family": "Tahoma",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "813511b",
+        "settings": {
+         "editor": "",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "174c86f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 55,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6c456bd",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": ""
+     },
+     "border_border": "dashed",
+     "border_color": "#81C8EC4A",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "7d7dbf6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 20,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "17",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "f34896b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "404a4ac",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-50",
+          "top": "24",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4409,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Naturpark.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "500"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "f8ab662",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c3bd596",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-33",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "56",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4410,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "7371def",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bb1c4cc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 30,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "-53",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "16",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "-83",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "16aa072",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9f1d683",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-28",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "11",
+          "right": "0",
+          "top": "-18",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Do oblasti Hohe Wand jsme se vydali již několikrát. Dvakrát, pokaždé v jiném ročním období, jsme se vydali na stejné místo, a to k vyhlídkové terase Skywalk.</p><p>Poprvé jsme toto místo navštívili 20.ledna 2018, kdy jsme si udělali okružní výlet na vrcholku pohoří Hohe Wand.<br />Myslím, že není nic lepšího než se vydat nahoru na Hohe Wand a čerpat energii ze sluníčka. Pokud máte štěstí na počasí, můžete se kochat skutečně úžasnými výhledy.</p><p>Stolová hora Hohe Wand je sice náhorní rovinou, ale přesto ne pořád rovnou. <br />Nás pěší túra vedla kopcovitým lesem přírodního parku kolem různých hostincům, k návštěvnickému centru přírodního parku a k vyhlídce „Skywalk“.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6508020",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f840027",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "34",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "11",
+        "right": "0",
+        "top": "40",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "92a923c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a08384e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2f1405b",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "31"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1c9322e",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\">Bylo to v době mimo sezonu, takže nebyly otevřeny žádné restaurace.</p><p style=\"text-align: left;\">Nicméně počasí nám přálo, bylo sluníčko, takže bylo opravdu co obdivovat.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "2518913",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "fc73a6a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "33b7167",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "96f68bb",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6a7a86f",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2dbaaab",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "50db3c1",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "pattern_height": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "d21f863",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8275217",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a03871f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "16f1538",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0fc0c7e",
+        "settings": {
+         "align": "center",
+         "align_mobile": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "84965c2",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "V celé oblasti jsou dobře značené trasy Rundwanderweg a je tedy možné si vybrat déku i obtížnost dle vlastních potřeb a uvážení.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d99ed3c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "cfe5e0b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2736638",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "a50223d",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b89eea7",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "8445e1d",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "pattern_height": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "fe0af2c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8027234",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9ddf6ee",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ba73217",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "061fb68",
+        "settings": {
+         "image": {
+          "id": 4419,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-detail.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "e728a5b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "33396fe",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ce03f12",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "772d8a9",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "9",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "912e117",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "048a62c",
+        "settings": {
+         "editor": "<p>Naše trasa byl krásný půldenní výlet a zajímavostí tohoto zimního výletu byla nejen příroda ale i zvířata. <br />Část cesty k vyhlídkové plošině s námi šla koza. Nechtěla se nás pustit, byla krotká a vypadalo, že se k ní nikdo nehlásí. Šla s námi skoro 2 km. Rozlousknutí této záhady se nám dostalo na prostranství před vyhlídkovou terasou, kde nám majitelé z jedné Hütte sdělili, že jejich jedna koza je \"toulavka\" a dělá si občas dlouhé výlety. :-)</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "27e17ef",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "adcccd3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ffe5009",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cfc7520",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "8d8620a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f852b24",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "1",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4423,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-v-zime.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "720",
+          "width": "1250"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "dee1915",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "223c3d8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "f0a88d4",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "288f3e5",
+        "settings": {
+         "image": {
+          "id": 4424,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-na-lavici.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "1e10466",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "fa09207",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "03adb3d",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "20",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e71f8c9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "63be56f",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b647b84",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Největší atrakcí výletů v této oblasti je samozřejmě vyhlídková visutá terasa Skywalk. </strong></p><p>Nalézá se zhruba uprostřed jihovýchodní stěny nad útvarem Sonnenuhrwand.</p><p>Jedná se o vyhlídku zabudovanou do skály a návštěvníkům, kteří se odváží na ni vstoupit dává pocit, jako by stáli ve vzduchu.</p><p>Visutá plošina nabízí opravdu úchvatný výhled pod sebe do hlubin a současně i přes celý vídeňský alpský oblouk. <br />Při dobré viditelnosti je možné dohlédnout až k Neziderskému jezeru.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6e64301",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "37d784e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "96a1eb3",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a173236",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#81C8EC4A",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "80",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "25",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "80",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "50",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "85",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "54c1ef5",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7297713",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "675bc94",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "pattern_height": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "ed597e9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "88cdd37",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "08542ed",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d178627",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "5121caa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "16",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "302798b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ec14776",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-29",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "aab9b24",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "576353d",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "bcf04bc",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Dočetla jsem se, že: \nPlošina Skywalk byla vybudována v roce 2002, vystupuje 5 metrů do prostoru, ale není potřeba mít obavy, na protější straně je celá konstrukce zatížena protizávažími o celkové váze 30 tun.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "2a3e485",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0c4fe59",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "59872f1",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-11",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "953bf7e",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "18f2066",
+        "settings": {
+         "image": {
+          "id": 4439,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/vyhlidka.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "ffb6cec",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "eddabd2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a419659",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83cf37d",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4438,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Skywalk.jpg"
+         },
+         "image_size": "full",
+         "pa_condition_repeater": [
+          {
+           "_id": "6949b86",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6238d88",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "152",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "312809f",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "12",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7065e64",
+        "settings": {
+         "image": {
+          "id": 4440,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora-1.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "1cd4788",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4fbf338",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bfce5d2",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cfaa4ca",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "4c6fe3d",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ddfe3f7",
+        "settings": {
+         "editor": "<p>Podruhé jsme se na stejné místo podívali první teplý den následujícího roku přesně 18.května 2019.<br />Počasí nám s viditelností přálo, ale nahoře ( výška 1000 m ) pořádně foukalo. <br />Choulili jsme se tak do kapucí stejně, jako v lednu předchozího roku.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "c2f9986",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2ac8830",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d14736b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "49a71bf",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b09c594",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b3e1b09",
+        "settings": {
+         "image": {
+          "id": 4444,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-v-zime-do-udoli.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "6062ae0",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "80cb386",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "48794d3",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "46aa191",
+        "settings": {
+         "image": {
+          "id": 4445,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-v-zime.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4aceb6c",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7c1cf50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "70ccd0e",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7bab2e8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "f8bcc58",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8e95e30",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Více o možnostech dopravy = hromadnou dopravou, vlakem, autem, parkování, otvírací době i vstupném<span style=\"text-decoration: underline; color: #000080;\"> <a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.naturpark-hohewand.at/anreise-und-eintritt\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #000000; text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">ZDE.</span></span></a></span></strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ca9475a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9642063",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bcfe995",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9e8e527",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#81C8EC4A",
+     "margin": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "020",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "57fbaa4",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "edf26c6",
+        "settings": {
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "ae6b432",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Shrnutí trasy:"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0d66521",
+        "settings": {
+         "divider_style": "dotted",
+         "divider_width": {
+          "size": 0,
+          "sizes": [],
+          "unit": "%"
+         },
+         "icon_list": [
+          {
+           "_id": "81d580e",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Výlet s krásnou vyhlídkou Skywalk"
+          },
+          {
+           "_id": "085e150",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-star"
+           },
+           "text": "Zhruba 70 km od Vídně"
+          },
+          {
+           "_id": "08d7180",
+           "text": "Výlet v celkovém rozsahu nepřesahující 10 km, nejvyšší bod cca 1000 m"
+          },
+          {
+           "_id": "917ee4d",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-grin"
+           },
+           "text": "Okruh v přírodě s cestami střídajícího se povchu"
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5d43be3",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "e961f49",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f763080",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "30353c0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "8027785",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fce3d4e",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "26c184a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "pattern_height": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "c118cc7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8812285",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "163228d",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "8",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "04225b5",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e952900",
+        "settings": {
+         "_margin": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "25",
+          "unit": "px"
+         },
+         "editor": "<p>Další vyhlídkovou terasu Skywalk můžeme najít v Rakousku ve městě Hallstatt. Hallstatt Skywalk \"Welterbeblick\"<br />Tato vyhlídková plošina nám nabízí pohled na Hallstatt z ptačí perspektivy. Plošina se vznáší téměř volně ve výšce 360 metrů a umožňuje jedinečný pohled na <a href=\"https://www.facebook.com/108924701022144/posts/279347403979872/\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">městečko Hallstatt, zapsané na seznam světového dědictví UNESCO.</span></span></strong></a></p><p style=\"text-align: center;\"><strong>Ale o tom zase až příště v dalším výletu.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0a915d0",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "94696f4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "515c62b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7c3e340",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "885485a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1ebdc8f",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "a61280f",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "pattern_height": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "b8f709a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2aca0a0",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "17fccf5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d6a57ab",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2e8d9583",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 15,
+       "_inline_size_tablet": 9,
+       "pa_condition_repeater": [
+        {
+         "_id": "cea5206",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2dd802bd",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4d23d2a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "34409b57",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "97ffa42",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "210cd255",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 70,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#81C8EC4A",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "ebd8ce6",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "69dc2c2f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 14.994,
+       "pa_condition_repeater": [
+        {
+         "_id": "911b97d",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5b5a1f83",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c0783f7",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c6107ba",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "73ef544",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "74eee5f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "946a2e4",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6441ba4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "3be67fb",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fe20468",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "cd8facc",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Další zajímavé výlety v oblasti Niederösterreich, ze kterých je nádherný výhled.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "c99a085",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3e621f9",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "23ef238",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "79b73f1",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "30c7ed0",
+        "settings": {
+         "image": {
+          "id": 9104,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/10/vystrizek-vylet-2.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/rakousky-semmering-a-jeho-zeleznice/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "2e3bfad",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6132191",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a0e01fe",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1a3256b",
+        "settings": {
+         "image": {
+          "id": 9132,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/vystrizek-vylet.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/schneeberg/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "720877f",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a8c3afb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "df90341",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1717a64",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "0560b55",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "70e1f21",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "4539e33",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "c6c37fa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8ad0319",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bc715ee",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "909724b",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "4401",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Naturpark Hohe Wand. Vídeňské Alpy. Výlety v Rakousku. Skywalk.",
+  "_yoast_wpseo_metadesc": "Kousek za Vídní v oblasti Vídeňských Alp nalezneme krásné oblasti jako Hohe Wand, Raxalpen, Schneeberg aj. Speciální atrakcí přírodního parku Hohe Wand je vyhlídková terasa Skywalk s visutou vyhlídkovou plošinou."
+ },
+ "modified": "2025-07-11 16:00:30",
+ "obsah_wordpress": "<p>Pěší turistika.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"573\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-trasa-70-km-1-hod-768x573.jpg\" alt=\"mapka trasy ke skywalk\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-trasa-70-km-1-hod-768x573.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-trasa-70-km-1-hod-300x224.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-trasa-70-km-1-hod-1024x764.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-trasa-70-km-1-hod.jpg 1061w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Oblast Hohe Wand se spolu s dalšími oblastmi jako Raxalpen, Schneeberg a další označuje jako Vídeňské Alpy. <br />Důvod je zcela jasný – všechny jmenované regiony jsou kousek za Vídní cca 1 hod cesty autem z Vídně.<br />Oblast nese statut přírodního parku.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"225\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web-225x300.jpg\" alt=\"checklist na bote\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web-225x300.jpg 225w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg 432w\" sizes=\"(max-width: 225px) 100vw, 225px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h4>Checklist na výlety - 10 věcí, na které je dobré myslet, než se vydáte na výlet.</h4>\t\t\t\t\n\t\t<p>Praktický pomocník do kterého jsem pro vás sbalila své KNOW-HOW z výletování.<br />Abyste si svůj výlet opravdu užili, stáhněte si ZDARMA zde tuto příručku i s praktickým seznamem věcí k odškrtání.</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/checklist-na-vylety/\">\n\t\t\t\t\t\t\t\t\tchci svůj CHECKLIST\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Naturpark-qr9gp9ye64n5zwkmlvlkcohf8kq71vhssl5vxv6ht8.jpg\" title=\"Naturpark\" alt=\"naturpark\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora.jpg\" alt=\"hohe wand\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Do oblasti Hohe Wand jsme se vydali již několikrát. Dvakrát, pokaždé v jiném ročním období, jsme se vydali na stejné místo, a to k vyhlídkové terase Skywalk.</p><p>Poprvé jsme toto místo navštívili 20.ledna 2018, kdy jsme si udělali okružní výlet na vrcholku pohoří Hohe Wand.<br />Myslím, že není nic lepšího než se vydat nahoru na Hohe Wand a čerpat energii ze sluníčka. Pokud máte štěstí na počasí, můžete se kochat skutečně úžasnými výhledy.</p><p>Stolová hora Hohe Wand je sice náhorní rovinou, ale přesto ne pořád rovnou. <br />Nás pěší túra vedla kopcovitým lesem přírodního parku kolem různých hostincům, k návštěvnickému centru přírodního parku a k vyhlídce „Skywalk“.</p><p style=\"text-align: left;\">Bylo to v době mimo sezonu, takže nebyly otevřeny žádné restaurace.</p><p style=\"text-align: left;\">Nicméně počasí nám přálo, bylo sluníčko, takže bylo opravdu co obdivovat.</p>\t\t\n\t\t\t\t\t<h4>V celé oblasti jsou dobře značené trasy Rundwanderweg a je tedy možné si vybrat déku i obtížnost dle vlastních potřeb a uvážení.</h4>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"488\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-detail-1024x555.jpg\" alt=\"mapka\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-detail-1024x555.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-detail-300x163.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-detail-768x417.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-detail.jpg 1497w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Naše trasa byl krásný půldenní výlet a zajímavostí tohoto zimního výletu byla nejen příroda ale i zvířata. <br />Část cesty k vyhlídkové plošině s námi šla koza. Nechtěla se nás pustit, byla krotká a vypadalo, že se k ní nikdo nehlásí. Šla s námi skoro 2 km. Rozlousknutí této záhady se nám dostalo na prostranství před vyhlídkovou terasou, kde nám majitelé z jedné Hütte sdělili, že jejich jedna koza je \"toulavka\" a dělá si občas dlouhé výlety. :-)</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/koza-v-zime-qr9gp9ynb1i9bvvc8n3zs9n3k07g5o371sowcb73fk.jpg\" title=\"koza v zimě\" alt=\"Koza v krajině\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"497\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-na-lavici-768x497.jpg\" alt=\"Koza ve sněhu\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-na-lavici-768x497.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-na-lavici-300x194.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-na-lavici-1024x662.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/koza-na-lavici.jpg 1200w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Největší atrakcí výletů v této oblasti je samozřejmě vyhlídková visutá terasa Skywalk. </strong></p><p>Nalézá se zhruba uprostřed jihovýchodní stěny nad útvarem Sonnenuhrwand.</p><p>Jedná se o vyhlídku zabudovanou do skály a návštěvníkům, kteří se odváží na ni vstoupit dává pocit, jako by stáli ve vzduchu.</p><p>Visutá plošina nabízí opravdu úchvatný výhled pod sebe do hlubin a současně i přes celý vídeňský alpský oblouk. <br />Při dobré viditelnosti je možné dohlédnout až k Neziderskému jezeru.</p>\t\t\n\t\t\t\t\t<h5>Dočetla jsem se, že: \nPlošina Skywalk byla vybudována v roce 2002, vystupuje 5 metrů do prostoru, ale není potřeba mít obavy, na protější straně je celá konstrukce zatížena protizávažími o celkové váze 30 tun.</h5>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/vyhlidka.jpg\" alt=\"vyhlidka\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/vyhlidka.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/vyhlidka-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Skywalk.jpg\" alt=\"skywalk\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Skywalk.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Skywalk-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"375\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora-1.jpg\" alt=\"Pohled do krajiny\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora-1.jpg 375w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-zeshora-1-169x300.jpg 169w\" sizes=\"(max-width: 375px) 100vw, 375px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Podruhé jsme se na stejné místo podívali první teplý den následujícího roku přesně 18.května 2019.<br />Počasí nám s viditelností přálo, ale nahoře ( výška 1000 m ) pořádně foukalo. <br />Choulili jsme se tak do kapucí stejně, jako v lednu předchozího roku.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"506\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-v-zime-do-udoli-1024x576.jpg\" alt=\"Pohled od údolí\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-v-zime-do-udoli-1024x576.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-v-zime-do-udoli-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-v-zime-do-udoli-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/pohled-v-zime-do-udoli.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"506\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-v-zime-1024x576.jpg\" alt=\"Ja v zimě\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-v-zime-1024x576.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-v-zime-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-v-zime-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-v-zime.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Více o možnostech dopravy = hromadnou dopravou, vlakem, autem, parkování, otvírací době i vstupném <a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.naturpark-hohewand.at/anreise-und-eintritt\" target=\"_blank\" rel=\"noopener\">ZDE.</a></strong></p>\t\t\n\t\t\t\t\t<h4>Shrnutí trasy:</h4>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVýlet s krásnou vyhlídkou Skywalk\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZhruba 70 km od Vídně\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVýlet v celkovém rozsahu nepřesahující 10 km, nejvyšší bod cca 1000 m\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tOkruh v přírodě s cestami střídajícího se povchu\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Další vyhlídkovou terasu Skywalk můžeme najít v Rakousku ve městě Hallstatt. Hallstatt Skywalk \"Welterbeblick\"<br />Tato vyhlídková plošina nám nabízí pohled na Hallstatt z ptačí perspektivy. Plošina se vznáší téměř volně ve výšce 360 metrů a umožňuje jedinečný pohled na <a href=\"https://www.facebook.com/108924701022144/posts/279347403979872/\" target=\"_blank\" rel=\"noopener\"><strong>městečko Hallstatt, zapsané na seznam světového dědictví UNESCO.</strong></a></p><p style=\"text-align: center;\"><strong>Ale o tom zase až příště v dalším výletu.</strong></p>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t\t\t\t<h4>Další zajímavé výlety v oblasti Niederösterreich, ze kterých je nádherný výhled.</h4>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/rakousky-semmering-a-jeho-zeleznice/\">\n\t\t\t\t\t\t\t<img width=\"453\" height=\"563\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/10/vystrizek-vylet-2.jpg\" alt=\"Nahled.obrazek vylety semmering\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/10/vystrizek-vylet-2.jpg 453w, https://sblankouzahranice.eu/wp-content/uploads/2021/10/vystrizek-vylet-2-241x300.jpg 241w\" sizes=\"(max-width: 453px) 100vw, 453px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/schneeberg/\">\n\t\t\t\t\t\t\t<img width=\"449\" height=\"564\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/vystrizek-vylet.jpg\" alt=\"Nahled.obrazek vylety Schneeberg\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/vystrizek-vylet.jpg 449w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/vystrizek-vylet-239x300.jpg 239w\" sizes=\"(max-width: 449px) 100vw, 449px\" />\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "hohe-wand-vyhlidka-skywalk",
+ "title": "Naturpark Hohe Wand - vyhlídka Skywalk",
+ "type": "post"
+}

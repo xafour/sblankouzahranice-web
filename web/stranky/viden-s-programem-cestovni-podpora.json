@@ -1,0 +1,4843 @@
+{
+ "ID": 17880,
+ "categories": [],
+ "date": "2023-05-05 21:43:18",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/viden-s-programem-cestovni-podpora/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "784d01c",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Cestovní podpora Vídeň a okolí s programem pro skupiny a firmy.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "303c5d40",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-14",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-16",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height": {
+          "size": 400,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 140,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_tablet": {
+          "size": 315,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "alt": "zahlavi webu-skupinova podpora",
+          "id": 21074,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_tablet": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "06ede80",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-25",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "-10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "hide_mobile": "hidden-mobile",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "...poznejte metropoli Rakouska jako místní s Češkou žijící ve Vídni.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "7c09d65d",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin_mobile": {
+        "bottom": "15",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "35",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "32050405",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "63",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "6f265b2a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "23488d0c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "shape_divider_bottom_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-65",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-15",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 75,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 86,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d0349ee",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "25",
+          "unit": "px"
+         },
+         "after_text": "a hodila by se vám pomoc s organizací.",
+         "before_text": "Už nějaký ten čas",
+         "highlighted_text": "plánujete, že byste Vídeň a okolí chtěli navštívit",
+         "marker_color": "#E8270E",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#B1431A",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "a8bb3da",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "none",
+       "border_color": "#B1431A",
+       "border_width": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5b1b67e",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8",
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_radius": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "border_width": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0d27fad",
+        "settings": {
+         "_padding": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "after_text": "do metropole Rakouska?",
+         "before_text": "Stále",
+         "highlighted_text": "přemýšlíte, jak zorganizovat výlet",
+         "marker_color": "#E8270E",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#B1431A"
+        },
+        "widgetType": "animated-headline"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4af95b0",
+        "settings": {
+         "_padding": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "after_text": "a nechte si svůj pobyt připravit od Češky, žíjicí ve Vídni. ",
+         "before_text": "",
+         "highlighted_text": "Využijte službu cestovní podpory",
+         "marker_color": "#E8270E",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#B1431A"
+        },
+        "widgetType": "animated-headline"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d25a726",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přestaňte přemýšlet a tápat, začněte plány realizovat a využijte své dny ve Vídni naplno.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "7a63f1b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "none",
+       "border_color": "#B1431A",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "02da757",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8",
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": false,
+      "left": "4",
+      "right": "4",
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2921ee6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6453449",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "35",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b1e915f",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": "globals/colors?id=accent",
+          "words_typography_typography": "globals/typography?id=accent"
+         },
+         "after_text": "je služba vhodná:",
+         "animated_text_stroke_text_stroke_mobile": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "animated_text_stroke_text_stroke_type": "yes",
+         "before_text": "",
+         "highlighted_text": "Pro koho ",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_color": "#0A431B",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_typography_font_family": "Roboto",
+         "words_typography_font_weight": "700",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "eafc253",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a34b310",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6c43290",
+        "settings": {
+         "editor": "<ul><li>Pro podnikové, školní a zájmové skupiny Čechů či Slováků.</li><li>Pro 5-30 členné kolektivy, kamarády či přátelé, kteří chtějí poznat Vídeň a využít své dny v metropoli Rakouska na maximum.</li><li>Pro všechny, co se cítí nejistě v zařizování a organizaci pobytu.</li><li>Pro ty, kdo potřebují šetřit čas při plánování cesty.</li><li>Pro každého, koho zajímá více, než jen projít kolem památek a užít si nákupy.</li><li>Pro všechny, kteří ocení pomoc s přípravou a organizací a chtějí své dny ve Vídni využít naplno.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d4187ca",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3b80b7d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1af8586",
+        "settings": {
+         "anchor": "skupinovapodporareference",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "acca6c5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "45ec558",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "836210f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3233a34",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "36862cf",
+        "settings": {
+         "__globals__": {
+          "words_color": ""
+         },
+         "before_text": "Co",
+         "highlighted_text": "o službě napsali.",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#CB491E",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "a0028c9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1671865",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db7a50f",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Aho Blani, včera jsme v pořádku dorazily domů. Moc děkuji za všechno. Krásně jsi nám připravila program, moc jsme si to užily.",
+         "testimonial_image": {
+          "alt": "Foto recenze Podnikavky",
+          "id": 21746,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/08/foto-do-recenze-Podnikavky.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "Zakladatelka projektu Podnikavé ženy z Vysočiny",
+         "testimonial_name": "Martina Váchová"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "38e3ffc",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cee925d",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "00",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "\nDěkujeme za spolupráci. Se spoluprací jsme byli velmi spokojeni. Služba cestovní podpory nám podstatně usnadnila sestavení plánu programu, sama bych to vzhledem k časovému vytížení nedala dohromady.\nVaši službu bych doporučila a také doporučím dalším školám a známým, pokud bude někdo chtít navštívit Vídeň:-)\n\n",
+         "testimonial_image": {
+          "alt": "recenze Gymnazium",
+          "id": 21741,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/08/Foto-do-recenzeS.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "Gymnázium Thomase Manna",
+         "testimonial_name": "Pavla Petrová"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "801ec28",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a57f021",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a9e3eea",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "\nMilá Blanko, moc děkujeme za krásně strávený den s Vámi. Bezvadně připravený itinerář, praktické rady a doporučení přispěly k tomu, že jsme si dny ve Vídni bezvadně užili. Těšíme na Vaše další náměty na výlety i v okolí Vídně. (Jarmila).\n\nDíky za praktické rady a doporučení, velice nám pomohly v orientaci ve Vídni, též jízdenka na celou dobu pobytu je skvělou volbou. (Markéta).\n\nVýlet byl super, užily jsme si Vídeň v klidu a pohodě. Určitě se sem zase vrátíme. Tento typ výletu (s cestovní podporou) mohu jen doporučit. (Ivana).\n\n\n",
+         "testimonial_image": {
+          "alt": "Cestovni podpora",
+          "id": 21616,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/06/Foto-zen-pani-Sucur.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "Parta 4 skvělých žen",
+         "testimonial_name": "Jarmila, Markéta, Ivana +1"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "a2fc7a2",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d54d8ab",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Moc děkuju za itinerář na náš výlet, bylo to tak jak jsem si představoval. Měl jsem mustr, co a jak, a to bylo super! Skvělá a rychlá služba.\n",
+         "testimonial_image": {
+          "alt": "recenze",
+          "id": 23068,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-cykliste.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "a skupina cyklistů",
+         "testimonial_name": "Karel Koutek"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "d23be54",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1007c13",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "87b5a69",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Na naší jednodenní zastávce ve Vídni nás doprovázela úžasná paní Blanka-služba Cestovní podpory. Paní Blanka má srdce rozdělené mezi dvě města: Vídeň a Prahu a díky jejímu výkladu se z návštěvy metropole Rakouska, i díky poutavému vyprávění, stal nezapomenutelný zážitek.\n",
+         "testimonial_image": {
+          "alt": "Cestovni podpora",
+          "id": 23896,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/foto.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "František Třeštík, předseda Poděbradský spolek postižených civilizačními chorobami ",
+         "testimonial_name": ""
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "f2d8cf6",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2b8fb68",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Děkujeme za Vaši péči o naší divokou skupinu. Myslim, že jsme si to pěkně užili :-) Děkuji i za vysvětlení sochy.\nPoradíme se a dáme vědět ohledně dalšího výletu. Za mě a za kolegy z\nfirmy si myslím, že si to rádi zopakujeme!\n",
+         "testimonial_image": {
+          "alt": "reference",
+          "id": 24120,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/12/vystrizek-na-referenci.png"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "firma z Moravy",
+         "testimonial_name": "ing.Luděk Novák "
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "3e605d3",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "91e5a21",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6de9f92",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Všichni jsme se společně shodli na tom, že jste měla skvěle připravené materiály a podklady, se kterými se mohli žáci seznámit předem a věděli, co je čeká. První aktivita pro děti při poznávání Vídně, abyste je zapojila, to bylo super! Celkově jste prohlídku města postavila velmi dobře a vše na sebe příjemně navazovalo. Byli jsme s vámi velmi spokojeni, pomohla jste hned v několika kritických situacích a vykomunikovala vše potřebné, k dětem jste byla milá a přestože skupina byla opravdu velká, měla jste s nimi trpělivost, za což Vám moc děkujeme. \n",
+         "testimonial_image": {
+          "alt": "Recenze",
+          "id": 24891,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/05/Fotka.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "54 žáků/kyň a 3 pedagogové Pavla, Petra a Alena",
+         "testimonial_name": "ZŠ Dolní Břežany"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "26b3add",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b104c1c",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_size": {
+          "size": 115,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "Tato další reference může být od vaší skupinky.\nPřijeďte si užít dny do Vídně. Spojte teambuilding se zábavou. Pomohu vám připravit program či itinerář na který nezapomenete.\n",
+         "testimonial_image": {
+          "alt": "recenze",
+          "id": 23037,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "kolektiv firmy xxx",
+         "testimonial_name": ""
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "14a3a2e",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0ab5c35",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fc9c923",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "d3227a8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "964ab96",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1899830",
+        "settings": {
+         "__globals__": {
+          "words_color": ""
+         },
+         "after_text": "v průběhu roku.",
+         "before_text": "Možné ",
+         "highlighted_text": "varianty programu",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#CB491E",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "5a61d9b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c59affb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "238a9e3",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "a5c4c76",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ccd63cb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6d54e88",
+        "settings": {
+         "description_text": "Rozkvétající zahrady Vídně s velikonočními trhy.",
+         "image": {
+          "alt": "Jaro ve Vidni",
+          "id": 23897,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/1-JARO.png"
+         },
+         "image_size": {
+          "size": 60,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/story.php?story_fbid=1212422364220482&id=100063581893321&rdid=9jDa9C37bKF6ZO7U#"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Jaro - Vídeňské zahrady."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6f6122d",
+        "settings": {
+         "editor": "<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně <span style=\"text-decoration: underline;\"><a href=\"https://www.facebook.com/story.php?story_fbid=1195010622628323&amp;id=100063581893321&amp;rdid=aBthEBjT2NZxabwI#\" target=\"_blank\" rel=\"noopener\">s velikonočními trhy.</a></span><br />&gt; 2.den:  zámek Schönbrunn nebo Belveder/volný program.<br />&gt; 3.den: parky a zahrady Vídně.</p></blockquote>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "b21adf8",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "20",
+        "isLinked": true,
+        "left": "20",
+        "right": "20",
+        "top": "20",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e182e84",
+        "settings": {
+         "description_text": "Vídeňské pláže a promenády.",
+         "image": {
+          "alt": "Léto ve Vidni",
+          "id": 23898,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/2-LETO.png"
+         },
+         "image_size": {
+          "size": 60,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/story.php?story_fbid=771892348273488&id=100063581893321&rdid=qVzEjlOoLI4WXxi4#"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Léto - Dotek exotiky a chuť karibiku."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e5b5f8f",
+        "settings": {
+         "editor": "<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně s večerní návštěvou vyhlídkového baru.<br />&gt; 2.den:  Hundertwasserhaus a po Hundertwasserpromenádě na nejznámější městskou písečnou pláž s barem.<br />&gt; 3.den: návštěva pláží kolem Dunaje s možností koupání a relaxace.</p></blockquote>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7f11db5",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "20",
+        "isLinked": true,
+        "left": "20",
+        "right": "20",
+        "top": "20",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "45b1895",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4e6f64e",
+        "settings": {
+         "description_text": "Vídeň pro milovníky vína a gastronomie.",
+         "image": {
+          "alt": "Podzim ve Vidni",
+          "id": 23899,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/3-PODZIM.png"
+         },
+         "image_size": {
+          "size": 60,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/story.php?story_fbid=804779204984802&id=100063581893321&rdid=qrwyYvgBcPUemYMp#"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Podzim - putování vinicemi."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5f26f58",
+        "settings": {
+         "editor": "<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně s návštěvou trhu Naschmarkt.<br />&gt; 2.den:  Weinwandertag - speciální akce s putováním po vinicích.<br />&gt; 3.den:  oddychový - kultura či kulinářské zážitky.</p></blockquote>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d23eed9",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "20",
+        "isLinked": true,
+        "left": "20",
+        "right": "20",
+        "top": "20",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4a78b2e",
+        "settings": {
+         "description_text": " Tradiční vánoční trhy metropole Rakouska.",
+         "image": {
+          "alt": "Zima ve Vídni",
+          "id": 23900,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/4-ZIMA.png"
+         },
+         "image_size": {
+          "size": 60,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/story.php?story_fbid=1123399779789408&id=100063581893321&rdid=PlwLTJfJfHg08KXT#"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": " Zima - Adventní Vídeň."
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d6b2d7f",
+        "settings": {
+         "editor": "<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně s vánočními trhy.<br />&gt; 2.den:  zámek Schönbrunn s vánočními trhy.<br />&gt; 3.den:  <span style=\"text-decoration: underline;\"><a href=\"https://www.facebook.com/story.php?story_fbid=1148792700583449&amp;id=100063581893321&amp;rdid=GMPg9JMijV7EzVw7#\" target=\"_blank\" rel=\"noopener\">Magická světelná zahrada zámku Laxenburg</a></span></p></blockquote>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "666022e",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "20",
+        "isLinked": true,
+        "left": "20",
+        "right": "20",
+        "top": "20",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ea73344",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dc7f386",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Výše uvedené programy jsou čistě orientační pro vaši inspiraci. Váš program je možné jakkoliv upravovat."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "fc7c465",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "65edc09",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "61bb3a9",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "9d9b7a4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ef734d0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "be82ecf",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": "globals/colors?id=accent",
+          "words_typography_typography": "globals/typography?id=accent"
+         },
+         "animated_text_stroke_text_stroke_mobile": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "animated_text_stroke_text_stroke_type": "yes",
+         "before_text": "Co",
+         "highlighted_text": "můžete zažít:",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_color": "#0A431B",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_typography_font_family": "Roboto",
+         "words_typography_font_weight": "700",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "9e191b2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7676340",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a2b1b36",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>3-4 denní pobyt ve Vídni s maximálním využitím všech dní k poznání Vídně a okolí s pocitem jistoty, že si své dny opravdu užijete naplno.</strong></p><p style=\"text-align: center;\">Nebudete se muset zdržovat zjišťováním nutných informací a ušetříte čas při plánování itineráře.</p><p style=\"text-align: center;\"><strong>Pro cestu si zvolíte vlastní typ dopravy a budete mít k dispozici podporu a pomoc na místě ve Vídni.<br /></strong><br />Pomoc a podporu od Češky, žijící od roku 2018 v metropoli Rakouska.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2206555",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=kadence1"
+         },
+         "_border_border": "solid",
+         "_border_radius": {
+          "bottom": "10",
+          "isLinked": true,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "_border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "00",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "mailto:blanka@sblankouzahranice.eu"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Chceme jet do Vídně a využít cestovní pomoc a podporu.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_text_decoration": "underline",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "85a8d78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "794e6b2",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23da738",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "74dbdc0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0e09a75",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "32d3465",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": "globals/colors?id=kadence2",
+          "words_typography_typography": "globals/typography?id=accent"
+         },
+         "after_text": "této kombinované nabídky s programem.",
+         "before_text": "",
+         "highlighted_text": "Proč využít",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "b9ab721",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "306adb7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "aa02363",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<ul><li><strong>Ušetříte čas</strong> hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat.<br /><br /></li><li><strong>Neztratíte se</strong> <strong>ve výběru</strong> a pořizování nejvýhodnějších <strong>jízdenek</strong> městské dopravy.<br /><br /></li><li>Budete mít <strong>zajištěn program na všechny dny </strong>v metropoli Rakouska, případně v okolí.<br /><br /></li><li><strong>Nebudete bloudit</strong> a hledat <strong>jak</strong> nejlépe <strong><strong><strong><strong><strong>z místa A do místa B.<br /><br /></strong></strong></strong></strong></strong></li><li><strong>Během jednoho odpoledne projdete městem</strong> kolem nejznámějších památek <strong><strong><strong><strong><strong>a nasajete Vídeň.<br /><br /></strong></strong></strong></strong></strong></li><li><strong>Lehce najdete legendární hotel Sacher,</strong> kde si v kavárně můžete vychutnat zážitek a vůni pravé Vídeňské kávy a originální Sacher dort.<br /><br /></li><li><strong>Připravený program </strong>v návaznosti na roční období či události ve Vídni.<br /><br /></li><li><strong>Projdete nejhlavnější turistické cíle a památky v centru Vídně </strong>v rámci komentované cca 3 hodinové procházky.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9ec4b5f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "98f3c14",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68f0a1c",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "60906f7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b1af77e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7dc254d",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": "globals/colors?id=kadence2",
+          "words_typography_typography": "globals/typography?id=accent"
+         },
+         "after_text": "výletu v délce 3(4) dny.",
+         "before_text": "Jaký je rámcový",
+         "highlighted_text": "PROGRAM ",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "eecf82d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f820c65",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "62cf226",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "1.den"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1ea4e85",
+        "settings": {
+         "editor": "<ul><li><strong>Příjezd do Vídně</strong> a vyzvednutí skupiny na předem domluveném místě.</li><li><strong>Základní, organizační informace a pomoc po příjezdu v rámci služby CESTOVNÍ PODPORY.</strong></li></ul><p><strong>Služba zahrnuje:</strong><br /><span style=\"color: #008000;\"><strong>&gt;</strong></span> <strong>Vyzvednutí na místě příjezdu.<br /></strong><br /><span style=\"color: #008000;\"><strong>&gt;</strong></span> <strong>Rady a pomoc</strong> kam uložit zavazadla do doby, než se přesunete na hotel nebo pomoc s check-inn v ubytování.<br /><br /><span style=\"color: #008000;\"><strong>&gt;</strong></span><strong> Informace o městské hromadné dopravě </strong>a pomoc s obstaráním jízdenek na MHD na celý váš pobyt.<br /><br /><span style=\"color: #008000;\"><strong>&gt;</strong></span> <strong>Dostanete informace</strong>, jak zjistit nejlepší <strong>spojení z místa A do místa B</strong> (jednoduchá aplikace do mobilu vč. jízdních řádů).<br /><br /><span style=\"color: #008000;\"><strong>&gt;</strong></span><strong> Při společné procházce</strong> městem <strong>se seznámíte s centrem Vídně a mnoha známými turistickými body</strong> (Opera, Albertina, Hotel Sacher, Stephansdom, Rathaus a další). <br />Navíc dostanete informace,<span style=\"font-family: var(--global-body-font-family);\"> co vše je možné vidět a navštívit v metropoli Rakouska, kde se dobře najíst, kam zajít, kde nakupovat a další informace z praktického života a pohybu ve Vídni od skutečného obyvatele Vídně.<br /></span></p><ul><li><strong>Přesun do vybraného ubytování</strong> po vlastní ose nebo společně-dle jednotlivých programů.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 2,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.6,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "63c29db",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "59db3b9",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0e6af6a",
+        "settings": {
+         "caption": "Hofburg",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Hofburg",
+          "id": 18003,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "405f678",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b8f912d",
+        "settings": {
+         "caption": "Karlskirche",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Karlskirche",
+          "id": 18004,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Karlskirche.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "edebde6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "188792e",
+        "settings": {
+         "caption": "Opera",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Opera Viden",
+          "id": 18005,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Opera.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "54fcf26",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b73aa3f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a7ec08e",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "2.den"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b62e3e6",
+        "settings": {
+         "editor": "<ul><li style=\"text-align: left;\"><strong>Doprovodný program<br /></strong>dle jednotlivých témat roku či na základě individuálního itineráře.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.6,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "44a3977",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c598376",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d923c43",
+        "settings": {
+         "caption": "zámek Laxenburg",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Laxenburg",
+          "id": 17927,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Laxenburg.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8ffb06a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4fb438e",
+        "settings": {
+         "caption": "zámecký park ",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Laxenburg",
+          "id": 17929,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Laxenburg2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e346556",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c91b5e2",
+        "settings": {
+         "caption": "Laxenburg - klenot mezi výletními místy",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Laxenburg",
+          "id": 17932,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Laxenburg1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "92648e7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4978f4d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "992fd8a",
+        "settings": {
+         "caption": "Baden Römertherme",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Baden Therme",
+          "id": 21680,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/07/Romertherme.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "470",
+          "width": "750"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1061839",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a79a27",
+        "settings": {
+         "caption": "Římské lázně",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Baden",
+          "id": 21681,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/07/termaly.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e776ace",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4c5bc62",
+        "settings": {
+         "caption": "Lázeňské město u Vídně",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Baden",
+          "id": 21682,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/07/mesto1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0df692e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2378aa3",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "855c95b",
+        "settings": {
+         "caption": "Burggarten a Schmeterlinghaus",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17924,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "750"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4104a77",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e1b1231",
+        "settings": {
+         "caption": "Burggarten",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17925,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4675730",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bc42f94",
+        "settings": {
+         "caption": "Parky v centru Vídně",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17926,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-3.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "290",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "fcb0d66",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1ba0ed7",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "07a4547",
+        "settings": {
+         "caption": "zámek Schönbrunn",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Schönbrunn",
+          "id": 17942,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "595c237",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "47fe6f4",
+        "settings": {
+         "caption": "zámek Schönbrunn",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Schönbrunn",
+          "id": 17943,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-3.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e0a3237",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "372b29b",
+        "settings": {
+         "caption": "zámek Schönbrunn",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Schönbrunn",
+          "id": 17944,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ae5f621",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "65f7f19",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "40eb2e7",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "3.den"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fc3ecb2",
+        "settings": {
+         "editor": "<ul><li><strong>Volný program dle vlastního výběru. </strong><br />Lze si vybrat další prohlídku města a návštěvu vybraných památek – buď každý sám nebo společně, jak se skupina dohodne.<br />Nebo lze čas využít  pro nákupy.<p><strong>Program je individuální a je předem odsouhlasem zadavatelem služby.</strong></p></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.6,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53356d5",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "40",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\"><strong>Možnost návratu zpět domů do ČR již tento třetí den. </strong><strong>Nebo možnost pokračovat a využít i čtvrtý den.<br /></strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "379bfb5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "58ed896",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a59649",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "4.den"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6a09b4a",
+        "settings": {
+         "editor": "<ul><li style=\"text-align: left;\"><strong>Individuální program na základě vašeho rozhodnutí, si pobyt ve Vídni prodloužit.</strong><br />Nabízí se návštěva dalších památek veVídni:<p><span style=\"color: #008000;\"><strong><br />&gt; </strong></span><strong>Hundertwasserhaus. </strong>Více o tom, kdo byl Hundertwasser najdete <span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/zwettl-niederosterreich/#hundertwasser\" target=\"_blank\" rel=\"noopener\">ZDE.</a></strong></span></p><p><span style=\"color: #008000;\"><strong>&gt;</strong></span> <strong>Zábavní park Prátr.</strong> Jeho velkou část po Hauptalle je možné projet v malém vláčku tzv. Liliputbahn.</p><p><span style=\"color: #008000;\"><strong>&gt;</strong></span> <strong>Zámek Belveder</strong> -  nedaleko Hlavního nádraží (Hauptbahnhof).</p><p><span style=\"color: #008000;\"><strong>&gt;</strong></span> a další místa vhodná i při nepříznivém počasí se kterými vám mohu poradit.</p></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ee6982b",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "40",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "dca52b1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e47be49",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c0b0bfa",
+        "settings": {
+         "caption": "Hundertwasserhaus",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Hundertwasserhaus",
+          "id": 17933,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hundertwasserhaus.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7761e56",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b1f4f1",
+        "settings": {
+         "caption": "Vláček v parku Prátru",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Pratr",
+          "id": 17934,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Liliputbahn.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "170fdd4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f8eabd9",
+        "settings": {
+         "caption": "Prátr zábavní park",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Pratr",
+          "id": 17935,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Pratr-Restaurace.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "290",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6e57164",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6053fda",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d77bd0f",
+        "settings": {
+         "caption": "zámek Belveder",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Belveder",
+          "id": 17939,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e2afa92",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e45b920",
+        "settings": {
+         "caption": "zámek Belveder",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Belveder",
+          "id": 17940,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3392100",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "37d4f61",
+        "settings": {
+         "caption": "zámek Belveder",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Belveder",
+          "id": 17941,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-3.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "290",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "de2fbc1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4a8d9ef",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f458ca7",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "43df9c1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "228cc39",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ff8bc5e",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": "globals/colors?id=kadence2",
+          "words_typography_typography": "globals/typography?id=accent"
+         },
+         "after_text": ".",
+         "before_text": "Jak na to?",
+         "highlighted_text": "Celkové shrnutí",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "89a468e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "84f6f75",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "61b425d",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=kadence2"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "editor": "<ul><li><strong>Ubytování</strong> na 2-3 noci.<br />Vytipuji pro vás 2-3 nabídky ubytování dle vašeho zadání a cenového rozpočtu. Ubytování si poté objednáváte sami na vaši firmu.<br /><br /></li><li><strong>Program</strong> celého pobytu dle délky a počtu dní zašlu v podobě podrobného itineráře před příjezdem.<br /><br /></li><li><strong>Organizační pomoc</strong> na místě ve Vídni.<strong><br /></strong>Jsem připravena poskytnout vám tolik dní osobního doprovodu, kolik si vyžádá váš program.<br /><br /></li><li><strong>Doprava</strong> do Vídně a zpět do ČR.<br /><span style=\"color: #008000;\"><span style=\"color: #000000;\">Zajišťujete a objednáváte si sami.</span><strong><br /></strong></span></li></ul><p style=\"text-align: center;\"><strong>Shrnutí:</strong> <br />Předem připravený program i dopravu v rámci Vídně máte zajištěnu a nemusíte se na místě o nic starat. <br />Ubytování a dopravu do Vídně si musíte zařídit sami.</p><p style=\"text-align: center;\"><span style=\"color: #0000ff;\"><span style=\"color: #000000;\">Přesná cena je vždy uvedena po domluvě konkrétní akce.</span></span></p><p style=\"text-align: center;\"><span style=\"color: #0000ff;\"><span style=\"color: #000000;\">Popsaný program je pouze orientační. Je možné zvolit typ ubytování, program i dopravu dle vašich potřeb a přání.<br /></span><strong><br /><span style=\"color: #000000;\">Služba cestovní podpory zahrnuje: program + osobní doprovod ve Vídni.</span><br /></strong><span style=\"color: #ff0000;\">Kalkulace neobsahuje dopravu do Vídně a zpět, ubytování, vstupenky do objektů a jízdenky na MHD.</span><strong><br /></strong></span></p><p style=\"text-align: center;\"><strong>Pro objednávku vaší individuální cesty mě kontaktujte pro vytvoření kalkulace</strong> <span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/kontakt-s-blankou-za-hranice/\">ZDE.</a><br /></strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "df83809",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ee73f4d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f0937a0",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "f85b304",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8fc211e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "6",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7948da1",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6d3c6f6",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": "globals/colors?id=kadence2",
+          "words_typography_typography": "globals/typography?id=accent"
+         },
+         "after_text": "ve Vídni.",
+         "before_text": "Kdo vám",
+         "highlighted_text": "bude oporou a organizační pomocí",
+         "marker": "underline",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "85c4638",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5ce3fb1",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ae6bd2e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "110",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": true,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "_transform_skewX_effect": {
+          "size": -172,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_transform_skewX_effect_tablet": {
+          "size": 0,
+          "sizes": [],
+          "unit": "deg"
+         },
+         "_transform_skewY_effect": {
+          "size": -4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_transform_skewY_effect_tablet": {
+          "size": 0,
+          "sizes": [],
+          "unit": "deg"
+         },
+         "_transform_skew_popover": "transform",
+         "image": {
+          "alt": "ja jako podpora ve Vidni",
+          "id": 17963,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Kdo-vas-bude-provazet.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "400"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "09b83dd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 40,
+       "margin": {
+        "bottom": "15",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "15",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "149d189",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni.</strong></p><p>Z Prahy do Vídně jsem stěhovala přesně ve věku 50 let. Byl to velký skok do neznáma. Na vlastní kůži jsem zažila, jak nepříjemná je neznalost prostředí a současně jazyková bariéra.<br />Rakousko a Vídeň jsem začala objevovat především prostřednictvím výletů do přírody a procházek městem.</p><p>V roce 2020 vznikl můj projekt „s Blankou za hranice“ ve kterém přináším zajímavé tipy na skvělé výlety nejen ve Vídni a v jeho nejbližším okolí, ale i po celém Rakousku.</p><p>Jsem milovnice přírody a všeho opravdového.</p><p>Ve Vídni zajišťuji službu CESTOVNÍ PODPORY a pomáhám jednotlivcům i skupinám užít si dny ve Vídni naplno a bez starostí.</p><p style=\"text-align: center;\"><strong>Těším se na vás v metropoli Rakouska a pomohu vám, abyste si svůj pobyt ve Vídni opravdu užili.</strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "539f703",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "5",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "icon_indent": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "mailto:blanka@sblankouzahranice.eu"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-right"
+         },
+         "size": "md",
+         "text": "chceme jet do Vídně a využít podpory",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "6f77355",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 60,
+       "margin": {
+        "bottom": "15",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "15",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8a0e3ac",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "45d1c91",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "ef84632",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "69c6bc7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e25115d",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><span style=\"color: #003300;\">Pokud máte o tento tip poznání Vídně zájem, napište mi vaši představu na <a href=\"mailto:blanka@sblankouzahranice.eu\">e-mail: blanka@sblankouzahranice.eu.</a></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8912565",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=text"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-cestovni-podpora/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pro vaše individuální cesty koukněte na službu CESTOVNÍ PODPORY ve Vídni ZDE.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_text_decoration": "underline",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "0d3539c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f95eb95",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b4ae0d",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "24dd781",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "A k tomu speciální program, abyste si své dny v metropoli Rakouska užili naplno.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b54810d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a90cbf3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e93f8c7",
+        "settings": {
+         "image": {
+          "alt": "Hotel Sachr",
+          "id": 18006,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hotel-Sacher-Wien.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7418d82",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e5e6601",
+        "settings": {
+         "image": {
+          "alt": "Sachr - cesty do Vidne",
+          "id": 18138,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "732619a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a2258cf",
+        "settings": {
+         "image": {
+          "alt": "Hoffburg",
+          "id": 18008,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a0f632a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4938b03",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d58adf7",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Poznejte Vídeň jako místní - bez stresu, shonu a zbytečných nákladů.",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "248be86",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b226a57",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "19443",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Vídeň s programem a cestovní podporou.",
+  "_yoast_wpseo_metadesc": "Vídeň a okolí s programem a cestovní podporou můžete objevovat na výletech v malých skupinkách s Češkou žijící v Rakousku."
+ },
+ "modified": "2026-05-08 15:02:02",
+ "obsah_wordpress": "<h2>Cestovní podpora Vídeň a okolí s programem pro skupiny a firmy.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"350\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377-900x350.png\" alt=\"zahlavi webu-skupinova podpora\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377-900x350.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377-300x117.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377-768x299.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377-1536x598.png 1536w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/skupinova-podpora-e1712573329377.png 1634w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>...poznejte metropoli Rakouska jako místní s Češkou žijící ve Vídni.</h2>\t\t\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tUž nějaký ten čas\n\t\t\t\t\tplánujete, že byste Vídeň a okolí chtěli navštívit\n\t\t\t\t\ta hodila by se vám pomoc s organizací.\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tStále\n\t\t\t\t\tpřemýšlíte, jak zorganizovat výlet\n\t\t\t\t\tdo metropole Rakouska?\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tVyužijte službu cestovní podpory\n\t\t\t\t\ta nechte si svůj pobyt připravit od Češky, žíjicí ve Vídni. \n\t\t\t\t\t</h3>\n\t\t\t\t\t<h2>Přestaňte přemýšlet a tápat, začněte plány realizovat a využijte své dny ve Vídni naplno.</h2>\t\t\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tPro koho \n\t\t\t\t\tje služba vhodná:\n\t\t\t\t\t</h3>\n\t\t<ul><li>Pro podnikové, školní a zájmové skupiny Čechů či Slováků.</li><li>Pro 5-30 členné kolektivy, kamarády či přátelé, kteří chtějí poznat Vídeň a využít své dny v metropoli Rakouska na maximum.</li><li>Pro všechny, co se cítí nejistě v zařizování a organizaci pobytu.</li><li>Pro ty, kdo potřebují šetřit čas při plánování cesty.</li><li>Pro každého, koho zajímá více, než jen projít kolem památek a užít si nákupy.</li><li>Pro všechny, kteří ocení pomoc s přípravou a organizací a chtějí své dny ve Vídni využít naplno.</li></ul>\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tCo\n\t\t\t\t\to službě napsali.\n\t\t\t\t</h3>\n\t\t\t\t\t\t\tAho Blani, včera jsme v pořádku dorazily domů. Moc děkuji za všechno. Krásně jsi nám připravila program, moc jsme si to užily.\n\t\t\t\t\t\t\t<img width=\"768\" height=\"432\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/08/foto-do-recenze-Podnikavky-768x432.jpg\" alt=\"\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMartina Váchová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZakladatelka projektu Podnikavé ženy z Vysočiny\nDěkujeme za spolupráci. Se spoluprací jsme byli velmi spokojeni. Služba cestovní podpory nám podstatně usnadnila sestavení plánu programu, sama bych to vzhledem k časovému vytížení nedala dohromady.\nVaši službu bych doporučila a také doporučím dalším školám a známým, pokud bude někdo chtít navštívit Vídeň:-)\n\t\t\t\t\t\t\t<img width=\"450\" height=\"287\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/08/Foto-do-recenzeS.jpg\" alt=\"recenze Gymnazium\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPavla Petrová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGymnázium Thomase Manna\nMilá Blanko, moc děkujeme za krásně strávený den s Vámi. Bezvadně připravený itinerář, praktické rady a doporučení přispěly k tomu, že jsme si dny ve Vídni bezvadně užili. Těšíme na Vaše další náměty na výlety i v okolí Vídně. (Jarmila).\nDíky za praktické rady a doporučení, velice nám pomohly v orientaci ve Vídni, též jízdenka na celou dobu pobytu je skvělou volbou. (Markéta).\nVýlet byl super, užily jsme si Vídeň v klidu a pohodě. Určitě se sem zase vrátíme. Tento typ výletu (s cestovní podporou) mohu jen doporučit. (Ivana).\n\t\t\t\t\t\t\t<img width=\"680\" height=\"740\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/06/Foto-zen-pani-Sucur.jpg\" alt=\"Cestovni podpora\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tJarmila, Markéta, Ivana +1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tParta 4 skvělých žen\n\t\t\t\t\t\t\tMoc děkuju za itinerář na náš výlet, bylo to tak jak jsem si představoval. Měl jsem mustr, co a jak, a to bylo super! Skvělá a rychlá služba.\n\t\t\t\t\t\t\t<img width=\"363\" height=\"237\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-cykliste.jpg\" alt=\"recenze\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tKarel Koutek\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ta skupina cyklistů\n\t\t\t\t\t\t\tNa naší jednodenní zastávce ve Vídni nás doprovázela úžasná paní Blanka-služba Cestovní podpory. Paní Blanka má srdce rozdělené mezi dvě města: Vídeň a Prahu a díky jejímu výkladu se z návštěvy metropole Rakouska, i díky poutavému vyprávění, stal nezapomenutelný zážitek.\n\t\t\t\t\t\t\t<img width=\"480\" height=\"534\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/foto.jpg\" alt=\"Cestovni podpora\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFrantišek Třeštík, předseda Poděbradský spolek postižených civilizačními chorobami \n\t\t\t\t\t\t\tDěkujeme za Vaši péči o naší divokou skupinu. Myslim, že jsme si to pěkně užili :-) Děkuji i za vysvětlení sochy.\nPoradíme se a dáme vědět ohledně dalšího výletu. Za mě a za kolegy z\nfirmy si myslím, že si to rádi zopakujeme!\n\t\t\t\t\t\t\t<img width=\"768\" height=\"664\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/12/vystrizek-na-referenci-768x664.png\" alt=\"reference\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\ting.Luděk Novák \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tfirma z Moravy\n\t\t\t\t\t\t\tVšichni jsme se společně shodli na tom, že jste měla skvěle připravené materiály a podklady, se kterými se mohli žáci seznámit předem a věděli, co je čeká. První aktivita pro děti při poznávání Vídně, abyste je zapojila, to bylo super! Celkově jste prohlídku města postavila velmi dobře a vše na sebe příjemně navazovalo. Byli jsme s vámi velmi spokojeni, pomohla jste hned v několika kritických situacích a vykomunikovala vše potřebné, k dětem jste byla milá a přestože skupina byla opravdu velká, měla jste s nimi trpělivost, za což Vám moc děkujeme. \n\t\t\t\t\t\t\t<img width=\"450\" height=\"313\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/05/Fotka.jpg\" alt=\"Recenze\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tZŠ Dolní Břežany\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t54 žáků/kyň a 3 pedagogové Pavla, Petra a Alena\n\t\t\t\t\t\t\tTato další reference může být od vaší skupinky.\nPřijeďte si užít dny do Vídně. Spojte teambuilding se zábavou. Pomohu vám připravit program či itinerář na který nezapomenete.\n\t\t\t\t\t\t\t<img width=\"306\" height=\"306\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek.jpg\" alt=\"recenze\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tkolektiv firmy xxx\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tMožné \n\t\t\t\t\tvarianty programu\n\t\t\t\t\tv průběhu roku.\n\t\t\t\t\t</h3>\n\t\t\t\t\t<figure><a href=\"https://www.facebook.com/story.php?story_fbid=1212422364220482&#038;id=100063581893321&#038;rdid=9jDa9C37bKF6ZO7U#\" target=\"_blank\" tabindex=\"-1\"><img width=\"450\" height=\"377\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/1-JARO.png\" alt=\"Jaro ve Vidni\" /></a></figure><h3><a href=\"https://www.facebook.com/story.php?story_fbid=1212422364220482&#038;id=100063581893321&#038;rdid=9jDa9C37bKF6ZO7U#\" target=\"_blank\">Jaro - Vídeňské zahrady.</a></h3><p>Rozkvétající zahrady Vídně s velikonočními trhy.</p>\t\t\t\t\n\t\t<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně <a href=\"https://www.facebook.com/story.php?story_fbid=1195010622628323&amp;id=100063581893321&amp;rdid=aBthEBjT2NZxabwI#\" target=\"_blank\" rel=\"noopener\">s velikonočními trhy.</a><br />&gt; 2.den:  zámek Schönbrunn nebo Belveder/volný program.<br />&gt; 3.den: parky a zahrady Vídně.</p></blockquote>\t\t\n\t\t\t\t\t<figure><a href=\"https://www.facebook.com/story.php?story_fbid=771892348273488&#038;id=100063581893321&#038;rdid=qVzEjlOoLI4WXxi4#\" target=\"_blank\" tabindex=\"-1\"><img width=\"450\" height=\"377\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/2-LETO.png\" alt=\"\" /></a></figure><h3><a href=\"https://www.facebook.com/story.php?story_fbid=771892348273488&#038;id=100063581893321&#038;rdid=qVzEjlOoLI4WXxi4#\" target=\"_blank\">Léto - Dotek exotiky a chuť karibiku.</a></h3><p>Vídeňské pláže a promenády.</p>\t\t\t\t\n\t\t<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně s večerní návštěvou vyhlídkového baru.<br />&gt; 2.den:  Hundertwasserhaus a po Hundertwasserpromenádě na nejznámější městskou písečnou pláž s barem.<br />&gt; 3.den: návštěva pláží kolem Dunaje s možností koupání a relaxace.</p></blockquote>\t\t\n\t\t\t\t\t<figure><a href=\"https://www.facebook.com/story.php?story_fbid=804779204984802&#038;id=100063581893321&#038;rdid=qrwyYvgBcPUemYMp#\" target=\"_blank\" tabindex=\"-1\"><img width=\"450\" height=\"377\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/3-PODZIM.png\" alt=\"\" /></a></figure><h3><a href=\"https://www.facebook.com/story.php?story_fbid=804779204984802&#038;id=100063581893321&#038;rdid=qrwyYvgBcPUemYMp#\" target=\"_blank\">Podzim - putování vinicemi.</a></h3><p>Vídeň pro milovníky vína a gastronomie.</p>\t\t\t\t\n\t\t<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně s návštěvou trhu Naschmarkt.<br />&gt; 2.den:  Weinwandertag - speciální akce s putováním po vinicích.<br />&gt; 3.den:  oddychový - kultura či kulinářské zážitky.</p></blockquote>\t\t\n\t\t\t\t\t<figure><a href=\"https://www.facebook.com/story.php?story_fbid=1123399779789408&#038;id=100063581893321&#038;rdid=PlwLTJfJfHg08KXT#\" target=\"_blank\" tabindex=\"-1\"><img width=\"450\" height=\"377\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/4-ZIMA.png\" alt=\"Zima ve Vídni\" /></a></figure><h3><a href=\"https://www.facebook.com/story.php?story_fbid=1123399779789408&#038;id=100063581893321&#038;rdid=PlwLTJfJfHg08KXT#\" target=\"_blank\"> Zima - Adventní Vídeň.</a></h3><p> Tradiční vánoční trhy metropole Rakouska.</p>\t\t\t\t\n\t\t<blockquote><p>Návrh programu: <br />&gt; 1.den:  prohlídka centra Vídně s vánočními trhy.<br />&gt; 2.den:  zámek Schönbrunn s vánočními trhy.<br />&gt; 3.den:  <a href=\"https://www.facebook.com/story.php?story_fbid=1148792700583449&amp;id=100063581893321&amp;rdid=GMPg9JMijV7EzVw7#\" target=\"_blank\" rel=\"noopener\">Magická světelná zahrada zámku Laxenburg</a></p></blockquote>\t\t\n\t\t\t\t\t<h2>Výše uvedené programy jsou čistě orientační pro vaši inspiraci. Váš program je možné jakkoliv upravovat.</h2>\t\t\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tCo\n\t\t\t\t\tmůžete zažít:\n\t\t\t\t</h3>\n\t\t<p style=\"text-align: center;\"><strong>3-4 denní pobyt ve Vídni s maximálním využitím všech dní k poznání Vídně a okolí s pocitem jistoty, že si své dny opravdu užijete naplno.</strong></p><p style=\"text-align: center;\">Nebudete se muset zdržovat zjišťováním nutných informací a ušetříte čas při plánování itineráře.</p><p style=\"text-align: center;\"><strong>Pro cestu si zvolíte vlastní typ dopravy a budete mít k dispozici podporu a pomoc na místě ve Vídni.<br /></strong><br />Pomoc a podporu od Češky, žijící od roku 2018 v metropoli Rakouska.</p>\t\t\n\t\t\t\t\t<h5><a href=\"mailto:blanka@sblankouzahranice.eu\">Chceme jet do Vídně a využít cestovní pomoc a podporu.</a></h5>\t\t\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tProč využít\n\t\t\t\t\ttéto kombinované nabídky s programem.\n\t\t\t\t\t</h3>\n\t\t<ul><li><strong>Ušetříte čas</strong> hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat.<br /><br /></li><li><strong>Neztratíte se</strong> <strong>ve výběru</strong> a pořizování nejvýhodnějších <strong>jízdenek</strong> městské dopravy.<br /><br /></li><li>Budete mít <strong>zajištěn program na všechny dny </strong>v metropoli Rakouska, případně v okolí.<br /><br /></li><li><strong>Nebudete bloudit</strong> a hledat <strong>jak</strong> nejlépe <strong><strong><strong><strong><strong>z místa A do místa B.<br /><br /></strong></strong></strong></strong></strong></li><li><strong>Během jednoho odpoledne projdete městem</strong> kolem nejznámějších památek <strong><strong><strong><strong><strong>a nasajete Vídeň.<br /><br /></strong></strong></strong></strong></strong></li><li><strong>Lehce najdete legendární hotel Sacher,</strong> kde si v kavárně můžete vychutnat zážitek a vůni pravé Vídeňské kávy a originální Sacher dort.<br /><br /></li><li><strong>Připravený program </strong>v návaznosti na roční období či události ve Vídni.<br /><br /></li><li><strong>Projdete nejhlavnější turistické cíle a památky v centru Vídně </strong>v rámci komentované cca 3 hodinové procházky.</li></ul>\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tJaký je rámcový\n\t\t\t\t\tPROGRAM \n\t\t\t\t\tvýletu v délce 3(4) dny.\n\t\t\t\t\t</h3>\n\t\t\t\t\t<h3>1.den</h3>\t\t\t\t\n\t\t<ul><li><strong>Příjezd do Vídně</strong> a vyzvednutí skupiny na předem domluveném místě.</li><li><strong>Základní, organizační informace a pomoc po příjezdu v rámci služby CESTOVNÍ PODPORY.</strong></li></ul><p><strong>Služba zahrnuje:</strong><br /><strong>&gt;</strong> <strong>Vyzvednutí na místě příjezdu.<br /></strong><br /><strong>&gt;</strong> <strong>Rady a pomoc</strong> kam uložit zavazadla do doby, než se přesunete na hotel nebo pomoc s check-inn v ubytování.<br /><br /><strong>&gt;</strong><strong> Informace o městské hromadné dopravě </strong>a pomoc s obstaráním jízdenek na MHD na celý váš pobyt.<br /><br /><strong>&gt;</strong> <strong>Dostanete informace</strong>, jak zjistit nejlepší <strong>spojení z místa A do místa B</strong> (jednoduchá aplikace do mobilu vč. jízdních řádů).<br /><br /><strong>&gt;</strong><strong> Při společné procházce</strong> městem <strong>se seznámíte s centrem Vídně a mnoha známými turistickými body</strong> (Opera, Albertina, Hotel Sacher, Stephansdom, Rathaus a další). <br />Navíc dostanete informace, co vše je možné vidět a navštívit v metropoli Rakouska, kde se dobře najíst, kam zajít, kde nakupovat a další informace z praktického života a pohybu ve Vídni od skutečného obyvatele Vídně.<br /></p><ul><li><strong>Přesun do vybraného ubytování</strong> po vlastní ose nebo společně-dle jednotlivých programů.</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Hofburg-qr9gp2fo1iynm0sombwyqoyjytng0f235nnf0y916g.jpg\" title=\"Hofburg\" alt=\"Hofburg\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Karlskirche-qr9gp2fo1iynm0sombwyqoyjytng0f235nnf0y916g.jpg\" title=\"Karlskirche\" alt=\"Karlskirche\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Karlskirche</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Opera-qr9gp2fo1iynm0sombwyqoyjytng0f235nnf0y916g.jpg\" title=\"Opera\" alt=\"Opera Viden\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Opera</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t<h3>2.den</h3>\t\t\t\t\n\t\t<ul><li style=\"text-align: left;\"><strong>Doprovodný program<br /></strong>dle jednotlivých témat roku či na základě individuálního itineráře.</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Laxenburg-qr9gp2fo1iyxubgtsd9708vk5qvjnd1ogeec1fiip8.jpg\" title=\"Laxenburg\" alt=\"Laxenburg\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Laxenburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Laxenburg2-qr9gp2fo1iyxubgtsd9708vk5qvjnd1ogeec1fiip8.jpg\" title=\"Laxenburg2\" alt=\"Laxenburg2\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámecký park </figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Laxenburg1-qr9gp2fo1iyxubgtsd9708vk5qvjnd1ogeec1fiip8.jpg\" title=\"Laxenburg1\" alt=\"Laxenburg1\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Laxenburg - klenot mezi výletními místy</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Romertherme-qrowmdtzpa17009sijeuawfuyp7myzlyo86n5f997g.jpg\" title=\"Romertherme\" alt=\"Baden Therme\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Baden Römertherme</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/termaly-qrownqphx3jffywb42hmy4zr5y6gigj5eedzvuzl2o.jpg\" title=\"termaly\" alt=\"Baden\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Římské lázně</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/mesto1-qrowpvs9higxvzsclzt1mljjvjmk1n150zvt8jtawg.jpg\" title=\"Baden mesto\" alt=\"Baden\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Lázeňské město u Vídně</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"640\" height=\"409\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg 640w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1-300x192.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Burggarten a Schmeterlinghaus</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Burggarten-2-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Burggarten 2\" alt=\"Burggarten\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Burggarten</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Burggarten-3-qr9gp2fo1iylkd296q1pvzdjxft0vtuywb3mtnlj9w.jpg\" title=\"Burggarten 3\" alt=\"Burggarten\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Parky v centru Vídně</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Schonbrunn-1-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Schönbrunn 1\" alt=\"Schönbrunn\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Schönbrunn</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Schonbrunn-3-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Schönbrunn 3\" alt=\"Schönbrunn 3\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Schönbrunn</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Schonbrunn-2-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Schönbrunn 2\" alt=\"Schönbrunn 2\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Schönbrunn</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t<h3>3.den</h3>\t\t\t\t\n\t\t<ul><li><strong>Volný program dle vlastního výběru. </strong><br />Lze si vybrat další prohlídku města a návštěvu vybraných památek – buď každý sám nebo společně, jak se skupina dohodne.<br />Nebo lze čas využít  pro nákupy.<p><strong>Program je individuální a je předem odsouhlasem zadavatelem služby.</strong></p></li></ul><p style=\"text-align: left;\"><strong>Možnost návratu zpět domů do ČR již tento třetí den. </strong><strong>Nebo možnost pokračovat a využít i čtvrtý den.<br /></strong></p>\t\t\n\t\t\t\t\t<h3>4.den</h3>\t\t\t\t\n\t\t<ul><li style=\"text-align: left;\"><strong>Individuální program na základě vašeho rozhodnutí, si pobyt ve Vídni prodloužit.</strong><br />Nabízí se návštěva dalších památek veVídni:<p><strong><br />&gt; </strong><strong>Hundertwasserhaus. </strong>Více o tom, kdo byl Hundertwasser najdete <strong><a href=\"https://sblankouzahranice.eu/zwettl-niederosterreich/#hundertwasser\" target=\"_blank\" rel=\"noopener\">ZDE.</a></strong></p><p><strong>&gt;</strong> <strong>Zábavní park Prátr.</strong> Jeho velkou část po Hauptalle je možné projet v malém vláčku tzv. Liliputbahn.</p><p><strong>&gt;</strong> <strong>Zámek Belveder</strong> -  nedaleko Hlavního nádraží (Hauptbahnhof).</p><p><strong>&gt;</strong> a další místa vhodná i při nepříznivém počasí se kterými vám mohu poradit.</p></li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Hundertwasserhaus-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Hundertwasserhaus\" alt=\"Hundertwasserhaus\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hundertwasserhaus</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Liliputbahn-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Liliputbahn\" alt=\"Pratr\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vláček v parku Prátru</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Pratr-Restaurace-qr9gp2fo1iylkd296q1pvzdjxft0vtuywb3mtnlj9w.jpg\" title=\"Pratr Restaurace\" alt=\"Pratr Restaurace\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Prátr zábavní park</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Belveder-1-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Belveder 1\" alt=\"Belveder\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Belveder</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Belveder-2-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg\" title=\"Belveder 2\" alt=\"Belveder\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Belveder</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Belveder-3-qr9gp2fo1iylkd296q1pvzdjxft0vtuywb3mtnlj9w.jpg\" title=\"Belveder 3\" alt=\"Belveder 3\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>zámek Belveder</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tJak na to?\n\t\t\t\t\tCelkové shrnutí\n\t\t\t\t\t.\n\t\t\t\t\t</h3>\n\t\t<ul><li><strong>Ubytování</strong> na 2-3 noci.<br />Vytipuji pro vás 2-3 nabídky ubytování dle vašeho zadání a cenového rozpočtu. Ubytování si poté objednáváte sami na vaši firmu.<br /><br /></li><li><strong>Program</strong> celého pobytu dle délky a počtu dní zašlu v podobě podrobného itineráře před příjezdem.<br /><br /></li><li><strong>Organizační pomoc</strong> na místě ve Vídni.<strong><br /></strong>Jsem připravena poskytnout vám tolik dní osobního doprovodu, kolik si vyžádá váš program.<br /><br /></li><li><strong>Doprava</strong> do Vídně a zpět do ČR.<br />Zajišťujete a objednáváte si sami.<strong><br /></strong></li></ul><p style=\"text-align: center;\"><strong>Shrnutí:</strong> <br />Předem připravený program i dopravu v rámci Vídně máte zajištěnu a nemusíte se na místě o nic starat. <br />Ubytování a dopravu do Vídně si musíte zařídit sami.</p><p style=\"text-align: center;\">Přesná cena je vždy uvedena po domluvě konkrétní akce.</p><p style=\"text-align: center;\">Popsaný program je pouze orientační. Je možné zvolit typ ubytování, program i dopravu dle vašich potřeb a přání.<br /><strong><br />Služba cestovní podpory zahrnuje: program + osobní doprovod ve Vídni.<br /></strong>Kalkulace neobsahuje dopravu do Vídně a zpět, ubytování, vstupenky do objektů a jízdenky na MHD.<strong><br /></strong></p><p style=\"text-align: center;\"><strong>Pro objednávku vaší individuální cesty mě kontaktujte pro vytvoření kalkulace</strong> <strong><a href=\"https://sblankouzahranice.eu/kontakt-s-blankou-za-hranice/\">ZDE.</a><br /></strong></p>\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\tKdo vám\n\t\t\t\t\tbude oporou a organizační pomocí\n\t\t\t\t\tve Vídni.\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Kdo-vas-bude-provazet-qr9gp2fnflm56sqof3ir9z1elow8i7ds07uc0ugz0c.jpg\" title=\"Ja jako podpora ve Vidni\" alt=\"ja jako podpora ve Vidni\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong>Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni.</strong></p><p>Z Prahy do Vídně jsem stěhovala přesně ve věku 50 let. Byl to velký skok do neznáma. Na vlastní kůži jsem zažila, jak nepříjemná je neznalost prostředí a současně jazyková bariéra.<br />Rakousko a Vídeň jsem začala objevovat především prostřednictvím výletů do přírody a procházek městem.</p><p>V roce 2020 vznikl můj projekt „s Blankou za hranice“ ve kterém přináším zajímavé tipy na skvělé výlety nejen ve Vídni a v jeho nejbližším okolí, ale i po celém Rakousku.</p><p>Jsem milovnice přírody a všeho opravdového.</p><p>Ve Vídni zajišťuji službu CESTOVNÍ PODPORY a pomáhám jednotlivcům i skupinám užít si dny ve Vídni naplno a bez starostí.</p><p style=\"text-align: center;\"><strong>Těším se na vás v metropoli Rakouska a pomohu vám, abyste si svůj pobyt ve Vídni opravdu užili.</strong></p>\t\t\n\t\t\t\t\t<a href=\"mailto:blanka@sblankouzahranice.eu\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tchceme jet do Vídně a využít podpory\n\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\">Pokud máte o tento tip poznání Vídně zájem, napište mi vaši představu na <a href=\"mailto:blanka@sblankouzahranice.eu\">e-mail: blanka@sblankouzahranice.eu.</a></p>\t\t\n\t\t\t\t\t<h4><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">Pro vaše individuální cesty koukněte na službu CESTOVNÍ PODPORY ve Vídni ZDE.</a></h4>\t\t\t\t\n\t\t\t\t\t<h3>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.</h3>\t\t\t\t\n\t\t\t\t\t<h3>A k tomu speciální program, abyste si své dny v metropoli Rakouska užili naplno.</h3>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Hotel-Sacher-Wien-qr9gp2fo1iyxubgtsd9708vk5qvjnd1ogeec1fiip8.jpg\" title=\"Hotel Sacher Wien\" alt=\"Hotel Sachr\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Sachr-2-qr9gp2fo1iyxubgtsd9708vk5qvjnd1ogeec1fiip8.jpg\" title=\"Sachr  dort original\" alt=\"Sachr - cesty do Vidne\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Hofburg-2-qr9gp2fo1iyxubgtsd9708vk5qvjnd1ogeec1fiip8.jpg\" title=\"Hofburg 2\" alt=\"Hofburg 2\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h4>Poznejte Vídeň jako místní - bez stresu, shonu a zbytečných nákladů.</h4>",
+ "parent": 0,
+ "slug": "viden-s-programem-cestovni-podpora",
+ "title": "Vídeň a okolí s programem.",
+ "type": "page"
+}

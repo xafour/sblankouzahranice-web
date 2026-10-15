@@ -1,0 +1,873 @@
+{
+ "ID": 21652,
+ "categories": [],
+ "date": "2024-07-09 18:14:59",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/odber-novinek/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "840d026",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tak tě vítám zpět. Je fajn, že o žádné novinky nepřijdeš."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "11e1224",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Byla by škoda, nevyužít všech informací.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1969a43",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "29621d4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e1d5fe8",
+        "settings": {
+         "_padding": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "020",
+          "unit": "px"
+         },
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Možná ani nevíš, že můj projekt má dvě části a hromadu zajímavých možností."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ee75bb5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fa3e3e9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f0f501c",
+        "settings": {
+         "image": {
+          "alt": "str.404",
+          "id": 21427,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/04/str.404-2.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "29bf0d7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "06a96c5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2722e7b",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tlačítko níže tě přenese na hlavní stranu webu, a tam se už proklikáš dál."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "58d6f8f",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Chceš se mnou raději do Rakouska a nebo tě zajímá zdraví z přírody?"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "887bd95",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rozhodni se sám, ale nejdříve si dobře přečti, co ti mohu nabídnout."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f2ce8fb",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Tudy prosím na úvodní stránku"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "131d4d5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "db111ea",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "075b43e",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Ale jestli tolik nespěcháš, tak ještě neodcházej a stáhni si dárek PEXESO s hádankami ze života ve Vídni."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d074b47",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "56685b0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "30",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d06328a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "150",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Pexeso",
+          "id": 21655,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9fa4324",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "150",
+          "top": "-170",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Pexeso 2",
+          "id": 21657,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "836f6b7",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": 40,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": false,
+        "left": "3",
+        "right": "0",
+        "top": "3",
+        "unit": "px"
+       },
+       "border_width_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4bfac76",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "PEXESO JE HRAVÉ A ZÁBAVNÉ"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ef20e5a",
+        "settings": {
+         "align_mobile": "center",
+         "editor": "<p>Ber to třeba jako malé poděkování za to, že ses rozhodl(a) zůstat.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a4edc53",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "47",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "21",
+          "unit": "px"
+         },
+         "align": "left",
+         "align_mobile": "center",
+         "align_tablet": "left",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://drive.google.com/file/d/1j3tttnV9me_HxG-9Mh_CBGw8QKZatqD6/view?usp=drive_link"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Pro pexeso tudy"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "6f58e55",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": 60,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": false,
+        "left": "0",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "border_width_mobile": {
+        "bottom": "3",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fb73938",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "26",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "559baf6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "16",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">A teď už tudy rychle <span style=\"text-decoration: underline; color: #000080;\"><strong><a style=\"color: #000080; text-decoration: underline;\" href=\"https://sblankouzahranice.eu/\">na hlavní stránku.</a></strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "68d2b33",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5a9c7da",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "e83a86d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c20a123",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1d3360f",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "d2b1865",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e8d15a6",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a197844",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Chcete mi poslat zprávu, použijte formulář níže."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3f67604",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a77b5b5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "88f05e5",
+        "settings": {
+         "__globals__": {
+          "button_background_color": "globals/colors?id=kadence2",
+          "button_background_hover_color": "globals/colors?id=kadence3",
+          "button_hover_color": "globals/colors?id=kadence2",
+          "success_message_color": "globals/colors?id=kadence2"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "5",
+          "top": "0",
+          "unit": "px"
+         },
+         "activecampaign_fields_map": [],
+         "button_align": "start",
+         "button_border_radius": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "button_content_align": "center",
+         "button_size": "md",
+         "button_text": "Odeslat",
+         "button_typography_font_weight": "700",
+         "button_typography_typography": "custom",
+         "convertkit_fields_map": [],
+         "custom_messages": "yes",
+         "drip_fields_map": [],
+         "email_content": "[all-fields]",
+         "email_content_2": "[all-fields]",
+         "email_from": "blanka@sblankouzahranice.eu",
+         "email_from_2": "email@sblankouzahranice.eu",
+         "email_from_name": "s Blankou za hranice ",
+         "email_from_name_2": "s Blankou za hranice ",
+         "email_reply_to_2": "skryty-email@example.invalid",
+         "email_subject": "Nová zpráva z kontaktního formulář",
+         "email_subject_2": "New message from &quot;s Blankou za hranice &quot;",
+         "email_to": "blanka@sblankouzahranice.eu",
+         "email_to_2": "skryty-email@example.invalid",
+         "error_message": "Zřejmě došlo k chybě. Zkontrolujte prosím formulář nebo ho vyplňte znovu.",
+         "form_fields": [
+          {
+           "_id": "aebbecd",
+           "custom_id": "name",
+           "dynamic": {
+            "active": true
+           },
+           "field_label": "Jméno",
+           "placeholder": "Jméno a příjmení"
+          },
+          {
+           "_id": "48ca2f6",
+           "custom_id": "email",
+           "field_label": "Email",
+           "field_type": "email",
+           "placeholder": "Email",
+           "required": "true"
+          },
+          {
+           "_id": "6b9ebb1",
+           "custom_id": "message",
+           "field_label": "Zpráva",
+           "field_type": "textarea",
+           "placeholder": "Napiš mi"
+          },
+          {
+           "_id": "1c6f12e",
+           "acceptance_text": "Souhlasím se zpracováním osobních údajů v souladu se Zásadami ochrany osobních údajů.",
+           "custom_id": "field_1c6f12e",
+           "field_type": "acceptance",
+           "required": "true"
+          }
+         ],
+         "form_name": "New Form",
+         "form_validation": "custom",
+         "getresponse_fields_map": [],
+         "hover_transition_duration": {
+          "size": 0,
+          "sizes": [],
+          "unit": "ms"
+         },
+         "invalid_message": "Your submission failed because the form is invalid.",
+         "label_spacing": {
+          "size": 5,
+          "sizes": [],
+          "unit": "px"
+         },
+         "mailchimp_fields_map": [],
+         "mailerlite_fields_map": [],
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "required_field_message": "Toto pole je povinné.",
+         "row_gap": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "server_message": "Your submission failed because of a server error.",
+         "step_next_label": "Next",
+         "step_previous_label": "Previous",
+         "step_type": "text",
+         "success_message": "Děkuji za vaši zprávu, odpovím vám co možná nejrychleji."
+        },
+        "widgetType": "form"
+       }
+      ],
+      "id": "32787e2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f9cb10b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-page",
+  "_wp_page_template": "default"
+ },
+ "modified": "2026-03-18 19:21:24",
+ "obsah_wordpress": "<h3>Tak tě vítám zpět. Je fajn, že o žádné novinky nepřijdeš.</h3>\t\t\t\t\n\t\t<p style=\"text-align: center;\">Byla by škoda, nevyužít všech informací.</p>\t\t\n\t\t\t\t\t<h3>Možná ani nevíš, že můj projekt má dvě části a hromadu zajímavých možností.</h3>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"450\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/str.404-2.png\" alt=\"str.404\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/str.404-2.png 450w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/str.404-2-300x300.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/str.404-2-150x150.png 150w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Tlačítko níže tě přenese na hlavní stranu webu, a tam se už proklikáš dál.</h3>\t\t\t\t\n\t\t\t\t\t<h3>Chceš se mnou raději do Rakouska a nebo tě zajímá zdraví z přírody?</h3>\t\t\t\t\n\t\t\t\t\t<h3>Rozhodni se sám, ale nejdříve si dobře přečti, co ti mohu nabídnout.</h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/\">\n\t\t\t\t\t\t\t\t\tTudy prosím na úvodní stránku\n\t\t\t\t\t</a>\n\t\t\t\t\t<h3>Ale jestli tolik nespěcháš, tak ještě neodcházej a stáhni si dárek PEXESO s hádankami ze života ve Vídni.</h3>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st-300x300.jpg\" alt=\"Pexeso\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st-300x300.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st-900x897.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st-150x150.jpg 150w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st-768x766.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-a-rameckem-1-st.jpg 983w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str-300x300.jpg\" alt=\"Pexeso 2\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str-300x300.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str-900x897.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str-150x150.jpg 150w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str-768x766.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/07/Pexeso-s-cisly-a-vetsi-s-rameckem-2-str.jpg 971w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>PEXESO JE HRAVÉ A ZÁBAVNÉ</h3>\t\t\t\t\n\t\t<p>Ber to třeba jako malé poděkování za to, že ses rozhodl(a) zůstat.</p>\t\t\n\t\t\t\t\t<a href=\"https://drive.google.com/file/d/1j3tttnV9me_HxG-9Mh_CBGw8QKZatqD6/view?usp=drive_link\">\n\t\t\t\t\t\t\t\t\tPro pexeso tudy\n\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\">A teď už tudy rychle <strong><a style=\"color: #000080; text-decoration: underline;\" href=\"https://sblankouzahranice.eu/\">na hlavní stránku.</a></strong></p>\t\t\n\t\t\t\t\t<h2>Chcete mi poslat zprávu, použijte formulář níže.</h2>",
+ "parent": 0,
+ "slug": "odber-novinek",
+ "title": "Odběr novinek",
+ "type": "page"
+}

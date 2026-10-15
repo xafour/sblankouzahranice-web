@@ -1,0 +1,85 @@
+{
+ "ID": 19603,
+ "categories": [],
+ "date": "2023-11-12 21:16:02",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=organizacni-podpora-sekce-c-2",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "6920476",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "68e978a3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_overlay_color": "globals/colors?id=secondary"
+     },
+     "background_background": "slideshow",
+     "background_overlay_background": "classic",
+     "background_overlay_opacity": {
+      "size": 0.25,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_slideshow_gallery": [
+      {
+       "id": 19577,
+       "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/11/Cestovni-podpora-vystrizek2.jpg"
+      }
+     ],
+     "content_width": {
+      "size": 1262,
+      "sizes": [],
+      "unit": "px"
+     },
+     "content_width_mobile": {
+      "size": 1279,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height_mobile": {
+      "size": 195,
+      "sizes": [],
+      "unit": "px"
+     },
+     "height": "min-height",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2023-11-12 21:16:02",
+ "obsah_wordpress": "",
+ "parent": 0,
+ "slug": "organizacni-podpora-sekce-c-2",
+ "title": "ORGANIZAČNÍ PODPORA- sekce č.2",
+ "type": "elementor_library"
+}

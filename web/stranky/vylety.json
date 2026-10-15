@@ -1,0 +1,2168 @@
+{
+ "ID": 145,
+ "categories": [],
+ "date": "2019-08-20 06:04:34",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/vylety/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "67c8e8b",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "def1e4b",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Skvělé tipy na výlety v Rakousku.",
+         "typography_font_size": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3ff19ca",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "15b0e75",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7e56384",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-71",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "-59",
+          "isLinked": false,
+          "left": "-41",
+          "right": "0",
+          "top": "-269",
+          "unit": "px"
+         },
+         "_offset_x": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_offset_y": {
+          "size": -376,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_position": "absolute",
+         "image": {
+          "id": "",
+          "url": ""
+         },
+         "image_box_shadow_box_shadow": {
+          "blur": 31,
+          "color": "rgba(0,0,0,0.5)",
+          "horizontal": 34,
+          "spread": 0,
+          "vertical": -26
+         },
+         "image_box_shadow_box_shadow_type": "yes",
+         "pa_condition_repeater": [
+          {
+           "_id": "a9688fb",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "width": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "23262dea",
+      "isInner": "",
+      "settings": {
+       "_column_size": "100",
+       "margin": {
+        "bottom": "-104",
+        "isLinked": false,
+        "left": "-83",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-7",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-149",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "d1f18b1",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "74ba2fac",
+    "isInner": "",
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#B0BC48A1",
+     "background_image": {
+      "alt": "zahlavi vylety",
+      "id": 12921,
+      "size": "",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/VYLETY-kraken-e1712567443786.jpg"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#C2D22DA1",
+     "background_overlay_opacity": {
+      "size": 0.06,
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_position_tablet": "center center",
+     "background_size": "cover",
+     "content_position": "middle",
+     "content_width": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "content_width_mobile": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height": {
+      "size": 22,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "custom_height_mobile": {
+      "size": 30,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "custom_height_tablet": {
+      "size": 40,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "gap_columns_custom_mobile": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "height": "min-height",
+     "layout": "full_width",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "872441f",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": "",
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom_height": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 20,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 40,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 145,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 120,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 140,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5bbbf31",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "-120",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "align_tablet": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vydejte se na výlety do přírody ve Vídni, v okolí Vídně i v celém Rakousku. ",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "118cfa97",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1ba26c15",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "shape_divider_bottom_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "-2",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-5",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-3",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "15",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "24",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "22",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 75,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 86,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0bbe2fe",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size_mobile": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "7e8f817",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c71c809",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "32ae1ba",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "100",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "f2fc19b",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b614bd5",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "4a30b8a",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "wp": {
+          "nav_menu": "30",
+          "title": "Vyberte si výlet podle oblasti nebo zaměření"
+         }
+        },
+        "widgetType": "wp-widget-nav_menu"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "deae04c",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "34ca8d4",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "f1e39a8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4959ddd",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e645361",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "56cfa30",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "14f3fcb",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "7da6c58",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Co nás vlastně pohání vydávat se do přírody? Je to pro člověka přirozené prostředí. Je to živoucí prostor, ve kterém se cítíme osvěženi. V přírodě se nám obnovuje energie, zklidňuje mysl, přichází uvolnění, radost a nový pohled na život.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4a9d49d",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "7da6c58",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Příroda má na naši vnitřní rovnováhu blahodárný účinek a dokáže rychle obnovit naši harmonii.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e0bbf97",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "7da6c58",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Na výletě může člověk v tichu kráčet přírodou, úplně se ponořit do sebe, odpoutat se od běžných vnějších vlivů a navracet se k tomu podstatnému – sám k sobě. ",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8745ceb",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "5efba75",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Více o návratu k sobě skrze přírodu najdete v mé uzavřené facebookové  skupině: ",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.4,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "de5b1e2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "5efba75",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "s Blankou za hranice, přírodou k sobě.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_style": "italic",
+         "typography_font_weight": "700",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.4,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f00fbe6",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/groups/sblankouzahranicevice"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "0b9ad18",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "do skupiny tudy"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "2a311c4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "444f511",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ee082f0",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#DEE5A3",
+     "pa_condition_repeater": [
+      {
+       "_id": "e3f1b57",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9f5517c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "7da6c58",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rakouská příroda má co se týká turistiky opravdu co nabídnout. Ať už jste milovníci výšlapů do hor, lehkých procházek kolem jezer, nebo vás zajímají nová místa a historie země, dokáže vám Rakousko nabídnout nespočet lákavých příležitostí a chuť se tam stále vracet.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b5e2c4d",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "7da6c58",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rakousko, to nejsou jen Alpy a krásná lyžařská střediska, ale především nepřeberné množství značených turistických tras, zelené louky s pasoucími se krávami, nedozírné svahy poseté alpskými bylinami i dech beroucí výhledy. ",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3c5a0f9",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "5efba75",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vydejte se proto se mnou poznávat Rakousko především pomocí vycházek a výletů do přírody a zamilujete si Rakousko tak, jako já.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.4,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b4f7d7d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "444f511",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cded129",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#DEE5A3",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "60",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e3f1b57",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "aa5e599",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "4803d31",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_mobile": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "088fdbb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6b087f8",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "742d3ba",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "a40ac7f",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "22fb778",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "box_border_color": "#0A431B",
+         "box_border_radius": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "box_border_width": {
+          "bottom": "1",
+          "isLinked": true,
+          "left": "1",
+          "right": "1",
+          "top": "1",
+          "unit": "px"
+         },
+         "categories_repeater": [
+          {
+           "_id": "4ea88ee"
+          }
+         ],
+         "css_filters_css_filter": "custom",
+         "excerpt_text_margin": {
+          "bottom": "10",
+          "isLinked": true,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "outer_box_shadow_box_shadow": {
+          "blur": 1,
+          "color": "rgba(175.99999999999997, 188, 72, 0.9803921568627451)",
+          "horizontal": 0,
+          "spread": 6,
+          "vertical": 0
+         },
+         "outer_box_shadow_box_shadow_type": "yes",
+         "pa_condition_repeater": [
+          {
+           "_id": "7109ed9",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "posts_filter_rule": "post__in",
+         "premium_blog_author_meta": "",
+         "premium_blog_box_background_color": "#B0BC4878",
+         "premium_blog_box_shadow_box_shadow": {
+          "blur": 5,
+          "color": "rgba(175.99999999999997, 188, 72, 0.6313725490196078)",
+          "horizontal": -100,
+          "spread": -100,
+          "vertical": -100
+         },
+         "premium_blog_columns_number": "33.33%",
+         "premium_blog_comments_meta": "",
+         "premium_blog_content_background_color": "#B0BC4800",
+         "premium_blog_content_typo_font_size_mobile": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_content_typo_font_size_tablet": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_content_typo_typography": "custom",
+         "premium_blog_date_meta": "",
+         "premium_blog_excerpt_length": 32,
+         "premium_blog_excerpt_text": "Read More »",
+         "premium_blog_meta_color": "#050505",
+         "premium_blog_meta_typo_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_meta_typo_font_size_mobile": {
+          "size": 13,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_meta_typo_line_height": {
+          "size": 1.1,
+          "sizes": [],
+          "unit": "em"
+         },
+         "premium_blog_meta_typo_typography": "custom",
+         "premium_blog_new_tab": "",
+         "premium_blog_next_text": "Next",
+         "premium_blog_number_of_posts": 24,
+         "premium_blog_offset": 0,
+         "premium_blog_post_content_color": "#000000",
+         "premium_blog_posts_columns_spacing": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_posts_columns_spacing_mobile": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_posts_spacing": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_posts_spacing_mobile": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_prev_text": "Previous",
+         "premium_blog_tab_label": "All",
+         "premium_blog_thumb_min_height": {
+          "size": 260,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_title_color": "#0A431B",
+         "premium_blog_title_hover_color": "#A93131",
+         "premium_blog_title_tag": "h4",
+         "premium_blog_title_typo_font_family": "Tahoma",
+         "premium_blog_title_typo_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_title_typo_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_title_typo_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "premium_blog_title_typo_typography": "custom",
+         "premium_flip_text_align": "center",
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "prmeium_blog_box_padding": {
+          "bottom": "-3",
+          "isLinked": false,
+          "left": "-3",
+          "right": "-3",
+          "top": "-3",
+          "unit": "px"
+         },
+         "prmeium_blog_box_padding_mobile": {
+          "bottom": "19",
+          "isLinked": false,
+          "left": "13",
+          "right": "13",
+          "top": "3",
+          "unit": "px"
+         },
+         "prmeium_blog_box_padding_tablet": {
+          "bottom": "13",
+          "isLinked": true,
+          "left": "13",
+          "right": "13",
+          "top": "13",
+          "unit": "px"
+         },
+         "prmeium_blog_content_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "prmeium_blog_content_margin_mobile": {
+          "bottom": "19",
+          "isLinked": false,
+          "left": "19",
+          "right": "19",
+          "top": "19",
+          "unit": "px"
+         },
+         "prmeium_blog_content_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "prmeium_blog_content_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "prmeium_blog_inner_box_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "prmeium_blog_inner_box_padding_mobile": {
+          "bottom": "5",
+          "isLinked": false,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "prmeium_blog_inner_box_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "tax_category_post_filter": [
+          "vylety"
+         ],
+         "title_spacing": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "premium-addon-blog"
+       }
+      ],
+      "id": "fe6a6a0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_radius": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "box_shadow_box_shadow_type": "yes",
+       "color_text": "#050505",
+       "pa_condition_repeater": [
+        {
+         "_id": "e41e306",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip.",
+       "space_between_widgets": 20
+      }
+     }
+    ],
+    "id": "29cae56",
+    "isInner": false,
+    "settings": {
+     "content_width": {
+      "size": 938,
+      "sizes": [],
+      "unit": "px"
+     },
+     "layout": "full_width",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "29",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "9cad1c1",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5710ac2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "color": "#0A431B",
+         "gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5388e70",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "pattern_height": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "c990903",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9343bae",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fd36f73",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "2f324a6",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "60dad55",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Pokud chcete, aby vám už žádný z výletů neutekl, můžete si to zajistit zde:</strong> </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "5c3c5c4",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "85081c8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"3769855:v1z3u3\">\r\n</div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "324fade",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "8ff94d0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 49.967,
+       "border_color": "#919F1AA1",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "17f314f",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4ba1b75",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "30",
+          "right": "30",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Praktický pomocník, který vám pomůže, abyste si svůj výlet opravdu užili, je ke stažení zde: </strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ebf8659",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d279a7f",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"4151254:y7g3p8\">\r\n</div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0e2d0be",
+           "pa_condition_date": "2022/11/17",
+           "pa_condition_date_range": "2022/11/17"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "4cf26fb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "border_color": "#919F1AA1",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "59f2937",
+         "pa_condition_date": "2022/11/17",
+         "pa_condition_date_range": "2022/11/17"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "195b8e7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c8d1733",
+       "pa_condition_date": "2022/11/17",
+       "pa_condition_date_range": "2022/11/17"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "11963",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Tipy na výlety ve Vídni a v okolí Vídně i v celém Rakousku. Rakouská příroda.",
+  "_yoast_wpseo_metadesc": "Skvělé tipy na výlety ve Vídni, v okolí Vídně i po celém Rakousku. Vydejte se i vy objevovat krásy rakouské přírody. Rakousko má v tomto směru opravdu co nabídnout. Vychutnejte rakouskou přírodu všemi smysli."
+ },
+ "modified": "2024-04-08 10:26:01",
+ "obsah_wordpress": "<h2>Skvělé tipy na výlety v Rakousku.</h2>\t\t\n\t\t\t<h3>Vydejte se na výlety do přírody ve Vídni, v okolí Vídně i v celém Rakousku. </h3>\t\t\n\t\t\t<h4>Co nás vlastně pohání vydávat se do přírody? Je to pro člověka přirozené prostředí. Je to živoucí prostor, ve kterém se cítíme osvěženi. V přírodě se nám obnovuje energie, zklidňuje mysl, přichází uvolnění, radost a nový pohled na život.</h4>\t\t\n\t\t\t<h4>Příroda má na naši vnitřní rovnováhu blahodárný účinek a dokáže rychle obnovit naši harmonii.</h4>\t\t\n\t\t\t<h4>Na výletě může člověk v tichu kráčet přírodou, úplně se ponořit do sebe, odpoutat se od běžných vnějších vlivů a navracet se k tomu podstatnému – sám k sobě. </h4>\t\t\n\t\t\t<h4>Více o návratu k sobě skrze přírodu najdete v mé uzavřené facebookové  skupině: </h4>\t\t\n\t\t\t<h4>s Blankou za hranice, přírodou k sobě.</h4>\t\t\n\t\t\t<a href=\"https://www.facebook.com/groups/sblankouzahranicevice\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tdo skupiny tudy\n\t\t\t\t\t</a>\n\t\t\t<h4>Rakouská příroda má co se týká turistiky opravdu co nabídnout. Ať už jste milovníci výšlapů do hor, lehkých procházek kolem jezer, nebo vás zajímají nová místa a historie země, dokáže vám Rakousko nabídnout nespočet lákavých příležitostí a chuť se tam stále vracet.</h4>\t\t\n\t\t\t<h4>Rakousko, to nejsou jen Alpy a krásná lyžařská střediska, ale především nepřeberné množství značených turistických tras, zelené louky s pasoucími se krávami, nedozírné svahy poseté alpskými bylinami i dech beroucí výhledy. </h4>\t\t\n\t\t\t<h4>Vydejte se proto se mnou poznávat Rakousko především pomocí vycházek a výletů do přírody a zamilujete si Rakousko tak, jako já.</h4>\t\t\n\t\t\t\t\t\t\t<img width=\"1200\" height=\"676\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/Prater-kolo-a-Liliputanbahn.jpg\" alt=\"Vídeňský Prátr\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vidensky-pratr-vice-nez-jen-zabavni-park/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Vídeňský Prátr &#8211; více než jen zábavní park.</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/vidensky-pratr-vice-nez-jen-zabavni-park/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tVídeňský Prátr &#8211; více než jen zábavní park.\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/blog/\" rel=\"category tag\">Blog</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/viden/\" rel=\"category tag\">Vídeň</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/blog/zivot-v-rakousku/\" rel=\"category tag\">Ze života v Rakousku</a>\t\t\t\t\n\t\t<p>Vídeňský Prátr je mnohem více, než jen zábavní park. Přečtěte si, co o Prátru určitě nevíte a při návštěvě metropole Rakouska se vám bude hodit! Objevujte Vídeň jinak a dozvíte se, co v průvodcích nenajdete.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1100\" height=\"619\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/07/nahledovy-obrazek2.jpg\" alt=\"Ruiny Kollmitz\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/ruiny-kollmitz/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Ruiny Kollmitz-výlet u hranice ČR</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/ruiny-kollmitz/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tRuiny Kollmitz-výlet u hranice ČR\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/historie/\" rel=\"category tag\">Historie Rakouska</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/hrady-zamky/\" rel=\"category tag\">Hrady a zámky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Pěší turistika. Zajímavé místo, stojí za návštěvu. Ruiny hradu Kollmitz (česky Chlumec) jsou nejrozsáhlejší zříceninou v rakouském Podyjí. Vypínají se nad řekou Thaya (Dyje) v Dolním Rakousku v severním Waldviertelu, poblíž města Raabs an der Thaya, nedaleko …</p>\t\t\n\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-hlavni-ulici.jpg\" alt=\"Zwettl\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/zwettl-niederosterreich/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Zwettl, Niederösterreich a jeho stavba, kterou hledají turisté spíše ve Vídni.</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/zwettl-niederosterreich/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tZwettl, Niederösterreich a jeho stavba, kterou hledají turisté spíše ve Vídni.\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/historie/\" rel=\"category tag\">Historie Rakouska</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Nedaleko hranic s Českou republikou leží v nadmořské výšce 520m okouzlující město Zwettl, které tvoří zeměpisný střed Waldviertelu a které se mimo jiné pyšní stavbou, kterou byste hledali spíše ve Vídni.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"600\" height=\"400\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstejn-Karlstein-1.png\" alt=\"Karlstejn a Karlstein\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/karlstejn-karlstein/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Karlštejn &#038; Karlstein -1 název, 3 hrady, 3 státy</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/karlstejn-karlstein/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tKarlštejn &#038; Karlstein -1 název, 3 hrady, 3 státy\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/historie/\" rel=\"category tag\">Historie Rakouska</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/hrady-zamky/\" rel=\"category tag\">Hrady a zámky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/za-hranici-rakouska/\" rel=\"category tag\">Za hranicí Rakouska</a>\t\t\t\t\n\t\t<p>Jsem češka, momentálně žijící v Rakousku a až dosud jsem nevěděla, že jméno našeho nejznámějšího hradu Karlštejna má původ jinde. Vše se propojilo náhodou, při jednom našem výletě nedaleko Vídně a senzace tak je na světě. Chcete vědět více, tak šup na celý článek...</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1358\" height=\"873\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Nahled-zamek-S.jpg\" alt=\"zamek Třešť\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/zamek-trest/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Zámek Třešť, zámecký park a okolní příroda</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/zamek-trest/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tZámek Třešť, zámecký park a okolní příroda\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/hrady-zamky/\" rel=\"category tag\">Hrady a zámky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/pamatky-unesco-rakousko/\" rel=\"category tag\">Památky Unesco</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/romantika/\" rel=\"category tag\">Romantika pro dva</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/za-hranici-rakouska/\" rel=\"category tag\">Za hranicí Rakouska</a>\t\t\t\t\n\t\t<p>Zámek Trešť, je místo za hranicí Rakouska na území České republiky, které přináší nejen širokou nabídku možnosti trávení volného času, ale i úzké historické i současné propojení obou dvou států. Vydejte se na prohlídku zámku, zámecké zahrady i přilehlého regionu.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"530\" height=\"493\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/09/Rathaus-a-namesti-nahled.jpg\" alt=\"Bad Schallerbach -namesti\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/bad-schallerbach-vitalwelt/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Bad Schallerbach, Vitalwelt Oberösterreich</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/bad-schallerbach-vitalwelt/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tBad Schallerbach, Vitalwelt Oberösterreich\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/cyklo-vylety/\" rel=\"category tag\">Cyklo výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-oberosterreich/\" rel=\"category tag\">Rakousko-Oberösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Relaxační dovolená v Rakousku, to je Bad Schalerbach. Město ležící v srdci Horního Rakouska, tvoří společně s obcemi Gallspach, Geboltskirchen, Grieskirchen, Haag am Hausruck a Wallern pulsující turistický region „Vitální svět Bad Schalerbach“. Najdete ho zhruba 40km od Linze.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"2549\" height=\"1960\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/05/nahledovy-obrazek-S-s-1.jpg\" alt=\"Kittenbergergarten\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/kittenberske-dobrodruzne-zahrady-niederosterreich/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Kittenberské dobrodružné zahrady, Niederösterreich</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/kittenberske-dobrodruzne-zahrady-niederosterreich/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tKittenberské dobrodružné zahrady, Niederösterreich\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zahrady-parky/\" rel=\"category tag\">Zahrady a parky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Pojďte se projít do jedné z nejvíce prosperujících destinací v Rakousku, do nápaditě navržené výstavní zahrady, lákající domácí i zahraniční návštěvníky do světa fantazie, odpočinku i zábavy. Najdete zde \n místo pro celou rodinu.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1100\" height=\"584\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/03/pohled-na-vinice-nahled.obr_.jpg\" alt=\"Gumpoldskirchen\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/gumpoldskirchen-zamekvinovyhlidka/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Gumpoldskirchen-zámek,víno,vyhlídka</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/gumpoldskirchen-zamekvinovyhlidka/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tGumpoldskirchen-zámek,víno,vyhlídka\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/cyklo-vylety/\" rel=\"category tag\">Cyklo výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/hrady-zamky/\" rel=\"category tag\">Hrady a zámky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vyhlidky/\" rel=\"category tag\">Vyhlídky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Staré, tradiční vinařské město se nachází pouhých 20 km od města Vídně a má velmi příznivé klima díky své chráněné poloze na úpatí Anningeru. Najdete zde zámek Gumpoldskirchen i krásné nádvoří, zajímavou budovu radnice i nabídku mnoha turistických tras a poznávacích stezek.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"658\" height=\"398\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/02/nahled.obrazek-S-s.jpg\" alt=\"Hagenbachklamm\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/hagenbachklamm/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Hagenbachklamm, Naturpark Eichenhain</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/hagenbachklamm/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tHagenbachklamm, Naturpark Eichenhain\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Pojďte se seznámit s nádhernou, rodinnou túrou divokou a romantickou soutěskou v blízkosti Vídně s největší soukromou rezervací dravců v Evropě.\nUžijete si cestu podél soutěsek a skal, přes četné, dřevěné mosty a lávky vedoucí přes potok.\nTo je Hagenbachklamm.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1481\" height=\"778\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/nahled.obr-3v1.jpg\" alt=\"wachau 3v1\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylety-wachau/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Vychutnejte 3v1, oblast Wachau</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/vylety-wachau/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tVychutnejte 3v1, oblast Wachau\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/pamatky-unesco-rakousko/\" rel=\"category tag\">Památky Unesco</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>3 výlety v jednom městě v oblasti Wachau, Niederösterreich zvládnete během 1 dne. Optimální kombinace fyzického a duševního prožitku. Navštívíte unikátní přírodní oblast, dotknete se historie a zažijete umění v přírodě. Čekají tu na vás jedinečné sekvoje, památka UNESCO a stezka dřevěných soch v přírodě.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"610\" height=\"429\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/12/nahledovy-obrazek.jpg\" alt=\"kriz\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/naturpark-leiser-berge/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Naturpark Leiser Berge  Příroda je brána k bohu</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/naturpark-leiser-berge/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tNaturpark Leiser Berge  Příroda je brána k bohu\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vyhlidky/\" rel=\"category tag\">Vyhlídky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Pěší turistika. Cyklo-turistika. Naturpark Leiser Berge se nachází v srdci Weinviertelu, pouhých 36km severně od hranic Vídně a je jedním z nejstarších v Dolním Rakousku. Turistům a návštěvníkům nabízí tato oblast opravdu hodně. Chlouba tohoto přírodního parku s jeho rekreačním potenciálem...</p>\t\t\n\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/10/Nahledovy-obrazek.jpg\" alt=\"vinice3\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/videnske-vinice-a-rakouske-heuriger/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Vídeňské vinice a rakouské Heuriger</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/videnske-vinice-a-rakouske-heuriger/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tVídeňské vinice a rakouské Heuriger\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/pamatky-unesco-rakousko/\" rel=\"category tag\">Památky Unesco</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/viden/\" rel=\"category tag\">Vídeň</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-vinarstvi-gastronomie/\" rel=\"category tag\">Vinařství a gastronomie</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Vídeň je jedinou metropolí na světě, která se na svém území (hlavní město) významněji věnuje vinařství. Vídeňské vinice zabírají 700 hektarů, určují ráz města a podtrhují jeho kulturu. Vinařství má ve Vídni dlouhou tradici. Dnes se Vídeň představuje jako město s živou vinařskou kulisou.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"707\" height=\"370\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/10/Nahled.obr_.oprav_..png\" alt=\"schneeberg\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/schneeberg/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Schneeberg (2076 m)</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/schneeberg/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tSchneeberg (2076 m)\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vyhlidky/\" rel=\"category tag\">Vyhlídky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Pohoří Schneeberg se nachází zhruba 70km jihozápadně od Vídně. Jedná se o nejvyšší horu Dolního Rakouska a zároveň nejvýchodnější alpskou dvoutisícovku, která patří mezi domovské hory Vídeňanů. Čeká vás nezapomenutelná vyhlídková jízda tradiční žluto-černou historickou lokálkou.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"707\" height=\"370\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/09/Nahledovy-obrazek-2.png\" alt=\"kostely\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Dojdi si pro energii mystickou stezkou Via Sacra </a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tDojdi si pro energii mystickou stezkou Via Sacra \t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/historie/\" rel=\"category tag\">Historie Rakouska</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Okružní turistickou stezkou Via Sacra Rundwanderweg „Mystická místa, Druidský kámen a Kalendárium“ a k tomu po idylických stezkách ke třem poutním kostelům, to je zážitkový výlet na hranici biosférické rezervace Wienerwald v Niederösterreich.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1528\" height=\"863\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-nahled.obrazek-s-napisem.jpg\" alt=\"upoutavka Stausee\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/stausee-mooserboden-kaprun/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Stausee Mooserboden, Kaprun</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/stausee-mooserboden-kaprun/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tStausee Mooserboden, Kaprun\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/jezera-a-vodopady/\" rel=\"category tag\">Jezera a vodopády</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-salzburg/\" rel=\"category tag\">Rakousko-Salzburg</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Pěší turistika + zajímavé místo. KAPRUNSKÉ VYSOKOHORSKÉ NÁDRŽE MOOSERBODEN to je zajímavé místo vysoko nad údolím Kaprunu a nad známým Zell am See.\nOcitnete se zde ve světě technologií, vody, hornin a nádherných výhledů ve výšce přes 2000 metrů.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"735\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/nahled.obrazek-se-mnou.jpg\" alt=\"vodopády\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/myrafalle-wasserwelt-niederosterreich/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Myrafälle Wasserwelt &#8211; síla a energie vodopádů</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/myrafalle-wasserwelt-niederosterreich/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tMyrafälle Wasserwelt &#8211; síla a energie vodopádů\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/jezera-a-vodopady/\" rel=\"category tag\">Jezera a vodopády</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Pěší turistika. Přibližně 65 km od Vídně, zhruba 1 hod cesty autem, v oblasti Dolního Rakouska (Niederösterreich) na území obce Muggendorf se nacházejí jedny z nejkrásnějších rakouských vodopádů – Myrafälle (Wasserwelt).</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1200\" height=\"675\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/Tulln-nahledovy-obrazek-bez-textu.jpg\" alt=\"Tulln - stezka v korunach stromů\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/tulln-an-der-donau-botanicka-zahrada/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Stezka v korunách stromů, botanická zahrada Tulln an der Donau</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/tulln-an-der-donau-botanicka-zahrada/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tStezka v korunách stromů, botanická zahrada Tulln an der Donau\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vyhlidky/\" rel=\"category tag\">Vyhlídky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zahrady-parky/\" rel=\"category tag\">Zahrady a parky</a>\t\t\t\t\n\t\t<p>Zajímavé místo. Poznejte i vy jedinečnou, a v Evropě první, ekologickou zahradu o rozloze 800 m2, která stojí za návštěvu stejně tak, jako samotné město Tulln. Tulln an der Donau je jedno z nejstarších měst Dolnorakouska (Niederösterreich).</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1200\" height=\"706\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/nahledovy-obrazek.jpg\" alt=\"Semmering pohled do krajiny\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/rakousky-semmering-a-jeho-zeleznice/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Rakouský Semmering a jeho železnice</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/rakousky-semmering-a-jeho-zeleznice/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tRakouský Semmering a jeho železnice\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/pamatky-unesco-rakousko/\" rel=\"category tag\">Památky Unesco</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Pěší turistika. Na jižní hranici Dolního Rakouska směrem na Štýrsko leží obec Semmering a alpský přechod stejného jména. Od roku 1854 prochází vesnicí Semmeringská železnice, zapsaná na seznamu světového dědictví UNESCO.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1200\" height=\"583\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/Nahledovy-obrazek-z-vyhlidky.jpg\" alt=\"Nahled.obrázek vyhlídky do krajiny\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/hainburg-an-der-donau/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Dva hrady, dva státy-Hainburg an der Donau</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/hainburg-an-der-donau/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tDva hrady, dva státy-Hainburg an der Donau\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vyhlidky/\" rel=\"category tag\">Vyhlídky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Pěší turistika.Hainburg an der Donau je město v Rakousku, v okrese Bruck an der Leitha, ve spolkové zemi Dolní Rakousko. \nJe to nejvýchodnější rakouské město.    Dnes se spolu vydáme po trase ke keltské osadě s rozhlednou a vyhlídkou na dva státy.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1200\" height=\"1068\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/nahledovy-obrazek.jpg\" alt=\"nahledovy obrázek Stupa\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/buddhisticka-stavba-mezi-rakouskymi-vinicemi/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Buddhistická stavba u rakouských vinic</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/buddhisticka-stavba-mezi-rakouskymi-vinicemi/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tBuddhistická stavba u rakouských vinic\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Po cestě směrem na Kremži nemůžete přehlédnout bílou budovu se zlatou kopulí tyčící se nad vinicemi.  Najdete ji ve městě Grafenwörth, v okrese Tulln v Dolním Rakousku a zcela jistě vás na tomto místě upoutá netradiční stavba.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"595\" height=\"440\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/novy-nahledovy-obrazek3.jpg\" alt=\"Thunberger Stausee\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Thunberger Stausee, co se skrývá za průhledem</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tThunberger Stausee, co se skrývá za průhledem\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/jezera-a-vodopady/\" rel=\"category tag\">Jezera a vodopády</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Hrad Krumau am Kamp a Thunberger Stausee spolu s přehradou Thunberg je výlet zhruba 100km od Vídně v oblasti Niederösterreich a nabídne vám krásnou-zhruba 10km okružní trasu kolem vodní nádrže.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1200\" height=\"694\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/nahled.obr_.clanku-am-himmel.jpg\" alt=\"Až do nebo\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylet-az-do-nebe-19-okres-vidne/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Výlet až do nebe &#8211; am Himmel, Vídeň</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/vylet-az-do-nebe-19-okres-vidne/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tVýlet až do nebe &#8211; am Himmel, Vídeň\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/pro-deti/\" rel=\"category tag\">Děti vítány</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/viden/\" rel=\"category tag\">Vídeň</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/zajimava-mista/\" rel=\"category tag\">Zajímavá místa a unikáty</a>\t\t\t\t\n\t\t<p>Přímo v hlavním městě Rakouska ve Vídni můžete dojít \"až do nebe\" a to po značené městské turistické trase krásnou procházkou vedoucí skrz oblast Biosphärenpark Wienerwald.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"1280\" height=\"465\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/nahledovy-obrazek.jpg\" alt=\"Skywalk2\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/hohe-wand-vyhlidka-skywalk/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Naturpark Hohe Wand &#8211; vyhlídka Skywalk</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/hohe-wand-vyhlidka-skywalk/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tNaturpark Hohe Wand &#8211; vyhlídka Skywalk\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/vylety-okoli-vidne/\" rel=\"category tag\">Okolí Vídně</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\" rel=\"category tag\">Rakousko - Niederösterreich</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/vyhlidky/\" rel=\"category tag\">Vyhlídky</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Pěší turistika. Oblast Hohe Wand se spolu s dalšími oblastmi jako Raxalpen, Schneeberg a další označuje jako Vídeňské Alpy. Důvod je zcela jasný – všechny jmenované regiony jsou kousek za Vídní cca 1 hod cesty autem z Vídně. Oblast nese statut přírodního parku.</p>\t\t\n\t\t\t\t\t\t\t<img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/wanderweg8.jpg\" alt=\"stadtwanderweg\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/stadtwanderweg-wien/\" target=\"_self\" aria-hidden=\"true\" rel=\"noopener\">Vídeň, jak ji neznáte &#8211; Stadtwanderweg Wien</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h4>\n\t\t\t<a href=\"https://sblankouzahranice.eu/stadtwanderweg-wien/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tVídeň, jak ji neznáte &#8211; Stadtwanderweg Wien\t\t\t</a>\n\t\t</h4>\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/vylety/stadtwanderweg/\" rel=\"category tag\">Stadtwanderweg Wien</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/viden/\" rel=\"category tag\">Vídeň</a>, <a href=\"https://sblankouzahranice.eu/category/vylety/\" rel=\"category tag\">Výlety</a>\t\t\t\t\n\t\t<p>Celkem 14 značených turistických tras vede krásnou zelení Vídně a nejbližšího okolí a nabízí vám pohled na hlavní město Rakouska z jiného úhlu. Zajímavostí města Vídně je, že bylo vyhlášeno nejzelenější metropolí světa.</p>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Pokud chcete, aby vám už žádný z výletů neutekl, můžete si to zajistit zde:</strong> </p>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Praktický pomocník, který vám pomůže, abyste si svůj výlet opravdu užili, je ke stažení zde: </strong></p>",
+ "parent": 0,
+ "slug": "vylety",
+ "title": "Výlety",
+ "type": "page"
+}

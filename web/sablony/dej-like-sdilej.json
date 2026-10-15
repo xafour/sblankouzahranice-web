@@ -1,0 +1,155 @@
+{
+ "ID": 16081,
+ "categories": [],
+ "date": "2022-12-08 22:10:11",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=dej-like-sdilej",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e28b8eb",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "50",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#BF2D29",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-heart"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "51316ec8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "50",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">dej like</p>",
+         "pa_condition_repeater": [],
+         "text_color": "#070707",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "800",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "69e402e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_mobile": 50,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "72da691b",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=text"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-50",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-share-square"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "28b93d29",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-50",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">sdílej</p>",
+         "pa_condition_repeater": [],
+         "text_color": "#070707",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "800",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "57b828cc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_mobile": 50,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "30804438",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-12-08 22:10:11",
+ "obsah_wordpress": "<p style=\"text-align: center;\">dej like</p>\t\t\n\t\t<p style=\"text-align: center;\">sdílej</p>",
+ "parent": 0,
+ "slug": "dej-like-sdilej",
+ "title": "dej like-sdílej",
+ "type": "elementor_library"
+}

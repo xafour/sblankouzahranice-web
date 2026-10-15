@@ -1,0 +1,2335 @@
+{
+ "ID": 5474,
+ "categories": [
+  "Okolí Vídně",
+  "Výlety",
+  "Zajímavá místa a unikáty"
+ ],
+ "date": "2021-04-26 19:03:15",
+ "excerpt": "Po cestě směrem na Kremži nemůžete přehlédnout bílou budovu se zlatou kopulí tyčící se nad vinicemi.  Najdete ji ve městě Grafenwörth, v okrese Tulln v Dolním Rakousku a zcela jistě vás na tomto místě upoutá netradiční stavba.",
+ "link": "https://sblankouzahranice.eu/buddhisticka-stavba-mezi-rakouskymi-vinicemi/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bf9c7ed",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4ce0afb"
+          }
+         ],
+         "primary_color": "#050505",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-street-view"
+         },
+         "size": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "42603431",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 6,
+       "pa_condition_repeater": [
+        {
+         "_id": "4067dbb"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bb37358",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "0",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "050ca21"
+          }
+         ],
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-gem"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "5a890dbf",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "pa_condition_repeater": [
+        {
+         "_id": "337870e"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4c3c2fec",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "15",
+          "right": "0",
+          "top": "6",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "35ee4e0"
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3a70066a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 89.648,
+       "_inline_size_mobile": 83,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "7",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "8532330"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "15216692",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "711e398"
+      }
+     ],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ecf42cb",
+        "settings": {
+         "image": {
+          "id": 5478,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-trasa-cesty-z-Vidne.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "ce7cc67"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "845c684",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "44cc8ff"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "31335f0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "f5fd36f"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e4d029",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "5ab8b9d"
+          }
+         ],
+         "title": "Buddhistický chrám nazvaný Stupa für den Frieden ve městě Grafenwörth v okrese Tulln v Dolním Rakousku.",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d192092",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e2018a9"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "cd1dd62",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "8e77de6"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "601ff26",
+        "settings": {
+         "editor": "<p>Další ze zajímavostí a tip pro návštěvu jsme objevili při cestě na <span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\"><a style=\"color: #000080; text-decoration: underline;\" href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\" rel=\"noopener\">náš výlet na hrad Krumau a Thunberger Stausee.</a></span></span>  <br />Když jedete po silnici směrem na Stockerau a dále na Kremži, nemůžete po cestě přehlédnout bílou budovu se zlatou kopulí, tyčící se nad vinicemi.</p><p>Najdete ji ve městě Grafenwörth v okrese Tulln v Dolním Rakousku, přesněji na „Wagramer Kante“, asi jeden kilometr mimo Grafenwörth.</p><p>Už z dálky vás tato  netradiční stavba zaujme. Jedná se o buddhistický chrám nazvaný \"Stupa für den Frieden\" (Stúpa pro mír).</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "abe2818"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "067ac2b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f3120fa"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "556feb1",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#F0CF74",
+     "pa_condition_repeater": [
+      {
+       "_id": "a09d1bf"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7011328",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "26",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5479,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Pohled-z-dalky-s-vinicemi.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "400"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "e4ff496"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3248d88",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "fb60b17"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42cd360",
+        "settings": {
+         "image": {
+          "id": 5480,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/stupa-z-dalky.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "400"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "5a10ac8"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7290f92",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f25bd4a"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d16662f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "3abcd92"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cb0e223",
+        "settings": {
+         "editor": "<p>Výstavba této budovy trvala více než 5 let a tuto stavbu provázely roky sporů ohledně výstavby a dokončení. Ještě v roce 2018 hrozila této stavbě před jejím dokončením demolice. Stavba se stala sporem nejen rakouských organizací, ale i místních lidí. Ohledně výstavby bylo vypsáno i referendum.</p><p>A dokonce o této stavbě rozhodoval i dolnorakouský <span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\"><a style=\"color: #000080; text-decoration: underline;\" href=\"https://de.wikipedia.org/wiki/Landesverwaltungsgericht\">zemský správní soud</a> v </span></span><a href=\"https://de.wikipedia.org/wiki/St._P%C3%B6lten\"><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">St. Pölten</span></span></a></p><p>To vše je velký paradox k tomu, že záměrem stavby je právě podpora míru mezi lidmi.</p><p>Nakonec byla stavba v září 2019 dokončena (mimo kopuli) a 5.ledna 2020 pak byla osazena i kopule a stavba se zaskvěla v dnešní podobě.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "07ae219"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2216ac5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f97fd38"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "f673f1b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "91861ad"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "74b3b3e",
+        "settings": {
+         "editor": "<p>CO JSOU STÚPY?  <strong>Stúpy jsou typickým prvkem buddhistické architektury.<br />Jedná se o stavby se silnou energií, které přináší požehnání všem v jejím okolí.</strong><strong> </strong></p><p>Stúpy pochází z Indie. Tyto stavby odjakživa sloužily jako náhrobní pomník. Postupem času se tato původní funkce setřela a nyní se stúpy staví nejen v Asii, ale i v mnoha zemích západního světa ve prospěch lidí a živých bytostí jako místa plná harmonie a míru. <br />Stúpa je považována za místo sebereflexe a odpočinku.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "8d8e1fc"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "41f874c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b0d6b15"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c644ec7",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#F0CF74",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "11f17a5"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3be421a",
+        "settings": {
+         "editor": "<p>Záměrem tohoto projektu bylo vytvořit místo setkání lidí, místo pro meditaci, pro mír, dialog a učení, což se nakonec povedlo.</p><p>Vedoucím celého projektu je buddhistický mnich Rev.Bop Jon Sunim Tenzin Tharchin.<br />Je to korejský mnich a vědec, který žije v Rakousku.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "3488212"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2726469",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "dc7ecdf"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "cae86f1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "29b4918"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a76beb",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Něco málo o stavbě v Grafenwörth:</strong></p><p>Tvar stúpy připomíná tělo Buddhy sedícího v meditační pozici. <br />Základní tvar tvoří podstavec, kopule a špička.</p><p>Výška stavby je více než 30 metrů. Po schodišti lze vyšplhat zdoláním 50 schodů k Buddhovi a přinést oběť, nechat květinu nebo vonné tyčinky. </p><p>Slunce na vrcholu stupy symbolizuje záři tisíce soucitných světel, měsíc odstranění všeho utrpení, koruna vítězný stav osvícení.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "f7dbf25"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f591763",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "edcfae6"
+          }
+         ],
+         "style": "curly",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "285eeff",
+        "settings": {
+         "editor": "<p>Samozřejmě, na rozdíl od svého malého bratra ve Vídni, nabízí tato stúpa také prostor uvnitř. </p><p>Uvnitř je umístěna jedna velká kulatá místnost, příjemně pokrytá světlým dřevem. <br />Okna ve tvaru okénka poskytují výhled na krajinu. Uprostřed je oltář a zvon zdobený vlajkami. Používá se například při meditacích. Návštěvníci mohou sedět na polštářích na podlaze nebo na lavičkách na okraji.<br />Knihy a ruční práce z Asie jsou nabízeny na stolech. </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "b805494"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "575232d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 55,
+       "pa_condition_repeater": [
+        {
+         "_id": "4d7ca43"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "016974c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "40",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "70",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5490,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/budha-zlaty.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "400"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "cc24447"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "35b42f1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 44,
+       "pa_condition_repeater": [
+        {
+         "_id": "0171a50"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "ec41af4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "45f0531"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5e3215d",
+        "settings": {
+         "height_mobile": {
+          "size": 163,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "id": 5495,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "ced09f1"
+          }
+         ],
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9c6d753",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a4d76c5"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2c3995f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "faaf9d2"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7bd202d",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Ústředním bodem v místnosti přímo pod kopulí je znak lotosového květu.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "61ba0c7"
+          }
+         ],
+         "text_color": "#5F3F0A",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c0a0176",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "11e3271"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2e9ed4f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1e4f0ed"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5cc2a11",
+        "settings": {
+         "image": {
+          "id": 5496,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/znak-v-interieru.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "550"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "c56aaf9"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "258a563",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1d71bf8"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a599fc1",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "14",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5494,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kopule-zevnitr.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "500"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "247cfdf"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f5451b2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a7404d3"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "424c460",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "8098f60"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f0b916b",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Dočetla jsem se, že stúpa je památník míru, který prospívá všem tvorům a lidem.<br />Nepoužívá se k obracení na víru, ale k láskyplnému dialogu mezi náboženstvími a lidmi.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "918ddf6"
+          }
+         ],
+         "text_color": "#5F3F0A",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3131f19",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d0a61b8"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "982666e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "f24fb96"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a340362",
+        "settings": {
+         "editor": "<p>Jako čistě symbolické památky stúpy nejsou chrámy ani normální budovy. Stúpy nás zvou k zamyšlení a meditaci nad jejich významem.</p><p>Stúpy patří k nejstarším formám v architektuře. Jsou krásné na pohled a přinášejí štěstí všem, kteří se na ně dívají, obcházejí kolem ve směru hodinových ručiček nebo v blízkosti meditují.</p><p>Harmonizují své okolí a mají pozitivní vliv na mysl pozorovatele, protože jejich tvar odráží jejich osvícené vlastnosti.</p><p>Čerpají energii z přírody, koncentrují ji a pozitivně ji rozvádějí dál.</p><p style=\"text-align: center;\"><strong>Říká se o nich také, že mají ochrannou sílu pro místo, kde jsou postaveny.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "69bdc89"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "182000d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "70ff27d"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "1be5c23",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#F0CF74",
+     "pa_condition_repeater": [
+      {
+       "_id": "5a60588"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "60a1d85",
+        "settings": {
+         "editor": "<p>O moudrosti a energii přírody jsou téměř všechny mé příspěvky na webu. Z přírody čerpáme sílu a přivádí nás do harmonie a klidu, stejně jako meditace. Zejména \"magické\" je spojení živlu země a vody - velké vodní plochy, jezera, vodopády. Tam všude můžeme zažívat příliv energie. A pokud i vy milujete vodní živel, nabízím vám další výlety spojené s vodou a vodní plochou.</p><p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/myrafalle-wasserwelt-niederosterreich/\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #000080; text-decoration: underline;\">Vodní svět Myrafälle Wasserwelt v oblasti Dolního Rakouska</span></strong></span></a></p><p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/stausee-mooserboden-kaprun/\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #000080; text-decoration: underline;\">Stausee Mooserboden Kaprun</span></strong></span></a></p><p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><span style=\"color: #000080;\"><strong>Thunberger Stausee spolu s přehradou Thunberg</strong></span></span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "d75103f"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6b775aa",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "0e035b0"
+          }
+         ],
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-water"
+         },
+         "size": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "48979fc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3cd5e5c"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "05fdaab",
+    "isInner": false,
+    "settings": {
+     "border_border": "dashed",
+     "border_color": "#F0CF74",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "3e15a61"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53a38e5",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\"><strong>Buddhismus s mnoha směry je v Rakousku uznáván jako „náboženská“ komunita.</strong></p><p>Infrastruktura pro více než 20 000 buddhistů je však problematická, zejména mimo Vídeň, a tak zastánci a příznivci budhismu, stejně jako vedoucí projektu, jsou rádi, že stavba byla nakonec dokončena a bude plnit funkci, pro kterou je určena.</p><p><strong>Přinést lidem prostor pro zastavení se, klid, mír a meditace.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "8e0f491"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0852144",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "64f55fa"
+          }
+         ],
+         "style": "curly",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b3581b",
+        "settings": {
+         "editor": "<p><b>Buddhismus není vírou</b>, <b>ani není pouhou životní filozofií</b>. <br /><b>Definovat buddhismus není vůbec jednoduché</b>.</p><p>Buddhismus totiž neobsahuje víru a dogmata, takže bývá označován jako “náboženství prožitku” či též jako ateistické náboženství.</p><p><span style=\"text-decoration: underline; color: #000080;\"><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.buddhaweb.cz/category/o-buddhismu/\" target=\"_blank\" rel=\"noopener\">Více o buddhismu zde.</a></span></p><p> </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e2385e1"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "0c77003",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7b1de5f"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c578a1c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "50",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "86",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5509,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/ja-a-budha-zvenku-2.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "daa2888"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "70955fc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2e59511"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "99166c2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "11",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7754210"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "46c72d4",
+        "settings": {
+         "editor": "<p>Tato námi navštívená stúpa u Grafenwörth není jedinou, kterou můžete ve Vídni a v jejím okolí vidět. Další stúpa se nachází přímo ve Vídni u Dunaje.  Jedná se však na rozdíl od té v Grafenwörth pouze o stavbu, která není přístupná zevnitř a neposkytuje tudíž možnosti k setkávání lidí a možnost doprovodných programů. </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4459963"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e0cb690",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6b053eb"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "012f219",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ce31cdc"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b3cb842",
+        "settings": {
+         "image": {
+          "id": 5541,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Stupa-wien-M-rotated.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "550"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "8514cc4"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6caf4e2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0df0ae8"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "63c9cd4",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "70",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5542,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-mapa-stupy-ve-Vidni.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "1200",
+          "width": "1024"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "3d337b6"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6ca8dc8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e23e57a"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "4637960",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ef24126"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4d72900",
+        "settings": {
+         "editor": "<p>Zajímavostí je, že i v ČR aktuálně existují 3 stúpy. První stúpa se nachází v Těnovicích u Plzně a byla inaugurovaná 14.9.2014. Druhá se nachází v Liberci a třetí u obce Smědeč v jižních Čechách.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "642456d"
+          }
+         ],
+         "text_color": "#5F3F0A",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f9b25eb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4fdf458"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "b66fd41",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#F0CF74",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1eac926"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9d0ca4e",
+        "settings": {
+         "gap": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4f1eaa3"
+          }
+         ],
+         "pattern_height": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pattern_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "style": "curly",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "17437d4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f42d234"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "fb95705",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ddb2a2c"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "7cdc83f9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 9,
+       "_inline_size_tablet": 8,
+       "pa_condition_repeater": [
+        {
+         "_id": "8d90db4"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3bbb42ca",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Pokud se vám výlet líbil, ráda vám dám vědět o dalších, aby vám už žádný výlet neutekl.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "c159df2"
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "474e710a",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "35bdd6f"
+          }
+         ],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "17facd9c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 83,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#F0CF74EB",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "89d458f"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "78d61a62",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 7.994,
+       "_inline_size_tablet": 10,
+       "pa_condition_repeater": [
+        {
+         "_id": "32a6c31"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "66c3861d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ce7d32e"
+      }
+     ],
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "25c49e2",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "e06ce43"
+          }
+         ],
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "5b92e13",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7952faa"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "6d94124",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "84e3983"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f7fa8d1",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "6938452"
+          }
+         ],
+         "title": "Další výlety v okolí Vídně, které by vás mohli zajímat:"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "cfeab6e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5fd0c96"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "b4a2456",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "02d0be6"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "50f3a1a",
+        "settings": {
+         "image": {
+          "id": 9192,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/vylet-heiligenkreuz/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "01c066b"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9a48af1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c037558"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "611fd65",
+        "settings": {
+         "image": {
+          "id": 9194,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet-1.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/tulln-an-der-donau-botanicka-zahrada/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "13a12bf"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "18ceb99",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5b83f1f"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d0ffe5d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4577d41"
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0a03b16",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "412cd2b"
+          }
+         ],
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "7edfcbb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6f882ad"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c3d38fe",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "1c8df46"
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d4a0beb",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "ef91613"
+          }
+         ],
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "97763e8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2cb6e7b"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "1f816d3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4fbef11"
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "5475",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Rakouske vinice. Stupa für den Frieden in Österreich.",
+  "_yoast_wpseo_metadesc": "Stupy patří k nejstarším formám v architektuře. Jsou krásné na pohled a přinášejí štěstí všem, kteří se na ně dívají, obcházejí kolem ve směru hodinových ručiček, nebo v blízkosti meditují. Harmonizují své okolí a mají pozitivní vliv na mysl pozorovatele, protože jejich tvar odráží jejich osvícené vlastnosti."
+ },
+ "modified": "2022-11-17 22:01:03",
+ "obsah_wordpress": "<strong>Zajímavé místo, stojí za návštěvu.</strong>\n\n<img width=\"1024\" height=\"549\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-trasa-cesty-z-Vidne-1024x549.jpg\" alt=\"trasa z Vidně\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-trasa-cesty-z-Vidne-1024x549.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-trasa-cesty-z-Vidne-300x161.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-trasa-cesty-z-Vidne-768x412.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-trasa-cesty-z-Vidne.jpg 1286w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\n<h4>Buddhistický chrám nazvaný Stupa&nbsp;für&nbsp;den Frieden ve&nbsp;městě Grafenwörth v&nbsp;okrese Tulln v&nbsp;Dolním Rakousku.</h4>\nDalší ze zajímavostí a tip pro návštěvu jsme objevili při cestě na <a style=\"color: #000080; text-decoration: underline;\" href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\" rel=\"noopener\">náš výlet na hrad Krumau a Thunberger Stausee.</a>&nbsp;\nKdyž jedete po&nbsp;silnici směrem na Stockerau a dále na Kremži, nemůžete po cestě přehlédnout bílou budovu se zlatou kopulí, tyčící se nad vinicemi.\n\nNajdete ji ve městě Grafenwörth v okrese Tulln v&nbsp;Dolním Rakousku, přesněji na „Wagramer Kante“, asi jeden kilometr mimo Grafenwörth.\n\nUž z dálky vás tato&nbsp; netradiční stavba zaujme. Jedná se o buddhistický chrám nazvaný \"Stupa für den Frieden\" (Stúpa pro&nbsp;mír).\n\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Pohled-z-dalky-s-vinicemi-pcojj2st999s4rhamaisz1qw8kkjcifbyg9e9sl7jw.jpg\" title=\"Pohled z dalky s vinicemi\" alt=\"pohled na stupu\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/stupa-z-dalky-pcojj2st999s4rhamaisz1qw8kkjcifbyg9e9dpdfg.jpg\" title=\"stupa z dalky\" alt=\"Stupa v krajně\">\n\nVýstavba této budovy trvala více než 5 let a tuto stavbu provázely roky sporů ohledně výstavby a dokončení. Ještě v roce 2018 hrozila této stavbě před jejím dokončením demolice. Stavba se stala sporem nejen rakouských organizací, ale i místních lidí. Ohledně výstavby bylo vypsáno i&nbsp;referendum.\n\nA dokonce o této stavbě rozhodoval i dolnorakouský <a style=\"color: #000080; text-decoration: underline;\" href=\"https://de.wikipedia.org/wiki/Landesverwaltungsgericht\">zemský správní soud</a>&nbsp;v&nbsp;<a href=\"https://de.wikipedia.org/wiki/St._P%C3%B6lten\">St. Pölten</a>\n\nTo vše je velký paradox k&nbsp;tomu, že záměrem stavby je právě podpora míru mezi lidmi.\n\nNakonec byla stavba v září 2019 dokončena (mimo kopuli) a 5.ledna 2020 pak byla osazena i kopule a stavba se zaskvěla v&nbsp;dnešní podobě.\n\nCO JSOU STÚPY?&nbsp; <strong>Stúpy jsou typickým prvkem buddhistické architektury.\nJedná se o stavby se silnou energií, které přináší požehnání všem v&nbsp;jejím okolí.</strong><strong>&nbsp;</strong>\n\nStúpy pochází z Indie. Tyto stavby odjakživa sloužily jako náhrobní pomník. Postupem času se tato původní funkce setřela a nyní se stúpy staví nejen v Asii, ale i v mnoha zemích západního světa ve prospěch lidí a živých bytostí jako místa plná harmonie a&nbsp;míru.\nStúpa je považována za místo sebereflexe a&nbsp;odpočinku.\n\nZáměrem tohoto projektu bylo vytvořit místo setkání lidí, místo pro meditaci, pro mír, dialog a učení, což se nakonec povedlo.\n\nVedoucím celého projektu je buddhistický mnich Rev.Bop Jon Sunim Tenzin Tharchin.\nJe to korejský mnich a vědec, který žije v Rakousku.\n\n<strong>Něco málo o stavbě v&nbsp;Grafenwörth:</strong>\n\nTvar stúpy připomíná tělo Buddhy sedícího v&nbsp;meditační pozici.\nZákladní tvar tvoří podstavec, kopule a špička.\n\nVýška stavby je více než 30 metrů. Po schodišti lze vyšplhat zdoláním 50 schodů k Buddhovi a&nbsp;přinést oběť, nechat květinu nebo vonné tyčinky.&nbsp;\n\nSlunce na&nbsp;vrcholu stupy symbolizuje záři tisíce soucitných světel, měsíc odstranění všeho utrpení, koruna vítězný stav osvícení.\n\nSamozřejmě, na rozdíl od svého malého bratra ve Vídni, nabízí tato stúpa také prostor uvnitř.&nbsp;\n\nUvnitř je umístěna jedna velká kulatá místnost, příjemně pokrytá světlým dřevem.&nbsp;\nOkna ve tvaru okénka poskytují výhled na krajinu. Uprostřed je oltář a zvon zdobený vlajkami. Používá se například při&nbsp;meditacích. Návštěvníci mohou sedět na polštářích na podlaze nebo na lavičkách na okraji.\nKnihy a ruční práce z Asie jsou nabízeny na&nbsp;stolech.&nbsp;\n\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/budha-zlaty-pcojj2st99aclctkyd79i5kwmf0qmeeijxr8ac8ch0.jpg\" title=\"budha zlaty\" alt=\"Zlatý budha\">\n<img width=\"1024\" height=\"403\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa-1024x403.jpg\" alt=\"interier stupa\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa-1024x403.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa-300x118.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa-768x302.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa-1536x604.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/interier-stupa-2048x806.jpg 2048w\" sizes=\"(max-width: 1024px) 100vw, 1024px\">\n<p style=\"text-align: center;\">Ústředním bodem v&nbsp;místnosti přímo pod kopulí je znak lotosového květu.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/znak-v-interieru-pcojj2sv31fv36dlwl53m26feqfs299q6nnbe1l7ow.jpg\" title=\"znak v interieru\" alt=\"Lotos květ znak\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kopule-zevnitr-pcojj2suh41xigyvv61qtko92zk2dbngji3nctxj3k.jpg\" title=\"kopule zevnitr\" alt=\"Vnitřek stupy\">\n<p style=\"text-align: center;\">Dočetla jsem se, že stúpa je památník míru, který prospívá všem tvorům a&nbsp;lidem.\nNepoužívá se k obracení na&nbsp;víru, ale k láskyplnému dialogu mezi náboženstvími a&nbsp;lidmi.</p>\nJako čistě symbolické památky stúpy nejsou chrámy ani normální budovy. Stúpy nás zvou k zamyšlení a&nbsp;meditaci nad jejich významem.\n\nStúpy patří k nejstarším formám v architektuře. Jsou krásné na pohled a přinášejí štěstí všem, kteří se na ně dívají, obcházejí kolem ve směru hodinových ručiček nebo v&nbsp;blízkosti meditují.\n\nHarmonizují své okolí a&nbsp;mají pozitivní vliv na mysl pozorovatele, protože jejich tvar odráží jejich osvícené vlastnosti.\n\nČerpají energii z přírody, koncentrují ji a pozitivně ji rozvádějí dál.\n<p style=\"text-align: center;\"><strong>Říká se o nich také, že mají ochrannou sílu pro místo, kde jsou postaveny.</strong></p>\nO moudrosti a energii přírody jsou téměř všechny mé příspěvky na webu. Z přírody čerpáme sílu a přivádí nás do&nbsp;harmonie a klidu, stejně jako meditace. Zejména \"magické\" je spojení živlu země a vody - velké vodní plochy, jezera, vodopády. Tam všude můžeme zažívat příliv energie. A pokud i vy milujete vodní živel, nabízím vám další výlety spojené s vodou a vodní plochou.\n<p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/myrafalle-wasserwelt-niederosterreich/\" rel=\"noopener\"><strong>Vodní svět Myrafälle Wasserwelt v oblasti Dolního Rakouska</strong></a></p>\n<p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/stausee-mooserboden-kaprun/\" rel=\"noopener\"><strong>Stausee Mooserboden Kaprun</strong></a></p>\n<p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\" rel=\"noopener\"><strong>Thunberger Stausee spolu s přehradou Thunberg</strong></a></p>\n<p style=\"text-align: left;\"><strong>Buddhismus s mnoha směry je v&nbsp;Rakousku uznáván jako „náboženská“ komunita.</strong></p>\nInfrastruktura pro více než 20 000 buddhistů je však problematická, zejména mimo Vídeň, a tak zastánci a příznivci budhismu, stejně jako vedoucí projektu, jsou rádi, že stavba byla nakonec dokončena a bude plnit funkci, pro kterou je určena.\n\n<strong>Přinést lidem prostor pro zastavení se, klid, mír a&nbsp;meditace.</strong>\n\n<b>Buddhismus není vírou</b>,&nbsp;<b>ani není pouhou životní filozofií</b>.&nbsp;\n<b>Definovat buddhismus není vůbec jednoduché</b>.\n\nBuddhismus totiž neobsahuje víru a dogmata, takže bývá označován jako “náboženství prožitku” či&nbsp;též jako ateistické náboženství.\n\n<a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.buddhaweb.cz/category/o-buddhismu/\" target=\"_blank\" rel=\"noopener\">Více o buddhismu zde.</a>\n\n<img width=\"435\" height=\"574\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/ja-a-budha-zvenku-2.jpg\" alt=\"Stúpa\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/ja-a-budha-zvenku-2.jpg 435w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/ja-a-budha-zvenku-2-227x300.jpg 227w\" sizes=\"(max-width: 435px) 100vw, 435px\">\n\nTato námi navštívená stúpa u Grafenwörth není jedinou, kterou můžete ve Vídni a v jejím okolí vidět. Další stúpa se nachází přímo ve Vídni u Dunaje.&nbsp; Jedná se však na rozdíl od té v Grafenwörth pouze o stavbu, která není přístupná zevnitř a neposkytuje tudíž možnosti k setkávání lidí a možnost doprovodných programů.&nbsp;\n\n<img width=\"768\" height=\"1024\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Stupa-wien-M-768x1024.jpg\" alt=\"stupa ve Vídni\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Stupa-wien-M-768x1024.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Stupa-wien-M-225x300.jpg 225w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Stupa-wien-M-1152x1536.jpg 1152w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Stupa-wien-M-rotated.jpg 1224w\" sizes=\"(max-width: 768px) 100vw, 768px\">\n<img width=\"768\" height=\"715\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-mapa-stupy-ve-Vidni-768x715.jpg\" alt=\"mapka kolem Dunaje\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-mapa-stupy-ve-Vidni-768x715.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-mapa-stupy-ve-Vidni-300x279.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-mapa-stupy-ve-Vidni.jpg 841w\" sizes=\"(max-width: 768px) 100vw, 768px\">\n\nZajímavostí je, že i v ČR aktuálně existují 3 stúpy. První stúpa se nachází v&nbsp;Těnovicích u Plzně a byla inaugurovaná 14.9.2014. Druhá se nachází v Liberci a&nbsp;třetí u obce Smědeč v jižních Čechách.\n<p style=\"text-align: center;\"><strong>Pokud se vám výlet líbil, ráda vám dám vědět o dalších, aby vám už žádný výlet neutekl.</strong></p>\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\nMám zájem\n</a>\n<h3>Další výlety v okolí Vídně, které by vás mohli zajímat:</h3>\n<a href=\"https://sblankouzahranice.eu/vylet-heiligenkreuz/\">\n<img width=\"452\" height=\"564\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet.jpg\" alt=\"Nahled.obrazek vylety\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet.jpg 452w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet-240x300.jpg 240w\" sizes=\"(max-width: 452px) 100vw, 452px\">\t\t\t\t\t\t\t\t</a>\n<a href=\"https://sblankouzahranice.eu/tulln-an-der-donau-botanicka-zahrada/\">\n<img width=\"453\" height=\"562\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet-1.jpg\" alt=\"Nahled.obrazek Tulln\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet-1.jpg 453w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vystrizek-vylet-1-242x300.jpg 242w\" sizes=\"(max-width: 453px) 100vw, 453px\">\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "buddhisticka-stavba-mezi-rakouskymi-vinicemi",
+ "title": "Buddhistická stavba u rakouských vinic",
+ "type": "post"
+}

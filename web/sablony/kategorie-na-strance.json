@@ -1,0 +1,86 @@
+{
+ "ID": 11345,
+ "categories": [],
+ "date": "2022-03-22 20:11:29",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=kategorie-na-strance",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "50221d39",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "4a30b8a"
+          }
+         ],
+         "wp": {
+          "nav_menu": "30",
+          "title": "Vyberte si oblast"
+         }
+        },
+        "widgetType": "wp-widget-nav_menu"
+       }
+      ],
+      "id": "1e4fcec0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0d22ecd"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "562faa1d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-23",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ed775d5"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-03-22 20:11:29",
+ "obsah_wordpress": "",
+ "parent": 0,
+ "slug": "kategorie-na-strance",
+ "title": "kategorie na stránce",
+ "type": "elementor_library"
+}

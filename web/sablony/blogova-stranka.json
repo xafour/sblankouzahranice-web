@@ -1,0 +1,481 @@
+{
+ "ID": 2496,
+ "categories": [],
+ "date": "2021-03-04 22:56:49",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=blogova-stranka",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33a05202",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-71",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "-12",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-271",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": "",
+          "url": ""
+         },
+         "image_box_shadow_box_shadow": {
+          "blur": 31,
+          "color": "rgba(0,0,0,0.5)",
+          "horizontal": 34,
+          "spread": 0,
+          "vertical": -26
+         },
+         "image_box_shadow_box_shadow_type": "yes",
+         "width": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42cbadca",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-87",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-4",
+          "unit": "px"
+         },
+         "align": "center",
+         "title": "s Blankou za hranice"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "615b459f",
+      "isInner": "",
+      "settings": {
+       "_column_size": "100",
+       "margin_mobile": {
+        "bottom": "-10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "16",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-149",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "-8",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "7",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "8e2bf63",
+    "isInner": "",
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#C2D22DA1",
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#C2D22DA1",
+     "background_overlay_opacity": {
+      "size": 0.06,
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_position_mobile": "center center",
+     "background_size": "cover",
+     "content_position": "middle",
+     "content_width": {
+      "size": 551,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height": {
+      "size": "",
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "custom",
+     "gap_columns_custom_mobile": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "1",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "6",
+      "unit": "px"
+     },
+     "overflow": "hidden",
+     "padding": {
+      "bottom": "122",
+      "isLinked": "",
+      "left": "0",
+      "right": "0",
+      "top": "239",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "-3",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "75",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "324",
+      "unit": "px"
+     },
+     "shape_divider_bottom": "wave-brush",
+     "shape_divider_bottom_height": {
+      "size": 52,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 134,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "42354e0f",
+      "isInner": "",
+      "settings": {
+       "_column_size": "100",
+       "_inline_size_tablet": "100",
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": "",
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "55a20d73",
+    "isInner": "",
+    "settings": {
+     "background_background": "classic",
+     "background_overlay_background": "classic",
+     "background_overlay_image": {
+      "id": "779",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2019/09/parallax-1.png"
+     },
+     "background_overlay_opacity": {
+      "size": 0.55,
+      "sizes": [],
+      "unit": "px"
+     },
+     "content_width": {
+      "size": "1200",
+      "unit": "px"
+     },
+     "custom_height": {
+      "size": "800",
+      "unit": "px"
+     },
+     "gap": "no",
+     "margin": {
+      "bottom": "",
+      "isLinked": "1",
+      "left": "0",
+      "right": "0",
+      "top": "",
+      "unit": "px"
+     },
+     "padding": {
+      "bottom": "90",
+      "isLinked": "",
+      "left": "0",
+      "right": "0",
+      "top": "90",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "80",
+      "isLinked": "",
+      "left": "20",
+      "right": "20",
+      "top": "60",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": "0",
+      "right": "25",
+      "top": "70",
+      "unit": "px"
+     },
+     "reverse_order_mobile": "reverse-mobile"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a41b61f",
+        "settings": {
+         "category_ids": [
+          "16"
+         ],
+         "eael_cta_btn_normal_bg_color": "#1C6E1C",
+         "eael_excerpt_length": 30,
+         "eael_post_grid_bg_color": "#C2D22DA1",
+         "eael_post_grid_columns": "eael-col-3",
+         "eael_post_grid_excerpt_alignment": "left",
+         "eael_post_grid_load_more_btn_border_radius": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "eael_post_grid_load_more_btn_margin": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "eael_post_grid_load_more_btn_padding": {
+          "bottom": "6",
+          "isLinked": false,
+          "left": "0",
+          "right": "6",
+          "top": "7",
+          "unit": "px"
+         },
+         "eael_post_grid_load_more_btn_typography_typography": "custom",
+         "eael_post_grid_loadmore_button_alignment": "flex-start",
+         "eael_post_grid_meta_typography_line_height": {
+          "size": 0.1,
+          "sizes": [],
+          "unit": "em"
+         },
+         "eael_post_grid_meta_typography_typography": "custom",
+         "eael_post_grid_spacing": {
+          "bottom": "-1",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "eael_post_grid_title_alignment": "center",
+         "eael_post_grid_title_color": "#1C6E1C",
+         "eael_post_grid_title_hover_color": "#7C2328",
+         "eael_post_grid_title_typography_font_size": {
+          "size": 9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "eael_post_grid_title_typography_typography": "custom",
+         "eael_post_read_more_btn_color": "#EBF2EC",
+         "eael_post_read_more_btn_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "10",
+          "top": "0",
+          "unit": "px"
+         },
+         "eael_post_read_more_btn_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "eael_post_read_more_btn_typography_typography": "custom",
+         "eael_post_terms_max_length": "2",
+         "eael_read_more_text": "Read More",
+         "eael_show_author": "",
+         "eael_show_post_terms": "yes",
+         "excerpt_expanison_indicator": "...",
+         "posts_per_page": 12,
+         "read_more_btn_background_background": "classic",
+         "read_more_btn_background_color": "#1C6E1C",
+         "read_more_btn_border_radius": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "read_more_button_text": "číst dál",
+         "read_more_link_target_blank": "true",
+         "show_load_more": "yes",
+         "show_load_more_text": "DALŠÍ ČLÁNKY",
+         "terms_typography_font_size": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "terms_typography_typography": "custom",
+         "title_tag": "h5"
+        },
+        "widgetType": "eael-post-grid"
+       }
+      ],
+      "id": "b3c4014",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "11e47cb3",
+    "isInner": false,
+    "settings": []
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "159ac166",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"3523621:z8k7j0\">\r\n</div>"
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "a77d912",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "734a7cd1",
+    "isInner": false,
+    "settings": []
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "page"
+ },
+ "modified": "2021-03-04 22:56:49",
+ "obsah_wordpress": "<h2>s Blankou za hranice</h2>\t\t\n            <article data-id=\"354\">\n            <ul><li><a href=\"https://sblankouzahranice.eu/category/vylety/\">Výlety</a></li></ul><a\n                            href=\"https://sblankouzahranice.eu/pocet-prispevku-na-blog-s-blankou-za-hranice/\"\n                        ></a>\n                                <img src=\"https://sblankouzahranice.eu/wp-content/uploads/2020/11/tojsemja-225x300.jpg\" alt=\"\">\n                            <header><h5><a\n                        href=\"https://sblankouzahranice.eu/pocet-prispevku-na-blog-s-blankou-za-hranice/\"\n                        title=\"POČET PŘÍSPĚVKŮ NA BLOG\"\n                        >POČET PŘÍSPĚVKŮ NA BLOG</a></h5></header>\n                        <p>Víte že:&#8230;..právě dnes 30.listopadu 2020 bylo zatím napsáno na světě více než 6 650 000 příspěvků na různé blogy?A za letošní rok dosud více než 2 500 000 000 příspěvků...</p><a href=\"https://sblankouzahranice.eu/pocet-prispevku-na-blog-s-blankou-za-hranice/\" target=\"_blank\" rel=\"noopener\">číst dál</a>\n                    <a href=\"https://sblankouzahranice.eu/author/admin/\"></a><time datetime=\"30 listopadu, 2020\">30 listopadu, 2020</time>\n    </article>\n                <button id=\"eael-load-more-btn-2a41b61f\" data-widget-id=\"2a41b61f\" data-widget=\"2a41b61f\" data-page-id=\"\" data-nonce=\"cffd43e5de\" data-template=\"{&quot;dir&quot;:&quot;free&quot;,&quot;file_name&quot;:&quot;default&quot;,&quot;name&quot;:&quot;Post-Grid&quot;}\" data-class=\"Essential_Addons_ElementorElementsPost_Grid\" data-layout=\"masonry\" data-page=\"1\" data-args=\"orderby=date&amp;order=desc&amp;ignore_sticky_posts=1&amp;post_status=publish&amp;posts_per_page=12&amp;offset=0&amp;post_type=post&amp;tax_query%5B0%5D%5Btaxonomy%5D=category&amp;tax_query%5B0%5D%5Bfield%5D=term_id&amp;tax_query%5B0%5D%5Bterms%5D%5B0%5D=16&amp;tax_query%5Brelation%5D=AND\">\n                    DALŠÍ ČLÁNKY\n                </button>",
+ "parent": 0,
+ "slug": "blogova-stranka",
+ "title": "Blogová stránka",
+ "type": "elementor_library"
+}

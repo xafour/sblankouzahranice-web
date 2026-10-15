@@ -1,0 +1,392 @@
+{
+ "ID": 12940,
+ "categories": [],
+ "date": "2022-07-30 21:23:15",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=zahlavi-na-webu-mobil",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "216d7fc3",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-71",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "-59",
+          "isLinked": false,
+          "left": "-41",
+          "right": "0",
+          "top": "-269",
+          "unit": "px"
+         },
+         "_offset_x": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_offset_y": {
+          "size": -376,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_position": "absolute",
+         "image": {
+          "id": "",
+          "url": ""
+         },
+         "image_box_shadow_box_shadow": {
+          "blur": 31,
+          "color": "rgba(0,0,0,0.5)",
+          "horizontal": 34,
+          "spread": 0,
+          "vertical": -26
+         },
+         "image_box_shadow_box_shadow_type": "yes",
+         "pa_condition_repeater": [
+          {
+           "_id": "a9688fb"
+          }
+         ],
+         "width": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3dc9838c",
+      "isInner": "",
+      "settings": {
+       "_column_size": "100",
+       "margin": {
+        "bottom": "-104",
+        "isLinked": false,
+        "left": "-83",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-7",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-149",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "d1f18b1"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "3f34ab21",
+    "isInner": "",
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#B0BC48A1",
+     "background_image": {
+      "alt": "zahlavi vylety",
+      "id": 12921,
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/VYLETY-kraken.jpg"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#C2D22DA1",
+     "background_overlay_opacity": {
+      "size": 0.06,
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_position_tablet": "center center",
+     "background_size": "cover",
+     "content_width": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height": {
+      "size": 35,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "custom_height_mobile": {
+      "size": 40,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "custom_height_tablet": {
+      "size": 40,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "gap_columns_custom_mobile": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "height": "min-height",
+     "layout": "full_width",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "872441f"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": "",
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 35,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 22,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 150,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-07-30 21:23:15",
+ "obsah_wordpress": "",
+ "parent": 0,
+ "slug": "zahlavi-na-webu-mobil",
+ "title": "zahlavi na webu-mobil",
+ "type": "elementor_library"
+}

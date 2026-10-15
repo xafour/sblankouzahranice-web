@@ -1,0 +1,145 @@
+{
+ "ID": 24818,
+ "categories": [],
+ "date": "2026-03-18 18:55:58",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=animated-headline",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1d577ed4",
+        "settings": {
+         "__globals__": {
+          "marker_color": "globals/colors?id=kadence2"
+         },
+         "after_text": "a vy už je dělat nemusíte.",
+         "before_text": "Přehledný",
+         "highlighted_text": "seznam chyb, které dělají turisté při návštěvě Vídně ",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "stroke_width": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_line_height_mobile": {
+          "size": 1.8,
+          "sizes": [],
+          "unit": "em"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#D23D3D",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "10af8e39",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Praktické tipy od místní průvodkyně, které vám usnadní pobyt v rakouské metropoli."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3fc9f34",
+        "settings": {
+         "image": {
+          "alt": "7 chyb turistů",
+          "id": 23612,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/05/Hlavicka-4b.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2877d299",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>I drobné chyby mohou znepříjemnit váš pobyt ve Vídni. </strong></p><p style=\"text-align: left;\"><br />Jako současná obyvatelka města Vídeň vidím, jak turisté stále dokola opakují stejné omyly, které jim zbytečně komplikují dny ve Vídni.</p><p>Místo bezstarostného poznávání města pak řeší nepříjemnosti jako zavřené obchody, problémy s platbami nebo zbytečné výdaje. <br />Tyto drobné komplikace mohou pokazit celkový dojem z jinak krásného města.</p><p>Víte, že:<br />mnoho návštěvníků přijíždí do Vídně nepřipraveno na místní zvyklosti a pravidla. Přitom stačí znát několik základních informací, abyste se vyhnuli opakovaným  problémům.</p><p>Po přestěhování do Vídně, před pár lety, jsem sama prošla všemi začátečnickými chybami. <br />Dnes, po několika letech života ve Vídni a desítkách provedených návštěvníků, přesně vím, co je třeba připomínat a na co je dobré se předem připravit.</p><p>Zjistila jsem, že 90% problémů, které návštěvníky překvapí pramení ze 7 základních chyb nebo neznalostí, kterým se dá snadno vyhnout. Tyto praktické tipy nyní sdílím s vámi.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7fbc6c1d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3538d64",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_page": [],
+         "pa_condition_post": []
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7f3c5f76",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "12c22bd",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_page": [],
+       "pa_condition_post": []
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2026-03-18 18:56:24",
+ "obsah_wordpress": "<h3>\n\t\t\t\t\tPřehledný\n\t\t\t\t\tseznam chyb, které dělají turisté při návštěvě Vídně \n\t\t\t\t\ta vy už je dělat nemusíte.\n\t\t\t\t\t</h3>\n\t\t\t\t\t<h5>Praktické tipy od místní průvodkyně, které vám usnadní pobyt v rakouské metropoli.</h5>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"321\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/05/Hlavicka-4b-900x321.jpg\" alt=\"7 chyb turistů\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/05/Hlavicka-4b-900x321.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/05/Hlavicka-4b-300x107.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/05/Hlavicka-4b-768x274.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/05/Hlavicka-4b.jpg 1472w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>I drobné chyby mohou znepříjemnit váš pobyt ve Vídni. </strong></p><p style=\"text-align: left;\"><br />Jako současná obyvatelka města Vídeň vidím, jak turisté stále dokola opakují stejné omyly, které jim zbytečně komplikují dny ve Vídni.</p><p>Místo bezstarostného poznávání města pak řeší nepříjemnosti jako zavřené obchody, problémy s platbami nebo zbytečné výdaje. <br />Tyto drobné komplikace mohou pokazit celkový dojem z jinak krásného města.</p><p>Víte, že:<br />mnoho návštěvníků přijíždí do Vídně nepřipraveno na místní zvyklosti a pravidla. Přitom stačí znát několik základních informací, abyste se vyhnuli opakovaným  problémům.</p><p>Po přestěhování do Vídně, před pár lety, jsem sama prošla všemi začátečnickými chybami. <br />Dnes, po několika letech života ve Vídni a desítkách provedených návštěvníků, přesně vím, co je třeba připomínat a na co je dobré se předem připravit.</p><p>Zjistila jsem, že 90% problémů, které návštěvníky překvapí pramení ze 7 základních chyb nebo neznalostí, kterým se dá snadno vyhnout. Tyto praktické tipy nyní sdílím s vámi.</p>",
+ "parent": 0,
+ "slug": "animated-headline",
+ "title": "Animated Headline Elementor Pro",
+ "type": "elementor_library"
+}

@@ -1,0 +1,124 @@
+{
+ "ID": 5614,
+ "categories": [],
+ "date": "2021-04-27 16:13:17",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=chcete-byt-informovani-o-novych-vyletech-odkaz",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2a0c715b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 15,
+       "_inline_size_tablet": 9
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "585baf2e",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "435bb56e",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "fba0b00",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 70,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "365900d2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 14.994
+      }
+     }
+    ],
+    "id": "a43b00",
+    "isInner": false,
+    "settings": {
+     "structure": "33"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2021-04-27 16:13:17",
+ "obsah_wordpress": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener noreferrer\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "chcete-byt-informovani-o-novych-vyletech-odkaz",
+ "title": "chcete být informováni o nových výletech -odkaz",
+ "type": "elementor_library"
+}
