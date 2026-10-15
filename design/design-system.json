@@ -1,13 +1,14 @@
 {
-  "_poznamka": "Nové globální barvy a písma. Přidávají se do Elementor kitu VEDLE stávajících (stávající stránky se nemění). Prefix id 'sbz'.",
+  "_poznamka": "Nové globální barvy a písma. Přidávají se do Elementor kitu VEDLE stávajících (stávající stránky se nemění). Prefix id 'sbz'. Od 15. 10.: dvě světlé barvy (světle olivová + doplňková světlá) na pozadí sekcí, dvě tmavé (tmavě zelená + doplňková tmavá) jen na zvýraznění. Doplňkové barvy zde = paleta 1 „Louka a broskev“; palety 2 a 3 jsou v design/sbz.css jen pro zkušební stránky.",
   "colors": [
-    {"_id": "sbz_zelena", "title": "Nový – Zelená (hlavní)",      "color": "#145A38"},
-    {"_id": "sbz_oliva",  "title": "Nový – Terakota (akcent)",    "color": "#B0532B"},
-    {"_id": "sbz_svetla", "title": "Nový – Světlá terakota",      "color": "#F3D6C1"},
-    {"_id": "sbz_krem",   "title": "Nový – Krémové pozadí",       "color": "#FBF6EF"},
-    {"_id": "sbz_text",   "title": "Nový – Text",                 "color": "#1F2A22"},
-    {"_id": "sbz_seda",   "title": "Nový – Šedá (popisky)",       "color": "#6E655E"},
-    {"_id": "sbz_bila",   "title": "Nový – Bílá",                 "color": "#FFFFFF"}
+    {"_id": "sbz_zelena", "title": "Nový – Tmavě zelená (tlačítka, nadpisy)",        "color": "#145A38"},
+    {"_id": "sbz_oliva",  "title": "Nový – Doplňková tmavá (jen drobné zvýraznění)", "color": "#A8653F"},
+    {"_id": "sbz_louka",  "title": "Nový – Světle olivová (pozadí sekcí)",           "color": "#DEE5A3"},
+    {"_id": "sbz_svetla", "title": "Nový – Doplňková světlá (pozadí sekcí)",         "color": "#F5E1CF"},
+    {"_id": "sbz_krem",   "title": "Nový – Krémové pozadí",                          "color": "#FBF7F0"},
+    {"_id": "sbz_text",   "title": "Nový – Text",                                    "color": "#1F2A22"},
+    {"_id": "sbz_seda",   "title": "Nový – Šedá (popisky)",                          "color": "#6E655E"},
+    {"_id": "sbz_bila",   "title": "Nový – Bílá",                                    "color": "#FFFFFF"}
   ],
   "typography": [
     {"_id": "sbz_h1", "title": "Nový – Nadpis 1", "family": "Lora", "weight": "600", "size": 44, "size_tablet": 38, "size_mobile": 30, "lh": 1.2},

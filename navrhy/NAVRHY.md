@@ -2,6 +2,8 @@
 
 *Měřeno 15. 10. 2026. Živý web sblankouzahranice.eu jsem jen četl, všechny úpravy jsou na sandboxu.*
 
+> **Novější: [3 nové palety a úvod bez závoje (PALETY-2.md)](PALETY-2.md)**. Palety a varianty úvodu níže jsou starší.
+
 U každého bodu je napsané, **co to přinese**, **kolik to dá práce** a jestli je to **už vyzkoušené na sandboxu**.
 Stačí Claudovi napsat třeba *„bod 2 ano, bod 5 ne“*.
 

@@ -16,7 +16,7 @@ import sbz  # noqa: E402
 load("post-19575.json", prefix="sbz-viden")
 testimonials = sbz.testimonials
 
-UVOD = os.environ.get("SBZ_UVOD", "krem")  # styl úvodní fotky, viz sbz.hero
+UVOD = os.environ.get("SBZ_UVOD", "pulka")  # styl úvodní fotky, viz sbz.hero
 
 # ---------- stránka ----------
 P = []
@@ -82,12 +82,12 @@ P.append(section([
 # 6) Výzva k akci
 P.append(section([column([
     heading("Nechte si připravit detailní plán cesty na míru nebo využijte podporu na místě", "h2",
-            color="sbz_bila", align="center"),
-    text("<p>Dejme si 15minutovku zdarma a řekněte mi své představy.</p>", "center", "sbz_svetla"),
-    button("Zavolat hned pro domluvu", TELEFON, "light", inline=True),
-    button("Pošlete mi telefon, ozvu se vám", KONTAKT, "outline-light", inline=True),
-    text("<p>Nebuďte zaskočeni, volat vám bude rakouské číslo.</p>", "center", "sbz_svetla", "sbz_maly"),
-], align="center")], bg="sbz_zelena", pad=80, width=860))
+            align="center"),
+    text("<p>Dejme si 15minutovku zdarma a řekněte mi své představy.</p>", "center"),
+    button("Zavolat hned pro domluvu", TELEFON, "primary", inline=True),
+    button("Pošlete mi telefon, ozvu se vám", KONTAKT, "secondary", inline=True),
+    text("<p>Nebuďte zaskočeni, volat vám bude rakouské číslo.</p>", "center", "sbz_seda", "sbz_maly"),
+], align="center")], bg="sbz_louka", pad=80, width=860))
 
 # 7) Průvodce do kapsy
 P.append(section([

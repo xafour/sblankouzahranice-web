@@ -37,7 +37,7 @@ P = []
 P.append(hero("On-line průvodce do kapsy", "Den ve Vídni – váš průvodce do kapsy",
               "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
               [("Koupit průvodce", KOUPIT), ("Co průvodce obsahuje", "#obsah")],
-              "2026/02/Zahlavi-new.jpg", os.environ.get("SBZ_UVOD", "krem"), 540))
+              "2026/02/Zahlavi-new.jpg", os.environ.get("SBZ_UVOD", "pulka"), 540))
 
 # 2) Co to je
 P.append(section([
@@ -64,7 +64,7 @@ P.append(section([column([
          "a jakou zvolit trasu nebo dopravu mezi jednotlivými cíli, abyste zbytečně neztráceli čas a nebloudili městem.</p>"
          "<p>Zkušenost mi ukazuje, že scénář představ o návštěvě Vídně je mnohdy hodně podobný. "
          "<strong>Teď je tu nástroj, který mnohé otázky a nejasnosti vyřeší.</strong></p>", "center"),
-])], bg="sbz_krem", width=820))
+])], bg="sbz_svetla", width=820))
 
 # 4) Pro koho
 P.append(section([
@@ -85,7 +85,7 @@ P.append(section([
 # 5) Co přesně obsahuje
 P.append(section([column([
     heading(hl("Co průvodce ", "přesně obsahuje")),
-])], bg="sbz_krem", anchor="obsah", extra={"padding": {"unit": "px", "top": "88", "right": "24", "bottom": "16", "left": "24", "isLinked": False}}))
+])], bg="sbz_svetla", anchor="obsah", extra={"padding": {"unit": "px", "top": "88", "right": "24", "bottom": "16", "left": "24", "isLinked": False}}))
 P.append(section([
     column([icon_list([
         "<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů.",
@@ -98,7 +98,7 @@ P.append(section([
         "<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026.",
         "<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno.",
     ])], 50),
-], bg="sbz_krem", extra={"padding": {"unit": "px", "top": "16", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
+], bg="sbz_svetla", extra={"padding": {"unit": "px", "top": "16", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
 
 # 6) Stejná trasa jako s klienty
 P.append(section([
@@ -146,20 +146,20 @@ P.append(section([
              "Koupit průvodce", KOUPIT, "primary"),
 ], extra={"padding": {"unit": "px", "top": "8", "right": "24", "bottom": "88", "left": "24", "isLinked": False}}))
 
-# 9) Praktické informace (zelený pruh)
+# 9) Praktické informace (světle olivový pruh – dřív sytě zelený, Blance připadal agresivní)
 P.append(section([
     column([
-        heading("Praktické informace", "h2", color="sbz_bila"),
+        heading("Praktické informace", "h2"),
         icon_list(["<strong>Délka trasy:</strong> cca 6 km.",
                    "<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle.",
                    "<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů.",
-                   "<strong>Stažení:</strong> ihned po zaplacení (PDF)."], color="sbz_bila", icon_color="sbz_svetla"),
+                   "<strong>Stažení:</strong> ihned po zaplacení (PDF)."]),
     ], 58, valign="middle"),
     column([
-        text("<p>Stále, i po skončení zaváděcí ceny, najdete příjemnou cenu za komplexnost celého produktu.</p>", color="sbz_svetla"),
-        button("Chci průvodce ihned", KOUPIT, "light"),
+        text("<p>Stále, i po skončení zaváděcí ceny, najdete příjemnou cenu za komplexnost celého produktu.</p>"),
+        button("Chci průvodce ihned", KOUPIT, "primary"),
     ], 42, valign="middle"),
-], bg="sbz_zelena", pad=72, valign="middle"))
+], bg="sbz_louka", pad=72, valign="middle"))
 
 # 10) Kdo, co, proč
 P.append(section([
@@ -180,7 +180,7 @@ P.append(section([
              "<p><strong>Tak vznikl tento on-line průvodce – ne jako prvoplánová nabídka, ale jako nabídka, kterou si vyžádala praxe.</strong></p>"),
         button("Chci osvědčeného průvodce", KOUPIT, "primary"),
     ], 60),
-], bg="sbz_krem"))
+], bg="sbz_svetla"))
 
 # 11) Galerie trasy
 gal = [("2023/05/Burggarten-1.jpg", "Burggarten"), ("2023/06/Fiakr2-S.jpg", "Typický vídeňský fiakr"),

@@ -1,76 +1,50 @@
 [
  {
-  "id": "096c916",
+  "id": "82322b0",
   "elType": "section",
   "isInner": false,
   "settings": {
    "layout": "boxed",
    "content_width": {
     "unit": "px",
-    "size": 1140,
+    "size": 1200,
     "sizes": []
    },
    "gap": "extended",
    "padding": {
     "unit": "px",
-    "top": "120",
+    "top": "64",
     "right": "24",
-    "bottom": "120",
+    "bottom": "64",
     "left": "24",
     "isLinked": false
    },
    "padding_mobile": {
     "unit": "px",
-    "top": "72",
+    "top": "40",
     "right": "16",
-    "bottom": "72",
+    "bottom": "40",
     "left": "16",
     "isLinked": false
    },
    "__globals__": {
-    "background_overlay_color": "globals/colors?id=sbz_krem"
+    "background_color": "globals/colors?id=sbz_louka"
    },
    "background_background": "classic",
    "content_position": "middle",
-   "height": "min-height",
-   "custom_height": {
-    "unit": "px",
-    "size": 540,
-    "sizes": []
-   },
-   "custom_height_mobile": {
-    "unit": "px",
-    "size": 480,
-    "sizes": []
-   },
-   "background_image": {
-    "id": 24575,
-    "url": "https://sandbox.xafour.eu/wp-content/uploads/2026/02/Zahlavi-new.jpg",
-    "size": "",
-    "alt": "",
-    "source": "library"
-   },
-   "background_position": "center center",
-   "background_size": "cover",
-   "background_repeat": "no-repeat",
-   "css_classes": "sbz-uvod sbz-uvod-krem",
-   "background_overlay_background": "classic",
-   "background_overlay_opacity": {
-    "unit": "px",
-    "size": 0.74,
-    "sizes": []
-   }
+   "css_classes": "sbz-uvod sbz-uvod-pulka",
+   "reverse_order_mobile": "reverse-mobile"
   },
   "elements": [
    {
-    "id": "948a03e",
+    "id": "096c916",
     "elType": "column",
     "isInner": false,
     "settings": {
-     "_column_size": 100,
-     "_inline_size": null,
+     "_column_size": 48,
+     "_inline_size": 48,
      "css_classes": "",
-     "align": "center"
+     "content_position": "middle"
     },
     "elements": [
      {
@@ -81,7 +55,7 @@
       "settings": {
        "title": "On-line průvodce do kapsy",
        "header_size": "p",
-       "align": "center",
+       "align": "left",
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_nadtitulek",
@@ -97,7 +71,7 @@
       "settings": {
        "title": "Den ve Vídni – váš průvodce do kapsy",
        "header_size": "h1",
-       "align": "center",
+       "align": "left",
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_h1",
@@ -112,7 +86,7 @@
       "elements": [],
       "settings": {
        "editor": "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
-       "align": "center",
+       "align": "left",
        "_css_classes": "sbz-text",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_text",
@@ -134,6 +108,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-primary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -142,19 +117,30 @@
         "left": "8",
         "isLinked": true
        },
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "2",
+        "right": "2",
+        "bottom": "2",
+        "left": "2",
+        "isLinked": true
+       },
        "text_padding": {
         "unit": "px",
-        "top": "15",
+        "top": "14",
         "right": "28",
-        "bottom": "15",
+        "bottom": "14",
         "left": "28",
         "isLinked": false
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_oliva",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
         "hover_color": "globals/colors?id=sbz_bila"
        },
        "_element_width": "auto",
@@ -182,6 +168,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-secondary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -190,23 +177,6 @@
         "left": "8",
         "isLinked": true
        },
-       "text_padding": {
-        "unit": "px",
-        "top": "15",
-        "right": "28",
-        "bottom": "15",
-        "left": "28",
-        "isLinked": false
-       },
-       "__globals__": {
-        "typography_typography": "globals/typography?id=sbz_tlacitko",
-        "button_text_color": "globals/colors?id=sbz_zelena",
-        "border_color": "globals/colors?id=sbz_zelena",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila",
-        "button_hover_border_color": "globals/colors?id=sbz_zelena"
-       },
-       "background_color": "rgba(0,0,0,0)",
        "border_border": "solid",
        "border_width": {
         "unit": "px",
@@ -215,6 +185,23 @@
         "bottom": "2",
         "left": "2",
         "isLinked": true
+       },
+       "text_padding": {
+        "unit": "px",
+        "top": "14",
+        "right": "28",
+        "bottom": "14",
+        "left": "28",
+        "isLinked": false
+       },
+       "__globals__": {
+        "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
+        "background_color": "globals/colors?id=sbz_bila",
+        "button_text_color": "globals/colors?id=sbz_zelena",
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        },
        "_element_width": "auto",
        "_margin": {
@@ -228,11 +215,42 @@
       }
      }
     ]
+   },
+   {
+    "id": "fe630d5",
+    "elType": "column",
+    "isInner": false,
+    "settings": {
+     "_column_size": 52,
+     "_inline_size": 52,
+     "css_classes": "",
+     "content_position": "middle"
+    },
+    "elements": [
+     {
+      "id": "948a03e",
+      "elType": "widget",
+      "widgetType": "image",
+      "elements": [],
+      "settings": {
+       "image": {
+        "id": 24575,
+        "url": "https://sandbox.xafour.eu/wp-content/uploads/2026/02/Zahlavi-new.jpg",
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "_css_classes": "sbz-uvod-foto",
+       "align": "center"
+      }
+     }
+    ]
    }
   ]
  },
  {
-  "id": "07d316a",
+  "id": "22ecb7d",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -267,7 +285,7 @@
   },
   "elements": [
    {
-    "id": "07df106",
+    "id": "c80b241",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -278,7 +296,7 @@
     },
     "elements": [
      {
-      "id": "fe630d5",
+      "id": "59eca07",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -294,7 +312,7 @@
       }
      },
      {
-      "id": "82322b0",
+      "id": "98d6bc4",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -310,7 +328,7 @@
       }
      },
      {
-      "id": "59eca07",
+      "id": "6fdd6fd",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -325,7 +343,7 @@
       }
      },
      {
-      "id": "98d6bc4",
+      "id": "efb6a1c",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -341,14 +359,14 @@
       }
      },
      {
-      "id": "6fdd6fd",
+      "id": "0e01c04",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "efb6a1c",
+         "_id": "3122bb2",
          "text": "Itinerář trasy s popisem památek a turistických cílů.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -356,7 +374,7 @@
          }
         },
         {
-         "_id": "0e01c04",
+         "_id": "ad25214",
          "text": "Mapu ke stažení do mobilu pro snadnější orientaci.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -364,7 +382,7 @@
          }
         },
         {
-         "_id": "3122bb2",
+         "_id": "24b4ed8",
          "text": "Praktickou přílohu: přehled jízdenek a ticketů na městskou dopravu ve Vídni.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -402,7 +420,7 @@
       }
      },
      {
-      "id": "ad25214",
+      "id": "07df106",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -417,7 +435,7 @@
       }
      },
      {
-      "id": "24b4ed8",
+      "id": "9ff6f16",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -430,6 +448,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-primary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -438,19 +457,30 @@
         "left": "8",
         "isLinked": true
        },
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "2",
+        "right": "2",
+        "bottom": "2",
+        "left": "2",
+        "isLinked": true
+       },
        "text_padding": {
         "unit": "px",
-        "top": "15",
+        "top": "14",
         "right": "28",
-        "bottom": "15",
+        "bottom": "14",
         "left": "28",
         "isLinked": false
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_oliva",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
         "hover_color": "globals/colors?id=sbz_bila"
        }
       }
@@ -458,7 +488,7 @@
     ]
    },
    {
-    "id": "c80b241",
+    "id": "464c6cd",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -469,7 +499,7 @@
     },
     "elements": [
      {
-      "id": "9ff6f16",
+      "id": "07d316a",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -491,7 +521,7 @@
   ]
  },
  {
-  "id": "f2fddf2",
+  "id": "410844d",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -519,13 +549,13 @@
     "isLinked": false
    },
    "__globals__": {
-    "background_color": "globals/colors?id=sbz_krem"
+    "background_color": "globals/colors?id=sbz_svetla"
    },
    "background_background": "classic"
   },
   "elements": [
    {
-    "id": "a986f31",
+    "id": "d7c1339",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -535,7 +565,7 @@
     },
     "elements": [
      {
-      "id": "464c6cd",
+      "id": "a986f31",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -551,7 +581,7 @@
       }
      },
      {
-      "id": "22ecb7d",
+      "id": "f2fddf2",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -570,7 +600,7 @@
   ]
  },
  {
-  "id": "fea800f",
+  "id": "b345f70",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -605,7 +635,7 @@
   },
   "elements": [
    {
-    "id": "c7f109c",
+    "id": "8d1c838",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -616,7 +646,7 @@
     },
     "elements": [
      {
-      "id": "d7c1339",
+      "id": "22fb552",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -632,14 +662,14 @@
       }
      },
      {
-      "id": "410844d",
+      "id": "bb46725",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "22fb552",
+         "_id": "614be37",
          "text": "Chcete jasně danou trasu širším centrem města a vidět nejdůležitější památky a cíle <strong>bez stresu a časových ztrát</strong>.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -647,7 +677,7 @@
          }
         },
         {
-         "_id": "bb46725",
+         "_id": "c7f109c",
          "text": "<strong>Nepotřebujete osobní doprovod</strong> nebo nemáme společný volný termín.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -655,7 +685,7 @@
          }
         },
         {
-         "_id": "614be37",
+         "_id": "a40cf88",
          "text": "Chcete mít <strong>jistotu, že jdete „správně“</strong>.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -695,7 +725,7 @@
     ]
    },
    {
-    "id": "1fa36a8",
+    "id": "4862071",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -706,7 +736,7 @@
     },
     "elements": [
      {
-      "id": "a40cf88",
+      "id": "1fa36a8",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -722,7 +752,7 @@
       }
      },
      {
-      "id": "8d1c838",
+      "id": "fea800f",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -741,7 +771,7 @@
   ]
  },
  {
-  "id": "b6541dc",
+  "id": "44cef31",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -769,14 +799,14 @@
     "isLinked": false
    },
    "__globals__": {
-    "background_color": "globals/colors?id=sbz_krem"
+    "background_color": "globals/colors?id=sbz_svetla"
    },
    "background_background": "classic",
    "_element_id": "obsah"
   },
   "elements": [
    {
-    "id": "b345f70",
+    "id": "2ddf2fa",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -786,7 +816,7 @@
     },
     "elements": [
      {
-      "id": "4862071",
+      "id": "b6541dc",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -806,7 +836,7 @@
   ]
  },
  {
-  "id": "9ba0cb7",
+  "id": "4f36dff",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -834,13 +864,13 @@
     "isLinked": false
    },
    "__globals__": {
-    "background_color": "globals/colors?id=sbz_krem"
+    "background_color": "globals/colors?id=sbz_svetla"
    },
    "background_background": "classic"
   },
   "elements": [
    {
-    "id": "3837676",
+    "id": "6b9d871",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -850,14 +880,14 @@
     },
     "elements": [
      {
-      "id": "2ddf2fa",
+      "id": "c6aa642",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "44cef31",
+         "_id": "26e81bc",
          "text": "<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -865,7 +895,7 @@
          }
         },
         {
-         "_id": "c6aa642",
+         "_id": "6fddcb2",
          "text": "<strong>Podrobný itinerář trasy</strong> s popisem všech památek po cestě.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -873,7 +903,7 @@
          }
         },
         {
-         "_id": "26e81bc",
+         "_id": "3837676",
          "text": "<strong>Souvislosti, informace z historie a zajímavosti</strong>, které se mnozí turisté nedozví.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -881,7 +911,7 @@
          }
         },
         {
-         "_id": "6fddcb2",
+         "_id": "1f9d632",
          "text": "<strong>QR kód a odkaz ke stažení mapy do mobilu</strong> pro pohodlnou orientaci na trase.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -921,7 +951,7 @@
     ]
    },
    {
-    "id": "62da84c",
+    "id": "df68af4",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -931,14 +961,14 @@
     },
     "elements": [
      {
-      "id": "1f9d632",
+      "id": "0fdc8ec",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "6b9d871",
+         "_id": "8a042c9",
          "text": "<strong>Přehlednou PDF verzi s fotografiemi</strong> připravenou k okamžitému použití.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -946,7 +976,7 @@
          }
         },
         {
-         "_id": "0fdc8ec",
+         "_id": "62da84c",
          "text": "<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -954,7 +984,7 @@
          }
         },
         {
-         "_id": "8a042c9",
+         "_id": "9ba0cb7",
          "text": "<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -996,7 +1026,7 @@
   ]
  },
  {
-  "id": "6c5d7c7",
+  "id": "866d8ff",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1031,7 +1061,7 @@
   },
   "elements": [
    {
-    "id": "4f36dff",
+    "id": "22806bf",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1042,7 +1072,7 @@
     },
     "elements": [
      {
-      "id": "df68af4",
+      "id": "7d78245",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1062,7 +1092,7 @@
     ]
    },
    {
-    "id": "220c3b4",
+    "id": "68f1896",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1073,7 +1103,7 @@
     },
     "elements": [
      {
-      "id": "7d78245",
+      "id": "8b18972",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1089,7 +1119,7 @@
       }
      },
      {
-      "id": "22806bf",
+      "id": "220c3b4",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1104,7 +1134,7 @@
       }
      },
      {
-      "id": "8b18972",
+      "id": "6c5d7c7",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1117,6 +1147,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-primary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -1125,19 +1156,30 @@
         "left": "8",
         "isLinked": true
        },
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "2",
+        "right": "2",
+        "bottom": "2",
+        "left": "2",
+        "isLinked": true
+       },
        "text_padding": {
         "unit": "px",
-        "top": "15",
+        "top": "14",
         "right": "28",
-        "bottom": "15",
+        "bottom": "14",
         "left": "28",
         "isLinked": false
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_oliva",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
         "hover_color": "globals/colors?id=sbz_bila"
        }
       }
@@ -1147,7 +1189,7 @@
   ]
  },
  {
-  "id": "de5ff2f",
+  "id": "2ac7efa",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1182,7 +1224,7 @@
   },
   "elements": [
    {
-    "id": "04a77c4",
+    "id": "002009e",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1193,7 +1235,7 @@
     },
     "elements": [
      {
-      "id": "68f1896",
+      "id": "7901819",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1209,14 +1251,14 @@
       }
      },
      {
-      "id": "866d8ff",
+      "id": "43e4dd7",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "7901819",
+         "_id": "2bd93d0",
          "text": "Získáte odzkoušenou trasu městem a nezabloudíte mezi památkami.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1224,7 +1266,7 @@
          }
         },
         {
-         "_id": "43e4dd7",
+         "_id": "d608be4",
          "text": "Za jeden půlden uvidíte z Vídně to podstatné bez chaosu a zbytečného přejíždění.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1232,7 +1274,7 @@
          }
         },
         {
-         "_id": "2bd93d0",
+         "_id": "caf372b",
          "text": "Ke každé památce na trase budete mít informace.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1240,7 +1282,7 @@
          }
         },
         {
-         "_id": "d608be4",
+         "_id": "a505c67",
          "text": "Projdete si Vídeň v pohodě, vlastním tempem, a sami rozhodnete, kde se zdržíte a co navštívíte.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1248,7 +1290,7 @@
          }
         },
         {
-         "_id": "caf372b",
+         "_id": "04a77c4",
          "text": "Po celou dobu budete mít pocit, že vás vede někdo místní.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1256,7 +1298,7 @@
          }
         },
         {
-         "_id": "a505c67",
+         "_id": "3f9482f",
          "text": "Budete vědět, jaký typ jízdenky na MHD si vybrat (novinky pro rok 2026 jsou v příloze).",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1296,7 +1338,7 @@
     ]
    },
    {
-    "id": "002009e",
+    "id": "6d0fdfd",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1307,7 +1349,7 @@
     },
     "elements": [
      {
-      "id": "3f9482f",
+      "id": "de5ff2f",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1329,7 +1371,7 @@
   ]
  },
  {
-  "id": "187accd",
+  "id": "4ee17fc",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1363,7 +1405,7 @@
   },
   "elements": [
    {
-    "id": "2ac7efa",
+    "id": "b2e235a",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1373,7 +1415,7 @@
     },
     "elements": [
      {
-      "id": "6d0fdfd",
+      "id": "187accd",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1393,7 +1435,7 @@
   ]
  },
  {
-  "id": "1de2047",
+  "id": "cf14ba9",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1427,7 +1469,7 @@
   },
   "elements": [
    {
-    "id": "b4739ec",
+    "id": "ce27660",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1437,7 +1479,7 @@
     },
     "elements": [
      {
-      "id": "b2e235a",
+      "id": "60a3513",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1455,7 +1497,7 @@
       }
      },
      {
-      "id": "4ee17fc",
+      "id": "ff91c0e",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1471,7 +1513,7 @@
       }
      },
      {
-      "id": "60a3513",
+      "id": "b4739ec",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1486,7 +1528,7 @@
       }
      },
      {
-      "id": "ff91c0e",
+      "id": "97b74ba",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1499,6 +1541,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-secondary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -1507,23 +1550,6 @@
         "left": "8",
         "isLinked": true
        },
-       "text_padding": {
-        "unit": "px",
-        "top": "15",
-        "right": "28",
-        "bottom": "15",
-        "left": "28",
-        "isLinked": false
-       },
-       "__globals__": {
-        "typography_typography": "globals/typography?id=sbz_tlacitko",
-        "button_text_color": "globals/colors?id=sbz_zelena",
-        "border_color": "globals/colors?id=sbz_zelena",
-        "button_background_hover_color": "globals/colors?id=sbz_zelena",
-        "hover_color": "globals/colors?id=sbz_bila",
-        "button_hover_border_color": "globals/colors?id=sbz_zelena"
-       },
-       "background_color": "rgba(0,0,0,0)",
        "border_border": "solid",
        "border_width": {
         "unit": "px",
@@ -1532,13 +1558,30 @@
         "bottom": "2",
         "left": "2",
         "isLinked": true
+       },
+       "text_padding": {
+        "unit": "px",
+        "top": "14",
+        "right": "28",
+        "bottom": "14",
+        "left": "28",
+        "isLinked": false
+       },
+       "__globals__": {
+        "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
+        "background_color": "globals/colors?id=sbz_bila",
+        "button_text_color": "globals/colors?id=sbz_zelena",
+        "button_background_hover_color": "globals/colors?id=sbz_louka",
+        "hover_color": "globals/colors?id=sbz_zelena"
        }
       }
      }
     ]
    },
    {
-    "id": "e365c1a",
+    "id": "9817600",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1548,7 +1591,7 @@
     },
     "elements": [
      {
-      "id": "97b74ba",
+      "id": "75ab68e",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1566,7 +1609,7 @@
       }
      },
      {
-      "id": "ce27660",
+      "id": "55bd8c6",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1582,7 +1625,7 @@
       }
      },
      {
-      "id": "75ab68e",
+      "id": "e365c1a",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1597,7 +1640,7 @@
       }
      },
      {
-      "id": "55bd8c6",
+      "id": "1de2047",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1610,6 +1653,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-primary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -1618,19 +1662,30 @@
         "left": "8",
         "isLinked": true
        },
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "2",
+        "right": "2",
+        "bottom": "2",
+        "left": "2",
+        "isLinked": true
+       },
        "text_padding": {
         "unit": "px",
-        "top": "15",
+        "top": "14",
         "right": "28",
-        "bottom": "15",
+        "bottom": "14",
         "left": "28",
         "isLinked": false
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_oliva",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
         "hover_color": "globals/colors?id=sbz_bila"
        }
       }
@@ -1640,7 +1695,7 @@
   ]
  },
  {
-  "id": "a628dd3",
+  "id": "1957893",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1668,14 +1723,14 @@
     "isLinked": false
    },
    "__globals__": {
-    "background_color": "globals/colors?id=sbz_zelena"
+    "background_color": "globals/colors?id=sbz_louka"
    },
    "background_background": "classic",
    "content_position": "middle"
   },
   "elements": [
    {
-    "id": "2901264",
+    "id": "6319d21",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1686,7 +1741,7 @@
     },
     "elements": [
      {
-      "id": "9817600",
+      "id": "38a8a2b",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1697,19 +1752,19 @@
        "_css_classes": "",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_h2",
-        "title_color": "globals/colors?id=sbz_bila"
+        "title_color": "globals/colors?id=sbz_zelena"
        }
       }
      },
      {
-      "id": "cf14ba9",
+      "id": "d313d09",
       "elType": "widget",
       "widgetType": "icon-list",
       "elements": [],
       "settings": {
        "icon_list": [
         {
-         "_id": "38a8a2b",
+         "_id": "7e212fb",
          "text": "<strong>Délka trasy:</strong> cca 6 km.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1717,7 +1772,7 @@
          }
         },
         {
-         "_id": "d313d09",
+         "_id": "7d8865c",
          "text": "<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1725,7 +1780,7 @@
          }
         },
         {
-         "_id": "7e212fb",
+         "_id": "2901264",
          "text": "<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů.",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1733,7 +1788,7 @@
          }
         },
         {
-         "_id": "7d8865c",
+         "_id": "cf34ca6",
          "text": "<strong>Stažení:</strong> ihned po zaplacení (PDF).",
          "selected_icon": {
           "value": "fas fa-check",
@@ -1764,8 +1819,8 @@
         "sizes": []
        },
        "__globals__": {
-        "icon_color": "globals/colors?id=sbz_svetla",
-        "text_color": "globals/colors?id=sbz_bila",
+        "icon_color": "globals/colors?id=sbz_oliva",
+        "text_color": "globals/colors?id=sbz_text",
         "icon_typography_typography": "globals/typography?id=sbz_text"
        }
       }
@@ -1773,7 +1828,7 @@
     ]
    },
    {
-    "id": "daf5328",
+    "id": "ac77502",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1784,7 +1839,7 @@
     },
     "elements": [
      {
-      "id": "cf34ca6",
+      "id": "daf5328",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1794,12 +1849,12 @@
        "_css_classes": "sbz-text",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_text",
-        "text_color": "globals/colors?id=sbz_svetla"
+        "text_color": "globals/colors?id=sbz_text"
        }
       }
      },
      {
-      "id": "6319d21",
+      "id": "a628dd3",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -1812,6 +1867,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-primary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -1820,20 +1876,31 @@
         "left": "8",
         "isLinked": true
        },
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "2",
+        "right": "2",
+        "bottom": "2",
+        "left": "2",
+        "isLinked": true
+       },
        "text_padding": {
         "unit": "px",
-        "top": "15",
+        "top": "14",
         "right": "28",
-        "bottom": "15",
+        "bottom": "14",
         "left": "28",
         "isLinked": false
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
-        "background_color": "globals/colors?id=sbz_svetla",
-        "button_text_color": "globals/colors?id=sbz_zelena",
-        "button_background_hover_color": "globals/colors?id=sbz_bila",
-        "hover_color": "globals/colors?id=sbz_zelena"
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
+        "background_color": "globals/colors?id=sbz_zelena",
+        "button_text_color": "globals/colors?id=sbz_bila",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
+        "hover_color": "globals/colors?id=sbz_bila"
        }
       }
      }
@@ -1842,7 +1909,7 @@
   ]
  },
  {
-  "id": "e5d4612",
+  "id": "24c9b5f",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -1870,13 +1937,13 @@
     "isLinked": false
    },
    "__globals__": {
-    "background_color": "globals/colors?id=sbz_krem"
+    "background_color": "globals/colors?id=sbz_svetla"
    },
    "background_background": "classic"
   },
   "elements": [
    {
-    "id": "1957893",
+    "id": "48572a7",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1886,7 +1953,7 @@
     },
     "elements": [
      {
-      "id": "ac77502",
+      "id": "1427442",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -1906,7 +1973,7 @@
     ]
    },
    {
-    "id": "ca8e6ce",
+    "id": "3968dbb",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -1916,7 +1983,7 @@
     },
     "elements": [
      {
-      "id": "1427442",
+      "id": "3785fe9",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1932,7 +1999,7 @@
       }
      },
      {
-      "id": "48572a7",
+      "id": "7486ace",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1948,7 +2015,7 @@
       }
      },
      {
-      "id": "3785fe9",
+      "id": "6334e2c",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1963,7 +2030,7 @@
       }
      },
      {
-      "id": "7486ace",
+      "id": "96891a5",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -1979,7 +2046,7 @@
       }
      },
      {
-      "id": "6334e2c",
+      "id": "846f5fa",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -1994,7 +2061,7 @@
       }
      },
      {
-      "id": "96891a5",
+      "id": "e98077d",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2010,7 +2077,7 @@
       }
      },
      {
-      "id": "846f5fa",
+      "id": "ca8e6ce",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2025,7 +2092,7 @@
       }
      },
      {
-      "id": "e98077d",
+      "id": "e5d4612",
       "elType": "widget",
       "widgetType": "button",
       "elements": [],
@@ -2038,6 +2105,7 @@
        },
        "align": "left",
        "size": "md",
+       "_css_classes": "sbz-btn sbz-btn-primary",
        "border_radius": {
         "unit": "px",
         "top": "8",
@@ -2046,19 +2114,30 @@
         "left": "8",
         "isLinked": true
        },
+       "border_border": "solid",
+       "border_width": {
+        "unit": "px",
+        "top": "2",
+        "right": "2",
+        "bottom": "2",
+        "left": "2",
+        "isLinked": true
+       },
        "text_padding": {
         "unit": "px",
-        "top": "15",
+        "top": "14",
         "right": "28",
-        "bottom": "15",
+        "bottom": "14",
         "left": "28",
         "isLinked": false
        },
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_tlacitko",
+        "border_color": "globals/colors?id=sbz_zelena",
+        "button_hover_border_color": "globals/colors?id=sbz_zelena",
         "background_color": "globals/colors?id=sbz_zelena",
         "button_text_color": "globals/colors?id=sbz_bila",
-        "button_background_hover_color": "globals/colors?id=sbz_oliva",
+        "button_background_hover_color": "globals/colors?id=sbz_zelena",
         "hover_color": "globals/colors?id=sbz_bila"
        }
       }
@@ -2068,7 +2147,7 @@
   ]
  },
  {
-  "id": "ebce5b7",
+  "id": "80bce57",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2102,7 +2181,7 @@
   },
   "elements": [
    {
-    "id": "f7a7620",
+    "id": "df9a013",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2112,7 +2191,7 @@
     },
     "elements": [
      {
-      "id": "3968dbb",
+      "id": "f7a7620",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2128,7 +2207,7 @@
       }
      },
      {
-      "id": "24c9b5f",
+      "id": "ebce5b7",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2147,7 +2226,7 @@
   ]
  },
  {
-  "id": "7a8afe3",
+  "id": "bef4551",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2181,7 +2260,7 @@
   },
   "elements": [
    {
-    "id": "80bce57",
+    "id": "3e14fe8",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2192,7 +2271,7 @@
     },
     "elements": [
      {
-      "id": "df9a013",
+      "id": "ec4cb53",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2214,7 +2293,7 @@
     ]
    },
    {
-    "id": "3e14fe8",
+    "id": "6d2ce24",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2225,7 +2304,7 @@
     },
     "elements": [
      {
-      "id": "ec4cb53",
+      "id": "d22ecba",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2247,7 +2326,7 @@
     ]
    },
    {
-    "id": "6d2ce24",
+    "id": "14db036",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2258,7 +2337,7 @@
     },
     "elements": [
      {
-      "id": "d22ecba",
+      "id": "7a8afe3",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2282,7 +2361,7 @@
   ]
  },
  {
-  "id": "1da5f20",
+  "id": "8303b00",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2316,7 +2395,7 @@
   },
   "elements": [
    {
-    "id": "bef4551",
+    "id": "dcb3e7c",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2327,7 +2406,7 @@
     },
     "elements": [
      {
-      "id": "14db036",
+      "id": "77c74f4",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2349,7 +2428,7 @@
     ]
    },
    {
-    "id": "dcb3e7c",
+    "id": "2f26b84",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2360,7 +2439,7 @@
     },
     "elements": [
      {
-      "id": "77c74f4",
+      "id": "11f22a5",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2382,7 +2461,7 @@
     ]
    },
    {
-    "id": "2f26b84",
+    "id": "5b6bf06",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2393,7 +2472,7 @@
     },
     "elements": [
      {
-      "id": "11f22a5",
+      "id": "1da5f20",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2417,7 +2496,7 @@
   ]
  },
  {
-  "id": "9e64e65",
+  "id": "6709517",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2451,7 +2530,7 @@
   },
   "elements": [
    {
-    "id": "8303b00",
+    "id": "6638da7",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2462,7 +2541,7 @@
     },
     "elements": [
      {
-      "id": "5b6bf06",
+      "id": "121b678",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2484,7 +2563,7 @@
     ]
    },
    {
-    "id": "6638da7",
+    "id": "9a725dc",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2495,7 +2574,7 @@
     },
     "elements": [
      {
-      "id": "121b678",
+      "id": "96ca462",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2517,7 +2596,7 @@
     ]
    },
    {
-    "id": "9a725dc",
+    "id": "d2506ed",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2528,7 +2607,7 @@
     },
     "elements": [
      {
-      "id": "96ca462",
+      "id": "9e64e65",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2552,7 +2631,7 @@
   ]
  },
  {
-  "id": "ff4677a",
+  "id": "0f21ddd",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2586,7 +2665,7 @@
   },
   "elements": [
    {
-    "id": "6709517",
+    "id": "95a72c0",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2597,7 +2676,7 @@
     },
     "elements": [
      {
-      "id": "d2506ed",
+      "id": "482dcc6",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2619,7 +2698,7 @@
     ]
    },
    {
-    "id": "95a72c0",
+    "id": "32616c3",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2630,7 +2709,7 @@
     },
     "elements": [
      {
-      "id": "482dcc6",
+      "id": "b731739",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2652,7 +2731,7 @@
     ]
    },
    {
-    "id": "32616c3",
+    "id": "58625f7",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2663,7 +2742,7 @@
     },
     "elements": [
      {
-      "id": "b731739",
+      "id": "ff4677a",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2687,7 +2766,7 @@
   ]
  },
  {
-  "id": "fcc04dd",
+  "id": "4cd680d",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2721,7 +2800,7 @@
   },
   "elements": [
    {
-    "id": "0f21ddd",
+    "id": "a8331d8",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2732,7 +2811,7 @@
     },
     "elements": [
      {
-      "id": "58625f7",
+      "id": "314d0cd",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2754,7 +2833,7 @@
     ]
    },
    {
-    "id": "a8331d8",
+    "id": "b6df96a",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2765,7 +2844,7 @@
     },
     "elements": [
      {
-      "id": "314d0cd",
+      "id": "ffde584",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2787,7 +2866,7 @@
     ]
    },
    {
-    "id": "b6df96a",
+    "id": "ff2a45f",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2798,7 +2877,7 @@
     },
     "elements": [
      {
-      "id": "ffde584",
+      "id": "fcc04dd",
       "elType": "widget",
       "widgetType": "image",
       "elements": [],
@@ -2822,7 +2901,7 @@
   ]
  },
  {
-  "id": "4cd680d",
+  "id": "0f6251c",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2856,7 +2935,7 @@
   },
   "elements": [
    {
-    "id": "ff2a45f",
+    "id": "a38bbb8",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2869,7 +2948,7 @@
   ]
  },
  {
-  "id": "f6f9c2a",
+  "id": "eb65b08",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2903,7 +2982,7 @@
   },
   "elements": [
    {
-    "id": "e5026bb",
+    "id": "c2537ed",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -2913,7 +2992,7 @@
     },
     "elements": [
      {
-      "id": "a38bbb8",
+      "id": "91d0c32",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2929,7 +3008,7 @@
       }
      },
      {
-      "id": "0f6251c",
+      "id": "e5026bb",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -2945,7 +3024,7 @@
       }
      },
      {
-      "id": "91d0c32",
+      "id": "f6f9c2a",
       "elType": "widget",
       "widgetType": "text-editor",
       "elements": [],
@@ -2964,7 +3043,7 @@
   ]
  },
  {
-  "id": "0a6e22c",
+  "id": "b63c9b7",
   "elType": "section",
   "isInner": false,
   "settings": {
@@ -2999,7 +3078,7 @@
   },
   "elements": [
    {
-    "id": "01c5a20",
+    "id": "b4d10e2",
     "elType": "column",
     "isInner": false,
     "settings": {
@@ -3009,7 +3088,7 @@
     },
     "elements": [
      {
-      "id": "c2537ed",
+      "id": "01c5a20",
       "elType": "widget",
       "widgetType": "heading",
       "elements": [],
@@ -3025,7 +3104,7 @@
       }
      },
      {
-      "id": "eb65b08",
+      "id": "0a6e22c",
       "elType": "widget",
       "settings": {
        "html": "<!-- www.SimpleShop.cz form#141712 start -->\r\n<div data-SimpleShopForm=\"AaExm\"><div>Prodejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.</div></div>\r\n<script>\r\n (function(i, s, o, g, r, a, m){\r\n  i[r] = i[r] || function(){\r\n   (i[r].q = i[r].q || []).push(arguments)\r\n  }, i[r].l = 1 * new Date();\r\n  a = s.createElement(o),\r\n  m = s.getElementsByTagName(o)[0];\r\n  a.async = 1;\r\n  a.src = g;\r\n  m.parentNode.insertBefore(a, m)\r\n })(window, document, \"script\", \"https://form.simpleshop.cz/prj/js/SimpleShopService.js\", \"sss\");\r\n sss(\"createForm\", \"AaExm\");\r\n</script>\r\n<!-- www.SimpleShop.cz form#141712 end -->",

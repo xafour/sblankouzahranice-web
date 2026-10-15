@@ -66,5 +66,26 @@
   "env": {
    "SBZ_UVOD": "zelena"
   }
+ },
+ "den-paleta-1": {
+  "build": "tools/build_den_ve_vidni.py",
+  "json": "build/den-paleta-1.json",
+  "source_id": 24571,
+  "slug": "den-ve-vidni-paleta-1-broskev",
+  "title": "Den ve Vídni (paleta 1 – Louka a broskev)"
+ },
+ "den-paleta-2": {
+  "build": "tools/build_den_ve_vidni.py",
+  "json": "build/den-paleta-2.json",
+  "source_id": 24571,
+  "slug": "den-ve-vidni-paleta-2-okr",
+  "title": "Den ve Vídni (paleta 2 – Louka a okr)"
+ },
+ "den-paleta-3": {
+  "build": "tools/build_den_ve_vidni.py",
+  "json": "build/den-paleta-3.json",
+  "source_id": 24571,
+  "slug": "den-ve-vidni-paleta-3-kamen",
+  "title": "Den ve Vídni (paleta 3 – Louka a kámen)"
  }
 }

@@ -92,30 +92,26 @@ def text(html_, align="left", color="sbz_text", typo="sbz_text", css="sbz-text")
 
 
 def button(label, url, style="primary", align="left", inline=False):
+    """Jednotná tlačítka na celém webu (přání Blanky 15. 10.: žádné změny barvy po najetí myší).
+    primary = plné tmavě zelené, po najetí jen o odstín tmavší (CSS .sbz-btn);
+    secondary = bílé se zeleným obrysem, po najetí světle olivové – je vidět na fotce i na barevném pozadí.
+    Staré styly "light"/"outline-light" (pro tmavé sekce) už nejsou, tmavé sekce na webu nebudou."""
+    style = {"light": "primary", "outline-light": "secondary"}.get(style, style)
     s = {"text": label, "link": {"url": url, "is_external": "on" if url.startswith("http") else "", "nofollow": ""},
-         "align": align, "size": "md",
+         "align": align, "size": "md", "_css_classes": "sbz-btn sbz-btn-" + style,
          "border_radius": {"unit": "px", "top": "8", "right": "8", "bottom": "8", "left": "8", "isLinked": True},
-         "text_padding": {"unit": "px", "top": "15", "right": "28", "bottom": "15", "left": "28", "isLinked": False},
+         "border_border": "solid",
+         "border_width": {"unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": True},
+         "text_padding": {"unit": "px", "top": "14", "right": "28", "bottom": "14", "left": "28", "isLinked": False},
          "__globals__": {"typography_typography": g("typography", "sbz_tlacitko")}}
     G = s["__globals__"]
-    if style == "primary":        # plné zelené
+    G.update(border_color=g("colors", "sbz_zelena"), button_hover_border_color=g("colors", "sbz_zelena"))
+    if style == "primary":
         G.update(background_color=g("colors", "sbz_zelena"), button_text_color=g("colors", "sbz_bila"),
-                 button_background_hover_color=g("colors", "sbz_oliva"), hover_color=g("colors", "sbz_bila"))
-    elif style == "secondary":    # obrysové zelené
-        s.update(background_color="rgba(0,0,0,0)", border_border="solid",
-                 border_width={"unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": True})
-        G.update(button_text_color=g("colors", "sbz_zelena"), border_color=g("colors", "sbz_zelena"),
-                 button_background_hover_color=g("colors", "sbz_zelena"), hover_color=g("colors", "sbz_bila"),
-                 button_hover_border_color=g("colors", "sbz_zelena"))
-    elif style == "light":        # na tmavém pozadí: světlé plné
-        G.update(background_color=g("colors", "sbz_svetla"), button_text_color=g("colors", "sbz_zelena"),
-                 button_background_hover_color=g("colors", "sbz_bila"), hover_color=g("colors", "sbz_zelena"))
-    elif style == "outline-light":  # na tmavém pozadí: bílý obrys
-        s.update(background_color="rgba(0,0,0,0)", border_border="solid",
-                 border_width={"unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": True})
-        G.update(button_text_color=g("colors", "sbz_bila"), border_color=g("colors", "sbz_bila"),
-                 button_background_hover_color=g("colors", "sbz_bila"), hover_color=g("colors", "sbz_zelena"),
-                 button_hover_border_color=g("colors", "sbz_bila"))
+                 button_background_hover_color=g("colors", "sbz_zelena"), hover_color=g("colors", "sbz_bila"))
+    else:
+        G.update(background_color=g("colors", "sbz_bila"), button_text_color=g("colors", "sbz_zelena"),
+                 button_background_hover_color=g("colors", "sbz_louka"), hover_color=g("colors", "sbz_zelena"))
     if inline:
         s["_element_width"] = "auto"
         s["_margin"] = {"unit": "px", "top": "0", "right": "12", "bottom": "12", "left": "0", "isLinked": False}
@@ -206,17 +202,28 @@ def hl(before, mark, after=""):
 
 
 # Úvodní fotka stránky (hero). Styly k výběru:
-#   "zelena"  – tmavě zelený závoj, bílý text (první návrh)
+#   "pulka"   – text vlevo na světle olivovém pozadí, fotka vpravo ostrá a celá vidět, bez závoje (návrh 15. 10.)
+#   "zelena"  – tmavě zelený závoj, bílý text (první návrh, Blanka nechce)
 #   "krem"    – světlý krémový závoj, zelený text
-#   "broskev" – závoj ve světlé terakotě, zelený text
+#   "broskev" – závoj ve světlé doplňkové barvě, zelený text
 #   "oliva"   – světle olivový závoj (jako lišta cookies / dnešní web), zelený text
 #   "karta"   – fotka bez závoje, text v krémové kartě uprostřed
 UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.74), "broskev": ("sbz_svetla", 0.70),
               "oliva": ("#E6EBC0", 0.74)}
 
 
-def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="krem", vyska=560):
+def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="pulka", vyska=560):
     """tlacitka = [(text, url), ...] – první je hlavní, druhé obrysové."""
+    if styl == "pulka":
+        # Fotka jako obrázek (ne pozadí): neořízne se, nezvětšuje se nad svou velikost, a proto zůstane ostrá.
+        w = [eyebrow(nadtitulek), heading(nadpis, "h1"), text(popis_html)]
+        w += [button(t, u, "primary" if i == 0 else "secondary", inline=True) for i, (t, u) in enumerate(tlacitka)]
+        foto = image(obrazek, css="sbz-uvod-foto")
+        foto["settings"]["image_size"] = "full"
+        return section([column(w, 48, valign="middle"),
+                        column([foto], 52, valign="middle")],
+                       bg="sbz_louka", pad=64, pad_m=40, width=1200, valign="middle",
+                       extra={"css_classes": "sbz-uvod sbz-uvod-pulka", "reverse_order_mobile": "reverse-mobile"})
     tmavy = styl == "zelena"
     w = [eyebrow(nadtitulek, "center", "sbz_svetla" if tmavy else "sbz_oliva"),
          heading(nadpis, "h1", color="sbz_bila" if tmavy else "sbz_zelena", align="center"),
