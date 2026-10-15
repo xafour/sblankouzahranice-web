@@ -1,0 +1,2403 @@
+{
+ "ID": 15971,
+ "categories": [
+  "Historie Rakouska",
+  "Hrady a zámky",
+  "Výlety",
+  "Za hranicí Rakouska"
+ ],
+ "date": "2022-12-07 16:48:07",
+ "excerpt": "Jsem češka, momentálně žijící v Rakousku a až dosud jsem nevěděla, že jméno našeho nejznámějšího hradu Karlštejna má původ jinde. Vše se propojilo náhodou, při jednom našem výletě nedaleko Vídně a senzace tak je na světě. Chcete vědět více, tak šup na celý článek...",
+ "link": "https://sblankouzahranice.eu/karlstejn-karlstein/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53179266",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#050505",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-street-view"
+         },
+         "size": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "8b48ddb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 6,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "48b38453",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-gem"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "6450c803",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "8",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "57f9f458",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "15",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_family": "Tahoma",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "675e7eb6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 89.648,
+       "_inline_size_mobile": 83,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "25",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "4bf820cb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "39c2df87",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-23",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "750231d2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "background_background": "classic",
+       "background_color": "#FFFBFB",
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1ca456f0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-17",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-shoe-prints"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "5a6bb53f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 9,
+       "_inline_size_mobile": 6,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "41",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2d40d679",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-32",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Pěší turistika.</p>",
+         "pa_condition_repeater": [],
+         "typography_font_family": "Tahoma",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2d51a520",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 85.648,
+       "_inline_size_mobile": 65,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "1cf98bf4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5f7383b",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "text_stroke_text_stroke_type": "yes",
+         "title": "Náhoda, senzace, zajímavost - tak to jsou hned tři hrady Karlštejn & Karlstein.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "22d7731",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "100de86",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "047f2ec",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Jak už to občas bývá ty nejzajímavější věci z výletu se objeví zcela nečekaně jako náhody.<br />Ale ona to tak úplně náhoda nebude. Právě teď mám totiž srdce ve dvou státech a jako rodilá \"pražanda\" žiji v současné době ve Vídni a objevuji Rakousko prostřednictvím výletů. <br />No a právě i tyto dva státy spojuje jedna zajímavost v podobě jména hradů.</p><p style=\"text-align: center;\">Ono k tomu nakonec do třetice přibyde i Německo, ale to se dozvíte v článku.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "017eece",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "489be18",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "47657f5",
+        "settings": {
+         "image": {
+          "alt": "Karlštejn",
+          "id": 15993,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/oznaceni-Karlstejn.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b98821e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bacd62c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "39",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Jako správná češka znám samozřejmě jeden z našich nejznámnějších hradů <strong>KARLŠTEJN</strong>. <br />Nikdy jsem ani netušila, že někde na světě existuje další. </p><p style=\"text-align: center;\">To si tak jedeme z jednoho výletu z Čech směr Rakousko a hle:  městečko ve které je hrad a na ceduli u silnice stojí název <strong>KARLSTEIN.</strong></p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8a7bc06",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "4bc4bf0",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6ff06b3",
+        "settings": {
+         "image": {
+          "alt": "Karlstein",
+          "id": 15992,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thaya-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "580",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6430364",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8f0e10d",
+        "settings": {
+         "image": {
+          "alt": "Karlstein",
+          "id": 15994,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Herzlich-Willkommen-Karlstein-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "560",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d681100",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "b9f9daa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "51eb6de",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Začala jsem pátrat a zjistila, že máme \"poblíž\" u našich sousedů tři různé hrady stejného jména. Karlštejn je vlastně z německého Karlstein.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4b49553",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "bea008b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "87a5d84",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Provedu vás tedy nyní Českou republikou, Rakouskem a Německem a ve všech třech státech navštívíme hrad Karlštejn - Karlstein.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "db5229f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "43c1f8e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2fd8014",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "bfb9e28",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "a9f7048",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "94af9a9",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=primary"
+         },
+         "pa_condition_repeater": [],
+         "text": "Oddělovač",
+         "weight": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "281cbf0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "161b8c1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9765f20",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Hrad Karlštejn - Česká republika",
+         "typography_font_size_mobile": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "e73df86",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3403c01",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ab9da7b",
+        "settings": {
+         "caption": "Foto Iva Zahran Kyselová, www.ivanaceste.cz",
+         "caption_source": "custom",
+         "caption_typography_font_size": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "caption_typography_font_weight": "600",
+         "caption_typography_typography": "custom",
+         "image": {
+          "alt": "Hrad Karlštejn",
+          "id": 15995,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstejn-od-Iva-na-ceste-S.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://ivanaceste.cz/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ba3ae77",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0652020",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "45",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Hrad leží asi 30 km jihozápadně od Prahy, nachází se na území stejnojmenného městyse Karlštejn v okrese Beroun.</p><p>Leží uprostřed chráněné krajinné oblasti Český kras.</p><p>Hrad Karlštejn je v České republice pravděpodobně nejznámější hrad vůbec a patří mezi 10 nejnavštěvovanějších památek ČR. <br />Jeho návštěvnost neklesá pod hranici 200 tisíc návštěvníků ročně.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c7495aa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "97ff0a9",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "223ef90",
+        "settings": {
+         "editor": "<p style=\"text-align: left;\">Hrad založil ji v roce 1348 (ve stejném roce jako pražskou univerzitu) český král a římský císař Karel IV.</p><p style=\"text-align: left;\">Na rozdíl od jiných českých hradů, které sloužily buď jako sídlo, správní centrum nebo k ochranným účelům, byl hrad Karlštejn v té době výjimkou. Hrad -Zámek měl sloužit jako velká pokladnice korunovačních klenotů Svaté říše římské a dalších relikvií.</p><p style=\"text-align: left;\">Trvalo deset let, než byl hrad dokončen, stavba kaple sv. Kříže trvala dokonce až do roku 1365 tj. celých 17 let.<br />Od poloviny 17. století hrad pomalu chátral. Poprvé byl renovován císařem Františkem II. a jeho synem Ferdinandem v polovině 19. století.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "aa6db85",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e0890fd",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "61593d1",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Hrad je již dlouhá léta ve vlastnictví České republiky a jeho správu zajišťuje Národní památkový ústav. <br />Veřejnosti je přístupný nepřetržitě od roku 1905.</p><p style=\"text-align: center;\"><strong>Od 30. března 1962 je veden jako národní kulturní památka.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8f339b2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "ad53985",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7312007",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Karlštejn",
+          "id": 16012,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Zamek-Karlstejn-CR-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "320",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3e99b6f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9096062",
+        "settings": {
+         "image": {
+          "alt": "Karlstejn",
+          "id": 16013,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-od-Iva-na-ceste-CZ.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "320",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1698c5a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "452d65d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b26bf00",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Návštěvníci si mohou vybrat jeden ze tří prohlídkových okruhů:"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "9ebd926",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "70e717f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83c8a54",
+        "settings": {
+         "_margin": {
+          "bottom": "015",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "015",
+          "unit": "px"
+         },
+         "editor": "<ol><li><strong>Prohlídková trasa - historické interiéry Císařského paláce a návštěva Marienturm.</strong><br />Prohlídka je s průvodcem a trvá asi 50 minut.</li><li><strong>Prohlídková trasa – Mariánská věž, Velká věž a Křížová kaple.</strong><br />Tato trasa trvá asi 100 minut.</li><li><span style=\"font-family: var(--global-body-font-family);\"><strong>Prohlídková trasa – Velká věž.</strong> Pozor: bez Kaple spásy.<br /></span>Prohlídka trvá asi 30-40 minut.</li></ol>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8c3e3d3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "12dd414",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=primary"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0ce3f6f",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Více o hradu Karlštejn na oficiálních stránkách hradu <span style=\"text-decoration: underline; color: #000080;\"><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.hrad-karlstejn.cz/cs\" target=\"_blank\" rel=\"noopener\">ZDE.</a></span></p><p> </p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7f63a43",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "62ceb5f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "46c1c0c",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=primary"
+         },
+         "pa_condition_repeater": [],
+         "text": "Oddělovač",
+         "weight": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "e6cfdfa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "51dc494",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "117e9f5",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "20fda48",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9c4a6bd",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f255d1d",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Hrad Karlstein - Rakousko",
+         "typography_font_size_mobile": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "7bb8b41",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "626bb46",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b863ca3",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "00",
+          "isLinked": true,
+          "left": "00",
+          "right": "00",
+          "top": "00",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "52",
+          "unit": "px"
+         },
+         "caption_source": "custom",
+         "caption_typography_font_size": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "caption_typography_font_weight": "600",
+         "caption_typography_typography": "custom",
+         "image": {
+          "alt": "Karlsteing",
+          "id": 16011,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thay.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c78e2a4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d1f68b0",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><span style=\"color: #000000;\"><strong>Hrad se nachází na strmém útesu v městečku Karlstein an der Thaya v Dolním Rakousku.</strong></span></p><p>Místo, kde se Dyje vine v hlubokém údolí severního Waldviertelu, leží městečko Karlstein v nadmořské výšce 440 m, nad nímž se na kopci tyčí středověký hrad. <br />Skalnaté útesy k řece a kopce dosahující 600 m jsou většinou pokryty lesem. <br />Hrad Karlstein byl postavený jako hraniční pevnost na skále vysoko nad Dyjí.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "eacc632",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "65a9d62",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8bedf0f",
+        "settings": {
+         "editor": "<p>Karlstein je poprvé zmíněn jako Chadelstain v roce 1112. Jako feudální hrad různých šlechtických rodů patřil Karlstein příslušnému panovníkovi. Od roku 1576 se také na krátkou dobu stalo centrem reformace za Puchheimů.</p><p>V roce 1645 Karlstein úspěšně přežil obléhání Švédy. V roce 1660 byl hrad určen jako útočiště pro civilní obyvatelstvo.</p><p>V průběhu staletí se měnilo i jeho použití. <br />V průběhu své historie byl využíván velmi různými způsoby: jako šlechtické sídlo, v roce 1880 jako továrna na hodinky, během první světové války zde byl zřízen internační tábor, ve 20. století jako ubytovna pro mládež, v 60. letech 20. století jako penzion. Jednu dobu sloužil zámek i jako vězení.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "714b76d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "df29dc8",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e1198e0",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Jelikož nebyl hrad dlouho nepřetržitě ve vlastnictví jedné rodiny, byl neustále přestavován a rozšiřován, z původního hradu nezbylo prakticky nic. Jediná dochovaná je hradní kaple, která pochází ze 16. století.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "fdf2ba1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "1bd622f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d3c7208",
+        "settings": {
+         "image": {
+          "alt": "Karlstein",
+          "id": 16032,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thay4.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "520",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "389c809",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eab0b73",
+        "settings": {
+         "image": {
+          "alt": "Karlstein",
+          "id": 16033,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thay3.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "520",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "be9eb44",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "5a852a3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "05c40fa",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Dnes je <strong>hrad</strong> již léta <strong>v soukromém vlastnictví</strong> rodiny Daum a pro <strong>veřejnost tudíž nepřístupný</strong>.<br /><br />Byl několik let dlouho rekonstruován. Slouží rodině jako rezidence a jediná nabídka, jak se dovnitř podívat je pronajmout si zde prázdninový byt.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a32aca7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "74f105c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eb1b4da",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=primary"
+         },
+         "pa_condition_repeater": [],
+         "text": "Oddělovač",
+         "weight": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "2b8c1f6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "5b7d07d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b942162",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "079391b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "81c6b29",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cdf70f6",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Burgruine Karlstein - zřícenina hradu Karlstein, Německo",
+         "typography_font_size_mobile": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b9f6560",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "c357ee7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ca3f4e1",
+        "settings": {
+         "caption_source": "custom",
+         "caption_typography_font_size": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "caption_typography_font_weight": "600",
+         "caption_typography_typography": "custom",
+         "image": {
+          "alt": "Karlstein",
+          "id": 16047,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/Ruiny-Karlstein-Deutschland.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "470",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://ivanaceste.cz/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "113d07a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2f50ce6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "45",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Třetí hrad tohoto jména a historická památka se nachází na skále v okrese Karlstein v Bad Reichenhall v okrese Berchtesgadener Land v Bavorsku</strong>.</p><p>Zřícenina vrcholového hradu impozantně trůní ve výšce 615 m nad jezerem Thumsee na strmém útesu a lze se k ní dostat pouze po dlouhém kovovém schodišti na posledním úseku turistické stezky.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d5d6fc1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "d1fdaf9",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2d1bce3",
+        "settings": {
+         "editor": "<p>Hrad – opevnění byl vybudován před rokem 1150. V roce 1218 se Karlštejn dostal do rukou bavorského vévody, který nějakou dobu svěřoval údržbu hradu svým služebníkům. Na konci 12. století bydlel na hradě hradní kapitán „Karl“, který je pravděpodobně jmenovcem celého areálu. Hrad byl poté doživotně dán bohatým patricijům z Reichenhallu výměnou za odpovídající úplatu. Za mocného rodu Fröschl von Marzoll a Tauerstein byl hrad přeměněn na palác a v této podobě zůstal až do konce 17. století. Později hrad zchátral.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c26ad89",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "f01fe69",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "740c14b",
+        "settings": {
+         "editor": "<p>Po dlouhé době uzavření pro veřejnost provedly Bavorské státní lesy jako majitelé zámku v roce 2012 důkladnou obnovu areálu v souladu s požadavky památky.</p><p>Díry ve zdech ruin byly uzavřeny. Části zdi byly zajištěny a nově omítnuty. Obnovena a opravena byla také pěšina nahoru k hradu.</p><p style=\"text-align: center;\"><strong>Dnes září památka v novém lesku a je přístupná veřejnosti.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "b788e57",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "98ba281",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ab6ffe8",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "title": "Hrad se nalézá na asi 30 km dlouhé turistické stezce Reichenhaller Burgenweg, která propojuje na trase několik hradů.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "65062c0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "8de8342",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23caaa03",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e mailem, aby ti už žádný neutekl.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "622218a",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "35f47c63",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=primary"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "_inline_size_tablet": 100,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "285a0cc9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7ce691e",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=primary",
+          "button_text_color": "globals/colors?id=text",
+          "typography_typography": ""
+         },
+         "align": "center",
+         "background_color": "#E9EFEF",
+         "border_radius": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "button_text_color": "#294568",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/hainburg-an-der-donau/"
+         },
+         "pa_condition_repeater": [],
+         "text": "Další dva hrady ve dvou státech najdete na tomto výletu.",
+         "typography_font_family": "Tahoma",
+         "typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "365d8b1",
+        "settings": {
+         "image": {
+          "alt": "Devin z Heinburgu",
+          "id": 16056,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/12/pohled-na-zriceninu-Devin-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/hainburg-an-der-donau/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3f201fa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "883a331",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1288286",
+        "settings": {
+         "pa_condition_repeater": [],
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "6618f6c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "df9f254",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "16065",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Karlštejn & Karlstein",
+  "_yoast_wpseo_metadesc": "Zajímavou shodu z historie názvu hradů Karlštejn & Karlstein objevila češka žijící v Rakousku zcela náhodou na jednom z výletů."
+ },
+ "modified": "2023-02-18 23:23:05",
+ "obsah_wordpress": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>\t\t\n\t\t<p>Pěší turistika.</p>\t\t\n\t\t\t<h2>Náhoda, senzace, zajímavost - tak to jsou hned tři hrady Karlštejn & Karlstein.</h2>\t\t\n\t\t<p style=\"text-align: center;\">Jak už to občas bývá ty nejzajímavější věci z výletu se objeví zcela nečekaně jako náhody.<br />Ale ona to tak úplně náhoda nebude. Právě teď mám totiž srdce ve dvou státech a jako rodilá \"pražanda\" žiji v současné době ve Vídni a objevuji Rakousko prostřednictvím výletů. <br />No a právě i tyto dva státy spojuje jedna zajímavost v podobě jména hradů.</p><p style=\"text-align: center;\">Ono k tomu nakonec do třetice přibyde i Německo, ale to se dozvíte v článku.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"685\" height=\"453\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/oznaceni-Karlstejn.jpg\" alt=\"Karlštejn\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/oznaceni-Karlstejn.jpg 685w, https://sblankouzahranice.eu/wp-content/uploads/2022/12/oznaceni-Karlstejn-300x198.jpg 300w\" sizes=\"(max-width: 685px) 100vw, 685px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Jako správná češka znám samozřejmě jeden z našich nejznámnějších hradů <strong>KARLŠTEJN</strong>. <br />Nikdy jsem ani netušila, že někde na světě existuje další. </p><p style=\"text-align: center;\">To si tak jedeme z jednoho výletu z Čech směr Rakousko a hle:  městečko ve které je hrad a na ceduli u silnice stojí název <strong>KARLSTEIN.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Karlstein-an-der-Thaya-S-pythwmiuihb0hiopo5udfo6dhtbcwamlw2lfzy1220.jpg\" title=\"Karlstein an der Thaya-S\" alt=\"Karlstein\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Herzlich-Willkommen-Karlstein-S-pytigd4u18bo7ejnjh9u39ouicc0aalg32oyecb8bk.jpg\" title=\"Herzlich Willkommen Karlstein-S\" alt=\"Karlstein\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Začala jsem pátrat a zjistila, že máme \"poblíž\" u našich sousedů tři různé hrady stejného jména. Karlštejn je vlastně z německého Karlstein.</h2>\t\t\n\t\t\t<h3>Provedu vás tedy nyní Českou republikou, Rakouskem a Německem a ve všech třech státech navštívíme hrad Karlštejn - Karlstein.</h3>\t\t\n\t\t\t<h2>Hrad Karlštejn - Česká republika</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://ivanaceste.cz/\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t<img width=\"512\" height=\"512\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstejn-od-Iva-na-ceste-S.jpg\" alt=\"Hrad Karlštejn\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstejn-od-Iva-na-ceste-S.jpg 512w, https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstejn-od-Iva-na-ceste-S-300x300.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstejn-od-Iva-na-ceste-S-150x150.jpg 150w\" sizes=\"(max-width: 512px) 100vw, 512px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t<figcaption>Foto Iva Zahran Kyselová, www.ivanaceste.cz</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<p>Hrad leží asi 30 km jihozápadně od Prahy, nachází se na území stejnojmenného městyse Karlštejn v okrese Beroun.</p><p>Leží uprostřed chráněné krajinné oblasti Český kras.</p><p>Hrad Karlštejn je v České republice pravděpodobně nejznámější hrad vůbec a patří mezi 10 nejnavštěvovanějších památek ČR. <br />Jeho návštěvnost neklesá pod hranici 200 tisíc návštěvníků ročně.</p><p style=\"text-align: left;\">Hrad založil ji v roce 1348 (ve stejném roce jako pražskou univerzitu) český král a římský císař Karel IV.</p><p style=\"text-align: left;\">Na rozdíl od jiných českých hradů, které sloužily buď jako sídlo, správní centrum nebo k ochranným účelům, byl hrad Karlštejn v té době výjimkou. Hrad -Zámek měl sloužit jako velká pokladnice korunovačních klenotů Svaté říše římské a dalších relikvií.</p><p style=\"text-align: left;\">Trvalo deset let, než byl hrad dokončen, stavba kaple sv. Kříže trvala dokonce až do roku 1365 tj. celých 17 let.<br />Od poloviny 17. století hrad pomalu chátral. Poprvé byl renovován císařem Františkem II. a jeho synem Ferdinandem v polovině 19. století.</p><p style=\"text-align: center;\">Hrad je již dlouhá léta ve vlastnictví České republiky a jeho správu zajišťuje Národní památkový ústav. <br />Veřejnosti je přístupný nepřetržitě od roku 1905.</p><p style=\"text-align: center;\"><strong>Od 30. března 1962 je veden jako národní kulturní památka.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zamek-Karlstejn-CR-S-pytjs4bn97nqydk5a1kksnuw2uo9akfo32p8b386bk.jpg\" title=\"Hrad Karlstejn-CR\" alt=\"Karlštejn\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Karlstein-od-Iva-na-ceste-CZ-pytjtci26fc841rz42o1jupjzymiccb1x5d1v3eo74.jpg\" title=\"Karlstejn od Iva na ceste-CZ\" alt=\"Karlstejn\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Návštěvníci si mohou vybrat jeden ze tří prohlídkových okruhů:</h3>\t\t\n\t\t<ol><li><strong>Prohlídková trasa - historické interiéry Císařského paláce a návštěva Marienturm.</strong><br />Prohlídka je s průvodcem a trvá asi 50 minut.</li><li><strong>Prohlídková trasa – Mariánská věž, Velká věž a Křížová kaple.</strong><br />Tato trasa trvá asi 100 minut.</li><li><strong>Prohlídková trasa – Velká věž.</strong> Pozor: bez Kaple spásy.<br />Prohlídka trvá asi 30-40 minut.</li></ol><p style=\"text-align: center;\">Více o hradu Karlštejn na oficiálních stránkách hradu <a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.hrad-karlstejn.cz/cs\" target=\"_blank\" rel=\"noopener\">ZDE.</a></p><p> </p>\t\t\n\t\t\t<h2>Hrad Karlstein - Rakousko</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"485\" height=\"345\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thay.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thay.jpg 485w, https://sblankouzahranice.eu/wp-content/uploads/2022/12/Karlstein-an-der-Thay-300x213.jpg 300w\" sizes=\"(max-width: 485px) 100vw, 485px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption></figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<p><strong>Hrad se nachází na strmém útesu v městečku Karlstein an der Thaya v Dolním Rakousku.</strong></p><p>Místo, kde se Dyje vine v hlubokém údolí severního Waldviertelu, leží městečko Karlstein v nadmořské výšce 440 m, nad nímž se na kopci tyčí středověký hrad. <br />Skalnaté útesy k řece a kopce dosahující 600 m jsou většinou pokryty lesem. <br />Hrad Karlstein byl postavený jako hraniční pevnost na skále vysoko nad Dyjí.</p><p>Karlstein je poprvé zmíněn jako Chadelstain v roce 1112. Jako feudální hrad různých šlechtických rodů patřil Karlstein příslušnému panovníkovi. Od roku 1576 se také na krátkou dobu stalo centrem reformace za Puchheimů.</p><p>V roce 1645 Karlstein úspěšně přežil obléhání Švédy. V roce 1660 byl hrad určen jako útočiště pro civilní obyvatelstvo.</p><p>V průběhu staletí se měnilo i jeho použití. <br />V průběhu své historie byl využíván velmi různými způsoby: jako šlechtické sídlo, v roce 1880 jako továrna na hodinky, během první světové války zde byl zřízen internační tábor, ve 20. století jako ubytovna pro mládež, v 60. letech 20. století jako penzion. Jednu dobu sloužil zámek i jako vězení.</p>\t\t\n\t\t\t<h3>Jelikož nebyl hrad dlouho nepřetržitě ve vlastnictví jedné rodiny, byl neustále přestavován a rozšiřován, z původního hradu nezbylo prakticky nic. Jediná dochovaná je hradní kaple, která pochází ze 16. století.</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Karlstein-an-der-Thay4-pytkh5qvbbyv5lvcqikps21yj25nw2smdzbjla6emo.jpg\" title=\"Karlstein an der Thay4\" alt=\"Karlstein an der Thay4\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Karlstein-an-der-Thay3-pytki3l25d96rki78x7a9tijwxivl6iyimt0vbrefk.jpg\" title=\"Karlstein an der Thay3\" alt=\"Karlstein\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Dnes je <strong>hrad</strong> již léta <strong>v soukromém vlastnictví</strong> rodiny Daum a pro <strong>veřejnost tudíž nepřístupný</strong>.<br /><br />Byl několik let dlouho rekonstruován. Slouží rodině jako rezidence a jediná nabídka, jak se dovnitř podívat je pronajmout si zde prázdninový byt.</p>\t\t\n\t\t\t<h2>Burgruine Karlstein - zřícenina hradu Karlstein, Německo</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://ivanaceste.cz/\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Ruiny-Karlstein-Deutschland-pyty8fvefnyoghryh2elu0rmm5r53o1e6ni2ynj62i.jpg\" title=\"Ruiny Karlstein Deutschland\" alt=\"Karlstein\" loading=\"lazy\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t<figcaption></figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<p><strong>Třetí hrad tohoto jména a historická památka se nachází na skále v okrese Karlstein v Bad Reichenhall v okrese Berchtesgadener Land v Bavorsku</strong>.</p><p>Zřícenina vrcholového hradu impozantně trůní ve výšce 615 m nad jezerem Thumsee na strmém útesu a lze se k ní dostat pouze po dlouhém kovovém schodišti na posledním úseku turistické stezky.</p><p>Hrad – opevnění byl vybudován před rokem 1150. V roce 1218 se Karlštejn dostal do rukou bavorského vévody, který nějakou dobu svěřoval údržbu hradu svým služebníkům. Na konci 12. století bydlel na hradě hradní kapitán „Karl“, který je pravděpodobně jmenovcem celého areálu. Hrad byl poté doživotně dán bohatým patricijům z Reichenhallu výměnou za odpovídající úplatu. Za mocného rodu Fröschl von Marzoll a Tauerstein byl hrad přeměněn na palác a v této podobě zůstal až do konce 17. století. Později hrad zchátral.</p><p>Po dlouhé době uzavření pro veřejnost provedly Bavorské státní lesy jako majitelé zámku v roce 2012 důkladnou obnovu areálu v souladu s požadavky památky.</p><p>Díry ve zdech ruin byly uzavřeny. Části zdi byly zajištěny a nově omítnuty. Obnovena a opravena byla také pěšina nahoru k hradu.</p><p style=\"text-align: center;\"><strong>Dnes září památka v novém lesku a je přístupná veřejnosti.</strong></p>\t\t\n\t\t\t<h5>Hrad se nalézá na asi 30 km dlouhé turistické stezce Reichenhaller Burgenweg, která propojuje na trase několik hradů.</h5>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e mailem, aby ti už žádný neutekl.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t\t<a href=\"https://sblankouzahranice.eu/hainburg-an-der-donau/\" role=\"button\">\n\t\t\t\t\t\tDalší dva hrady ve dvou státech najdete na tomto výletu.\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/hainburg-an-der-donau/\">\n\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/pohled-na-zriceninu-Devin-s-pytz5ba7g2xppcjp5g6q157xuqd44l6fyfi2pzp2k8.jpg\" title=\"pohled na zriceninu Devin-s\" alt=\"Devin z Heinburgu\" loading=\"lazy\" />\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "karlstejn-karlstein",
+ "title": "Karlštejn & Karlstein -1 název, 3 hrady, 3 státy",
+ "type": "post"
+}

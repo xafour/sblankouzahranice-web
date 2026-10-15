@@ -1,0 +1,1832 @@
+{
+ "ID": 21759,
+ "categories": [],
+ "date": "2024-09-02 07:03:25",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/nabidka-pro-kolektivy/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b12d063",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_padding": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "25",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Nabídka pro kolektivy, školy a dětské skupiny.",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "62372ad",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Hluboké propojení s přírodou, hluboké propojení se sebou.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c5e6787",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-31",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pomožme dětem vnímat přírodu a zažít přirozenost.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "8218168",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "100",
+        "top": "50",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cdd282c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "4b77128",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e2009c",
+        "settings": {
+         "image": {
+          "alt": "Nabidka skoly",
+          "id": 21762,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a7fbc74",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "f3e70b7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d0da47a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "22",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2017671",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Připravila jsem pro vás několik témat pro spolupráci, jimiž se prolíná téma přírody jako základní.<br />Jedná se většinou o mé autorské projekty, které mám všechny již roky odzkoušené a které jsem nyní nově přizpůsobila i dětským kolektivům.</p><p style=\"text-align: center;\">Mají jeden společný záměr: předat nejmladší generaci naše zkušenosti a pomoci jim objevit skutečný a přirozený život.</p><p style=\"text-align: center;\">\"Hluboké propojení s přírodou, hluboké propojení se sebou navzájem\" říká v krátkém videu skvělý Gabor Maté a to je to, co mě vede tyto aktivity vytvářet.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d3aa34e",
+        "settings": {
+         "_padding": {
+          "bottom": "10",
+          "isLinked": true,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/share/r/rhuJVLr7dWgTeHPN/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Video reels ZDE."
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "73b0130",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "100",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6c07481",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6f052a2",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vybírat můžete z těchto témat:",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "641cfbf",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cb3505a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fe3b701",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Příroda na talíři",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2706a0e",
+        "settings": {
+         "description_text": "Jednodenní workshopy v interiéru i exteriéru \no moudrosti přírody, jejích darech a hojnosti.\n  Workshop učí děti vnímat přírodu jako živoucí bytost, jako živý prostor, učí je všímat si jejích darů \na přínosů pro každodenní život. Nabízí teorii i praxi. Můžeme se vydat do přírody a nasbírat společně divoké byliny na čaj. Dary z přírody mohou děti zkonzumovat čerstvé nebo je mohou ve třídě usušit a nechat si na využití po celý rok. Může to být i jako kontinuální program s výzvou na několik měsíců, do kterého se děti aktivně zapojí.",
+         "description_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Logo priroda na taliri",
+          "id": 21764,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-priroda-na-taliri.png"
+         },
+         "image_border_radius": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_size": {
+          "size": 60,
+          "sizes": [],
+          "unit": "%"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Jednotlivé workshopy nebo roční pásmo.",
+         "title_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "961e5c6",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "42",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "70",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Ukázky ve VSL  \"Ze zápisníku lovců a sběračů\". Pravidelná rubrika Vídeňských svobodných listů.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_text_transform": "none",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "8db9b2d",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "93e3e61",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přírodou k sobě",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "90c858f",
+        "settings": {
+         "description_text": "2-3 hodinové procházky v přírodě pro děti i pro pedagogický sbor.\nUčí a umožňuje podívat se skrze přírodu více na vlastní pocity a prožívání, uvědomovat si v životě to dobré, zbystřit své smysly, občerstvit své tělo i mysl. \nPŘÍRODOU K SOBĚ je autorský projekt sestavený jako kombinace využití finského konceptu Lesní mysl, japonského učení Lesní terapie a\n    mých zkušeností ze studia a praktikování Tai-chi a Či-Gong.\n\nJedná se o krátká nefyzická cvičení v přírodě, naprosto jednoduchá, která zvládne opravdu každý. Je možné je přizpůsobit jakémukoliv věku od 3 let. Dobře se hodí i na odreagování pro pedagogický personál, který má pak více inspirace pro hodiny přírodopisu. ",
+         "description_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Spoluprace Lesni mysl",
+          "id": 21765,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-Lesni-mysl-a-terapie.png"
+         },
+         "image_border_radius": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_size": {
+          "size": 55,
+          "sizes": [],
+          "unit": "%"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_align": "center",
+         "title_bottom_space": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Koncept Lesní mysl a Lesní terapie (Waldbaden).",
+         "title_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ee625d3",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-27",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-k-sobe/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Více informací najdete ZDE.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_style": "oblique",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "7870995",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "100",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "30",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "92ea4f4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "08b0ab8",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Aromaterapie-Esence přírody",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4e23aa3",
+        "settings": {
+         "description_text": "Využití AROMATERAPIE ve třídách při výuce \nk účinné podpoře pozornosti, koncentrace \na prohloubení kognitivních funkcí mozku.\nPro zlepšení mentálního výkonu a soustředění.\nStejně tak je možné využití AROMATERAPIE pro\nuvolnění, relaxaci, zmírnění stresu a navození klidu\npro pedagogický personál ve sborovně.",
+         "description_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Spoluprace pro skoly-aromaterapie",
+          "id": 21769,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-Aromaterapie.png"
+         },
+         "image_border_radius": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_size": {
+          "size": 65,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Využití ve třídách při výuce nebo pro pedagogy.",
+         "title_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a7576e8",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Více informací najdete ZDE.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_style": "oblique",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5ef4b33",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a949e28",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "35",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rokem, krok za krokem",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65b6d8d",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "Tvoření dekorací z přírodních materiálů pro výzdobu třídy nebo jako dárky rodičům. Prostřednictvím této tvorby se děti učí aktivní a zábavnou formou vnímat přirozený koloběh života v přírodě.\n\nPřináší obohacení více předmětů (přírodopis, výtvárná výchova, estetika, mentální zručnost).",
+         "description_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Spoluprace pro skoly",
+          "id": 21783,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-rokem-krok-za-krokem.png"
+         },
+         "image_border_radius": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_size": {
+          "size": 57,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_align": "center",
+         "title_bottom_space": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Sledování koloběhu v přírodě aktivní formou.",
+         "title_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1e5d4d0",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "19",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/dekorace-rokem-krok-za-krokem/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Více informací najdete ZDE.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_style": "oblique",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a04be5c",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "100",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "30",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9658ed8",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dc5e7b4",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Příroda jako tělocvična",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "822d748",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-13",
+          "unit": "px"
+         },
+         "description_text": "Učí děti pohlížet na přírodu i z jiného úhlu pohledu.\nJako na multifunkční prostor pro zábavu, sport, setkávání se s kamarády.\nUkázka různých forem cvičení na protahování, balanc, rozvoj síly i spolupráci mezi dětmi.\n\nIdeální doplnění předmětu tělesné výchovy.",
+         "description_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Spoluprace pro skoly",
+          "id": 21782,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-priroda-jako-telocvicna.png"
+         },
+         "image_border_radius": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_size": {
+          "size": 55,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Využití v exteriéru.",
+         "title_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0e0212a",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-7",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Více informací najdete ZDE.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_style": "oblique",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "1c0dec4",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1882ceb",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-3",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Kontakt",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4b9c14e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-16",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "165",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Nabidka pro skoly kontakt",
+          "id": 21829,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Kontakt-new.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a39bfec",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/do-prirody"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Více informací najdete ZDE.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_style": "oblique",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4d405f8",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "100",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "30",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6721812",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b0f1d4",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "editor": "<div><p>Bude mi potěšením, probrat vaše potřeby osobně. <br />Je to vhodnější způsob, jak si vzájemně představit vaše přání a moje možnosti.<u></u><u></u></p></div><div><p><b><br /></b>V nedávné době jsem měla o Workshopech s tématem PŘÍRODA  rozhovor ve Vídeňských svobodných listech a také v rádiu ORF ve vysílání pro českou a slovenskou menšinu.</p></div>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "070d613",
+        "settings": {
+         "__globals__": {
+          "button_background_hover_color": "globals/colors?id=kadence2",
+          "button_hover_border_color": "globals/colors?id=kadence5",
+          "typography_typography": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "19",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Najdete na stránce HOME"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "44eb4aa",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "100",
+        "top": "40",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "50",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2dceb1a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "485239f",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "a710ad2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "178f34e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d15b195",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Máte zájem o spolupráci nebo se chcete na něco zeptat? Napište mi:</strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1b6112d",
+        "settings": {
+         "form_id": "653",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "wpforms"
+       }
+      ],
+      "id": "8ddce5f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "100",
+        "right": "100",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c297da2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8d532ae",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "e03c36d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "42df265",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "21760",
+  "_wp_page_template": "elementor_theme",
+  "_yoast_wpseo_focuskw": "Příroda jako studnice zdraví a pohody"
+ },
+ "modified": "2024-09-02 18:03:49",
+ "obsah_wordpress": "<h2>Nabídka pro kolektivy, školy a dětské skupiny.</h2>\t\t\n\t\t\t<h4>Hluboké propojení s přírodou, hluboké propojení se sebou.</h4>\t\t\n\t\t\t<h4>Pomožme dětem vnímat přírodu a zažít přirozenost.</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"898\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet-900x898.png\" alt=\"Nabidka skoly\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet-900x898.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet-300x300.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet-150x150.png 150w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet-768x766.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/elementor/thumbs/Nabidka-komplet-qti76bkziq7hcbep140unmu3lpniham0a3n4akzng0.png 600w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/Nabidka-komplet.png 924w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Připravila jsem pro vás několik témat pro spolupráci, jimiž se prolíná téma přírody jako základní.<br />Jedná se většinou o mé autorské projekty, které mám všechny již roky odzkoušené a které jsem nyní nově přizpůsobila i dětským kolektivům.</p><p style=\"text-align: center;\">Mají jeden společný záměr: předat nejmladší generaci naše zkušenosti a pomoci jim objevit skutečný a přirozený život.</p><p style=\"text-align: center;\">\"Hluboké propojení s přírodou, hluboké propojení se sebou navzájem\" říká v krátkém videu skvělý Gabor Maté a to je to, co mě vede tyto aktivity vytvářet.</p>\t\t\n\t\t\t<a href=\"https://www.facebook.com/share/r/rhuJVLr7dWgTeHPN/\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tVideo reels ZDE.\n\t\t\t\t\t</a>\n\t\t\t<h2>Vybírat můžete z těchto témat:</h2>\t\t\n\t\t\t<h3>Příroda na talíři</h3>\t\t\n\t\t\t<figure><img width=\"565\" height=\"498\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-priroda-na-taliri.png\" alt=\"Logo priroda na taliri\" /></figure><h3>Jednotlivé workshopy nebo roční pásmo.</h3><p>Jednodenní workshopy v interiéru i exteriéru \no moudrosti přírody, jejích darech a hojnosti.\n  Workshop učí děti vnímat přírodu jako živoucí bytost, jako živý prostor, učí je všímat si jejích darů \na přínosů pro každodenní život. Nabízí teorii i praxi. Můžeme se vydat do přírody a nasbírat společně divoké byliny na čaj. Dary z přírody mohou děti zkonzumovat čerstvé nebo je mohou ve třídě usušit a nechat si na využití po celý rok. Může to být i jako kontinuální program s výzvou na několik měsíců, do kterého se děti aktivně zapojí.</p>\t\t\n\t\t\t<h5>Ukázky ve VSL  \"Ze zápisníku lovců a sběračů\". Pravidelná rubrika Vídeňských svobodných listů.</h5>\t\t\n\t\t\t<h3>Přírodou k sobě</h3>\t\t\n\t\t\t<figure><img width=\"517\" height=\"501\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-Lesni-mysl-a-terapie.png\" alt=\"Spoluprace Lesni mysl\" /></figure><h3>Koncept Lesní mysl a Lesní terapie (Waldbaden).</h3><p>2-3 hodinové procházky v přírodě pro děti i pro pedagogický sbor.\nUčí a umožňuje podívat se skrze přírodu více na vlastní pocity a prožívání, uvědomovat si v životě to dobré, zbystřit své smysly, občerstvit své tělo i mysl. \nPŘÍRODOU K SOBĚ je autorský projekt sestavený jako kombinace využití finského konceptu Lesní mysl, japonského učení Lesní terapie a\n    mých zkušeností ze studia a praktikování Tai-chi a Či-Gong.\nJedná se o krátká nefyzická cvičení v přírodě, naprosto jednoduchá, která zvládne opravdu každý. Je možné je přizpůsobit jakémukoliv věku od 3 let. Dobře se hodí i na odreagování pro pedagogický personál, který má pak více inspirace pro hodiny přírodopisu. </p>\t\t\n\t\t\t<h5><a href=\"https://sblankouzahranice.eu/prirodou-k-sobe/\">Více informací najdete ZDE.</a></h5>\t\t\n\t\t\t<h3>Aromaterapie-Esence přírody</h3>\t\t\n\t\t\t<figure><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" tabindex=\"-1\"><img width=\"624\" height=\"528\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-Aromaterapie.png\" alt=\"Spoluprace pro skoly-aromaterapie\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\">Využití ve třídách při výuce nebo pro pedagogy.</a></h3><p>Využití AROMATERAPIE ve třídách při výuce \nk účinné podpoře pozornosti, koncentrace \na prohloubení kognitivních funkcí mozku.\nPro zlepšení mentálního výkonu a soustředění.\nStejně tak je možné využití AROMATERAPIE pro\nuvolnění, relaxaci, zmírnění stresu a navození klidu\npro pedagogický personál ve sborovně.</p>\t\t\n\t\t\t<h5><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\">Více informací najdete ZDE.</a></h5>\t\t\n\t\t\t<h3>Rokem, krok za krokem</h3>\t\t\n\t\t\t<figure><img width=\"580\" height=\"539\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-rokem-krok-za-krokem.png\" alt=\"Spoluprace pro skoly\" /></figure><h3>Sledování koloběhu v přírodě aktivní formou.</h3><p>Tvoření dekorací z přírodních materiálů pro výzdobu třídy nebo jako dárky rodičům. Prostřednictvím této tvorby se děti učí aktivní a zábavnou formou vnímat přirozený koloběh života v přírodě.\nPřináší obohacení více předmětů (přírodopis, výtvárná výchova, estetika, mentální zručnost).</p>\t\t\n\t\t\t<h5><a href=\"https://sblankouzahranice.eu/dekorace-rokem-krok-za-krokem/\">Více informací najdete ZDE.</a></h5>\t\t\n\t\t\t<h3>Příroda jako tělocvična</h3>\t\t\n\t\t\t<figure><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\" tabindex=\"-1\"><img width=\"527\" height=\"518\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Logo-priroda-jako-telocvicna.png\" alt=\"\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/prirodou-ke-zdravi-s-blankou-k-bewit/\">Využití v exteriéru.</a></h3><p>Učí děti pohlížet na přírodu i z jiného úhlu pohledu.\nJako na multifunkční prostor pro zábavu, sport, setkávání se s kamarády.\nUkázka různých forem cvičení na protahování, balanc, rozvoj síly i spolupráci mezi dětmi.\nIdeální doplnění předmětu tělesné výchovy.</p>\t\t\n\t\t\t<h5><a href=\"https://sblankouzahranice.eu/workshopy\">Více informací najdete ZDE.</a></h5>\t\t\n\t\t\t<h3>Kontakt</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Kontakt-new.png\" alt=\"Nabidka pro skoly kontakt\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/09/Kontakt-new.png 500w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/Kontakt-new-300x300.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/09/Kontakt-new-150x150.png 150w\" sizes=\"(max-width: 500px) 100vw, 500px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h5><a href=\"https://sblankouzahranice.eu/do-prirody\">Více informací najdete ZDE.</a></h5>\t\t\n\t\t<p>Bude mi potěšením, probrat vaše potřeby osobně. <br />Je to vhodnější způsob, jak si vzájemně představit vaše přání a moje možnosti.<u></u><u></u></p><p><b><br /></b>V nedávné době jsem měla o Workshopech s tématem PŘÍRODA  rozhovor ve Vídeňských svobodných listech a také v rádiu ORF ve vysílání pro českou a slovenskou menšinu.</p>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/\">\n\t\t\t\t\t\t\t\t\tNajdete na stránce HOME\n\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\"><strong>Máte zájem o spolupráci nebo se chcete na něco zeptat? Napište mi:</strong></p><form id=\"wpforms-form-653\" data-formid=\"653\" method=\"post\" enctype=\"multipart/form-data\" action=\"/wp-admin/admin-ajax.php\" data-token=\"98167fcaf754918c0c759c4cea56c0d4\" data-token-time=\"1725300229\"><noscript>Chcete-li vyplnit tento formulář, prosím povolte v prohlížeči JavaScript.</noscript><label for=\"wpforms-653-field_3\">Jméno a příjmení *</label><input type=\"text\" id=\"wpforms-653-field_3\" name=\"wpforms[fields][3]\" required><label for=\"wpforms-653-field_1\">E-mail *</label><input type=\"email\" id=\"wpforms-653-field_1\" name=\"wpforms[fields][1]\" spellcheck=\"false\" required><label for=\"wpforms-653-field_5\">Zpráva *</label><textarea id=\"wpforms-653-field_5\" name=\"wpforms[fields][5]\" required></textarea><label for=\"wpforms-653-field_6\">Souhlas se zpracováním osobních údajů *</label><ul id=\"wpforms-653-field_6\"><li><input type=\"checkbox\" id=\"wpforms-653-field_6_1\" name=\"wpforms[fields][6][]\" value=\"Souhlasím se zpracováním os.údajů v souladu se Zásadami o zpracování os.údajů\" required ><label for=\"wpforms-653-field_6_1\">Souhlasím se zpracováním os.údajů v souladu se Zásadami o zpracování os.údajů</label></li></ul><!-- .wpforms-field-container --><label for=\"wpforms-653-field-hp\">Message</label><input type=\"text\" name=\"wpforms[hp]\" id=\"wpforms-653-field-hp\"><input type=\"hidden\" name=\"wpforms[id]\" value=\"653\">\t\t\t<input\n\t\t\t\ttype=\"hidden\"\n\t\t\t\tname=\"wpforms[nonce]\"\n\t\t\t\tvalue=\"900e0fd57d\"\n\t\t\t/>\n\t\t\t<input type=\"hidden\" name=\"page_title\" value=\"\"><input type=\"hidden\" name=\"page_url\" value=\"https://sblankouzahranice.eu/wp-admin/admin-ajax.php\"><button type=\"submit\" name=\"wpforms[submit]\" id=\"wpforms-submit-653\" data-alt-text=\"Odesílání...\" data-submit-text=\"Odeslat\" aria-live=\"assertive\" value=\"wpforms-submit\">Odeslat</button></form>  <!-- .wpforms-container -->",
+ "parent": 0,
+ "slug": "nabidka-pro-kolektivy",
+ "title": "Nabídka pro kolektivy",
+ "type": "page"
+}

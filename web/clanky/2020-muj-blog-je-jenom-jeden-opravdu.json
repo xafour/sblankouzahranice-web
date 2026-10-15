@@ -1,0 +1,2032 @@
+{
+ "ID": 3508,
+ "categories": [
+  "Blog",
+  "Můj web a projekt"
+ ],
+ "date": "2020-11-30 11:58:00",
+ "excerpt": "Na podzim 2020 jsem se rozhodla pro tvorbu svého webu a blogu. Kolik z nás ten den asi učinilo stejné rozhodnutí?\nVíte, že právě ...",
+ "link": "https://sblankouzahranice.eu/muj-blog-je-jenom-jeden-opravdu/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "77ed1d8",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Na</strong> <strong>podzim 2020 jsem se rozhodla pro tvorbu svého webu a blogu.<br /></strong> <strong>Kolik z nás ten den asi učinilo stejné rozhodnutí?</strong></p><p>Víte, že právě 30.listopadu 2020 (v den, kdy jsem se rozhodla vložit svůj první článek na blog) bylo na světě napsáno více než <strong><span style=\"color: #000080;\">6 650 000 <span style=\"color: #003366;\">příspěvků</span></span></strong> na různé blogy?</p><p style=\"text-align: center;\"><strong>Za rok 2020 (do konce listopadu) bylo napsáno více než 2 500 000 000 příspěvků na blog?</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "7febe05"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d2975ce",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "fd1e448"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-waze"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "4958369",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1aa4178"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fea2afe",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#C55050",
+     "border_width_mobile": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "72aa922"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ddf8791",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5ef29c6"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tak proč?",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "aa80452",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "34473ec"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c3f874b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "fa7cdf6"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c7127a1",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "align_tablet": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5ef29c6"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Proč chci vložit hodiny svého času do učení se \"technikálií\" spojených s webem?",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "58266ec",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a533af1"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4e4b64e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-10",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d1fc4c5"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "85485ca",
+        "settings": {
+         "editor": "<p>Proč chci svoji energii směřovat do tohoto záměru? Důvod není jeden. Je to vždy souhra událostí v životě. Přijde prostě nějaká chvíle, či popud, kdy víte, že to chcete. Nebo, že to musíte zkusit. </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "583ca05"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "14619f2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8431267"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dbbe979",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "870b008"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "102a904",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "8",
+          "unit": "px"
+         },
+         "editor": "<blockquote><p>Všichni známe rčení, že na konci života člověk nelituje toho, co udělal špatně, ale lituje toho, co neudělal.</p></blockquote>",
+         "pa_condition_repeater": [
+          {
+           "_id": "f59f639"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "77866c7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a70292b"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cd75251",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-29",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-31",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "69fa2f6"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "044ab27",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>A v mém životě nastala souhra událostí, která mě dovedla až k bodu :<br />\"Chci svůj web, založím si webové stránky\".</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "f6800e7"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7841a0e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a0429c7"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7f99a0f",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#E7E6A6",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "19",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "dc25dd1"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9185443",
+        "settings": {
+         "editor": "<p>Když už <span style=\"text-decoration: underline; color: #000080;\"><a href=\"https://sblankouzahranice.eu/o-mne/#kdojeBlanka\">jsem před pár měsíci svůj život změnila,</a></span> tak proč nevyzkoušet něco, co pro mě před pár měsíci bylo nemyslitelné.<br />Každý návod na to jak začít vám řekne, že než se pustíte do tvorby svých webových stránek, měli byste si odpovědět na tři otázky:</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a06cc9b"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9522991",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "df15494"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1865002",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7f181e0"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4859dfb",
+        "settings": {
+         "badge_align_h": "3",
+         "icon_postion": "column",
+         "list": [
+          {
+           "_id": "8f895f2",
+           "badge_title": "",
+           "icon_color": "#1225CE",
+           "list_text_icon": "New",
+           "list_title": "PROČ? Proč chci psát, moje motivace.",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fa fa-check"
+           }
+          },
+          {
+           "_id": "e40dc87",
+           "badge_title": "New",
+           "icon_color": "#DC1911",
+           "list_text_icon": "New",
+           "list_title": "JAK?  Jak na to. Seznámit se s technickými možnostmi a nabídkami tvorby webu.",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fa fa-check"
+           }
+          },
+          {
+           "_id": "4497519",
+           "badge_title": "New",
+           "icon_color": "#3A911F",
+           "list_text_icon": "New",
+           "list_title": "CO?   Co bude obsahem mých webových stránek a mého blogu. Zacílení a obsah.",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fa fa-check"
+           }
+          }
+         ],
+         "list_overflow": "visible",
+         "list_title_typography_line_height_mobile": {
+          "size": 2,
+          "sizes": [],
+          "unit": "em"
+         },
+         "list_title_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "411711c"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rbadges_repeater": []
+        },
+        "widgetType": "premium-icon-list"
+       }
+      ],
+      "id": "a656990",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1bd7304"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "33425ee",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#E7E6A6",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "c6fa673"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e982f41",
+        "settings": {
+         "_margin": {
+          "bottom": "-20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "f3c211d"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#070707",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-question-circle"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c5cc988",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Dobře, ale není to málo?</strong></p><p>Jsem bývalá manažerka nákupu a mám za sebou desítky, možná stovky obchodních jednání i vyjednávání o spolupráci.<br />V této době jsem fungovala nejen jako strana, která něco žádá nebo potřebuje a druhá strana nabízí. Fungovala jsem i jako \"mediátor\" při vyjednávání dvou dalších stran ( firem ), kde jsem se snažila naslouchat a poté pomoci oběma stranám najít optimální řešení.</p><p style=\"text-align: center;\"><strong>Vždy jsem měla radost, když z každého jednání odcházely obě strany s pocitem win-win.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "7cc14b4"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3f43287",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "36119f1"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7a184d9",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "9172d1b"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "da66fc3",
+        "settings": {
+         "editor": "<p>Tak jsem se i na svoji novou činnost při tvorbě webu jsem dívala tímto pohledem. <br /><strong>Mám-li být úspěšná, mají-li se moje stránky a články líbit a přinášet prospěch oběma stranám, musím se i na tři základní otázky podívat pohledem obou stran.</strong> A to může být vodítko i pro vás, jak se v té záplavě webů, blogů a e-booků zorientovat.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0d22475"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "b1b7c78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e29398f"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7314507",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#E7E6A6",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "47df935"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "830467e",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "db5496f"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tak si to shrňme hezky popořádku:-)",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "04861c9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "90aeda1"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "aaf3bd2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "13",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "c8cda30"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c185bb1",
+        "settings": {
+         "height": {
+          "size": 235,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 147,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "id": 3561,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2020/11/blog-prispevek-foto.png"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "ba7805b"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 62,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 89,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 51,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width_mobile": {
+          "size": 97,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "76c3dc1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ba5cf0d"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3f35406",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "2ea8365"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8dce9aa",
+        "settings": {
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "6e8971f"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "otázka PROČ?",
+         "title_color": "#2E2DCE"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "8bf3af5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d0a25f2"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e3c209a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "f8fc028"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6e7d790",
+        "settings": {
+         "editor": "<p><strong>PROČ - </strong>z mého pohledu:</p><p>Srovnala jsem si zcela jasně svoji motivaci, můj záměr. <br />Mé důvody byly zcela jasné.</p><ol><li>Přinést své zkušenosti s orientací v novém prostředí dalším lidem v podobné situaci.<br /><br /></li><li>Najít nové pracovní a osobní uplatnění, které mě bude bavit a motivovat, když jsem svoji profesi nechala ve své vlasti.<br /><br /></li><li>Propojit se se stejně naladěnými lidmi a najít novou komunitu přátel.<br /><br /></li><li>Mít své podnikání nezávislé na pracovní době a stálém místě, protože žiji střídavě na třech místech a ve dvou státech.<br /><br /></li><li>Spojit příjemné (moje láska pobývat v přírodě) s užitečným (inspirovat další a přinášet do jejich životů radost a moudrost přírody).</li></ol>",
+         "pa_condition_repeater": [
+          {
+           "_id": "952f6d7"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e7e3742",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8d9cadc"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b7b4eba",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>PROČ</strong> (chodit zrovna na tyto stránky)?<br /><strong>z pohledu návštěvníka stránek:</strong></p><ol><li>Protože tam dostanu přehledně informaci, kterou musím jinde zdlouhavě hledat.<br /><br /></li><li>Protože mi web přináší návody, jak zvládnout věci rychleji a snadněji, než když je budu řešit sám (a) pokus / omyl.<br /><br /></li><li>Protože vím, že vše, co si zde přečtu opravdu někdo vyzkoušel, prožil, řešil a vyřešil.<br /><br /></li><li>Protože se zrovna nalézám ve stejné situaci a mohu se na těchto stránkách inspirovat či najít řešení.<br /><br /></li><li>Protože mě články, informace a inspirace zde baví.</li></ol>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a56bb97"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "09981a1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "14",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "21",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "42",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "5539ccf"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e1c6e4f",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#3E69B1",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b9f0e29"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17e02b5",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "f63902d"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2f09857",
+        "settings": {
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "1c1883b"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "otázka JAK?",
+         "title_color": "#D3352E"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "62a55cd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a858391"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f436955",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ee2b14b"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1c65c77",
+        "settings": {
+         "editor": "<p><strong>JAK</strong> - <strong>z mého pohledu:</strong></p><p>Zorientovat se v tom kde si vybrat hosting, doménu a jaký zvolit program pro tvorbu webu... <br />A pak už se to na vás začne sypat ze všech stran.<br /><span style=\"font-family: var(--global-body-font-family);\">Na webu najdete nekonečné množství článků a návodů o tom:</span></p><ul><li>Jak psát vymazlené články na blog, které vám zaručeně zajistí úspěch.</li><li>Jaké fonty použít z hlediska psychologie.</li><li>Jaké barvy se k sobě hodí a jak je kombinovat při tvorbě webu, aby se zákazníkovi web líbil.</li><li>Jak na úspěch v on-line podnikání.</li><li>Jak na reklamu na sociálních sítích atd.atd...</li></ul><p><strong>Důležitý je ale váš osobní \"kompas\"</strong>. Jste to vy, kdo tvoří. Musíte se u toho cítit dobře, přirozeně a tvořit s radostí. To je podle mě víc, než znát všechny ty \"komerční\" a dobře míněné rady.<br /><strong>Musíte být autentičtí</strong>. Je to stejné, jako když se s někým potkáte a povídáte si s ním. I tady člověk \"cítí\", zda je mu s vámi příjemně či ne. A s webem je to stejné. <br />Nestilizujte se do ničeho, co nejste vy. Možná to nebude \"profi\", ale bude to autentické, přirozené a živé! Lepší \"nedokonalé něco, než nic\". <br /><strong>S tím se dá začít, pokud máte svoji silnou motivaci.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "01d29e8"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "97065d0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "19da3be"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e974058",
+        "settings": {
+         "editor": "<p><strong>JAK? - z pohledu návštěvníka stránek:</strong></p><ul><li>Jak poznám, že tento člověk skutečně věci rozumí?<br /><br /></li><li>Jak si mohu být jistý, že informace od něj jsou ty správné?<br /><br /></li><li>Jak zjistím, zda mi může ten, kdo tvoří tyto stránky, v mé situaci skutečně pomoci?<p>Jednoduše! <strong>Komunikujte</strong> s tvůrcem webu, <strong>podívejte se jak on sám žije</strong>, čtěte <strong>o čem píše</strong> a udělejte si obrázek. </p><p><strong>Vnímejte své pocity</strong>. Je vám při čtení stránek a příspěvků příjemně? Vyzkoušejte některé z návodů a rad a přesvědčte se, zda fungují.</p></li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "37a3e05"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "32ff193",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a3e31f1"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3e89f6e",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#C55050",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "0814df3"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7622ed2",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "65fde1c"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cd55e1a",
+        "settings": {
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "62fb8c9"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "otázka CO?",
+         "title_color": "#3A911F"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3ceeac8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ee7fc23"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "258505e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "694633c"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9c0dd05",
+        "settings": {
+         "editor": "<p><strong>CO - z mého pohledu:</strong></p><ul><li>Co mohu návštěvníkovi webu přinést za užitek?<br /><br /></li><li>Co mu na svých stránkách mohu nabídnout?<br /><br /></li><li>Co by vedlo mě, abych se na tyto stránky vracela?</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "49bef39"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a51a641",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "687b3a9"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db5626a",
+        "settings": {
+         "editor": "<p><strong>CO - z pohledu návštěvníka stránek:</strong></p><ul><li>Pomůže mi to, co tu naleznu, nějak ulehčit,zpříjemnit nebo vyřešit moji situaci, ve které se nalézám? Někdo jiný to už řešil a vyřešil.<br /><br /></li><li>Co díky radám a informacím zde budu mít snažší, rychlejší či efektivnější?Nemusím potřebné informace zdlouhavě hledat, vím co fungovalo.<br /><br /></li><li>Jakou přidanou hodnotu pro svůj život zde mohu získat? Najít si přátelé, podívat se na svoji situaci jiným pohledem atd..</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "486b68d"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1312afa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4a2b62d"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "67fc992",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#1C6C1C",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d481fba"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f22d47c",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "e1b53ee"
+          }
+         ],
+         "pattern_height": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "rectangles",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0bfc36b",
+        "settings": {
+         "editor": "<p>Pokud si tedy člověk dokážete odpovědět na všechny tři otázky z pohledu obou dvou stran tak, aby i jemu samému dávaly smysl, pak je to přinejmenším dobrý důvod a dobrá startovací čára, na to začít.</p><p style=\"text-align: center;\"><strong>Tak jsem tady před vámi se svými záměry a sny a věřím, že vám moje články a webové stránky budou nejen k užitku a pomoci, ale hlavně k radosti a inspiraci.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "bf90a11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "160c736",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "border_border": "solid",
+         "border_color": "#E7E6A6",
+         "border_radius": {
+          "bottom": "1",
+          "isLinked": true,
+          "left": "1",
+          "right": "1",
+          "top": "1",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "button_background_hover_color": "#E7E6A6",
+         "button_text_color": "#E7E6A6",
+         "hover_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "www.sblankouzahranice.eu"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "fa4dd14"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Vše co ZDE můžete najít",
+         "text_padding": {
+          "bottom": "13",
+          "isLinked": true,
+          "left": "13",
+          "right": "13",
+          "top": "13",
+          "unit": "px"
+         },
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "31118f1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a7a699c"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6502564",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4ef5d9d"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1206a14",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "cd4b7a4"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Můj blog není jedním z 2 500 000 000, můj blog je jen jeden!",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a508062",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5b7d39b"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "14558b3",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#E7E6A6",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6b6547f"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "89842a3",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "beb0cd1"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "7368d6d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6700156"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e29884e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "fc8bc64"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "30344f6",
+        "settings": {
+         "align": "center",
+         "editor": "<p>Chcete se o tom přesvědčit? Pak se přihlaste k odběru novinek a já vám dám vědět o nových článcích.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e9ad14e"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_color": "#0A431B",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "bf6892b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "de5f439"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3acbe98",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "01361a6"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "83539aa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0be42ba"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fcdce11",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Chci dostávat info o novinkách.<br />Fajn, ráda ti dám o nových vědět e- mailem.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "925a113"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ad654ec",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "f3ef54d"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Přihlásit zde"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "44a248c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 60,
+       "background_background": "classic",
+       "background_color": "#E7E6A6",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "47df984"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "30dec7e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bd6fce1"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a312fd8",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "4d816d6"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fdc4eda",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "d2446e4"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "57a67eb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "28618d6"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7ec13d0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "0b2057e"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "3725",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Můj blog je jenom jeden. Opravdu...?",
+  "_yoast_wpseo_metadesc": "Blog \"s Blankou za hranice\". Můj blog je jenom jeden i když počet blogů ve světě se stále násobí. Víte, že právě 30.listopadu 2020 (v den, kdy jsem se rozhodla vložit svůj první článek na blog) bylo na světě napsáno více než 6 650 000 příspěvků na různé blogy? A za rok 2020 (do konce listopadu) více než 2 500 000 000 příspěvků na blog? Tak proč i já?"
+ },
+ "modified": "2024-04-13 20:36:22",
+ "obsah_wordpress": "<p style=\"text-align: center;\"><strong>Na</strong> <strong>podzim 2020 jsem se rozhodla pro tvorbu svého webu a blogu.<br /></strong> <strong>Kolik z nás ten den asi učinilo stejné rozhodnutí?</strong></p><p>Víte, že právě 30.listopadu 2020 (v den, kdy jsem se rozhodla vložit svůj první článek na blog) bylo na světě napsáno více než <strong>6 650 000 příspěvků</strong> na různé blogy?</p><p style=\"text-align: center;\"><strong>Za rok 2020 (do konce listopadu) bylo napsáno více než 2 500 000 000 příspěvků na blog?</strong></p>\t\t\n\t\t\t<h5>Tak proč?</h5>\t\t\n\t\t\t<h5>Proč chci vložit hodiny svého času do učení se \"technikálií\" spojených s webem?</h5>\t\t\n\t\t<p>Proč chci svoji energii směřovat do tohoto záměru? Důvod není jeden. Je to vždy souhra událostí v životě. Přijde prostě nějaká chvíle, či popud, kdy víte, že to chcete. Nebo, že to musíte zkusit. </p><blockquote><p>Všichni známe rčení, že na konci života člověk nelituje toho, co udělal špatně, ale lituje toho, co neudělal.</p></blockquote><p style=\"text-align: center;\"><strong>A v mém životě nastala souhra událostí, která mě dovedla až k bodu :<br />\"Chci svůj web, založím si webové stránky\".</strong></p><p>Když už <a href=\"https://sblankouzahranice.eu/o-mne/#kdojeBlanka\">jsem před pár měsíci svůj život změnila,</a> tak proč nevyzkoušet něco, co pro mě před pár měsíci bylo nemyslitelné.<br />Každý návod na to jak začít vám řekne, že než se pustíte do tvorby svých webových stránek, měli byste si odpovědět na tři otázky:</p>\t\t\n\t\t\t\t\t\t<ul>\n\t\t\t<li>\n\t\t\t\t PROČ? Proč chci psát, moje motivace. \n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t JAK?  Jak na to. Seznámit se s technickými možnostmi a nabídkami tvorby webu. \n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t CO?   Co bude obsahem mých webových stránek a mého blogu. Zacílení a obsah. \n\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p style=\"text-align: center;\"><strong>Dobře, ale není to málo?</strong></p><p>Jsem bývalá manažerka nákupu a mám za sebou desítky, možná stovky obchodních jednání i vyjednávání o spolupráci.<br />V této době jsem fungovala nejen jako strana, která něco žádá nebo potřebuje a druhá strana nabízí. Fungovala jsem i jako \"mediátor\" při vyjednávání dvou dalších stran ( firem ), kde jsem se snažila naslouchat a poté pomoci oběma stranám najít optimální řešení.</p><p style=\"text-align: center;\"><strong>Vždy jsem měla radost, když z každého jednání odcházely obě strany s pocitem win-win.</strong></p><p>Tak jsem se i na svoji novou činnost při tvorbě webu jsem dívala tímto pohledem. <br /><strong>Mám-li být úspěšná, mají-li se moje stránky a články líbit a přinášet prospěch oběma stranám, musím se i na tři základní otázky podívat pohledem obou stran.</strong> A to může být vodítko i pro vás, jak se v té záplavě webů, blogů a e-booků zorientovat.</p>\t\t\n\t\t\t<h4>Tak si to shrňme hezky popořádku:-)</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"402\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2020/11/blog-prispevek-foto-768x402.png\" alt=\"Blogový obrázek\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2020/11/blog-prispevek-foto-768x402.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2020/11/blog-prispevek-foto-300x157.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2020/11/blog-prispevek-foto.png 900w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>otázka PROČ?</h3>\t\t\n\t\t<p><strong>PROČ - </strong>z mého pohledu:</p><p>Srovnala jsem si zcela jasně svoji motivaci, můj záměr. <br />Mé důvody byly zcela jasné.</p><ol><li>Přinést své zkušenosti s orientací v novém prostředí dalším lidem v podobné situaci.<br /><br /></li><li>Najít nové pracovní a osobní uplatnění, které mě bude bavit a motivovat, když jsem svoji profesi nechala ve své vlasti.<br /><br /></li><li>Propojit se se stejně naladěnými lidmi a najít novou komunitu přátel.<br /><br /></li><li>Mít své podnikání nezávislé na pracovní době a stálém místě, protože žiji střídavě na třech místech a ve dvou státech.<br /><br /></li><li>Spojit příjemné (moje láska pobývat v přírodě) s užitečným (inspirovat další a přinášet do jejich životů radost a moudrost přírody).</li></ol><p><strong>PROČ</strong> (chodit zrovna na tyto stránky)?<br /><strong>z pohledu návštěvníka stránek:</strong></p><ol><li>Protože tam dostanu přehledně informaci, kterou musím jinde zdlouhavě hledat.<br /><br /></li><li>Protože mi web přináší návody, jak zvládnout věci rychleji a snadněji, než když je budu řešit sám (a) pokus / omyl.<br /><br /></li><li>Protože vím, že vše, co si zde přečtu opravdu někdo vyzkoušel, prožil, řešil a vyřešil.<br /><br /></li><li>Protože se zrovna nalézám ve stejné situaci a mohu se na těchto stránkách inspirovat či najít řešení.<br /><br /></li><li>Protože mě články, informace a inspirace zde baví.</li></ol>\t\t\n\t\t\t<h3>otázka JAK?</h3>\t\t\n\t\t<p><strong>JAK</strong> - <strong>z mého pohledu:</strong></p><p>Zorientovat se v tom kde si vybrat hosting, doménu a jaký zvolit program pro tvorbu webu... <br />A pak už se to na vás začne sypat ze všech stran.<br />Na webu najdete nekonečné množství článků a návodů o tom:</p><ul><li>Jak psát vymazlené články na blog, které vám zaručeně zajistí úspěch.</li><li>Jaké fonty použít z hlediska psychologie.</li><li>Jaké barvy se k sobě hodí a jak je kombinovat při tvorbě webu, aby se zákazníkovi web líbil.</li><li>Jak na úspěch v on-line podnikání.</li><li>Jak na reklamu na sociálních sítích atd.atd...</li></ul><p><strong>Důležitý je ale váš osobní \"kompas\"</strong>. Jste to vy, kdo tvoří. Musíte se u toho cítit dobře, přirozeně a tvořit s radostí. To je podle mě víc, než znát všechny ty \"komerční\" a dobře míněné rady.<br /><strong>Musíte být autentičtí</strong>. Je to stejné, jako když se s někým potkáte a povídáte si s ním. I tady člověk \"cítí\", zda je mu s vámi příjemně či ne. A s webem je to stejné. <br />Nestilizujte se do ničeho, co nejste vy. Možná to nebude \"profi\", ale bude to autentické, přirozené a živé! Lepší \"nedokonalé něco, než nic\". <br /><strong>S tím se dá začít, pokud máte svoji silnou motivaci.</strong></p><p><strong>JAK? - z pohledu návštěvníka stránek:</strong></p><ul><li>Jak poznám, že tento člověk skutečně věci rozumí?<br /><br /></li><li>Jak si mohu být jistý, že informace od něj jsou ty správné?<br /><br /></li><li>Jak zjistím, zda mi může ten, kdo tvoří tyto stránky, v mé situaci skutečně pomoci?<p>Jednoduše! <strong>Komunikujte</strong> s tvůrcem webu, <strong>podívejte se jak on sám žije</strong>, čtěte <strong>o čem píše</strong> a udělejte si obrázek. </p><p><strong>Vnímejte své pocity</strong>. Je vám při čtení stránek a příspěvků příjemně? Vyzkoušejte některé z návodů a rad a přesvědčte se, zda fungují.</p></li></ul>\t\t\n\t\t\t<h3>otázka CO?</h3>\t\t\n\t\t<p><strong>CO - z mého pohledu:</strong></p><ul><li>Co mohu návštěvníkovi webu přinést za užitek?<br /><br /></li><li>Co mu na svých stránkách mohu nabídnout?<br /><br /></li><li>Co by vedlo mě, abych se na tyto stránky vracela?</li></ul><p><strong>CO - z pohledu návštěvníka stránek:</strong></p><ul><li>Pomůže mi to, co tu naleznu, nějak ulehčit,zpříjemnit nebo vyřešit moji situaci, ve které se nalézám? Někdo jiný to už řešil a vyřešil.<br /><br /></li><li>Co díky radám a informacím zde budu mít snažší, rychlejší či efektivnější?Nemusím potřebné informace zdlouhavě hledat, vím co fungovalo.<br /><br /></li><li>Jakou přidanou hodnotu pro svůj život zde mohu získat? Najít si přátelé, podívat se na svoji situaci jiným pohledem atd..</li></ul>\t\t\n\t\t<p>Pokud si tedy člověk dokážete odpovědět na všechny tři otázky z pohledu obou dvou stran tak, aby i jemu samému dávaly smysl, pak je to přinejmenším dobrý důvod a dobrá startovací čára, na to začít.</p><p style=\"text-align: center;\"><strong>Tak jsem tady před vámi se svými záměry a sny a věřím, že vám moje články a webové stránky budou nejen k užitku a pomoci, ale hlavně k radosti a inspiraci.</strong></p>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu\">\n\t\t\t\t\t\tVše co ZDE můžete najít\n\t\t\t\t\t</a>\n\t\t\t<h3>Můj blog není jedním z 2 500 000 000, můj blog je jen jeden!</h3>\t\t\n\t\t<p>Chcete se o tom přesvědčit? Pak se přihlaste k odběru novinek a já vám dám vědět o nových článcích.</p><p style=\"text-align: center;\"><strong>Chci dostávat info o novinkách.<br />Fajn, ráda ti dám o nových vědět e- mailem.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tPřihlásit zde\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "muj-blog-je-jenom-jeden-opravdu",
+ "title": "Můj blog je jenom jeden! Opravdu...?",
+ "type": "post"
+}

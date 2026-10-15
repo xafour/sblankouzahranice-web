@@ -1,0 +1,4164 @@
+{
+ "ID": 15350,
+ "categories": [
+  "Děti vítány",
+  "Hrady a zámky",
+  "Památky Unesco",
+  "Romantika pro dva",
+  "Výlety",
+  "Za hranicí Rakouska"
+ ],
+ "date": "2022-11-15 22:33:10",
+ "excerpt": "Zámek Trešť, je místo za hranicí Rakouska na území České republiky, které přináší nejen širokou nabídku možnosti trávení volného času, ale i úzké historické i současné propojení obou dvou států. Vydejte se na prohlídku zámku, zámecké zahrady i přilehlého regionu.",
+ "link": "https://sblankouzahranice.eu/zamek-trest/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ee40318",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#050505",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-street-view"
+         },
+         "size": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "77b6db03",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 6,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4b6507e1",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-gem"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "28367358",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "1",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "761089e5",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "22",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5a18e635",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 89.648,
+       "_inline_size_mobile": 83,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "7",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "689f9941",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0194a40",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Zámek Třešť, přilehlý zámecký park a okolní příroda nabízí opravdu rozmanité možnosti trávení času.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "2bb8c47",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "71d39e9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b13a13",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "editor": "<p>Zámek Třešť je novorenesanční budova, která stojí téměř v centru města Třešť, v okrese Jihlava. <br />Toto město se nachází na západě Moravy, ve střední části kraje Vysočina, zhruba 50 km od hranice s Rakouskem.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a14f3de",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "c65e63a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "807a1bc",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "title": "Vzdálenost od Prahy 140 km, od Brna 100 km a od Vídně 160 km."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "30b7693",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "a9f80e4",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "543eb45",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "015",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "editor": "<p>Třešťský zámek je spjat se spisovatelem Franzem Kafkou. Ten v Třešti pobýval v letech 1900 až 1907 u strýce Siegfrieda Löwyho, tamějšího lékaře, jenž se později v Kafkově díle objevuje jako ústřední postava povídky Venkovský lékař</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "200fcce",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "599f14e",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c86c45e",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "title": "Za zámkem se rozkládá rozlehlý zámecký park. Park je od roku 1973 chráněn jako kulturní památka."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "dc3a6bd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e4a552d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f05ff8f",
+        "settings": {
+         "image": {
+          "alt": "zámecký park Třešť",
+          "id": 15366,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada-4-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "630",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3f0ef58",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "10f4539",
+        "settings": {
+         "image": {
+          "alt": "zámecký park Třešť",
+          "id": 15367,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "620",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e3276e1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "41c6e84",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c63d9a2",
+        "settings": {
+         "image": {
+          "alt": "zámecký park Třešť",
+          "id": 15364,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada2-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "630",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "13f7808",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dd3086c",
+        "settings": {
+         "image": {
+          "alt": "zámecký park Třešť",
+          "id": 15365,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada5-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "630",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a98bad5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "6d30db2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fa9e069",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Zámek Třešť a okolní příroda skýtají zajímavé možnosti trávení volného času."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "53019da",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "049a787",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8c257a7",
+        "settings": {
+         "_margin": {
+          "bottom": "030",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "030",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">My jsme na Zámku a v jeho okolí strávili krásný víkend s balíčkem služeb \"Podzim na zámku\" a s uvítací \"Svatomartinskou večeří\" s degustací vín a cimbálovou muzikou. </p><p style=\"text-align: center;\"><strong>Bylo to dokonalé propojení skvělé gastronomie, relaxu i romantiky.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "97f8bfd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "0c6b9cf",
+    "isInner": false,
+    "settings": {
+     "background_background": "video",
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#C8B7A4",
+     "background_overlay_opacity": {
+      "size": 0.77,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_video_fallback": {
+      "alt": "cimbal pozadi",
+      "id": 15850,
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/cimbal-krak.png"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2e0789c",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "title": "Nabídka a možnosti využití zámku a přilehlého okolí pro strávení krásných chvil:"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "46d8c78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "132b1b3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "50babf8",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=kadence2",
+          "icon_color_hover": "globals/colors?id=text",
+          "text_color": "globals/colors?id=kadence2",
+          "text_color_hover": ""
+         },
+         "_margin": {
+          "bottom": "015",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "custom_css": ".elementor-icon-list-items .elementor-icon-list-icon {\r\n    position: absolute;\r\n    top: 0px;\r\n    left: 0;\r\n}\r\n.elementor-icon-list-items .elementor-icon-list-text {\r\n    margin-left: 30px;\r\n}\r\n\r\n\r\n\r\n\r\n",
+         "icon_color": "#0a431b",
+         "icon_color_hover": "#294568",
+         "icon_list": [
+          {
+           "_id": "5a16a08",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#romantickyvikend"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Romantické víkendy na zámku pro zamilované páry v nově zrekonstruovaných pokojích zámecké budovy s nabídkou mnoha služeb."
+          },
+          {
+           "_id": "49fa588",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#wellnesnazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Wellness víkendy s vířivkou, saunou, masážemi a speciálními procedurami pro znovuobnovení sil a duševní i fyzické pohody."
+          },
+          {
+           "_id": "ec920ff",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#gastronomienazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Špičková gastronomie v Restauraci Franze Kafky s letní terasou vám nabídne množství kulinářských zážitků probouzející všechny smysly, nejen chuťové pohárky."
+          },
+          {
+           "_id": "0463750",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#eleonoranazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Tematické procházky s Eleonorou pro děti v nejbližším okolí zámku. "
+          },
+          {
+           "_id": "9354511",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#discgolfnazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Aktivity pro volný čas v zámeckém parku. DiscGolf je speciální hra pro 2 a více hráčů podobná golfu, která se hraje s létajícím „diskem“ v areálu zámeckého parku."
+          },
+          {
+           "_id": "5081201",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#geoparknazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Naučná stezka Geopark – regionem proti proudu času. To je stezka nabízející prohlídku různých hornin, které odrážejí složitou cestu geologického vývoje naší planety země."
+          },
+          {
+           "_id": "cf6734e",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#lesnimyslnazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Stezka \"Lesní mysl\" inspirovaná finským konceptem osobního rozvoje a relaxace."
+          },
+          {
+           "_id": "7afbf1a",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "#pantaunazamku"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-right"
+           },
+           "text": "Dřevěná socha Pana Tau – atrakce pro děti, kterou najdete přímo na náměstí v Třešti u kostela a autobusové zastávky."
+          }
+         ],
+         "icon_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_weight": "600",
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "space_between": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_color": "#0a431b",
+         "text_color_hover": "#2A62A7"
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "dbe4632",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "2ef836c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1ee5796",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Zámek dnes patří Akademii věd ČR a funguje jako hotel. <br />Celý zámek prošel nákladnou rekonstrukcí a přestavbou a v nové moderní podobě byl znovuotevřen v červnu 2022. <br />Najdete zde moderní pokoje i restaurační zařízení, společně s kongresovými prostory a příjemným wellness vám nabídne opravdu skvělé zázemí.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6763fe3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e8ec63c",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "184986b",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "text_stroke_text_stroke_type": "yes",
+         "title": "Jako mystický Zámek z románu Franze Kafky se před vámi objeví, aby vás uchvátil.",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "7475f3a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "ff42b4c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "800d837",
+        "settings": {
+         "image": {
+          "alt": "interier zamek Třešť",
+          "id": 15405,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci2-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b103c1a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "af8822a",
+        "settings": {
+         "image": {
+          "alt": "interier zamek Třešť",
+          "id": 15406,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "38b179e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "93bd077",
+        "settings": {
+         "image": {
+          "alt": "interier zamek Třešť",
+          "id": 15407,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5f9fea2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "d1853bf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "824ccbb",
+        "settings": {
+         "image": {
+          "alt": "interier zamek Třešť",
+          "id": 15408,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek2-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "eed4888",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9ff5c51",
+        "settings": {
+         "image": {
+          "alt": "interier zamek Třešť",
+          "id": 15409,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek4-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "91f5a71",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2f57a77",
+        "settings": {
+         "image": {
+          "alt": "interiery zámek Třešť",
+          "id": 15449,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek3-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0d378a0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "a01ce2e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a1321e4",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">V bezprostřední blízkosti hotelu se nachází krásný kostel. V renesanční době spojovala zámek s blízkým kostelem sv. Martina lávka, která se však již nedochovala. Toto spojení kostela a hotelu nabízí příjemné možnosti pro uspořádání romantických svateb s následnou nabídkou gastronomických i ubytovacích služeb na zámku.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9afbd82",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "1feb7c3",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "15656d9",
+        "settings": {
+         "image": {
+          "alt": "kostel v Třešti",
+          "id": 15414,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0bfc4dc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e5029fe",
+        "settings": {
+         "image": {
+          "alt": "kostel v Třešti",
+          "id": 15415,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel1-v-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "43df0e8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ed8d442",
+        "settings": {
+         "image": {
+          "alt": "kostel v Třešti",
+          "id": 15416,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel3-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "cca8b9e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "49573ce",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ab38f53",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "title": "Teď už se pojďme projít zámkem a okolím a podívat se, co vše tu můžeme zažít.",
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "726473d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "8d9928a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f56d311",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "d347cd6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "cca0a7d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2b10475",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9242270",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6baba77",
+        "settings": {
+         "anchor": "romantickyvikend",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "299aaa5",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Romantické víkendy"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a048b03",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "503661f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b5bffd3",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>pro zamilované páry s nabídkou mnoha služeb.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ee0ef32",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3a45f51",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "52373da",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Zámek Třešť disponuje celkem 32 luxusními pokoji ve čtyřech kategoriích: deluxe, superior, zámecké apartmá s obývacím pokojem a rodinný pokoj.<br /><span style=\"font-family: var(--global-body-font-family);\">Pokoje jsou moderně a stylově vybavené s důrazem na komfort a pohodlí. <br />Apartmány zdobí úryvky textů z Kafkova díla.</span></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "329d02c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e698ccf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4afb51e",
+        "settings": {
+         "image": {
+          "alt": "interier zamek Třešť",
+          "id": 15407,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9f161e3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8482d63",
+        "settings": {
+         "image": {
+          "alt": "pokoj zamek Třešť",
+          "id": 15451,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje2-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "34d9230",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "229543c",
+        "settings": {
+         "image": {
+          "alt": "pokoj zamek Třešť",
+          "id": 15452,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje-koupelna-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f870688",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9bfe7ad",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "530f6b6",
+        "settings": {
+         "anchor": "wellnesnazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "910d6b4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "aa15a70",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "020",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4ccf28e",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "796760c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "6d67b4f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4487090",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Wellness na zámku"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d08cede",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "4f584d1",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "058d083",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>pro znovuobnovení duševních i fyzických sil.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "baaa67b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "aefdf64",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5db2fd9",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">K relaxaci vás zve Spa centrum, kde je k dispozici vířivka, parní sauna, finská sauna a relaxační místnost. Pro dokonalý odpočinek nabízí hotel masáže a Spa rituály Indonésie, Polynésie či Arktidy.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "146ec1a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "8653704",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "74216c2",
+        "settings": {
+         "image": {
+          "alt": "wellnes zamek Třešť",
+          "id": 15468,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/wellnes-.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "99e3bb4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e9c266b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "910605e",
+        "settings": {
+         "anchor": "gastronomienazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "160106f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "0342e10",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "75beb7c",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "768e1f9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "05a7f65",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9b0639e",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Špičková gastronomie v Restauraci Franze Kafky "
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "02c92f2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "23522bc",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42b4d77",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b> s letní terasou vás zve k návštěvě a ochutnání.</b></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "23f197f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "433d3fa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "64d8420",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Zámecká kuchyně nabízí množství kulinářských zážitků probouzející všechny smysly, nejen chuťové pohárky.<br />Restaurace nabízí i piknikové koše, které si můžete vychutnat třeba v přilehlém zámeckém parku.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7fb84bb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "19881dc",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "108a5f6",
+        "settings": {
+         "image": {
+          "alt": "gastronomie na zámku",
+          "id": 15478,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/gastronomie-S-S.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3d1881e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "61bc575",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4bb6e65",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "title": "A ještě doplnění ke gastronomii: na zámku jsou velmi bohaté snídaně s různými specialitkami. Tak dobrou ovesnou kaši jako tam, jsem kromě domova zatím nikde v restauraci nejedla. Nebyla ani příliš sladká a navíc velmi dobře ochucená.",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "400",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d4f0f03",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "898bc6d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9e001f6",
+        "settings": {
+         "anchor": "eleonoranazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "6f2b5eb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "075228b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac8d285",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "df2bb50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "5b7d9a2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "66d9e6c",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Tematické procházky s Eleonorou nejen pro děti  "
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e62745c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b>krásnou krajinou v nejbližším okolí zámku.</b></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "02a3935",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "0484559",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7fb905b",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Stezka přibližuje přírodu, historii a osobnosti kraje. Příběhy jsou podávané zábavnou formou, která zaujme nejenom děti.<br /><span style=\"font-family: var(--global-body-font-family);\">Stezka vede zámeckým parkem a zámeckou oborou do kopce směrem k lesu, a pak se stáčí zpět.<br />Stezka je dlouhá necelé 4 km a má 15 zastavení. <br />Po cestě je krásný výhled na vrch Špičák s přírodní rezervací. <br />Kolem pěti rybníčků se pak stezka vrací k zámku. <br /><strong>U jednoho z rybníků je pítko s nezávadnou vodou, vhodnou i pro kojence.</strong></span></p><p style=\"text-align: center;\">Eleonora Sternbachová, jedna z mladých hraběnek a dcera barona Leopolda, posledního majitele třešťského zámku se pomyslně stala průvodkyní turistů po naučné stezce.</p><p style=\"text-align: center;\">Na zámku si můžete vyzvednout kartičku s tajenkou, odpovědi najdete na jednotlivých zastaveních.<br />Veškerá zastavení a informace jsou dvojjazyčné – česky a německy.</p><p style=\"text-align: center;\"> </p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9a2b7b3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3a91b1c",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e1565e7",
+        "settings": {
+         "image": {
+          "alt": "stezka Eleonory na zámku",
+          "id": 15506,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora1-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9608f75",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b345714",
+        "settings": {
+         "image": {
+          "alt": "stezka Eleonory na zámku",
+          "id": 15507,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora9-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "45bd840",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "be7f27a",
+        "settings": {
+         "image": {
+          "alt": "stezka Eleonory na zámku",
+          "id": 15508,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora12-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0133cec",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "d9a6f9e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2486996",
+        "settings": {
+         "anchor": "discgolfnazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "935c122",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e2ea867",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e759454",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "884affc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "c6f8de7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7a88d66",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "DiscGolf  v zámeckém parku"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f9ada2b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0f2555b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-33",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b> je speciální hra pro 2 a více hráčů podobná golfu, která se hraje s létajícím „diskem“. </b></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "deb25d5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9743c13",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0eba908",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Hřiště s 9 jamkami se nachází hned vedle hotelu, v kulisách vzácných stromů jako jsou například vzrostlé duby a ojedinělé jehličnany-douglasky.<br />  Hřiště je volně přístupné a zdarma. Na recepci zámku půjčují hrací disky oproti vratné záloze.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "db8305b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9084fff",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "74cff92",
+        "settings": {
+         "image": {
+          "alt": "DiscGolf na zámku",
+          "id": 15521,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/DiscGolf-Park.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "364fd14",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8aca9cf",
+        "settings": {
+         "image": {
+          "alt": "DiscGolf na zámku",
+          "id": 15522,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/DiscGolfPark-S-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bbf1c9a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "55b5b19",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1fefb25",
+        "settings": {
+         "anchor": "geoparknazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "63f23fc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "8c769db",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "822f2fd",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "183cefa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "73dd01a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "494bc82",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Naučná stezka Geopark – regionem proti proudu času "
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "66dc282",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c26cd1d",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-33",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b> je stezka nabízející prohlídku různých hornin, které odrážejí složitou cestu geologického vývoje naší planety země.</b></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3c3f128",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "633c686",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "32f461e",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Stálá expozici v prostorách zámeckého parku odkrývá geologický vývoj střední Evropy. <br />Byla vybudována ve spolupráci Rakouska a České Republiky z fondu Interreg na podporu regionálního rozvoje a všechny informační tabule jsou dvojjazyčné – česky a německy.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "62d5e12",
+        "settings": {
+         "image": {
+          "alt": "Interreg geopark zamek",
+          "id": 15569,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Interreg-geo-park-S-s.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "74f6347",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Region Renesance se nachází na pomezí Čech, Moravy a Rakouska. Zahrnuje historicky provázané mikroregiony Jemnicko, Dačicko, Telčsko, Třešťsko a rakouský Thayaland.  <br />Unikátní fenomény neživé přírody a výjimečné kulturní památky regionu umožňují odkrýt důležité střípky geologické i nedávné historie a vy se můžete seznámit s jednotlivými horninami citlivě zasazenými do přírody. Skladba hornin poskytuje jedinečný obraz úplného cyklu geologického vývoje od období prvohor až po současnost.</p><p style=\"text-align: center;\"><strong>Tato okružní stezka tak představuje spojení poučení, zábavy a ozdravujících chvil v krásné přírodě.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "810e734",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "c8afd7c",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3ac214e",
+        "settings": {
+         "image": {
+          "alt": "geopark na zámku",
+          "id": 15532,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark3-V-s-rotated.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8e18645",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "82eac17",
+        "settings": {
+         "image": {
+          "alt": "geopark na zámku",
+          "id": 15533,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Geopark2-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "472b1ee",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "556a4a0",
+        "settings": {
+         "image": {
+          "alt": "geopark na zámku",
+          "id": 15534,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark4-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bdf575a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "751a895",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2f3e304",
+        "settings": {
+         "anchor": "lesnimyslnazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "dbb89bf",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "fe59b42",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e4112ff",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "8c4f4be",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "931d96e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65a57e7",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Stezka Lesní mysli "
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "894c8c3",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c264de5",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-33",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b> je inspirovaná finským konceptem osobního rozvoje a relaxace.</b></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f4f0ab8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "ad46a40",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "67e8348",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Netradiční stezka inspirovaná finským konceptem Lesní mysl (rozšiřujícím se i v ČR) vzniká díky pochopení prokazatelného přínosu konceptu a díky zájmu paní ředitelky hotelu v prostoru přilehlého zámeckého parku.</p><p style=\"text-align: center;\">Stezka nabízí hostům ponořit se sám nebo s průvodcem do tajů přírody a užít si tak nevšední zážitek s poznáváním sebe-samého v kulisách stromového porostu a stranou od ruchu města, z jiného než běžně vnímaného, úhlu pohledu.</p><p style=\"text-align: center;\"><strong>Více o konceptu Lesní mysl najdete zde <br /><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">„</span><a href=\"https://sblankouzahranice.eu/prirodou-k-sobe/\">přírodou zpátky k sobě“</a>.</span></strong></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7bccd38",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "5c120cf",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3c41efd",
+        "settings": {
+         "image": {
+          "alt": "Lesni mysl na zamku",
+          "id": 15541,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/stezka-lesni-mysl1-S-s.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "085b6df",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "b09e212",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "69cd580",
+        "settings": {
+         "anchor": "pantaunazamku",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "5bfa018",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "ebff63f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "99d4b0d",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "c6c1de3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3781376",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "615fb44",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h6",
+         "pa_condition_repeater": [],
+         "title": "Dřevěná socha Pana Tau – atrakce pro děti"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0b784fc",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e627df1",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-33",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b> kterou najdete přímo na náměstí v Třešti u kostela a autobusové zastávky.</b></p><p> </p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8ade091",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "cf84a6d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bd4362d",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Role panáčka, který byl chvilku maličký a chvilku veliký Pana Tau, se objevila celkem ve 33 dílech a ve třech celovečerních filmech.<br /><span style=\"font-family: var(--global-body-font-family);\">Představitel postavy Pana Tau, herec Otto Šimánek se narodil zde v Třešti za zajímavých okolností, o kterých málokdo ví.</span></p><p style=\"text-align: center;\">Sám herec o tom říká: <br />„V den, kdy jsem přišel na svět, jela moje maminka do města do Třeště. Přišly na ní porodní bolesti, šla hledat pomoc do lékárny a já jsem se narodil přímo na pultě toho domu. <br />Zní to jako pohádková legenda, ale je to skutečně tak“.</p><p style=\"text-align: center;\">Dům, kde se narodil, už dnes nestojí. Místo něj je v Třešti autobusová zastávka.<br />A přímo vedle této zastávky na náměstí je jeho dřevěná socha.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9d4206f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "4914be0",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "-25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "-25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "44cc8f8",
+        "settings": {
+         "image": {
+          "alt": "pan Tau na zámku",
+          "id": 15557,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Pan-Tau-socha-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "660",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1332755",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fca5e37",
+        "settings": {
+         "image": {
+          "alt": "pan Tau na zámku",
+          "id": 15558,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Pan-Tau-socha-s-kostelem-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "660",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bfae227",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "516af30",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a3bee41",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "015",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "editor": "<p>A protože, jak jsem uváděla na začátku, jedná se o spřízněný region ČR-Rakousko, my jsme odtud z Treště pokračovali dál do Rakouska do oblasti Raabs an der Thaya, kde jsou další unikáty propojující historii Čech a Rakouska.</p><p style=\"text-align: center;\">Všechna tato místa nabízí tipy na skvělé a zajímavé výlety s nevšedními památkami a najdete je samostatně postupně zde na webu.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c9f7cd4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "66ab262",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "45",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "45",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f81dd2f",
+        "settings": {
+         "image": {
+          "alt": "spolupráce ČR/Rakousko",
+          "id": 15568,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/spoluprace-s-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "600"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8b183e0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e32c5fa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7a7e256",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "description_text": "Další místa na krásné výlety v okolí  Třeště na území  České Republiky.",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_font_weight": "700",
+         "description_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-map-marker-alt"
+         },
+         "title_text": "BONUS NAVÍC",
+         "title_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "3799e24",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "bf6cf31",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1b51615",
+        "settings": {
+         "editor": "<p><strong><br />1. Pramen Dyje</strong> <strong>– 4 km</strong></p><p>Na louce nedaleko obce Panenská Rozsíčka u Třeště se nachází jeden ze dvou pramenů řeky Dyje (ten druhý pak leží v Rakousku a vzniká z něj Thaya). Na tomto místě v Brtnické vrchovině bylo vybudováno hezké zastavení se sochou Jarní studánka třešťského sochaře Jaroslava Krechlera. Přírodní galerie vede kolem Dyje a má jedenáct zastavení, to poslední je utajené a určené jen pro ty, kteří dobře hledají.</p><p><strong>2. Hrad Roštejn – 6 km</strong></p><p>Hrad Roštejn stojí na skalnatém výběžku nedaleko od Jihlavy. Dominuje mu gotická věž.<br />Roštejn byl vystavěn v polovině 14. století pány z Hradce, ve století 16. pak byl přebudován v pohodlnější renesanční lovecký hrádek. Na začátku 20. století hrad vyhořel, byl zrekonstruován a dnes je přístupný veřejnosti.</p><p style=\"text-align: left;\"><strong>3. Zámek Telč – 12 km</strong></p><p>Zámek Telč vznikl na místě původního vodního hradu ze 14. století. V polovině 16. století byl hrad přestavěn na renesanční reprezentační sídlo a výrazné proměny už od té doby nedoznal. <br />Je to památka zapsaná na seznamu UNESCO.</p><p style=\"text-align: left;\"><strong>4. Naučná stezka „K pramenům Počátek a okolí</strong>“ dlouhá necelých 12 kilometrů.</p><p>Na její trase je celkem 5 zastavení s informačními tabulemi, které se nachází u míst, jako jsou pramen svaté Kateřiny s takzvaným \"ideálem vody\", pramen řeky Jihlavy, barokní kostel svaté Kateřiny nebo altány svatého Vojtěcha a svaté Markéty s prameny. Míst k odpočinku je celá spousta.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "05c0b10",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "20b323e",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42318692",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><b>Chcete dostávat NOVINKY e-mailem, aby vám žádný nový tip na výlet neutekl?</b></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b62e984",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "6c68d10d",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "2720cc63",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "background_overlay_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "334ed6b",
+        "settings": {
+         "pa_condition_repeater": [],
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "044d7b9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "0fef3e9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "15352",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Zámek Trešť a okolní příroda",
+  "_yoast_wpseo_metadesc": "Zámek Třešť a okolní příroda, to je místo, které stojí za to vidět. Rozlehlý zámecký park je od roku 1973 chráněn jako kulturní památka."
+ },
+ "modified": "2023-05-15 17:33:40",
+ "obsah_wordpress": "<strong>Zajímavé místo, stojí za návštěvu.</strong>\n<h2>Zámek Třešť, přilehlý zámecký park a&nbsp;okolní příroda nabízí opravdu rozmanité možnosti trávení času.</h2>\nZámek Třešť je novorenesanční budova, která stojí téměř v centru města Třešť, v okrese Jihlava.\nToto město se nachází na západě Moravy, ve střední části kraje Vysočina, zhruba 50&nbsp;km od hranice s Rakouskem.\n<h5>Vzdálenost od Prahy 140&nbsp;km, od Brna 100 km a od&nbsp;Vídně 160 km.</h5>\nTřešťský zámek je spjat se spisovatelem Franzem Kafkou. Ten v Třešti pobýval v letech 1900 až 1907 u strýce Siegfrieda Löwyho, tamějšího lékaře, jenž se později v&nbsp;Kafkově díle objevuje jako ústřední postava povídky Venkovský lékař\n<h5>Za zámkem se rozkládá rozlehlý zámecký park. Park&nbsp;je&nbsp;od&nbsp;roku&nbsp;1973&nbsp;chráněn&nbsp;jako&nbsp;kulturní&nbsp;památka.</h5>\n<img width=\"420\" height=\"623\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada-4-V-s.jpg\" alt=\"zámecký park Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada-4-V-s.jpg 420w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/zamecka-zahrada-4-V-s-202x300.jpg 202w\" sizes=\"(max-width: 420px) 100vw, 420px\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/zamecka-zahrada-V-s-q3a9rczuly6suf4hdj3wbwj6obalkb19h9619drz7c.jpg\" title=\"zamecka zahrada-V-s\" alt=\"zámecký park Třešť\" loading=\"lazy\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/zamecka-zahrada2-V-s-q3a9rczuly6uw2uwt4z56m46pp50ow8dqlptgaqi70.jpg\" title=\"zamecka zahrada2 -V-s\" alt=\"zámecký park Třešť\" loading=\"lazy\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/zamecka-zahrada5-V-s-q3a9rczuly6uw2uwt4z56m46pp50ow8dqlptgaqi70.jpg\" title=\"zamecka zahrada5 -V-s\" alt=\"zámecký park Třešť\" loading=\"lazy\">\n<h3>Zámek Třešť a okolní příroda skýtají zajímavé možnosti trávení volného času.</h3>\n<p style=\"text-align: center;\">My jsme na Zámku a v jeho okolí strávili krásný víkend s balíčkem služeb \"Podzim na&nbsp;zámku\" a s&nbsp;uvítací \"Svatomartinskou večeří\" s degustací vín a cimbálovou muzikou.&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Bylo to dokonalé propojení skvělé gastronomie, relaxu i&nbsp;romantiky.</strong></p>\n\n<h5>Nabídka a možnosti využití zámku a přilehlého okolí pro strávení krásných chvil:</h5>\n<ul>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#romantickyvikend\">\nRomantické víkendy na&nbsp;zámku pro zamilované páry v nově zrekonstruovaných pokojích zámecké budovy s&nbsp;nabídkou mnoha služeb.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#wellnesnazamku\">\nWellness víkendy s&nbsp;vířivkou, saunou, masážemi a&nbsp;speciálními procedurami pro&nbsp;znovuobnovení sil a&nbsp;duševní i fyzické pohody.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#gastronomienazamku\">\nŠpičková gastronomie v&nbsp;Restauraci Franze Kafky s&nbsp;letní terasou vám nabídne množství kulinářských zážitků probouzející všechny smysly, nejen chuťové pohárky.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#eleonoranazamku\">\nTematické procházky s&nbsp;Eleonorou pro děti v&nbsp;nejbližším okolí zámku.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#discgolfnazamku\">\nAktivity pro volný čas v&nbsp;zámeckém parku. DiscGolf je speciální hra pro 2 a více hráčů podobná golfu, která se hraje s&nbsp;létajícím „diskem“ v&nbsp;areálu zámeckého parku.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#geoparknazamku\">\nNaučná stezka Geopark – regionem proti proudu času. To je stezka nabízející prohlídku různých hornin, které odrážejí složitou cestu geologického vývoje naší planety země.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#lesnimyslnazamku\">\nStezka \"Lesní mysl\" inspirovaná finským konceptem osobního rozvoje a relaxace.\n</a></li>\n \t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#pantaunazamku\">\nDřevěná socha Pana Tau – atrakce pro děti, kterou najdete přímo na náměstí v&nbsp;Třešti u&nbsp;kostela a&nbsp;autobusové zastávky.\n</a></li>\n</ul>\n<p style=\"text-align: center;\">Zámek dnes patří Akademii věd ČR a funguje jako hotel.\nCelý zámek prošel nákladnou rekonstrukcí a přestavbou a&nbsp;v&nbsp;nové moderní podobě byl znovuotevřen v červnu 2022.\nNajdete zde moderní pokoje i&nbsp;restaurační zařízení, společně s&nbsp;kongresovými prostory a&nbsp;příjemným wellness vám nabídne opravdu skvělé zázemí.</p>\n\n<h3>Jako mystický Zámek z&nbsp;románu Franze Kafky se před vámi objeví, aby vás uchvátil.</h3>\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci2-V-s.jpg\" alt=\"interier zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci2-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci2-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci-V-s.jpg\" alt=\"interier zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/interier-chodeb-po-rekonstrukci-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-rotated.jpg\" alt=\"interier zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek2-V-s.jpg\" alt=\"interier zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek2-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek2-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"389\" height=\"673\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek4-V-s.jpg\" alt=\"interier zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek4-V-s.jpg 389w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek4-V-s-173x300.jpg 173w\" sizes=\"(max-width: 389px) 100vw, 389px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek3-V-s-rotated.jpg\" alt=\"interiery zámek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek3-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/salonek3-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<p style=\"text-align: center;\">V bezprostřední blízkosti hotelu se nachází krásný kostel. V renesanční době spojovala zámek s&nbsp;blízkým kostelem sv. Martina lávka, která se však již nedochovala. Toto spojení kostela a hotelu nabízí příjemné možnosti pro uspořádání romantických svateb s následnou nabídkou gastronomických i ubytovacích služeb na zámku.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel-V-s-rotated.jpg\" alt=\"kostel v Třešti\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel1-v-s-rotated.jpg\" alt=\"kostel v Třešti\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel1-v-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel1-v-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel3-V-s-rotated.jpg\" alt=\"kostel v Třešti\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel3-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kostel3-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<h5>Teď už se pojďme projít zámkem a okolím a podívat se, co vše tu můžeme zažít.</h5>\n<h6>Romantické víkendy</h6>\n<p style=\"text-align: center;\"><strong>pro zamilované páry s nabídkou mnoha služeb.</strong></p>\n<p style=\"text-align: center;\">Zámek Třešť disponuje celkem 32&nbsp;luxusními pokoji ve čtyřech kategoriích: deluxe, superior, zámecké apartmá s obývacím pokojem a rodinný pokoj.\nPokoje jsou moderně a stylově vybavené s důrazem na komfort a&nbsp;pohodlí.\nApartmány zdobí úryvky textů z&nbsp;Kafkova díla.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-rotated.jpg\" alt=\"interier zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje1-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje2-V-s.jpg\" alt=\"pokoj zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje2-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje2-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje-koupelna-V-s-rotated.jpg\" alt=\"pokoj zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje-koupelna-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/pokoje-koupelna-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<h6>Wellness na zámku</h6>\n<p style=\"text-align: center;\"><strong>pro znovuobnovení duševních i&nbsp;fyzických sil.</strong></p>\n<p style=\"text-align: center;\">K&nbsp;relaxaci vás zve Spa centrum, kde je k&nbsp;dispozici vířivka, parní sauna, finská sauna a relaxační místnost. Pro dokonalý odpočinek nabízí hotel masáže a Spa rituály Indonésie, Polynésie či Arktidy.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"496\" height=\"534\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/wellnes-.jpg\" alt=\"wellnes zamek Třešť\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/wellnes-.jpg 496w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/wellnes--279x300.jpg 279w\" sizes=\"(max-width: 496px) 100vw, 496px\">\n<h6>Špičková gastronomie v&nbsp;Restauraci Franze Kafky</h6>\n<p style=\"text-align: center;\"><b>&nbsp;s letní terasou vás zve k&nbsp;návštěvě a ochutnání.</b></p>\n<p style=\"text-align: center;\">Zámecká kuchyně nabízí množství kulinářských zážitků probouzející všechny smysly, nejen chuťové pohárky.\nRestaurace nabízí i piknikové koše, které si můžete vychutnat třeba v&nbsp;přilehlém zámeckém parku.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/gastronomie-S-S.jpg\" alt=\"gastronomie na zámku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/gastronomie-S-S.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/gastronomie-S-S-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\">\n<h5>A ještě doplnění ke gastronomii: na zámku jsou velmi bohaté snídaně s různými specialitkami. Tak&nbsp;dobrou ovesnou kaši jako tam, jsem kromě domova zatím nikde v&nbsp;restauraci nejedla. Nebyla&nbsp;ani&nbsp;příliš sladká a navíc velmi dobře ochucená.</h5>\n<h6>Tematické procházky s&nbsp;Eleonorou nejen pro děti &nbsp;</h6>\n<p style=\"text-align: center;\"><b>krásnou krajinou v nejbližším okolí zámku.</b></p>\n<p style=\"text-align: center;\">Stezka přibližuje přírodu, historii a&nbsp;osobnosti kraje. Příběhy jsou podávané zábavnou formou, která zaujme nejenom děti.\nStezka vede zámeckým parkem a&nbsp;zámeckou oborou do kopce směrem k lesu, a pak se stáčí zpět.\nStezka je dlouhá necelé 4 km a&nbsp;má&nbsp;15 zastavení.\nPo cestě je krásný výhled na vrch Špičák s&nbsp;přírodní rezervací.\nKolem pěti rybníčků se pak stezka vrací k zámku.\n<strong>U jednoho z rybníků je pítko s&nbsp;nezávadnou vodou, vhodnou i&nbsp;pro kojence.</strong></p>\n<p style=\"text-align: center;\">Eleonora Sternbachová, jedna z&nbsp;mladých hraběnek a dcera barona Leopolda, posledního majitele třešťského zámku se pomyslně stala průvodkyní turistů po naučné stezce.</p>\n<p style=\"text-align: center;\">Na zámku si můžete vyzvednout kartičku s tajenkou, odpovědi najdete na jednotlivých zastaveních.\nVeškerá zastavení a informace jsou dvojjazyčné – česky a&nbsp;německy.</p>\n<p style=\"text-align: center;\"></p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora1-V-s.jpg\" alt=\"stezka Eleonory na zámku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora1-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora1-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"396\" height=\"661\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora9-V-s.jpg\" alt=\"stezka Eleonory na zámku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora9-V-s.jpg 396w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora9-V-s-180x300.jpg 180w\" sizes=\"(max-width: 396px) 100vw, 396px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora12-V-s.jpg\" alt=\"stezka Eleonory na zámku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora12-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Eleonora12-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<h6>DiscGolf  v zámeckém parku</h6>\n<p style=\"text-align: center;\"><b>&nbsp;je speciální hra pro 2 a více hráčů podobná golfu, která se hraje s létajícím „diskem“.&nbsp;</b></p>\n<p style=\"text-align: center;\">Hřiště s 9 jamkami se nachází hned vedle hotelu, v kulisách vzácných stromů jako jsou například vzrostlé duby a ojedinělé jehličnany-douglasky.\n&nbsp; Hřiště je volně přístupné a zdarma. Na recepci zámku půjčují hrací disky oproti vratné záloze.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/DiscGolf-Park-q3a9rczuly4va05wmvljbqp5d8kb8ab8nehee16pgw.jpg\" title=\"DiscGolf Park\" alt=\"DiscGolf na zámku\" loading=\"lazy\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/DiscGolfPark-S-s-q3a9rczuly4va05wmvljbqp5d8kb8ab8nehee16pgw.jpg\" title=\"DiscGolfPark-S-s\" alt=\"DiscGolf na zámku\" loading=\"lazy\">\n<h6>Naučná stezka Geopark – regionem proti proudu času</h6>\n<p style=\"text-align: center;\"><b>&nbsp;je stezka nabízející prohlídku různých hornin, které odrážejí složitou cestu geologického vývoje naší planety země.</b></p>\n<p style=\"text-align: center;\">Stálá expozici v&nbsp;prostorách zámeckého parku odkrývá geologický vývoj střední Evropy.\nByla vybudována ve spolupráci Rakouska a České Republiky z&nbsp;fondu Interreg na podporu regionálního rozvoje a všechny informační tabule jsou dvojjazyčné – česky a německy.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Interreg-geo-park-S-s.jpg\" alt=\"Interreg geopark zamek\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Interreg-geo-park-S-s.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Interreg-geo-park-S-s-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\">\n<p style=\"text-align: center;\">Region Renesance se nachází na pomezí Čech, Moravy a Rakouska. Zahrnuje historicky provázané mikroregiony Jemnicko, Dačicko, Telčsko, Třešťsko a rakouský Thayaland.&nbsp;\nUnikátní fenomény neživé přírody a výjimečné kulturní památky regionu umožňují odkrýt důležité střípky geologické i nedávné historie a vy se můžete seznámit s&nbsp;jednotlivými horninami citlivě zasazenými do přírody. Skladba hornin poskytuje jedinečný obraz úplného cyklu geologického vývoje od období prvohor až&nbsp;po&nbsp;současnost.</p>\n<p style=\"text-align: center;\"><strong>Tato okružní stezka tak představuje spojení poučení, zábavy a ozdravujících chvil v&nbsp;krásné&nbsp;přírodě.</strong></p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark3-V-s-rotated.jpg\" alt=\"geopark na zámku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark3-V-s-rotated.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark3-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Geopark2-V-s.jpg\" alt=\"Geopark u zamku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Geopark2-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Geopark2-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark4-V-s.jpg\" alt=\"Geopark u zamku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark4-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/geopark4-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\">\n<h6>Stezka Lesní mysli</h6>\n<p style=\"text-align: center;\"><b>&nbsp;je inspirovaná finským konceptem osobního rozvoje&nbsp;a&nbsp;relaxace.</b></p>\n<p style=\"text-align: center;\">Netradiční stezka inspirovaná finským konceptem Lesní mysl (rozšiřujícím se i v&nbsp;ČR) vzniká díky pochopení prokazatelného přínosu konceptu a díky zájmu paní ředitelky hotelu v&nbsp;prostoru přilehlého zámeckého parku.</p>\n<p style=\"text-align: center;\">Stezka nabízí hostům ponořit se sám nebo s průvodcem do tajů přírody a užít si tak nevšední zážitek s poznáváním sebe-samého v kulisách stromového porostu a stranou od ruchu města, z&nbsp;jiného než běžně vnímaného, úhlu pohledu.</p>\n<p style=\"text-align: center;\"><strong>Více o konceptu Lesní mysl najdete zde\n„<a href=\"https://sblankouzahranice.eu/prirodou-k-sobe/\">přírodou zpátky k sobě“</a>.</strong></p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/stezka-lesni-mysl1-S-s.jpg\" alt=\"Lesni mysl na zamku\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/stezka-lesni-mysl1-S-s.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/stezka-lesni-mysl1-S-s-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\">\n<h6>Dřevěná socha Pana Tau – atrakce pro děti</h6>\n<p style=\"text-align: center;\"><b>&nbsp;kterou najdete přímo na náměstí v Třešti u kostela a&nbsp;autobusové zastávky.</b></p>\n<p style=\"text-align: center;\">Role panáčka, který byl chvilku maličký a chvilku veliký Pana Tau, se objevila celkem ve 33 dílech a&nbsp;ve třech celovečerních filmech.\nPředstavitel postavy Pana Tau, herec Otto Šimánek se narodil zde v Třešti za zajímavých okolností, o&nbsp;kterých málokdo ví.</p>\n<p style=\"text-align: center;\">Sám herec o tom říká:\n„V den, kdy jsem přišel na svět, jela moje maminka do města do Třeště. Přišly na ní porodní bolesti, šla hledat pomoc do lékárny a já jsem se narodil přímo na pultě toho domu.\nZní to jako pohádková legenda, ale je to skutečně tak“.</p>\n<p style=\"text-align: center;\">Dům, kde se narodil, už dnes nestojí. Místo něj je v Třešti autobusová zastávka.\nA přímo vedle této zastávky na náměstí je jeho dřevěná socha.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Pan-Tau-socha-V-s-q3a9rczuly7112273ykvqqv6tuoa2ntqind626ozwo.jpg\" title=\"Pan Tau-socha-V-s\" alt=\"pan Tau na zámku\" loading=\"lazy\">\n<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Pan-Tau-socha-s-kostelem-V-s-q3a9rczuly7112273ykvqqv6tuoa2ntqind626ozwo.jpg\" title=\"Pan Tau-socha s kostelem-V-s\" alt=\"kostel Trešť\" loading=\"lazy\">\n\nA protože, jak jsem uváděla na začátku, jedná se o spřízněný region ČR-Rakousko, my jsme odtud z Treště pokračovali dál do Rakouska do oblasti Raabs an&nbsp;der Thaya, kde jsou další unikáty propojující historii Čech a&nbsp;Rakouska.\n<p style=\"text-align: center;\">Všechna tato místa nabízí tipy na&nbsp;skvělé a zajímavé výlety s&nbsp;nevšedními památkami a&nbsp;najdete je samostatně postupně zde na&nbsp;webu.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/spoluprace-s-s-q3a9rczwfqbmsbvd4gms7a4p00klh3j1zsgq0q7j5u.jpg\" title=\"spoluprace-s-s\" alt=\"spolupráce ČR/Rakousko\" loading=\"lazy\">\n<h3>\n\t\t\t\t\t\tBONUS NAVÍC</h3>\nDalší místa na krásné výlety v okolí  Třeště na území  České Republiky.\n\n<strong>\n1. Pramen Dyje</strong> <strong>– 4 km</strong>\n\nNa louce nedaleko obce Panenská Rozsíčka u Třeště se nachází jeden ze dvou pramenů řeky Dyje (ten druhý pak leží v Rakousku a vzniká z něj Thaya). Na tomto místě v&nbsp;Brtnické vrchovině bylo vybudováno hezké zastavení se sochou Jarní studánka třešťského sochaře Jaroslava Krechlera. Přírodní galerie vede kolem Dyje a má jedenáct zastavení, to poslední je utajené a určené jen pro ty, kteří dobře hledají.\n\n<strong>2. Hrad Roštejn – 6 km</strong>\n\nHrad Roštejn stojí na skalnatém výběžku nedaleko od Jihlavy. Dominuje mu gotická věž.\nRoštejn byl vystavěn v polovině 14.&nbsp;století pány z Hradce, ve století 16. pak byl přebudován v pohodlnější renesanční lovecký hrádek. Na&nbsp;začátku 20. století hrad vyhořel, byl zrekonstruován a dnes je přístupný veřejnosti.\n<p style=\"text-align: left;\"><strong>3. Zámek Telč – 12 km</strong></p>\nZámek Telč vznikl na místě původního vodního hradu ze 14. století. V polovině 16.&nbsp;století byl hrad přestavěn na renesanční reprezentační sídlo a výrazné proměny už od té doby nedoznal.\nJe to památka zapsaná na&nbsp;seznamu UNESCO.\n<p style=\"text-align: left;\"><strong>4. Naučná stezka „K&nbsp;pramenům Počátek a okolí</strong>“ dlouhá necelých 12 kilometrů.</p>\nNa její trase je celkem 5 zastavení s informačními tabulemi, které se nachází u&nbsp;míst, jako jsou pramen svaté Kateřiny s takzvaným \"ideálem vody\", pramen řeky Jihlavy, barokní kostel svaté Kateřiny nebo altány svatého Vojtěcha a svaté Markéty s prameny. Míst k odpočinku je celá spousta.\n<p style=\"text-align: center;\"><b>Chcete dostávat NOVINKY e-mailem, aby vám žádný nový tip na výlet neutekl?</b></p>\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\nMám zájem\n</a>",
+ "parent": 0,
+ "slug": "zamek-trest",
+ "title": "Zámek Třešť, zámecký park a okolní příroda",
+ "type": "post"
+}

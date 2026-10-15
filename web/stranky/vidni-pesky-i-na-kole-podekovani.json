@@ -1,0 +1,1330 @@
+{
+ "ID": 16788,
+ "categories": [],
+ "date": "2023-01-31 16:28:44",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/vidni-pesky-i-na-kole-podekovani/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "21d38ed",
+        "settings": {
+         "image": {
+          "alt": "Vidni pesky i na kole",
+          "id": 16985,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/02/Vidni-pesky-i-na-kole-1-ZAHLAVI-krak.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b984cf0",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": ""
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#9EB5B578",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2278c48",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": ""
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9d1ac28",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "7de9c1e",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Děkuji vám za váš zájem o PRAKTICKOU PŘÍRUČKU  - VÍDNÍ PĚŠKY I NA KOLE",
+         "title_color": "#0A431B",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "81cb3af",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "7de9c1e",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "i za váš zájem o můj projekt \"s Blankou za hranice\" a dění na mém webu.",
+         "title_color": "#0A431B",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "42e20c6",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "961f938",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "16f72ac",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Váš e-mail dorazil v pořádku do mé schránky."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f70a13",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Je však třeba ještě jednoho kroku než si budete moci dárek stáhnout a začít ho prakticky využívat.</p><p style=\"text-align: center;\"><strong>Bohužel postup níže je zákonná povinnost a taky kontrola, že jste to opravdu vy, kdo mi svěřuje své údaje <br />a kontrola, že váš e-mail nikdo nezneužil.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "fdba938",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6f88b39",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=kadence2"
+         },
+         "icon_list": [
+          {
+           "_id": "7d03435",
+           "text": "KROK č. 1"
+          }
+         ],
+         "icon_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_weight": "700",
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "665973c",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_color": "#CD5555"
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "54a33ac",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p>do vaší e-mailové schránky, ze které jste se registrovali vám <strong>přijde</strong> <strong>potvrzovací e-mail s předmětem<br /></strong><span style=\"color: #000080;\">\"Souhlas se zpracováním obchodních údajů\".</span><em><br /></em><strong>V tomto e-mailu </strong><strong>potvrďte správnost údajů </strong><strong>kliknutím na odkaz .</strong><em><br /></em></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ec6fe6e",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0b73d97",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=kadence2"
+         },
+         "icon_list": [
+          {
+           "_id": "d4c5011",
+           "text": "KROK č. 2"
+          }
+         ],
+         "icon_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size_tablet": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_weight": "700",
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "f0b1c6f",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_color": "#CD5555"
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "56750ce",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p>následně vám přijde ještě <strong>druhý email </strong> s linkem k vašemu dárku ZDARMA.</p><p style=\"text-align: left;\">Přes tento link se dostanete k <strong>PŘÍRUČCE -VÍDNÍ PĚŠKY i NA KOLE.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ac88996",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "10cad477",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "522da53",
+         "pa_condition_date": "2022/12/15",
+         "pa_condition_date_range": "2022/12/15",
+         "pa_condition_page": [],
+         "pa_condition_post": []
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5d8ca80f",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6836148",
+       "pa_condition_date": "2022/12/15",
+       "pa_condition_date_range": "2022/12/15",
+       "pa_condition_page": [],
+       "pa_condition_post": []
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "61da54b",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Prosím, pokud jste učinili správně všechny  kroky a některý z e-mailů byste nenašli, zkontrolujte prosím ve své e-mailové schránce složku SPAM nebo HROMADNOU poštu.\nObčas se tam e-maily zatoulají.",
+         "title_color": "#B52121",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "de6386f",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "d32eca4",
+           "pa_condition_date": "2022/12/15",
+           "pa_condition_date_range": "2022/12/15",
+           "pa_condition_page": [],
+           "pa_condition_post": []
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pak již můžete začít používat PRAKTICKOU PŘÍRUČKU a poznávat VÍDEŇ ještě snadněji, lépe a více. ",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "e7b4473",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f71b099",
+         "pa_condition_date": "2022/12/15",
+         "pa_condition_date_range": "2022/12/15",
+         "pa_condition_page": [],
+         "pa_condition_post": []
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bc76a6b",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "57bfeb9",
+       "pa_condition_date": "2022/12/15",
+       "pa_condition_date_range": "2022/12/15",
+       "pa_condition_page": [],
+       "pa_condition_post": []
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d8f8b61",
+        "settings": {
+         "image": {
+          "alt": "VIDNI pěšky i na kole",
+          "id": 16412,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/OBALKA-a-nahled.obrazek.jpg"
+         },
+         "image_size": "thumbnail",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "width": {
+          "size": 45,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "765b648",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 30,
+       "pa_condition_repeater": [
+        {
+         "_id": "37d7156",
+         "pa_condition_date": "2022/12/15",
+         "pa_condition_date_range": "2022/12/15",
+         "pa_condition_page": [],
+         "pa_condition_post": []
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "24df27e",
+        "settings": {
+         "__globals__": {
+          "marker_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "45",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "after_text": "pro pěší i cyklo-turisty.",
+         "before_text": "3 + 3 tipy, ",
+         "highlighted_text": "jak si usnadnit poznávání Vídně",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "stroke_width": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_line_height_mobile": {
+          "size": 1.8,
+          "sizes": [],
+          "unit": "em"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#D23D3D",
+         "words_typography_typography": "custom"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "0b3bb14",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 70,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a0269f2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1037ec4",
+       "pa_condition_date": "2022/12/15",
+       "pa_condition_date_range": "2022/12/15",
+       "pa_condition_page": [],
+       "pa_condition_post": []
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6f370b5",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "_margin_mobile": {
+          "bottom": "-2",
+          "isLinked": false,
+          "left": "-100",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 50,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "0a9f813",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b739a33",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-60",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-biking"
+         },
+         "size": {
+          "size": 50,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "5bf964a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "acb2050",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "100",
+          "right": "0",
+          "top": "-80",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-female"
+         },
+         "size": {
+          "size": 50,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "3cb9d0f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2d6e8e8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ea5b718",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_widescreen": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "99d89cf",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c26bf16",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "34c8cd0",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pattern_size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "rectangles",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "380ebea",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6689186",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c700c85",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Možná o své cestě do Vídně teprve uvažujete a hledáte informace pro váš bezproblémový výlet či cestu.</p><blockquote><p>Skvělý nápad! Užijte si Vídeň jako místní - bez stresu, spěchu a v klidu.</p><p>Mám pro vás něco, co vám pobyt rozhodně usnadní:</p><p><strong>MINIPRŮVODCE pro lehčí a snadnější poznávání Vídně.</strong></p></blockquote><p><span style=\"color: #ff0000;\">Nyní s bonusem navíc:</span><br />průvodce jízdenkami a tikety na městskou dopravu ve Vídni.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d0439d1",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/minipruvodce-vidni-snadno/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "To se hodí-kouknu"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "3c5fff9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "69f871c",
+        "settings": {
+         "image": {
+          "alt": "Minipruvodce obalka SEO",
+          "id": 23405,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Mockup.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "425",
+          "width": "425"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "75c254e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c1eeb36",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "04a976e",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pattern_size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "rectangles",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "4b27171",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3d9732d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "220aaec",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "5082e4a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8cf54c0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "16635",
+  "_wp_page_template": "elementor_header_footer",
+  "_yoast_wpseo_focuskw": "CHECKLIST na výlety",
+  "_yoast_wpseo_metadesc": "Vídní pěšky i na kole PŘÍRUČKA ZDARMA ke stažení na www.sblankouzahranice.eu. 3+3 tipy, jak si usnadnit poznávání Vídně pěšky i na kole."
+ },
+ "modified": "2025-05-26 17:08:32",
+ "obsah_wordpress": "<img width=\"900\" height=\"510\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/02/Vidni-pesky-i-na-kole-1-ZAHLAVI-krak-900x510.png\" alt=\"Vidni pesky i na kole\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/02/Vidni-pesky-i-na-kole-1-ZAHLAVI-krak-900x510.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2023/02/Vidni-pesky-i-na-kole-1-ZAHLAVI-krak-300x170.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/02/Vidni-pesky-i-na-kole-1-ZAHLAVI-krak-768x435.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/02/Vidni-pesky-i-na-kole-1-ZAHLAVI-krak.png 910w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Děkuji vám za váš zájem o PRAKTICKOU PŘÍRUČKU  - VÍDNÍ PĚŠKY I NA KOLE</h3>\t\t\t\t\n\t\t\t\t\t<h3>i za váš zájem o můj projekt \"s Blankou za hranice\" a dění na mém webu.</h3>\t\t\t\t\n\t\t\t\t\t<h2>Váš e-mail dorazil v pořádku do mé schránky.</h2>\t\t\t\t\n\t\t<p style=\"text-align: center;\">Je však třeba ještě jednoho kroku než si budete moci dárek stáhnout a začít ho prakticky využívat.</p><p style=\"text-align: center;\"><strong>Bohužel postup níže je zákonná povinnost a taky kontrola, že jste to opravdu vy, kdo mi svěřuje své údaje <br />a kontrola, že váš e-mail nikdo nezneužil.</strong></p>\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKROK č. 1\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>do vaší e-mailové schránky, ze které jste se registrovali vám <strong>přijde</strong> <strong>potvrzovací e-mail s předmětem<br /></strong>\"Souhlas se zpracováním obchodních údajů\".<em><br /></em><strong>V tomto e-mailu </strong><strong>potvrďte správnost údajů </strong><strong>kliknutím na odkaz .</strong><em><br /></em></p>\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKROK č. 2\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>následně vám přijde ještě <strong>druhý email </strong> s linkem k vašemu dárku ZDARMA.</p><p style=\"text-align: left;\">Přes tento link se dostanete k <strong>PŘÍRUČCE -VÍDNÍ PĚŠKY i NA KOLE.</strong></p>\t\t\n\t\t\t\t\t<h2>Prosím, pokud jste učinili správně všechny  kroky a některý z e-mailů byste nenašli, zkontrolujte prosím ve své e-mailové schránce složku SPAM nebo HROMADNOU poštu.\nObčas se tam e-maily zatoulají.</h2>\t\t\t\t\n\t\t\t\t\t<h2>Pak již můžete začít používat PRAKTICKOU PŘÍRUČKU a poznávat VÍDEŇ ještě snadněji, lépe a více. </h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/OBALKA-a-nahled.obrazek-150x150.jpg\" alt=\"VIDNI pěšky i na kole\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/OBALKA-a-nahled.obrazek-150x150.jpg 150w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/OBALKA-a-nahled.obrazek-300x300.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/elementor/thumbs/OBALKA-a-nahled.obrazek-qr9gp3di8st5jc2uddrguc3pqt96t7fu7zxq6r1is4.jpg 451w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/OBALKA-a-nahled.obrazek.jpg 642w\" sizes=\"(max-width: 150px) 100vw, 150px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t3 + 3 tipy, \n\t\t\t\t\tjak si usnadnit poznávání Vídně\n\t\t\t\t\tpro pěší i cyklo-turisty.\n\t\t\t\t\t</h3>\n\t\t<p>Možná o své cestě do Vídně teprve uvažujete a hledáte informace pro váš bezproblémový výlet či cestu.</p><blockquote><p>Skvělý nápad! Užijte si Vídeň jako místní - bez stresu, spěchu a v klidu.</p><p>Mám pro vás něco, co vám pobyt rozhodně usnadní:</p><p><strong>MINIPRŮVODCE pro lehčí a snadnější poznávání Vídně.</strong></p></blockquote><p>Nyní s bonusem navíc:<br />průvodce jízdenkami a tikety na městskou dopravu ve Vídni.</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/minipruvodce-vidni-snadno/\">\n\t\t\t\t\t\t\t\t\tTo se hodí-kouknu\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Mockup-r3cm3fzkkbbc97kl23gtbese1txn21043xtb7gn9p6.jpg\" title=\"minipruvodce\" alt=\"Minipruvodce obalka SEO\" loading=\"lazy\" />",
+ "parent": 0,
+ "slug": "vidni-pesky-i-na-kole-podekovani",
+ "title": "VÍDNÍ pěšky i na kole - poděkování",
+ "type": "page"
+}

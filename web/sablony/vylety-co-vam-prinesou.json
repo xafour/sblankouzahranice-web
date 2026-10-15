@@ -1,0 +1,342 @@
+{
+ "ID": 13077,
+ "categories": [],
+ "date": "2022-08-04 14:02:14",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=vylety-co-vam-prinesou",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2ad30957",
+        "settings": {
+         "__globals__": {
+          "_background_color": ""
+         },
+         "_background_background": "classic",
+         "_padding": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "32fc89a"
+          }
+         ],
+         "title": "Co vám mohou výlety s Blankou za hranice přinést:",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3f9fdaf2",
+        "settings": {
+         "_background_color": "#FFFFFF",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "icon_align": "left",
+         "icon_list": [
+          {
+           "_id": "70cdc5c",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/rakousky-semmering-a-jeho-zeleznice/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Příležitost k objevování a poznávání zajímavých míst v Rakousku i jinde - najdeš zde."
+          },
+          {
+           "_id": "a89077e",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/vylet-az-do-nebe-19-okres-vidne/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Návody na nevšední procházky za hranice města do přírody s možností objevovat její dary a moudrost - zde."
+          },
+          {
+           "_id": "381acdc",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/vylety-v-rakousku/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Obrovskou inspiraci pro váš osobní život. Pro mne se výlety postupně staly i jedním z důvodů, proč vznikl tento web - více zde."
+          },
+          {
+           "_id": "fe3ba4d",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/dojdi-si-pro-zivot/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Výlety do přírody vám umožní podívat se na věci a situace v životě s lehkostí a novým pohledem - číst víc."
+          },
+          {
+           "_id": "93f9257",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/dojdi-si-pro-zivot/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Důvod ke každodenní vděčnosti. Místo inspirace, klidu a poznání - více zde."
+          },
+          {
+           "_id": "0f78a02",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/kdo-z-nas-nepotrebuje-terapii/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Poskytnou vám úžasnou terapii v době \"covidové\", jejíž přesah a šíři budete cítit ve svém životě každý den - více zde."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_align_mobile": "left",
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_weight": "400",
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "88b906a"
+          }
+         ],
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "view": ""
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "570aae0a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "696ebe3"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "16460dc2",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#DEE5A3",
+     "pa_condition_repeater": [
+      {
+       "_id": "0e254e8"
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-08-04 14:02:15",
+ "obsah_wordpress": "<h4>Co vám mohou výlety s Blankou za hranice přinést:</h4>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/rakousky-semmering-a-jeho-zeleznice/\">\n\t\t\t\t\t\t\t\t\t\tPříležitost k objevování a poznávání zajímavých míst v Rakousku i jinde - najdeš zde.\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylet-az-do-nebe-19-okres-vidne/\">\n\t\t\t\t\t\t\t\t\t\tNávody na nevšední procházky za hranice města do přírody s možností objevovat její dary a moudrost - zde.\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylety-v-rakousku/\">\n\t\t\t\t\t\t\t\t\t\tObrovskou inspiraci pro váš osobní život. Pro mne se výlety postupně staly i jedním z důvodů, proč vznikl tento web - více zde.\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/dojdi-si-pro-zivot/\">\n\t\t\t\t\t\t\t\t\t\tVýlety do přírody vám umožní podívat se na věci a situace v životě s lehkostí a novým pohledem - číst víc.\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/dojdi-si-pro-zivot/\">\n\t\t\t\t\t\t\t\t\t\tDůvod ke každodenní vděčnosti. Místo inspirace, klidu a poznání - více zde.\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/kdo-z-nas-nepotrebuje-terapii/\">\n\t\t\t\t\t\t\t\t\t\tPoskytnou vám úžasnou terapii v době \"covidové\", jejíž přesah a šíři budete cítit ve svém životě každý den - více zde.\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>",
+ "parent": 0,
+ "slug": "vylety-co-vam-prinesou",
+ "title": "VÝLETY co vám přinesou",
+ "type": "elementor_library"
+}

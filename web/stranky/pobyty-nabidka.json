@@ -1,0 +1,2257 @@
+{
+ "ID": 22426,
+ "categories": [],
+ "date": "2025-01-30 19:12:54",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/pobyty-nabidka/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6ccb0b91",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "-6",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "6",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pobyty v Rakousku i v zahraničí.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "73735b2b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-16",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height": {
+          "size": 460,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_laptop": {
+          "size": 375,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 150,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_tablet": {
+          "size": 315,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_widescreen": {
+          "size": 440,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Pobyty nabidka",
+          "id": 22698,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Akce-a-pobyty2.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_tablet": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "988da27",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Místa s krásnou přírodou pro relaxaci a poznávání.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c468750",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "54297978",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin_laptop": {
+        "bottom": "-20",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "20",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-1",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "51b8eab9",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "95",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "-25",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_laptop": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "10",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "1",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "db19b69",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "61d1cccc",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "shape_divider_bottom_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "content_width_widescreen": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap_columns_custom_widescreen": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-92",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "-5",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-10",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "margin_widescreen": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-130",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "00",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_laptop": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_widescreen": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_color": "#f8f9f1",
+     "shape_divider_bottom_height": {
+      "size": 75,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 86,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b95eead",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Nabízím vám spolucestování v malé skupince žen.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ee08bf7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3c8c3e3",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "04fdc29",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "880b3f8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1718f0f",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Každý rok mi přijde do cesty krásné místo s úžasnou přírodou a neskonalým klidem, které pak zatoužím ukázat i dalším ženám. <br />Jedná se většinou o jeden až dva pobyty během roku pro velmi malé skupinky žen.</p><p style=\"text-align: center;\"><strong>Pro rok 2026 je v plánu (cca koncem září) ostrov GOZO, který vás okouzlí svou nedotčenou krásou. <br /></strong>Stejně jako vždy jde o spolucestování v malé skupince žen (do 8 osob) s českou průvodkyní, která na GOZO rok žila a již 10 let tam tráví několik měsíců v roce. Poznávání ostrova autenticky je zaručeno, stejně jako relaxační a regenerační program s důrazem na přírodu.<br />Pokud máte zájem o více informací, registrujte se pomocí formuláře níže a obdržíte bližší informace o programu, přesném termínu, podmínkách i ceně. </p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c8e056d",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "4ce03db",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "736e96d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7758032",
+        "settings": {
+         "align": "center",
+         "align_widescreen": "center",
+         "header_size": "h4",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "#akcereference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Nejdříve si přečtěte ZDE, jak se měly ženy na pobytech v předešlých letech.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_text_decoration": "underline",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "c25c3c8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8789c8e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f00f90f",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Bližší informace o všech mých akcích můžete obdržet přímo do e-mailu, pokud vyplníte formulář níže.  ",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "327c8aa",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"6118583:k6j2r2\">\r\n</div>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "647d3f1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "eced696",
+    "isInner": false,
+    "settings": {
+     "content_width": {
+      "size": 1000,
+      "sizes": [],
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65d5eec",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "70093db",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d0cd578",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4bc6d7d",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "75d28bc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a77e8bb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a33c207",
+        "settings": {
+         "anchor": "akcereference",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "a0c3750",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c4d7ab4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ae162da",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Proběhlé akce - fotky, popis, reference"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ed2db61",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fa920da",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d048af7",
+        "settings": {
+         "image": {
+          "alt": "Pobyty",
+          "id": 24078,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "500",
+          "width": "400"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "45190eb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "622031a",
+        "settings": {
+         "image": {
+          "alt": "Akce Leiser Berge",
+          "id": 22826,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "350"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "77ce0ff",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2958318",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "94fb5da",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "44a5c72",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f99e4ca",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9f9a49d",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rok 2025 - Španělsko"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "581e5dd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2d3888a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "05964f9",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Španělský venkov – <span style=\"white-space:nowrap;\">oblast Murcia, Mar Menor</span>."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a53d930",
+        "settings": {
+         "editor": "<p>Na začátku listopadu 2025 se vydaly dvě menší skupinky pěti žen načerpat slunce a klid, užít si léčivé bahno i zdravou stravu a dobít energii na každý den při ranním cvičení Tai-Chi přímo na pláži u moře Mar Menor.</p><p>Nádherná, klidná oblast španělského venkova, která nabízí 300 slunečných dní v roce a přitom daleko od turistického ruchu nám nadělila prázdné pláže, možnost koupání ve dvou mořích na počátku listopadu, kdy v Evropě již bylo sychravé a studené počasí. </p><p>Během týdne jsme si užily nejen krásnou přírodu, koupání, procházky, ale i návštěvu historického města Cartagena.</p><p>Vše toto bylo násobeno zdravou stravou milé paní domácí i jejím výkladem o místech, která jsme měly možnost objevovat. </p><p>A co o tomto týdenním pobytu řekly účastnice si můžete přečíst níže.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "20c87f4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "63a66f6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "23",
+          "unit": "px"
+         },
+         "gallery_columns": "3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_size": "medium",
+         "wp_gallery": [
+          {
+           "id": 24083,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Krystal.jpg"
+          },
+          {
+           "id": 24091,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Saliny.jpg"
+          },
+          {
+           "id": 22757,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/k-majaku-3.jpg"
+          },
+          {
+           "id": 24079,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/plaze-druha-skupina.jpg"
+          },
+          {
+           "id": 24078,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina.jpg"
+          },
+          {
+           "id": 24090,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/cviceni-na-plazi.jpg"
+          },
+          {
+           "id": 24084,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Plaze.jpg"
+          },
+          {
+           "id": 24089,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Cartagena.jpg"
+          },
+          {
+           "id": 22763,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/cesta-k-majaku.jpg"
+          },
+          {
+           "id": 22749,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/nejblizsi-okoli.jpg"
+          },
+          {
+           "id": 24087,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/snidane.jpg"
+          },
+          {
+           "id": 22778,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko.jpg"
+          }
+         ]
+        },
+        "widgetType": "image-gallery"
+       }
+      ],
+      "id": "71160ba",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e80ee95",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3ad7d64",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "I když jsem měla trochu obavy jet na týden na dovolenou s neznámými ženami, tak ten týden překonal moje očekávání. \nBylo to zde úžasné, ranní cvičení mě vždy dodalo energii na celý den, každý den byl jiný, krásné výlety a třešničkou na dortu výborné snídaně a večeře. Krásný týden, který mi zůstane v srdci. \n",
+         "testimonial_image": {
+          "alt": "Spanelsko",
+          "id": 24092,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Zdenka.png"
+         },
+         "testimonial_job": "účastnice pobytu",
+         "testimonial_name": "Zdena Kleinova"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "7f68e1b",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 25,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8583fb9",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -0.9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "Moc děkuji za to, že jsem poznala báječné lidi, krásnou zemi, zažila chuťovou slast, dokázala jsem zvládnout nové cíle a touhy a naučila jsem se pozdravit slunce a zapustit kořeny. To vše díky tobě!",
+         "testimonial_image": {
+          "alt": "Spanelsko",
+          "id": 24093,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Stanucha.png"
+         },
+         "testimonial_job": "účastnice pobytu",
+         "testimonial_name": "Stáňa (Staňucha)"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "7375986",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 25,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23f53aa",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -0.9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "Děkuji ti za zprostředkování krásné dovolené v úžasném prostředí španělské Murcie. Po mě to byl Relax, klid, pohoda, sluníčko v jednom balení. A nesmím zapomenout i na možnost poznat skvělé ženy-spolucestovatelky. ",
+         "testimonial_image": {
+          "alt": "Spanelsko",
+          "id": 24094,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/11/Radka.png"
+         },
+         "testimonial_job": "účastnice pobytu",
+         "testimonial_name": "Radka Hrušková"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "f592d00",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 25,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dec01db",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -0.9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "Ranné cvičenie bolo inšpirativné. Máš dar spajať podobné ženské duše. Ďakujeme Ti za tipu na túto krásnu lokalitu. Vďaka tebe sme spoznali i úžasných domacích Moniku a Roberta. ",
+         "testimonial_image": {
+          "alt": "Pobyt Lieser Berge",
+          "id": 22825,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg"
+         },
+         "testimonial_job": "z Česko-Slovenska",
+         "testimonial_name": "Kolektiv žien "
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "246361e",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 25,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "67d8ada",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "26cf801",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "801b9c4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "46f2ba7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "282dc13",
+        "settings": {
+         "anchor": "referencerakousko",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "5766f88",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c48dee5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9880695",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rok 2024 - Rakousko"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3926686",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fd27a97",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c9047b0",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Naturpark Leiser Berge - <span style=\"white-space:nowrap;\">oblast Dolnorakouska</span>."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4e4276b",
+        "settings": {
+         "editor": "<p>V srpnu 2024 jsem ve spolupráci společně s Markéta Samadhi Hegerová pořádaly týden pro 10 žen a jednoho muže v Naturparku v Niederösterreich se cvičením Jógy a Tai-Chi a s dalšími aktivitami v přírodě.</p><p>Vyzkoušeli jsme koncept Lesní mysl, uskutečnili výlet po části Jakobsweg a kolem kamených soch stezkou Skulpturweg, sdíleli, tvořili, relaxovali a dobře jedli. </p><p>K dispozici jsme měli nádhernou a prostornou budovu s ještě větší zahradou, jen a jen pro nás.</p><p>Mohli jsme proto venku cvičit, grilovat i spát. </p><p>Počasí nám vskutku přálo a mnohým se ani zpět domů nechtělo.</p><p>Přečtěte si níže některé reference od účastnic.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d668b1d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65ca38d",
+        "settings": {
+         "gallery_columns": "3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_size": "medium",
+         "wp_gallery": [
+          {
+           "id": 22815,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt.jpg"
+          },
+          {
+           "id": 22822,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239603421.jpg"
+          },
+          {
+           "id": 22825,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg"
+          },
+          {
+           "id": 22817,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/foto.jpg"
+          },
+          {
+           "id": 22818,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode.jpg"
+          },
+          {
+           "id": 22819,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna-.jpg"
+          },
+          {
+           "id": 22831,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Kamene-monolity.jpg"
+          },
+          {
+           "id": 22824,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge.jpg"
+          },
+          {
+           "id": 22820,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt.jpg"
+          },
+          {
+           "id": 22823,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory.jpg"
+          },
+          {
+           "id": 22829,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1.jpg"
+          },
+          {
+           "id": 22821,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/vyhled-.jpg"
+          }
+         ]
+        },
+        "widgetType": "image-gallery"
+       }
+      ],
+      "id": "5e6e9c0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9706ac9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "068e28a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bdc87a1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "740f62c",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "Na pobytu se mi nejvíce líbily společné aktivity a jídlo i místo pobytu. Lesní mysl a Tai-Chi bylo super, baví mě to. Určitě se na další pobyt přihlas, využij toho. Vypneš a užiješ si to. Těším se na příště. ",
+         "testimonial_image": {
+          "alt": "Pobyt Leiser Berge 7",
+          "id": 22822,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode-.jpg"
+         },
+         "testimonial_job": "účastnice pobytu",
+         "testimonial_name": "Alena Novotná"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "03230cf",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4468b3b",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -0.9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "Obrovskou sílu pro mě měla ranní jóga za východu slunce. Lesní mysl byla moc fajn, líbilo se mi, že jsme se zamysleli nad věcmi, které si v běžném, zrychleném životě ani neuvědomíš. S Tai-Chi jsem se seznámila spíš okrajově, ale určitě má svou velkou energii. Místo pobytu bylo krásné s velkou energií.",
+         "testimonial_image": {
+          "alt": "Akce Leiser Berge",
+          "id": 22826,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice.jpg"
+         },
+         "testimonial_job": "účastnice pobytu",
+         "testimonial_name": "Hanka Zedníčková"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "c85dc1d",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4cd8579",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_letter_spacing_widescreen": {
+          "size": -0.9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_font_size_widescreen": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_content": "Celý pobyt byl pro mě úžasný, jídlo od Verunky, cvičení s Blankou, vedení pobytu s Markétkou a procházky po okolí. I Lesní mysl byla pro mě zajímavá zkušenost, každý by měl vyzkoušet, protože v hektické době si ani neuvědomujeme, co v nás může evokovat rozkvetlá květina, spadlý list ze stromu, mech, vůně lesa....Po návratu domů jsem tu atmosféru ještě dlouho vstřebávala.",
+         "testimonial_image": {
+          "alt": "Pobyt Lieser Berge",
+          "id": 22825,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg"
+         },
+         "testimonial_job": "účastnice pobytu",
+         "testimonial_name": "Blanka Mitrengová"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "7ef5610",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "95c35e9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cbc12af",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "20e1651",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e371d33",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a3eb78",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3.4,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "33592d6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0044397",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "047d581",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 120,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "d3645cd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b4a8056",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "22429",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Pobyty a akce v zahraničí.",
+  "_yoast_wpseo_metadesc": "Pobyty a akce nejen v Rakousku, ale i ve světě. Návrat do přírody, návrat k sobě. Turistickým ruchem nedotčená místa pro relaxaci a poznání."
+ },
+ "modified": "2026-01-21 16:35:30",
+ "obsah_wordpress": "<h2>Pobyty v Rakousku i v zahraničí.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"402\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Akce-a-pobyty2-e1741556841590-900x402.jpg\" alt=\"Pobyty nabidka\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Akce-a-pobyty2-e1741556841590-900x402.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Akce-a-pobyty2-e1741556841590-300x134.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Akce-a-pobyty2-e1741556841590-768x343.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Akce-a-pobyty2-e1741556841590.jpg 1400w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Místa s krásnou přírodou pro relaxaci a poznávání.</h3>\t\t\t\t\n\t\t\t\t\t<h4>Nabízím vám spolucestování v malé skupince žen.</h4>\t\t\t\t\n\t\t<p style=\"text-align: center;\">Každý rok mi přijde do cesty krásné místo s úžasnou přírodou a neskonalým klidem, které pak zatoužím ukázat i dalším ženám. <br />Jedná se většinou o jeden až dva pobyty během roku pro velmi malé skupinky žen.</p><p style=\"text-align: center;\"><strong>Pro rok 2026 je v plánu (cca koncem září) ostrov GOZO, který vás okouzlí svou nedotčenou krásou. <br /></strong>Stejně jako vždy jde o spolucestování v malé skupince žen (do 8 osob) s českou průvodkyní, která na GOZO rok žila a již 10 let tam tráví několik měsíců v roce. Poznávání ostrova autenticky je zaručeno, stejně jako relaxační a regenerační program s důrazem na přírodu.<br />Pokud máte zájem o více informací, registrujte se pomocí formuláře níže a obdržíte bližší informace o programu, přesném termínu, podmínkách i ceně. </p>\t\t\n\t\t\t\t\t<h4><a href=\"#akcereference\">Nejdříve si přečtěte ZDE, jak se měly ženy na pobytech v předešlých letech.</a></h4>\t\t\t\t\n\t\t\t\t\t<h3>Bližší informace o všech mých akcích můžete obdržet přímo do e-mailu, pokud vyplníte formulář níže.  </h3>\t\t\t\t\n\t\t\t\t\t<h4>Proběhlé akce - fotky, popis, reference</h4>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"433\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina-768x433.jpg\" alt=\"Pobyty\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina.jpg 850w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"433\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice-768x433.jpg\" alt=\"Akce Leiser Berge\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice.jpg 980w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Rok 2025 - Španělsko</h2>\t\t\t\t\n\t\t\t\t\t<h5>Španělský venkov – oblast Murcia, Mar Menor.</h5>\t\t\t\t\n\t\t<p>Na začátku listopadu 2025 se vydaly dvě menší skupinky pěti žen načerpat slunce a klid, užít si léčivé bahno i zdravou stravu a dobít energii na každý den při ranním cvičení Tai-Chi přímo na pláži u moře Mar Menor.</p><p>Nádherná, klidná oblast španělského venkova, která nabízí 300 slunečných dní v roce a přitom daleko od turistického ruchu nám nadělila prázdné pláže, možnost koupání ve dvou mořích na počátku listopadu, kdy v Evropě již bylo sychravé a studené počasí. </p><p>Během týdne jsme si užily nejen krásnou přírodu, koupání, procházky, ale i návštěvu historického města Cartagena.</p><p>Vše toto bylo násobeno zdravou stravou milé paní domácí i jejím výkladem o místech, která jsme měly možnost objevovat. </p><p>A co o tomto týdenním pobytu řekly účastnice si můžete přečíst níže.</p>\t\t\n\t\t\t<figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Mar Menor\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwODMsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL0tyeXN0YWwuanBnIiwic2xpZGVzaG93IjoiNjNhNjZmNiJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/Krystal.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Krystal-300x169.jpg\" alt=\"Mar Menor\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Krystal-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Krystal-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Krystal.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Spanelsko Saliny\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwOTEsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL1NhbGlueS5qcGciLCJzbGlkZXNob3ciOiI2M2E2NmY2In0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/Saliny.jpg'><img width=\"300\" height=\"194\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Saliny-300x194.jpg\" alt=\"Spanelsko\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Saliny-300x194.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Saliny-768x497.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Saliny.jpg 800w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Majak spanelsko\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI3NTcsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL2stbWFqYWt1LTMuanBnIiwic2xpZGVzaG93IjoiNjNhNjZmNiJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/k-majaku-3.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/k-majaku-3-300x169.jpg\" alt=\"\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/k-majaku-3-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/k-majaku-3-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/k-majaku-3.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Akce a pobyty v zahranici\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwNzksInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL3BsYXplLWRydWhhLXNrdXBpbmEuanBnIiwic2xpZGVzaG93IjoiNjNhNjZmNiJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/plaze-druha-skupina.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/plaze-druha-skupina-300x169.jpg\" alt=\"Pobyty\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/plaze-druha-skupina-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/plaze-druha-skupina-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/plaze-druha-skupina.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"pobyty\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwNzgsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcLzEtc2t1cGluYS5qcGciLCJzbGlkZXNob3ciOiI2M2E2NmY2In0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina-300x169.jpg\" alt=\"Pobyty\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/1-skupina.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Spanelsko cviceni na plazi\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwOTAsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL2N2aWNlbmktbmEtcGxhemkuanBnIiwic2xpZGVzaG93IjoiNjNhNjZmNiJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/cviceni-na-plazi.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/cviceni-na-plazi-300x169.jpg\" alt=\"Spanelsko\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/cviceni-na-plazi-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/cviceni-na-plazi-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/cviceni-na-plazi.jpg 800w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Spanelsko\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwODQsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL1BsYXplLmpwZyIsInNsaWRlc2hvdyI6IjYzYTY2ZjYifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/Plaze.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Plaze-300x169.jpg\" alt=\"Spanelsko\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Plaze-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Plaze-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Plaze.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Cartagena\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwODksInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL0NhcnRhZ2VuYS5qcGciLCJzbGlkZXNob3ciOiI2M2E2NmY2In0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/Cartagena.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Cartagena-300x169.jpg\" alt=\"\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Cartagena-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Cartagena-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/Cartagena.jpg 800w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"Majak spanelsko\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI3NjMsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL2Nlc3RhLWstbWFqYWt1LmpwZyIsInNsaWRlc2hvdyI6IjYzYTY2ZjYifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/cesta-k-majaku.jpg'><img width=\"300\" height=\"164\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/cesta-k-majaku-300x164.jpg\" alt=\"\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/cesta-k-majaku-300x164.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/cesta-k-majaku-768x419.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/cesta-k-majaku.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"nejbližší okolí Mar Menor\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI3NDksInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL25lamJsaXpzaS1va29saS5qcGciLCJzbGlkZXNob3ciOiI2M2E2NmY2In0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/nejblizsi-okoli.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/nejblizsi-okoli-300x169.jpg\" alt=\"spanelsko\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/nejblizsi-okoli-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/nejblizsi-okoli-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/nejblizsi-okoli.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"snidane\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjQwODcsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMTFcL3NuaWRhbmUuanBnIiwic2xpZGVzaG93IjoiNjNhNjZmNiJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/11/snidane.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/snidane-300x169.jpg\" alt=\"\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/snidane-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/snidane-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/11/snidane.jpg 850w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"63a66f6\" data-elementor-lightbox-title=\"trh spanelsko\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI3NzgsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL3RyaC1zcGFuZWxza28uanBnIiwic2xpZGVzaG93IjoiNjNhNjZmNiJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko.jpg'><img width=\"300\" height=\"140\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko-300x140.jpg\" alt=\"\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko-300x140.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko-900x420.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko-768x358.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/trh-spanelsko.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure>\n\t\t\t\t\t\t\tI když jsem měla trochu obavy jet na týden na dovolenou s neznámými ženami, tak ten týden překonal moje očekávání. \nBylo to zde úžasné, ranní cvičení mě vždy dodalo energii na celý den, každý den byl jiný, krásné výlety a třešničkou na dortu výborné snídaně a večeře. Krásný týden, který mi zůstane v srdci. \n\t\t\t\t\t\t\t<img width=\"234\" height=\"289\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Zdenka.png\" alt=\"\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tZdena Kleinova\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túčastnice pobytu\n\t\t\t\t\t\t\tMoc děkuji za to, že jsem poznala báječné lidi, krásnou zemi, zažila chuťovou slast, dokázala jsem zvládnout nové cíle a touhy a naučila jsem se pozdravit slunce a zapustit kořeny. To vše díky tobě!\n\t\t\t\t\t\t\t<img width=\"139\" height=\"156\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Stanucha.png\" alt=\"Spanelsko\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tStáňa (Staňucha)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túčastnice pobytu\n\t\t\t\t\t\t\tDěkuji ti za zprostředkování krásné dovolené v úžasném prostředí španělské Murcie. Po mě to byl Relax, klid, pohoda, sluníčko v jednom balení. A nesmím zapomenout i na možnost poznat skvělé ženy-spolucestovatelky. \n\t\t\t\t\t\t\t<img width=\"142\" height=\"142\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/11/Radka.png\" alt=\"Spanelsko\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRadka Hrušková\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túčastnice pobytu\n\t\t\t\t\t\t\tRanné cvičenie bolo inšpirativné. Máš dar spajať podobné ženské duše. Ďakujeme Ti za tipu na túto krásnu lokalitu. Vďaka tebe sme spoznali i úžasných domacích Moniku a Roberta. \n\t\t\t\t\t\t\t<img width=\"1600\" height=\"1200\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg\" alt=\"Pobyt Lieser Berge\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tKolektiv žien \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tz Česko-Slovenska\n\t\t\t\t\t<h2>Rok 2024 - Rakousko</h2>\t\t\t\t\n\t\t\t\t\t<h5>Naturpark Leiser Berge - oblast Dolnorakouska.</h5>\t\t\t\t\n\t\t<p>V srpnu 2024 jsem ve spolupráci společně s Markéta Samadhi Hegerová pořádaly týden pro 10 žen a jednoho muže v Naturparku v Niederösterreich se cvičením Jógy a Tai-Chi a s dalšími aktivitami v přírodě.</p><p>Vyzkoušeli jsme koncept Lesní mysl, uskutečnili výlet po části Jakobsweg a kolem kamených soch stezkou Skulpturweg, sdíleli, tvořili, relaxovali a dobře jedli. </p><p>K dispozici jsme měli nádhernou a prostornou budovu s ještě větší zahradou, jen a jen pro nás.</p><p>Mohli jsme proto venku cvičit, grilovat i spát. </p><p>Počasí nám vskutku přálo a mnohým se ani zpět domů nechtělo.</p><p>Přečtěte si níže některé reference od účastnic.</p>\t\t\n\t\t\t<figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 1\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MTUsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL2EtamVzdGUtamVkbm91LW5hc2UtbWlzdG8tcHJvLXBvYnl0LmpwZyIsInNsaWRlc2hvdyI6IjY1Y2EzOGQifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt.jpg'><img width=\"300\" height=\"201\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt-300x201.jpg\" alt=\"Leiser Berge\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt-300x201.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt-900x603.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt-768x515.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt-1536x1029.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/a-jeste-jednou-nase-misto-pro-pobyt.jpg 1600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"zeny v prirode-\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjIsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL3plbnktdi1wcmlyb2RlLS1lMTc2NDIzOTYwMzQyMS5qcGciLCJzbGlkZXNob3ciOiI2NWNhMzhkIn0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239603421.jpg'><img width=\"300\" height=\"264\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239558387-300x264.jpg\" alt=\"Pobyt Leiser Berge 7\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239558387-300x264.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239558387-900x792.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239558387-768x676.jpg 768w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 10\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjUsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL3Byb2NoYXprYS0uanBnIiwic2xpZGVzaG93IjoiNjVjYTM4ZCJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg'><img width=\"300\" height=\"225\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka--300x225.jpg\" alt=\"Pobyt Lieser Berge\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka--300x225.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka--900x675.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka--768x576.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka--1536x1152.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg 1600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"pobyt Leiser Berge\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MTcsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL2ZvdG8uanBnIiwic2xpZGVzaG93IjoiNjVjYTM4ZCJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/foto.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/foto-300x169.jpg\" alt=\"Pobyt Leiser Berge 2\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/foto-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/foto.jpg 620w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 3\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MTgsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL2xvbnNrYS12eXN0YXZhLWZvdG9ncmFmaWktdi1wcmlyb2RlLmpwZyIsInNsaWRlc2hvdyI6IjY1Y2EzOGQifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode-300x169.jpg\" alt=\"Pobyt Leiser Berge 3\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode-1536x865.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/lonska-vystava-fotografii-v-prirode.jpg 1600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 4\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MTksInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL1JvemhsZWRuYS0uanBnIiwic2xpZGVzaG93IjoiNjVjYTM4ZCJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna-.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna--300x169.jpg\" alt=\"Pobyt Leiser Berge 4\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna--300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna--900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna--768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Rozhledna-.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Kamene monolity Leiser Berge\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MzEsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL0thbWVuZS1tb25vbGl0eS5qcGciLCJzbGlkZXNob3ciOiI2NWNhMzhkIn0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/Kamene-monolity.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Kamene-monolity-300x169.jpg\" alt=\"Leiser Berge\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Kamene-monolity-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Kamene-monolity.jpg 620w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Vchod do Leiserberge\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjQsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL1ZjaG9kLWRvLUxlaXNlcmJlcmdlLmpwZyIsInNsaWRlc2hvdyI6IjY1Y2EzOGQifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge-300x169.jpg\" alt=\"Pobyt Leiser Berge 9\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vchod-do-Leiserberge.jpg 1000w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 5\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjAsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL25hc2UtbWlzdG8tcHJvLXBvYnl0LmpwZyIsInNsaWRlc2hvdyI6IjY1Y2EzOGQifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt-300x169.jpg\" alt=\"Pobyt Leiser Berge 5\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt-1536x865.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/nase-misto-pro-pobyt.jpg 1600w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 8\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjMsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL1ZuaXRybmktc3BvbC5wcm9zdG9yeS5qcGciLCJzbGlkZXNob3ciOiI2NWNhMzhkIn0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory-300x169.jpg\" alt=\"Pobyt Leiser Berge 8\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Vnitrni-spol.prostory.jpg 1400w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Mistnost Leiser Berge\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjksInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL01pc3Rub3N0LTEuanBnIiwic2xpZGVzaG93IjoiNjVjYTM4ZCJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1-300x169.jpg\" alt=\"Pobyt Leisr Berge\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/Mistnost-1.jpg 980w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"65ca38d\" data-elementor-lightbox-title=\"Pobyt Leiser Berge 6\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI4MjEsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDJcL3Z5aGxlZC0uanBnIiwic2xpZGVzaG93IjoiNjVjYTM4ZCJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/02/vyhled-.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/vyhled--300x169.jpg\" alt=\"Pobyt Leiser Berge 6\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/vyhled--300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/02/vyhled-.jpg 680w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure>\n\t\t\t\t\t\t\tNa pobytu se mi nejvíce líbily společné aktivity a jídlo i místo pobytu. Lesní mysl a Tai-Chi bylo super, baví mě to. Určitě se na další pobyt přihlas, využij toho. Vypneš a užiješ si to. Těším se na příště. \n\t\t\t\t\t\t\t<img width=\"890\" height=\"783\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/zeny-v-prirode--e1764239603421.jpg\" alt=\"Pobyt Leiser Berge 7\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tAlena Novotná\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túčastnice pobytu\n\t\t\t\t\t\t\tObrovskou sílu pro mě měla ranní jóga za východu slunce. Lesní mysl byla moc fajn, líbilo se mi, že jsme se zamysleli nad věcmi, které si v běžném, zrychleném životě ani neuvědomíš. S Tai-Chi jsem se seznámila spíš okrajově, ale určitě má svou velkou energii. Místo pobytu bylo krásné s velkou energií.\n\t\t\t\t\t\t\t<img width=\"980\" height=\"552\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/Ucastnice.jpg\" alt=\"Akce Leiser Berge\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tHanka Zedníčková\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túčastnice pobytu\n\t\t\t\t\t\t\tCelý pobyt byl pro mě úžasný, jídlo od Verunky, cvičení s Blankou, vedení pobytu s Markétkou a procházky po okolí. I Lesní mysl byla pro mě zajímavá zkušenost, každý by měl vyzkoušet, protože v hektické době si ani neuvědomujeme, co v nás může evokovat rozkvetlá květina, spadlý list ze stromu, mech, vůně lesa....Po návratu domů jsem tu atmosféru ještě dlouho vstřebávala.\n\t\t\t\t\t\t\t<img width=\"1600\" height=\"1200\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/02/prochazka-.jpg\" alt=\"Pobyt Lieser Berge\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBlanka Mitrengová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túčastnice pobytu",
+ "parent": 0,
+ "slug": "pobyty-nabidka",
+ "title": "Pobyty a akce v zahraničí.",
+ "type": "page"
+}

@@ -1,0 +1,307 @@
+{
+ "ID": 11695,
+ "categories": [],
+ "date": "2022-04-27 11:21:31",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=home-str-about-me",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53335502",
+        "settings": {
+         "_mask_size": "custom",
+         "_mask_size_scale": {
+          "size": 90,
+          "sizes": [],
+          "unit": "%"
+         },
+         "_mask_switch": "yes",
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja za stromem",
+          "id": 10152,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-za-stromem2-o-mne-oriznuta-680x600-1.jpg"
+         },
+         "image_size": "full",
+         "pa_condition_repeater": [
+          {
+           "_id": "e861272"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6e6e7b40",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b932dc1"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8ba6128",
+        "settings": {
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "050d58a"
+          }
+         ],
+         "title": "About the company",
+         "title_color": "#000000",
+         "typography_font_size": {
+          "size": 45,
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "275a6984",
+        "settings": {
+         "editor": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "74bef79"
+          }
+         ],
+         "text_color": "#bfbfbf",
+         "typography_font_size": {
+          "size": 16,
+          "unit": "px"
+         },
+         "typography_font_weight": "300",
+         "typography_line_height": {
+          "size": 1.8,
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7bcb1d0f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4d03907"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "35",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "25",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "2503d4ae",
+    "isInner": false,
+    "settings": {
+     "content_position": "middle",
+     "custom_height": {
+      "size": 800,
+      "unit": "px"
+     },
+     "gap": "no",
+     "pa_condition_repeater": [
+      {
+       "_id": "45fb6af"
+      }
+     ],
+     "padding": {
+      "bottom": "100",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "100",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "50",
+      "isLinked": false,
+      "left": "20",
+      "right": "20",
+      "top": "50",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "100",
+      "isLinked": false,
+      "left": "25",
+      "right": "25",
+      "top": "100",
+      "unit": "px"
+     },
+     "structure": "20"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-04-27 11:21:31",
+ "obsah_wordpress": "<img width=\"680\" height=\"655\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-za-stromem2-o-mne-oriznuta-680x600-1.jpg\" alt=\"ja za stromem\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-za-stromem2-o-mne-oriznuta-680x600-1.jpg 680w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/ja-za-stromem2-o-mne-oriznuta-680x600-1-300x289.jpg 300w\" sizes=\"(max-width: 680px) 100vw, 680px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>About the company</h4>\t\t\n\t\t<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop</p>",
+ "parent": 0,
+ "slug": "home-str-about-me",
+ "title": "Home str.- about me",
+ "type": "elementor_library"
+}

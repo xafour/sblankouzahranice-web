@@ -1,0 +1,2320 @@
+{
+ "ID": 18642,
+ "categories": [
+  "Blog",
+  "Ze života v Rakousku"
+ ],
+ "date": "2023-09-04 21:15:05",
+ "excerpt": "Zajímavosti Vídně, to jsou historky, příběhy, legendy a informace o typických věcech, které se vážou k Vídni, ale málokdo o nich ví. Vydejte se s Blankou za hranice poznat Vídeň jinak. Očima Češky žijící ve Vídni.",
+ "link": "https://sblankouzahranice.eu/zajimavosti-vidne/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3c3d5dc",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vídeň je nádherné město plné historie, kultury a zábavy. ",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "45e0319",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=secondary"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ac4ca84",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "-1",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4cafc37",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Ale víte, že je také plné tajemství a zvláštností? \nAni já jsem do nedávna mnohé z legend, tajemství, pověstí a historie neznala. Teď už to díky své zálibě a životu ve Vídni vím.\nPojďme si představit některé zajímavosti Vídně."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "316916b",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=secondary"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7eb5c6d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8877e97",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=kadence1"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "11",
+          "right": "0",
+          "top": "25",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "64",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "94",
+          "isLinked": true,
+          "left": "94",
+          "right": "94",
+          "top": "94",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-cestovni-podpora/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Dostala jsem tuto zpětnou vazbu na svojí službu CESTOVNÍ PODPORY s názvem \"do Vídně sám(a), ve Vídni s podporou za zády\".",
+         "typography_text_decoration": "underline",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3686a1c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "slideshow",
+       "background_slideshow_loop": "",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1aead14",
+    "isInner": false,
+    "settings": {
+     "background_background": "slideshow",
+     "background_overlay_background": "classic",
+     "background_overlay_color_b": "#D4BAC0",
+     "background_overlay_color_b_stop": {
+      "size": 96,
+      "sizes": [],
+      "unit": "%"
+     },
+     "background_overlay_image_mobile": {
+      "alt": "průvoce Vídeň",
+      "id": 18650,
+      "size": "",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg"
+     },
+     "background_overlay_image_tablet": {
+      "alt": "průvoce Vídeň",
+      "id": 18650,
+      "size": "medium_large",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg"
+     },
+     "background_overlay_opacity_mobile": {
+      "size": 0.57,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_slideshow_loop": "",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "27dcb50",
+        "settings": {
+         "editor": "<blockquote><p style=\"text-align: center;\">\"Dcery byly asi nejvíc unešené z Time travel. Přála bych Vám vidět jejich výrazy ve tváři, když jsme vyšli ven. To nadšení a úžas v jejich očích byl k nezaplacení.  I nám dospělým se to velmi líbilo. Určitě stojí za to doporučit ostatním návštěvníkům Vídně\".</p></blockquote>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "608b70f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "159b57b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f40c4cc",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tak jsem se rozhodla přiblížit některé z mých \"bonusových\" informací o zajímavostech Vídně i vám."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "00e0fc2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0953ffa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bdead31",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "50",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "průvoce Vídeň",
+          "id": 18650,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "350",
+          "width": "350"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3bd14a2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "55bfef5",
+        "settings": {
+         "editor": "<p>Zajímavosti Vídně, to jsou historky, příběhy, legendy a informace o typických věcech, které se vážou k Vídni, ale málokdo o nich ví.</p><p>Ale vy teď máte možnost se o nich dozvědět a získat tak náskok v informacích před vaší návštěvou metropole Rakouska. </p><p>Až do Vídně přijedete, je téměř jisté, že si v kavárně u kávy a dortu Sacher nebo na ulici při občerstvení kvalitní pitnou vodou na tyto příběhy a informace zaručeně vzpomenete.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 28,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ab5b08e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "47b7a08",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d03721c",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Tak jdeme na to"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7c93497",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "fcf9df5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "36e7b6a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6241851",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "Praha má svůj turisty oblíbený orloj a také Vídeň má svůj secesní orloj Ankeruhr. \nJedná se o historické hodiny, které jsou jedním ze symbolů Vídně. Na hodinách defiluje dvanáct významných postav rakouské historie: římský císař Markus Aurelius, císař Karel Veliký, vévoda Leopold VI., básník – minesengr Walther von der Vocelweide, král Rudolf Habsburský, mistr Hans Puchsbaum (stavitel katedrály sv. Štěpána), císař Maxmilián, purkmistr Johann Andreas von Liebenberg (obránce Vídně při 2. tureckém obležení), hrabě Ernst Rüdiger von Starhemberg (velitel vídeňské vojenské posádky při obležení Turky), princ Evžen Savojský, císařovna Marie Terezie a hudební skladatel Joseph Haydn. Každou hodinu se na těchto hodinách objeví jiná postavička z dějin Rakouska, ale jednou denně se všechny sejdou na velkolepé přehlídce. A víte, kdy se to děje? Vždy v poledne!\nPokud si nechcete nechat ujít tento úžasný pohled, potřebujete někoho, kdo vám poradí, kdy a kde být. Tak teď už víte, že v pravé poledne je ten jediný a správný čas najít Hoher Markt. Příjemné náměstí se zástavbou z minulého století, kde tyto historické hodiny najdete.\n",
+         "image": {
+          "alt": "Ankeruhr",
+          "id": 18657,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/ANKERUHR.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_custom_dimension": {
+          "height": "400",
+          "width": "301"
+         },
+         "thumbnail_size": "medium_large",
+         "title_bottom_space": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "ANKERUHR"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "cab30c0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b5d0c3",
+        "settings": {
+         "description_text": "Při prohlídkách města si většina z nás potřebuje dopřát kvalitní pramenitou vodu. Ve Vídni nic neobvyklého. V metropoli Rakouska na vás čeká množství pítek, kde si jednoduše dopřejete ZDARMA tu nejlepší vodu a uhasíte žízeň. Vídeňská voda začíná svou pouť v horských prameništích Štýrsko-Dolnorakouských Alp a po 36 hodinách, bez použití čerpadel a stále pod nejpřísnější kontrolou, v kvalitě pitné vody doputuje do Vídně.\nVídeň je zásobována ze dvou vysokohorských pramenitých zdrojů z oblasti Schneebergu, Raxu, Schneealpe a Hochschwabu. Denně je to 400 000 m3 čisté pramenité vody. A stejná voda je přiváděna i do pítek rozmístěných po městě. Najdete zde více jak 1300 takovýchto pítek. V zimě je však nehledejte, jsou odinstalována a znovu se objevují až na jaře. Pítka najdete nejen na rušných místech jako Am Graben, Heldenplatz v Hofburgu, v Schönbrunnu nebo u Rathaus. Jsou instalována doslova po celém městě.\nJak vypadají? Nejčastěji jsou to třímetrové stojany z nerezové oceli s nápisem Drinking Water / Trinkwasser. \n",
+         "image": {
+          "alt": "Trinkwasser",
+          "id": 18658,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/TRINKWASSER.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "TRINKWASSER"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "1f4ca78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7c4bcc1",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "Badnerbahn je název pro tramvaj, která jezdí po regionální železnici a spojuje Vídeň a městečko Baden. \nJe to jedna z nejstarších a nejvyužívanějších železničních tratí v Rakousku. Byla otevřena v roce 1886 a má 27 kilometrů a 37 zastávek. Její konečné stanice jsou Vídeňská státní opera v centru metropole Rakouska a Baden Josefsplatz. Badnerbahn je výjimečná modrá tramvaj, která nabízí rychlé, pohodlné a ekologické spojení mezi dvěma historickými a kulturními městy za necelou 1 hod jízdy.\nSlavné lázeňské městečko Baden se nachází zhruba 30 km od Vídně v oblasti. Je třetím největším městem Dolního Rakouska a od roku 2021 je na seznamu Světového dědictví UNESCO v rámci položky Slavná lázeňská města Evropy.  Pokud se chcete při návštěvě Vídně podívat i do tohoto lázeňského městečka s termálním koupalištěm a projet se modrou „tramvají“,pak přijeďte do Vídně a já vám ukáži jak to nejlépe zkombinovat a naplánovat.\n",
+         "image": {
+          "alt": "Badnerbahn",
+          "id": 18659,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/BADNERBAHN.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_bottom_space_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "BADNERBAHN"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "62acd9c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3b9db0f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "16388a9",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "Příběh Sacherova dortu se začal psát v roce 1832 ve Vídni, kdy šestnáctiletý cukrářský učeň Franz Sacher pro hosty na večírku knížete Metternicha vyrobil jedinečný čokoládový dort s meruňkovým džemem a čokoládovou polevou. Tento dort všechny okamžitě uchvátil a Franzovi přinesl velký úspěch. Od té doby je na světě DORT SACHR.🥮\nTradiční Hotel Sacher, kde najdete i pověstnou Kavárnu Sacher se nachází v centru Vídně, naproti Státní opeře a přímo vedle ulice \"Kärntnerstrasse\". K strategickému dopravnímu uzlu na náměstí Karlsplatz dojdete za pouhé 2 minuty.",
+         "image": {
+          "alt": "Dort Sacher",
+          "id": 18660,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/DORT-SACHER.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_custom_dimension": {
+          "height": "400",
+          "width": "301"
+         },
+         "thumbnail_size": "medium_large",
+         "title_bottom_space": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "DORT SACHER"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "63ac243",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4d2ed14",
+        "settings": {
+         "description_text": "Vídeňská káva - je název pro přípravu kávy se šlehačkou, která je typická pro rakouskou kávovou kulturu. Vídeň je známá svými kavárnami, které nabízejí mnoho druhů kávy, jako například Vídeňská melange, která je směsí černé kávy s horkým mlékem a mléčnou pěnou. Historie vídeňské kávy sahá do 17. století, kdy byla Vídeň obléhána Turky. Po jejich porážce zanechali Turci pytle s kávovými zrny, která byla považována za nepoživatelné. Polák Jerzy Franciszek Kulczycki, který se podílel na obraně města, dostal tyto pytle jako odměnu a otevřel ve Vídni první vídeňskou kavárnu. Zde začal podávat kávu s mlékem a cukrem, což bylo pro Turky neobvyklé. \n",
+         "image": {
+          "alt": "Kava Viden",
+          "id": 18661,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/VIDENSKA-KAVA.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "VÍDEŇSKÁ KÁVA"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "fdfccf1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "502068e",
+        "settings": {
+         "description_text": "Mohr im Hemd, tradiční zákusek Rakouska,\nje vídeňské pečivo. Obvykle se připravuje v malých porcích ve vodní lázni nebo páře a podává se horké. Takto připravená jídla se nazývají „dunst cook “ nebo „puding“. Dnes se už tento sladký pokrm podává téměř výhradně jako dezert.\n\"Mohr v košili\" seženete v rakouských kavárnách a restauracích a občas i v bavorských cukrárnách. Výraz „v košili“ se vztahuje na (bílou) šlehačku, která pokrývá čokoládový dort.\nAni přes současné upozorňování na rasistický* podtext tohoto názvu, tento klasický výraz nemizí zcela z rakouských kaváren a vy máte možnost si tento dezert objednat. *Pozn: Termín “ Moor ” byl používán v kolonialismu jako hanlivý termín pro černé lidi.\n",
+         "image": {
+          "alt": "Mohr im Hemd",
+          "id": 18662,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/MOHR-IM-HEMD-kolaz.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_bottom_space_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "MOHR IM HEMD"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "6eae2fb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3b59754",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33d5863",
+        "settings": {
+         "_margin": {
+          "bottom": "15",
+          "isLinked": true,
+          "left": "15",
+          "right": "15",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "Typické pro Vídeň jsou růžové cukrárny Aida, které jsou ikonickou součástí vídeňské kavárenské kultury.\n\nAida, zavedená značka s více než stoletou tradicí, je v Rakousku a Německu dobře známá. \nMálokdo však ví, že je úzce spojena s českou republikou.\nJejí kořeny sahají do roku 1913, kdy ji založil severočeský přistěhovalec Josef Prousek ve Vídni. Prousek, vášnivý milovník opery, uvažoval o názvu Tosca, ale nakonec se rozhodl pro název Aida. \nA též je málo známé, že Aida je jakýsi průkopník kavárenského průmyslu, protože právě zde byl instalován první italský stroj na espresso, což bylo ve své době revoluční.\nAida se rychle stala oblíbenou díky svým kvalitním zákuskům a inovacím.\nPo druhé světové válce se Aida rozrostla a stala se symbolem rychlé kávy a dezertů, což bylo inspirováno italským stylem „rychlé kávy s dortem\".\n\nJedna z legend říká, že během poválečných let, kdy byl nedostatek surovin, Aida vyráběla koblihy a zmrzlinu pro americké vojáky. Tato spolupráce nejenže pomohla cukrárně přežít těžké časy, ale také přinesla nové recepty a nápady, které se staly součástí její nabídky.\n\nAida je známá svým růžovým interiérem, který je pro ni typický a vytváří nezaměnitelnou atmosféru a má ve Vídni několik poboček, některé i v blízkosti hlavních turistických atrakcí.\n",
+         "image": {
+          "alt": "zajimavosti Vidne",
+          "id": 23054,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/na-web.jpg"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_space_mobile": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_custom_dimension": {
+          "height": "380",
+          "width": "350"
+         },
+         "title_bottom_space": {
+          "size": 63,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_bottom_space_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "CUKRÁRNY AIDA"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "df2879b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "934bcc3",
+        "settings": {
+         "_margin": {
+          "bottom": "15",
+          "isLinked": true,
+          "left": "15",
+          "right": "15",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "Kaiserschmarrn – po vídeňském řízku, dortu Sacher a vídeňské kávě je dalším, typickým pokrmem z Rakouska.\nKaiserschmarrn je tradiční rakouský pokrm, který se podobá palačinkám, ale je roztrhaný na kousky a osmažený na másle. Název znamená „císařský šmouha“ a odkazuje na císaře Františka Josefa I., který měl tento pokrm rád. Existuje několik legend o tom, jak vznikl název. Jedna z nich říká, že císařovna Alžběta (Sissi) si objednala palačinky, ale byly jí příliš tučné a nechala je na talíři. Císař si je vzal a řekl: „Nu, geb’ er mir halt den Schmarrn her, den unser Leopold da wieder z’sammenkocht hat.“ („No tak mi dejte mi ten šmouha, co nám zase uvařil náš Leopold.“) Leopold byl kuchař. Jiná legenda tvrdí, že císařovna si sama upekla palačinky, ale spálila je a aby to zakryla, roztrhala je na kousky a posypala cukrem a rozinkami. Kaiserschmarrn se podává s ovocnou omáčkou, například z jablek nebo švestek. Chcete ho ochutnat? Přijeďte do Vídně a já vám ukáži i další zajímavosti metropole Rakouska. \n",
+         "image": {
+          "alt": "Kaiserschmarrn",
+          "id": 18665,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/kAISERSCHMARRN-2.jpg"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_space_mobile": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_custom_dimension": {
+          "height": "380",
+          "width": "350"
+         },
+         "title_bottom_space": {
+          "size": 63,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_bottom_space_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "KAISERSCHMARRN"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "7883455",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e4ed875",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "23",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "2",
+          "isLinked": false,
+          "left": "5",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "description_text": "Tafelspitz je další typický pokrm Rakouska. \nServíruje se jako hlavní jídlo. Jedná se o vařené hovězí maso s kořenovou zeleninou, servírovaný ve vývaru. Tento pokrm je v Rakousku velmi oblíbený a je považován za jedno z nejlepších jídel rakouské kuchyně.\nSamotná příprava Tafelspitzu je poměrně jednoduchá. Hovězí maso se vaří dlouze vsilném vývaru spolu s kořenovou zeleninou a kořením. Maso se podává nakrájené na tenké plátky spolu s vývarem a různými přílohami, jako jsou například gratinované či opečené brambory nebo bramborové šišky+špenát. Jablečný křen a hořčice jsou také oblíbenými doplňky k Tafelspitzu.\nExistuje několik velmi dobrých restaurací ve Vídni, kde vám připraví opravdu kvalitní Tafelspitz. Mezi nejlepší patří například restaurace Plachutta, nedaleko Stadtpark. K dobrým restauracím nabízející tento pokrm patří i pověstná otáčivá restaurace s výhledem ve věží Donau.\nV obou restauracích jsem osobně tento pokrm ochutnala a mohu doporučit.\n",
+         "image": {
+          "alt": "Tafelspitz",
+          "id": 18664,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/TAFELSPITZ.png"
+         },
+         "image_border_border": "none",
+         "image_size": {
+          "size": 95,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_custom_dimension": {
+          "height": "420",
+          "width": "300"
+         },
+         "thumbnail_size": "medium",
+         "title_bottom_space": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_color": "#9C1E1E",
+         "title_text": "TAFELSPITZ"
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "7870732",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dashed",
+       "border_width": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f63bbc1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8c52f6b",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vídeň je nádherné město plné zeleně, zajímavostí i historie.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c25c38c",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Pokud si chcete své dny v metropoli Rakouska skutečně užít, je dobré mít někoho, kdo vám poradí, kdy a kde být a co vidět.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c67f1cd",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=secondary"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "107abaf",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "-1",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e6e5082",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "dfd88ac",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "79eef8e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7a7c315",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Nabízím vám službu cestovní podpory ve Vídni."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "e3e2aa3",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "49cb87d",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3001a02",
+        "settings": {
+         "_border_border": "none",
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\">&gt; Pomohu vám naplánovat váš pobyt ve Vídni tak, abyste viděli nejen ty nejznámější památky, ale i skryté perly, které byste sami jen těžko objevili.</p><p>&gt; Připravím vše potřebné pro to, abyste si svůj pobyt ve Vídni opravdu užili.</p><p>&gt; Vyslechnu vaše přání, navrhnu itinerář, případně vám poskytnu doprovod a k tomu všemu spoustu tipů a rad.</p><p>S mou službou<strong> “<span style=\"text-decoration: underline;\"><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">do Vídně sám(a), ve Vídni s podporou” </a></span></strong>si užijete Vídeň naplno a bez starostí.<br /><strong>Jedná se o individuální poradenství a službu, žádné instatní a hotové programy.</strong></p><p style=\"text-align: center;\">Neváhejte a kontaktujte mě pokud se do Vídně chystáte nebo vás návštěva láká! Těším se na vás!</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "bd3c404",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": false,
+        "left": "3",
+        "right": "3",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "99314a4",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": false,
+      "left": "3",
+      "right": "3",
+      "top": "0",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f6112db",
+        "settings": {
+         "image": {
+          "alt": "Blanka",
+          "id": 22105,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/20230630_111417.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "280",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7a680bb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "37ab08f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8814c9e",
+        "settings": {
+         "editor": "<p>Pokud jste zkušený cestovatel, který nepotřebuje osobní podporu, mám tady něco i pro vás.<br />Zcela jistě se vám bude hodit <span style=\"text-decoration: underline;\"><a href=\"https://sblankouzahranice.eu/minipruvodce-vidni-snadno/\">&lt;<strong>MINIPRŮVODCE pro lehčí a snadnější poznávání Vídně&gt; </strong></a></span>navíc s bonusem: průvodce jízdenkami a tikety na městskou dopravu.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c2c5074",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3f5c78a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "18d11b0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Poznejte Vídeň jako místní."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d2a31c3",
+        "settings": {
+         "editor": "<ul><li>Bez stresu, shonu a bez zbytečných výdajů.<br /><br /></li><li>Přestaňte bloudit a začněte si metropoli užívat.<br /><br /></li><li>Objevujte Vídeň snadno a jednoduše. </li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6334173",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=accent"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "54",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Podívejte se, proč byste si měli MINIPRŮVODCE pořídit a co na tohoto pomocníka říkají klienti.<br />Jednoduše klikněte <span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/minipruvodce-vidni-snadno/\">ZDE.</a></strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6f185f5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 65,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5487fe8",
+        "settings": {
+         "image": {
+          "alt": "Obalka SEO minipruvodce",
+          "id": 23402,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/vystrizek-obalka-new2.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6fc54fd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 35,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4ea64e8",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e0a24d4",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "6f7c8ab",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dc26f20",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3adb02d1",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se vám moje články, rady a tipy?<br />Přihlaste se k odběru NOVINEK.<br />Každý měsíc obdržíte svoji dávku informací přímo do e-mailu.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "2f9e761",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "167a7a6c",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "align": "center",
+         "background_color": "#0A431B",
+         "background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "button_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "22af850",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "3f7499b1",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "c1ddad9",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "571e3ecf",
+    "isInner": false,
+    "settings": {
+     "background_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "0609e54",
+       "pa_condition_date": "2022/07/18",
+       "pa_condition_date_range": "2022/07/18"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7524374",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "1674e80",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d96ca1d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "18646",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Zajímavosti Vídně",
+  "_yoast_wpseo_metadesc": "Zajímavosti Vídně vám přináší historky, příběhy, legendy a informace z historie i současnosti Rakouska a typické symboly turistických lákadel."
+ },
+ "modified": "2025-07-06 20:25:16",
+ "obsah_wordpress": "<h4>Vídeň je nádherné město plné historie, kultury a zábavy. </h4>\t\t\t\t\n\t\t\t\t\t<h3>Ale víte, že je také plné tajemství a zvláštností? \nAni já jsem do nedávna mnohé z legend, tajemství, pověstí a historie neznala. Teď už to díky své zálibě a životu ve Vídni vím.\nPojďme si představit některé zajímavosti Vídně.</h3>\t\t\t\t\n\t\t\t\t\t<h3><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">Dostala jsem tuto zpětnou vazbu na svojí službu CESTOVNÍ PODPORY s názvem \"do Vídně sám(a), ve Vídni s podporou za zády\".</a></h3>\t\t\t\t\n\t\t<blockquote><p style=\"text-align: center;\">\"Dcery byly asi nejvíc unešené z Time travel. Přála bych Vám vidět jejich výrazy ve tváři, když jsme vyšli ven. To nadšení a úžas v jejich očích byl k nezaplacení.  I nám dospělým se to velmi líbilo. Určitě stojí za to doporučit ostatním návštěvníkům Vídně\".</p></blockquote>\t\t\n\t\t\t\t\t<h3>Tak jsem se rozhodla přiblížit některé z mých \"bonusových\" informací o zajímavostech Vídně i vám.</h3>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/do-hlavicky2-qr9gp2fmto72owndpj2hf9v7i9449ht563azwzk9po.jpg\" title=\"pruvodce Viden\" alt=\"průvoce Vídeň\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Zajímavosti Vídně, to jsou historky, příběhy, legendy a informace o typických věcech, které se vážou k Vídni, ale málokdo o nich ví.</p><p>Ale vy teď máte možnost se o nich dozvědět a získat tak náskok v informacích před vaší návštěvou metropole Rakouska. </p><p>Až do Vídně přijedete, je téměř jisté, že si v kavárně u kávy a dortu Sacher nebo na ulici při občerstvení kvalitní pitnou vodou na tyto příběhy a informace zaručeně vzpomenete.</p>\t\t\n\t\t\t\t\t<h2>Tak jdeme na to</h2>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"300\" height=\"420\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/ANKERUHR.png\" alt=\"Ankeruhr\" /></figure><h3>ANKERUHR</h3><p>Praha má svůj turisty oblíbený orloj a také Vídeň má svůj secesní orloj Ankeruhr. \nJedná se o historické hodiny, které jsou jedním ze symbolů Vídně. Na hodinách defiluje dvanáct významných postav rakouské historie: římský císař Markus Aurelius, císař Karel Veliký, vévoda Leopold VI., básník – minesengr Walther von der Vocelweide, král Rudolf Habsburský, mistr Hans Puchsbaum (stavitel katedrály sv. Štěpána), císař Maxmilián, purkmistr Johann Andreas von Liebenberg (obránce Vídně při 2. tureckém obležení), hrabě Ernst Rüdiger von Starhemberg (velitel vídeňské vojenské posádky při obležení Turky), princ Evžen Savojský, císařovna Marie Terezie a hudební skladatel Joseph Haydn. Každou hodinu se na těchto hodinách objeví jiná postavička z dějin Rakouska, ale jednou denně se všechny sejdou na velkolepé přehlídce. A víte, kdy se to děje? Vždy v poledne!\nPokud si nechcete nechat ujít tento úžasný pohled, potřebujete někoho, kdo vám poradí, kdy a kde být. Tak teď už víte, že v pravé poledne je ten jediný a správný čas najít Hoher Markt. Příjemné náměstí se zástavbou z minulého století, kde tyto historické hodiny najdete.\n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"285\" height=\"421\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/TRINKWASSER.png\" alt=\"Trinkwasser\" /></figure><h3>TRINKWASSER</h3><p>Při prohlídkách města si většina z nás potřebuje dopřát kvalitní pramenitou vodu. Ve Vídni nic neobvyklého. V metropoli Rakouska na vás čeká množství pítek, kde si jednoduše dopřejete ZDARMA tu nejlepší vodu a uhasíte žízeň. Vídeňská voda začíná svou pouť v horských prameništích Štýrsko-Dolnorakouských Alp a po 36 hodinách, bez použití čerpadel a stále pod nejpřísnější kontrolou, v kvalitě pitné vody doputuje do Vídně.\nVídeň je zásobována ze dvou vysokohorských pramenitých zdrojů z oblasti Schneebergu, Raxu, Schneealpe a Hochschwabu. Denně je to 400 000 m3 čisté pramenité vody. A stejná voda je přiváděna i do pítek rozmístěných po městě. Najdete zde více jak 1300 takovýchto pítek. V zimě je však nehledejte, jsou odinstalována a znovu se objevují až na jaře. Pítka najdete nejen na rušných místech jako Am Graben, Heldenplatz v Hofburgu, v Schönbrunnu nebo u Rathaus. Jsou instalována doslova po celém městě.\nJak vypadají? Nejčastěji jsou to třímetrové stojany z nerezové oceli s nápisem Drinking Water / Trinkwasser. \n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"303\" height=\"417\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/BADNERBAHN.png\" alt=\"Badnerbahn\" /></figure><h3>BADNERBAHN</h3><p>Badnerbahn je název pro tramvaj, která jezdí po regionální železnici a spojuje Vídeň a městečko Baden. \nJe to jedna z nejstarších a nejvyužívanějších železničních tratí v Rakousku. Byla otevřena v roce 1886 a má 27 kilometrů a 37 zastávek. Její konečné stanice jsou Vídeňská státní opera v centru metropole Rakouska a Baden Josefsplatz. Badnerbahn je výjimečná modrá tramvaj, která nabízí rychlé, pohodlné a ekologické spojení mezi dvěma historickými a kulturními městy za necelou 1 hod jízdy.\nSlavné lázeňské městečko Baden se nachází zhruba 30 km od Vídně v oblasti. Je třetím největším městem Dolního Rakouska a od roku 2021 je na seznamu Světového dědictví UNESCO v rámci položky Slavná lázeňská města Evropy.  Pokud se chcete při návštěvě Vídně podívat i do tohoto lázeňského městečka s termálním koupalištěm a projet se modrou „tramvají“,pak přijeďte do Vídně a já vám ukáži jak to nejlépe zkombinovat a naplánovat.\n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"305\" height=\"420\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/DORT-SACHER.png\" alt=\"Dort Sacher\" /></figure><h3>DORT SACHER</h3><p>Příběh Sacherova dortu se začal psát v roce 1832 ve Vídni, kdy šestnáctiletý cukrářský učeň Franz Sacher pro hosty na večírku knížete Metternicha vyrobil jedinečný čokoládový dort s meruňkovým džemem a čokoládovou polevou. Tento dort všechny okamžitě uchvátil a Franzovi přinesl velký úspěch. Od té doby je na světě DORT SACHR.🥮\nTradiční Hotel Sacher, kde najdete i pověstnou Kavárnu Sacher se nachází v centru Vídně, naproti Státní opeře a přímo vedle ulice \"Kärntnerstrasse\". K strategickému dopravnímu uzlu na náměstí Karlsplatz dojdete za pouhé 2 minuty.</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"305\" height=\"424\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/VIDENSKA-KAVA.png\" alt=\"Kava Viden\" /></figure><h3>VÍDEŇSKÁ KÁVA</h3><p>Vídeňská káva - je název pro přípravu kávy se šlehačkou, která je typická pro rakouskou kávovou kulturu. Vídeň je známá svými kavárnami, které nabízejí mnoho druhů kávy, jako například Vídeňská melange, která je směsí černé kávy s horkým mlékem a mléčnou pěnou. Historie vídeňské kávy sahá do 17. století, kdy byla Vídeň obléhána Turky. Po jejich porážce zanechali Turci pytle s kávovými zrny, která byla považována za nepoživatelné. Polák Jerzy Franciszek Kulczycki, který se podílel na obraně města, dostal tyto pytle jako odměnu a otevřel ve Vídni první vídeňskou kavárnu. Zde začal podávat kávu s mlékem a cukrem, což bylo pro Turky neobvyklé. \n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"329\" height=\"456\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/MOHR-IM-HEMD-kolaz.png\" alt=\"Mohr im Hemd\" /></figure><h3>MOHR IM HEMD</h3><p>Mohr im Hemd, tradiční zákusek Rakouska,\nje vídeňské pečivo. Obvykle se připravuje v malých porcích ve vodní lázni nebo páře a podává se horké. Takto připravená jídla se nazývají „dunst cook “ nebo „puding“. Dnes se už tento sladký pokrm podává téměř výhradně jako dezert.\n\"Mohr v košili\" seženete v rakouských kavárnách a restauracích a občas i v bavorských cukrárnách. Výraz „v košili“ se vztahuje na (bílou) šlehačku, která pokrývá čokoládový dort.\nAni přes současné upozorňování na rasistický* podtext tohoto názvu, tento klasický výraz nemizí zcela z rakouských kaváren a vy máte možnost si tento dezert objednat. *Pozn: Termín “ Moor ” byl používán v kolonialismu jako hanlivý termín pro černé lidi.\n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"313\" height=\"427\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/na-web.jpg\" alt=\"zajimavosti Vidne\" /></figure><h3>CUKRÁRNY AIDA</h3><p>Typické pro Vídeň jsou růžové cukrárny Aida, které jsou ikonickou součástí vídeňské kavárenské kultury.\nAida, zavedená značka s více než stoletou tradicí, je v Rakousku a Německu dobře známá. \nMálokdo však ví, že je úzce spojena s českou republikou.\nJejí kořeny sahají do roku 1913, kdy ji založil severočeský přistěhovalec Josef Prousek ve Vídni. Prousek, vášnivý milovník opery, uvažoval o názvu Tosca, ale nakonec se rozhodl pro název Aida. \nA též je málo známé, že Aida je jakýsi průkopník kavárenského průmyslu, protože právě zde byl instalován první italský stroj na espresso, což bylo ve své době revoluční.\nAida se rychle stala oblíbenou díky svým kvalitním zákuskům a inovacím.\nPo druhé světové válce se Aida rozrostla a stala se symbolem rychlé kávy a dezertů, což bylo inspirováno italským stylem „rychlé kávy s dortem\".\nJedna z legend říká, že během poválečných let, kdy byl nedostatek surovin, Aida vyráběla koblihy a zmrzlinu pro americké vojáky. Tato spolupráce nejenže pomohla cukrárně přežít těžké časy, ale také přinesla nové recepty a nápady, které se staly součástí její nabídky.\nAida je známá svým růžovým interiérem, který je pro ni typický a vytváří nezaměnitelnou atmosféru a má ve Vídni několik poboček, některé i v blízkosti hlavních turistických atrakcí.\n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"321\" height=\"439\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/kAISERSCHMARRN-2.jpg\" alt=\"\" /></figure><h3>KAISERSCHMARRN</h3><p>Kaiserschmarrn – po vídeňském řízku, dortu Sacher a vídeňské kávě je dalším, typickým pokrmem z Rakouska.\nKaiserschmarrn je tradiční rakouský pokrm, který se podobá palačinkám, ale je roztrhaný na kousky a osmažený na másle. Název znamená „císařský šmouha“ a odkazuje na císaře Františka Josefa I., který měl tento pokrm rád. Existuje několik legend o tom, jak vznikl název. Jedna z nich říká, že císařovna Alžběta (Sissi) si objednala palačinky, ale byly jí příliš tučné a nechala je na talíři. Císař si je vzal a řekl: „Nu, geb’ er mir halt den Schmarrn her, den unser Leopold da wieder z’sammenkocht hat.“ („No tak mi dejte mi ten šmouha, co nám zase uvařil náš Leopold.“) Leopold byl kuchař. Jiná legenda tvrdí, že císařovna si sama upekla palačinky, ale spálila je a aby to zakryla, roztrhala je na kousky a posypala cukrem a rozinkami. Kaiserschmarrn se podává s ovocnou omáčkou, například z jablek nebo švestek. Chcete ho ochutnat? Přijeďte do Vídně a já vám ukáži i další zajímavosti metropole Rakouska. \n</p>\t\t\t\t\n\t\t\t\t\t<figure><img width=\"199\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/TAFELSPITZ-199x300.png\" alt=\"\" /></figure><h3>TAFELSPITZ</h3><p>Tafelspitz je další typický pokrm Rakouska. \nServíruje se jako hlavní jídlo. Jedná se o vařené hovězí maso s kořenovou zeleninou, servírovaný ve vývaru. Tento pokrm je v Rakousku velmi oblíbený a je považován za jedno z nejlepších jídel rakouské kuchyně.\nSamotná příprava Tafelspitzu je poměrně jednoduchá. Hovězí maso se vaří dlouze vsilném vývaru spolu s kořenovou zeleninou a kořením. Maso se podává nakrájené na tenké plátky spolu s vývarem a různými přílohami, jako jsou například gratinované či opečené brambory nebo bramborové šišky+špenát. Jablečný křen a hořčice jsou také oblíbenými doplňky k Tafelspitzu.\nExistuje několik velmi dobrých restaurací ve Vídni, kde vám připraví opravdu kvalitní Tafelspitz. Mezi nejlepší patří například restaurace Plachutta, nedaleko Stadtpark. K dobrým restauracím nabízející tento pokrm patří i pověstná otáčivá restaurace s výhledem ve věží Donau.\nV obou restauracích jsem osobně tento pokrm ochutnala a mohu doporučit.\n</p>\t\t\t\t\n\t\t\t\t\t<h4>Vídeň je nádherné město plné zeleně, zajímavostí i historie.</h4>\t\t\t\t\n\t\t<p style=\"text-align: center;\">Pokud si chcete své dny v metropoli Rakouska skutečně užít, je dobré mít někoho, kdo vám poradí, kdy a kde být a co vidět.</p>\t\t\n\t\t\t\t\t<h3>Nabízím vám službu cestovní podpory ve Vídni.</h3>\t\t\t\t\n\t\t<p style=\"text-align: left;\">&gt; Pomohu vám naplánovat váš pobyt ve Vídni tak, abyste viděli nejen ty nejznámější památky, ale i skryté perly, které byste sami jen těžko objevili.</p><p>&gt; Připravím vše potřebné pro to, abyste si svůj pobyt ve Vídni opravdu užili.</p><p>&gt; Vyslechnu vaše přání, navrhnu itinerář, případně vám poskytnu doprovod a k tomu všemu spoustu tipů a rad.</p><p>S mou službou<strong> “<a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">do Vídně sám(a), ve Vídni s podporou” </a></strong>si užijete Vídeň naplno a bez starostí.<br /><strong>Jedná se o individuální poradenství a službu, žádné instatní a hotové programy.</strong></p><p style=\"text-align: center;\">Neváhejte a kontaktujte mě pokud se do Vídně chystáte nebo vás návštěva láká! Těším se na vás!</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/20230630_111417-qw1czd25n5nfenfaz9cqay11803mmx1v5570cdch9s.jpg\" title=\"Blanka\" alt=\"Blanka\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Pokud jste zkušený cestovatel, který nepotřebuje osobní podporu, mám tady něco i pro vás.<br />Zcela jistě se vám bude hodit <a href=\"https://sblankouzahranice.eu/minipruvodce-vidni-snadno/\">&lt;<strong>MINIPRŮVODCE pro lehčí a snadnější poznávání Vídně&gt; </strong></a>navíc s bonusem: průvodce jízdenkami a tikety na městskou dopravu.</p>\t\t\n\t\t\t\t\t<h2>Poznejte Vídeň jako místní.</h2>\t\t\t\t\n\t\t<ul><li>Bez stresu, shonu a bez zbytečných výdajů.<br /><br /></li><li>Přestaňte bloudit a začněte si metropoli užívat.<br /><br /></li><li>Objevujte Vídeň snadno a jednoduše. </li></ul><p style=\"text-align: center;\">Podívejte se, proč byste si měli MINIPRŮVODCE pořídit a co na tohoto pomocníka říkají klienti.<br />Jednoduše klikněte <strong><a href=\"https://sblankouzahranice.eu/minipruvodce-vidni-snadno/\">ZDE.</a></strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"431\" height=\"597\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/vystrizek-obalka-new2.jpg\" alt=\"Obalka SEO minipruvodce\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/vystrizek-obalka-new2.jpg 431w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/vystrizek-obalka-new2-217x300.jpg 217w\" sizes=\"(max-width: 431px) 100vw, 431px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbí se vám moje články, rady a tipy?<br />Přihlaste se k odběru NOVINEK.<br />Každý měsíc obdržíte svoji dávku informací přímo do e-mailu.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "zajimavosti-vidne",
+ "title": "Zajímavosti Vídně, o nichž málokdo ví.",
+ "type": "post"
+}

@@ -1,0 +1,3171 @@
+{
+ "ID": 5038,
+ "categories": [
+  "Jezera a vodopády",
+  "Rakousko - Niederösterreich",
+  "Výlety"
+ ],
+ "date": "2021-04-21 11:35:12",
+ "excerpt": "Hrad Krumau am Kamp a Thunberger Stausee spolu s přehradou Thunberg je výlet zhruba 100km od Vídně v oblasti Niederösterreich a nabídne vám krásnou-zhruba 10km okružní trasu kolem vodní nádrže.",
+ "link": "https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "57e51e15",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-23",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "808c6c9",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "46e05dc8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "background_background": "classic",
+       "background_color": "#FFFBFB",
+       "pa_condition_repeater": [
+        {
+         "_id": "7962dc8",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "19ab76fa",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-17",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "cc78626",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-shoe-prints"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "45496f3c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 9,
+       "_inline_size_mobile": 6,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "41",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "a2b8f02",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59db77d1",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-32",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Pěší turistika.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0dee42c",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "68d23e01",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 85.648,
+       "_inline_size_mobile": 65,
+       "pa_condition_repeater": [
+        {
+         "_id": "dc078ee",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a5e6d73",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1d39a19",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4a6e8e4",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "a8e66cd",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Hrad Krumau am Kamp a Thunberger Stausee spolu s přehradou Thurnberg.\n",
+         "typography_font_weight": "700",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a8ef33d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "647c5fa",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c1984e6",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "b0ba3cf",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42930a6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "87",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5041,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "ecefea7",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0bf9dd6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d150e91",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e165308",
+        "settings": {
+         "image": {
+          "id": 5042,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "2f6dd22",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "54137f5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "802beaf",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e436fb0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "27",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5043,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "420265d",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "26acc4f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ffd30e7",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f385782",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4f9f63e",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5594630",
+        "settings": {
+         "editor": "<p>Tento náš výlet se nachází v místě zhruba 100 km od Vídně, 1 hod cesty autem v obci Krumau am Kamp.</p><p>Cílem našeho výletu byla prohlídka vodní nádrže Thurnberg (Thunberger Stausee). <br />Okružní pěší túra z hlavního náměstí v Krumau a zpět do Krumau.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6c17c5b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2a188c3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9740896",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fbebce0",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#EFEBA8",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "53f8f95",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5f50156",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-12",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 233,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "id": 5463,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-M-trasa.jpg"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "1cc627b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_mobile": {
+          "size": 84,
+          "sizes": [],
+          "unit": "vw"
+         },
+         "width_mobile": {
+          "size": 95,
+          "sizes": [],
+          "unit": "vw"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c3bd431",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "52659e3",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2b5df8c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "68dc4c4",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9f9d568",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Prvním naším bodem, ještě před okružní turistickou trasou Thurnberg 2, byl hrad nad obcí.</p><p>První zmínky o hradu se nachází v hluboké minulosti.<br />První zabezpečené zprávy pocházejí z druhé poloviny 12. století.</p><p>Hradní komplex je posazen na skále, která prudce klesá k levému břehu řeky Kamp.</p><p>Po rozsáhlé rekonstrukci poskytuje hrad, který je nyní obyvatelný, působivý romantický obrázek a krásný pohled do údolí.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "955b7f5",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3a30516",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3d9dbd8",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5d3725c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "39",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5044,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "5fec8de",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "81b9b3e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ab682b9",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4f02d5e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1ad2edd",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7142f4c",
+        "settings": {
+         "image": {
+          "id": 5048,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v-1.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "07d17d6",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7195a77",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c314efb",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "662ee17",
+        "settings": {
+         "image": {
+          "id": 5050,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/foto-hrad-v.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "2f46d78",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7b320f8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "91a1285",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ab644a0",
+        "settings": {
+         "image": {
+          "id": 5052,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-dvere2-S-v-2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "3000",
+          "width": "2000"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5acd09c",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "69de44c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2f9817c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c856e8d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "1823b4d",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2176c61",
+        "settings": {
+         "editor": "<p>Po vnější prohlídce hradu, procházce parkem kolem hradu a úžasných výhledech jsme sešli zpět na náměstí a vydali se červenou značenou turistickou stezkou Kampsee Rundwanderweg. Značena také dřevenými směrovkami jako Thurnberg 2.</p><p><strong>Zde se tedy začala 9 km okružní trasa, která vede kolem přehrady po střídajícím se terénu asfaltových, písčitých a přírodních lesních cest.</strong></p><p>Je to příjemná trasa, protože je poměrně plochá a nenáročná. Většinu času jdete lesem a obytnou-zahrádkářskou oblastí kolem nádrže.</p><p><strong>V tomto ročním období JARO jsme po cestě obdivovali množství květin klubajících se pod listy.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "c1623fe",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1be60e1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a56d5ef",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "31c1425",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "4877485",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "376d8fc",
+        "settings": {
+         "image": {
+          "id": 5056,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kvetina-bila-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "99e464e",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f0e30bb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b04e00c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bc027d8",
+        "settings": {
+         "image": {
+          "id": 5057,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kvetina-modra-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "0400c45",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "633bf3d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7010998",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f728207",
+        "settings": {
+         "image": {
+          "id": 5058,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kvetina-zluta-S1-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "2bb2f6b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b2c3144",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e793317",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7b2ceaa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "98b75ea",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e330c66",
+        "settings": {
+         "image": {
+          "id": 5059,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kvetiny-modre-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "67f86e3",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ba617c0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "df55ca4",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "40eb6d1",
+        "settings": {
+         "image": {
+          "id": 5060,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kvetiny-bile-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "9978fe4",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "fe5aa50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c81d471",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6aad319",
+        "settings": {
+         "image": {
+          "id": 5061,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kvetiny-zlute-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "1191588",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2f4948d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bc0296c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c7896ae",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "75398db",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "21a3355",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Po jednom břehu dojdete až k samotné přehradě.</strong></p><p>Přehrada Thurnberg je ve skutečnosti přehradní suť, známá také jako sypaná přehradní hráz. Pouze malá část je vyrobena jako zeď z betonu, aby bylo zajištěno kontrolované přetékání v případě velké vody.</p><p>Samotná přehrada je 290 m dlouhá a v nejvyšším bodě 26 m vysoká.</p><p>Hned nad přehradou je veřejné koupací místo. Nachází se tam i plocha s možností posezení, toaletami, převlékárnami a malým altánkem, kde jsem se občerstvili.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "fcaf006",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "10474e2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9833c82",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9af0a04",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#EFEBA8",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "bab6b5b",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ed60571",
+        "settings": {
+         "image": {
+          "id": 5071,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/prehrada-pohled-S-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "28f4881",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "10bfd5f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "99026e1",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "67fe35b",
+        "settings": {
+         "image": {
+          "id": 5072,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/prehrada-altan-S-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "e9cafab",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6da7bd4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c134936",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "066619a",
+        "settings": {
+         "image": {
+          "id": 5073,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/prehrada-pohled-M-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "550",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "b4cbb33",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "baf3718",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b8b8bf9",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dee36bd",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "dd159ba",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9b9d5a7",
+        "settings": {
+         "editor": "<p>Cesta zpět pak vede po druhém břehu přehradní nádrže, opět částečně se střídajíc lesem a obydlenými zahrádkářskými oblastmi. <br />Některé úseky cesty v lese jsou trochu strmější, ale odměnou je vám pěkný výhled na přehradu.</p><p>Dočetla jsem se, že pokud chcete mít opravdu hezký výhled, je lepší vydat se na tuto stezku spíše na jaře, protože v létě je, skrz hustší, zelený porost stromů, viditelnost na jezero-přehradní nádrž horší.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "80db67c",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "bb34113",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9b67f58",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1f9e4f3",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "614a58f",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7fc1f53",
+        "settings": {
+         "editor": "<p>Podobně krásné výhledy na přehradu jsem zažila v České republice. <br /><strong>Naučná okružní stezka</strong> nad řekou Vltavou vedla podobně skalnatým terénem a nabízela ještě úchvatnější výhledy na vodní plochu. Jedná se o <strong>jedno z nejkrásnějších míst středního Povltaví</strong>. <br />Lokalita se nachází na strmých skaliskách a slunných stráních lemujících <strong>pravý Vltavský břeh.</strong></p><p style=\"text-align: center;\"><strong>Národní přírodní rezervace Drbákov Albertovy skály.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "baa8a68",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f77c68c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d806dc0",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "13ccea2",
+    "isInner": false,
+    "settings": {
+     "border_border": "dashed",
+     "border_color": "#EFEBA8",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "0006d0c",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "40cd308",
+        "settings": {
+         "image": {
+          "id": 5077,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "a7335ef",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bf10426",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "014eb14",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "12af42e",
+        "settings": {
+         "image": {
+          "id": 5078,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "0b035b5",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2377223",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e87683c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9e55779",
+        "settings": {
+         "image": {
+          "id": 5079,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "0801f5d",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2602fb7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d446026",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "852da12",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "61fc2b7",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cfbc358",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>My jsme v polovině dubna měli výhledy opravdu krásné!</strong><br /><strong>Přestože bylo kolem 8 stupňů, tak občas vylezlo sluníčko, a viditelnost byla velmi dobrá.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6b7ab5b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "be21896",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2e245e4",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b65a712",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d210552",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "14bd97c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5081,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "f2e4b41",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "14fc7cc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 30,
+       "_inline_size_tablet": 30,
+       "pa_condition_repeater": [
+        {
+         "_id": "f14c67a",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e4bfe47",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "23",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "83",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 5083,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/nahledovy-obrazek-pohled-na-jezero.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "500",
+          "width": "400"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "4e9cdc9",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3d703e2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 39.994,
+       "_inline_size_tablet": 40,
+       "pa_condition_repeater": [
+        {
+         "_id": "439bd7f",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "44e01b6",
+        "settings": {
+         "image": {
+          "id": 5082,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "42e3f69",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "cb8a0dc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 30,
+       "_inline_size_tablet": 30,
+       "pa_condition_repeater": [
+        {
+         "_id": "d988a5b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3a703b9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "a4075e7",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3f7f7ce",
+        "settings": {
+         "editor": "<p>Téměř na konci okružní trasy je kemp s minigolfovým hřištěm, a za běžného provozu, i s možností občerstvení v restauraci s vyhlídkou na přehradní nádrž.</p><p><strong>Po pár metrech dál je pak velká plocha s dětským hřištěm a jezírkem (rybníčkem).</strong></p><p>To už jsme ale skoro zpět ve výchozím bodu na náměstí v Krumau.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6553223",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "459ee47",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "fa92607",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0e83501",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "9bb43c0",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "212e920",
+        "settings": {
+         "image": {
+          "id": 5090,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/kemp-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "1eed14f",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d30451a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b82d567",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68cb6de",
+        "settings": {
+         "image": {
+          "id": 5092,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/det.hrist-2-S-s.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "42afcdc",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "495344d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "388cc78",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f47f8ed",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "769bc61",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f54c82",
+        "settings": {
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "17d26cb",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Shrnutí trasy:"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b01fa32",
+        "settings": {
+         "custom_css": ".elementor-icon-list-items .elementor-icon-list-icon {\r\n    position: absolute;\r\n    top: 10px;\r\n    left: 0;\r\n}\r\n.elementor-icon-list-items .elementor-icon-list-text {\r\n    margin-left: 20px;\r\n}\r\n",
+         "divider": "yes",
+         "divider_style": "dotted",
+         "divider_weight": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_list": [
+          {
+           "_id": "81d580e",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Výlet s krásnými vyhlidkami na přehradní nádrž."
+          },
+          {
+           "_id": "085e150",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "on",
+            "nofollow": "",
+            "url": "https://sblankouzahranice.eu/buddhisticka-stavba-mezi-rakouskymi-vinicemi/"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-star"
+           },
+           "text": "Po cestě na tento výlet je ještě jedno originální místo - klikni a čti o originální stavbě u Vídně"
+          },
+          {
+           "_id": "08d7180",
+           "text": "Výlet byl naplánován jako okruh v délce 9 km, lehká trasa, necelé 3 hod ( při zastávkách max. 4 hod )"
+          },
+          {
+           "_id": "917ee4d",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-grin"
+           },
+           "text": "Okruh v přírodě s cestami střídajícího se povchu, převýšení cca 300m."
+          }
+         ],
+         "icon_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4c6c524",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "937e250",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ff70751",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bd819a2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "705e0d8",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "785c0af",
+        "settings": {
+         "image": {
+          "id": 5099,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/04/mapka-vystrizek.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "03fb0d1",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bae2900",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "19958ad",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7cb21ec",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "9cc3c50",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "498c7bc",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "e7aad05",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "f278db8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "cb350b8",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bed2e72",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "57ef8cf",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "6c74c14d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 9,
+       "_inline_size_tablet": 8,
+       "pa_condition_repeater": [
+        {
+         "_id": "acd8e06",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fe62ddf",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Pokud se vám výlet líbil, ráda vám dám vědět o dalších, aby vám už žádný výlet neutekl.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ba2bec8",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3540c85f",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c4d9c3a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "147e211d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 81.994,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "63598a3",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "75fd7895",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 9,
+       "_inline_size_tablet": 2,
+       "pa_condition_repeater": [
+        {
+         "_id": "fed424b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "78d4f18a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "a98f1c6",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53c48e9",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "e162256",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "c87b19e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "fb88c16",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d26f4cf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "87568b3",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f1a164e",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "86439ff",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Další zajímavé výlety v oblasti Niederösterreich, které v průvodcích nenajdete:",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "8119b7c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a9caf75",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d3dced0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "dfd7bbe",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65394e2",
+        "settings": {
+         "image": {
+          "id": 9178,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/05/vystrizek-vylet.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/hainburg-an-der-donau/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "cab5457",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4a7858b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2548ec6",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "055b07a",
+        "settings": {
+         "image": {
+          "id": 9144,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "cc3e524",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "57d87df",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "04477fd",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e73dad2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "01aa379",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b23e4a7",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "610c28c",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "c2ee2bb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "602ab20",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4e2602a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c007e38",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "11925",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Thunberger Stausee. Jezera a vodní plochy v Rakousku.",
+  "_yoast_wpseo_metadesc": "Thunberger Stausee se zastávkou na hradě Krumau v oblasti Niederösterreich, to je krásný výlet kolem jezera a vodní plochy v Rakousku."
+ },
+ "modified": "2024-10-24 15:13:34",
+ "obsah_wordpress": "<p>Pěší turistika.</p>\t\t\n\t\t\t<h4>Hrad Krumau am Kamp a Thunberger Stausee spolu s přehradou Thurnberg.\n</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"433\" height=\"577\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v.jpg\" alt=\"Hrad na skále 2\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v.jpg 433w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v-225x300.jpg 225w\" sizes=\"(max-width: 433px) 100vw, 433px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"1366\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v-768x1366.jpg\" alt=\"Vyhlídka na jezero\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v-576x1024.jpg 576w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero2-M-v.jpg 1060w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"1264\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v-768x1264.jpg\" alt=\"Směrovky Krumau\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v-768x1264.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v-182x300.jpg 182w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v-622x1024.jpg 622w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v-933x1536.jpg 933w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/smerovky2-M-v.jpg 1102w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Tento náš výlet se nachází v místě zhruba 100 km od Vídně, 1 hod cesty autem v obci Krumau am Kamp.</p><p>Cílem našeho výletu byla prohlídka vodní nádrže Thurnberg (Thunberger Stausee). <br />Okružní pěší túra z hlavního náměstí v Krumau a zpět do Krumau.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/Vystrizek-M-trasa.jpg\" title=\"Výstřižek M-trasa\" alt=\"trasa Viden-Krumau\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Prvním naším bodem, ještě před okružní turistickou trasou Thurnberg 2, byl hrad nad obcí.</p><p>První zmínky o hradu se nachází v hluboké minulosti.<br />První zabezpečené zprávy pocházejí z druhé poloviny 12. století.</p><p>Hradní komplex je posazen na skále, která prudce klesá k levému břehu řeky Kamp.</p><p>Po rozsáhlé rekonstrukci poskytuje hrad, který je nyní obyvatelný, působivý romantický obrázek a krásný pohled do údolí.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"576\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s-768x576.jpg\" alt=\"Hrad 3\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s-768x576.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s-300x225.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s-1024x768.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s-1536x1152.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-3M-s.jpg 1632w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"433\" height=\"577\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v-1.jpg\" alt=\"Hrad na skale\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v-1.jpg 433w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-na-skale-pohled-S-v-1-225x300.jpg 225w\" sizes=\"(max-width: 433px) 100vw, 433px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"433\" height=\"577\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/foto-hrad-v.jpg\" alt=\"hrad\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/foto-hrad-v.jpg 433w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/foto-hrad-v-225x300.jpg 225w\" sizes=\"(max-width: 433px) 100vw, 433px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"401\" height=\"542\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-dvere2-S-v-2.jpg\" alt=\"Dveře v podhradí\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-dvere2-S-v-2.jpg 401w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/hrad-dvere2-S-v-2-222x300.jpg 222w\" sizes=\"(max-width: 401px) 100vw, 401px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Po vnější prohlídce hradu, procházce parkem kolem hradu a úžasných výhledech jsme sešli zpět na náměstí a vydali se červenou značenou turistickou stezkou Kampsee Rundwanderweg. Značena také dřevenými směrovkami jako Thurnberg 2.</p><p><strong>Zde se tedy začala 9 km okružní trasa, která vede kolem přehrady po střídajícím se terénu asfaltových, písčitých a přírodních lesních cest.</strong></p><p>Je to příjemná trasa, protože je poměrně plochá a nenáročná. Většinu času jdete lesem a obytnou-zahrádkářskou oblastí kolem nádrže.</p><p><strong>V tomto ročním období JARO jsme po cestě obdivovali množství květin klubajících se pod listy.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kvetina-bila-S-v-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hjl0ri4.jpg\" title=\"kvetina bila S-v\" alt=\"Květiny v lese 3\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kvetina-modra-S-v-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hjdvk8s.jpg\" title=\"kvetina modra-S-v\" alt=\"Květiny pod listy 2\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kvetina-zluta-S1-v-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hjdvk8s.jpg\" title=\"kvetina zluta-S1-v\" alt=\"Květiny v trávě 2\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kvetiny-modre-S-v-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hjdvk8s.jpg\" title=\"kvetiny modre- S-v\" alt=\"Květiny pod listy\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kvetiny-bile-S-v-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hjdvk8s.jpg\" title=\"kvetiny bile &#8211; S-v\" alt=\"Květiny v lese\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kvetiny-zlute-S-v-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hjdvk8s.jpg\" title=\"kvetiny zlute S-v\" alt=\"Květiny v trávě\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Po jednom břehu dojdete až k samotné přehradě.</strong></p><p>Přehrada Thurnberg je ve skutečnosti přehradní suť, známá také jako sypaná přehradní hráz. Pouze malá část je vyrobena jako zeď z betonu, aby bylo zajištěno kontrolované přetékání v případě velké vody.</p><p>Samotná přehrada je 290 m dlouhá a v nejvyšším bodě 26 m vysoká.</p><p>Hned nad přehradou je veřejné koupací místo. Nachází se tam i plocha s možností posezení, toaletami, převlékárnami a malým altánkem, kde jsem se občerstvili.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/prehrada-pohled-S-s-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hkmj19i.jpg\" title=\"přehrada pohled S-s\" alt=\"Přehrada\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/prehrada-altan-S-s-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hkmj19i.jpg\" title=\"prehrada altan S-s\" alt=\"Průhled na přehradu\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/prehrada-pohled-M-s-qr9gp3di8d1d3441b10qmyb1itnbeu3rzi1hkmj19i.jpg\" title=\"prehrada pohled M-s\" alt=\"přehrada\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Cesta zpět pak vede po druhém břehu přehradní nádrže, opět částečně se střídajíc lesem a obydlenými zahrádkářskými oblastmi. <br />Některé úseky cesty v lese jsou trochu strmější, ale odměnou je vám pěkný výhled na přehradu.</p><p>Dočetla jsem se, že pokud chcete mít opravdu hezký výhled, je lepší vydat se na tuto stezku spíše na jaře, protože v létě je, skrz hustší, zelený porost stromů, viditelnost na jezero-přehradní nádrž horší.</p><p>Podobně krásné výhledy na přehradu jsem zažila v České republice. <br /><strong>Naučná okružní stezka</strong> nad řekou Vltavou vedla podobně skalnatým terénem a nabízela ještě úchvatnější výhledy na vodní plochu. Jedná se o <strong>jedno z nejkrásnějších míst středního Povltaví</strong>. <br />Lokalita se nachází na strmých skaliskách a slunných stráních lemujících <strong>pravý Vltavský břeh.</strong></p><p style=\"text-align: center;\"><strong>Národní přírodní rezervace Drbákov Albertovy skály.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"1366\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v-768x1366.jpg\" alt=\"cesta kolem skal\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v-576x1024.jpg 576w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-na-vyhlidku-M-v.jpg 1060w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"1366\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v-768x1366.jpg\" alt=\"ja na vyhlidce\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v-576x1024.jpg 576w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/cesta-a-ja-na-vyhlidce-v.jpg 1060w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"506\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v-576x1024.jpg\" alt=\"cesta kolem skal\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v-576x1024.jpg 576w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/strma-cesta-nad-vyhlidkou-M-v.jpg 1060w\" sizes=\"(max-width: 506px) 100vw, 506px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>My jsme v polovině dubna měli výhledy opravdu krásné!</strong><br /><strong>Přestože bylo kolem 8 stupňů, tak občas vylezlo sluníčko, a viditelnost byla velmi dobrá.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"1366\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v-768x1366.jpg\" alt=\"Vyhlídka na jezero 2\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v-576x1024.jpg 576w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-M-v.jpg 1060w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/nahledovy-obrazek-pohled-na-jezero-qr9gp3dhmfn5a4163kl5kwvv05ji2yhx1lqwhxaglk.jpg\" title=\"nahledovy obrazek pohled na jezero\" alt=\"Pohled na jezero\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"506\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v-576x1024.jpg\" alt=\"Vyhlídka na jezero\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v-576x1024.jpg 576w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/vyhlidka-na-jezero-M-v.jpg 1060w\" sizes=\"(max-width: 506px) 100vw, 506px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Téměř na konci okružní trasy je kemp s minigolfovým hřištěm, a za běžného provozu, i s možností občerstvení v restauraci s vyhlídkou na přehradní nádrž.</p><p><strong>Po pár metrech dál je pak velká plocha s dětským hřištěm a jezírkem (rybníčkem).</strong></p><p>To už jsme ale skoro zpět ve výchozím bodu na náměstí v Krumau.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/kemp-S-s.jpg\" alt=\"dětské hřiště u přehrady\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/kemp-S-s.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/kemp-S-s-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/det.hrist-2-S-s.jpg\" alt=\"dětské hřiště\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/det.hrist-2-S-s.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/det.hrist-2-S-s-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Shrnutí trasy:</h4>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVýlet s krásnými vyhlidkami na přehradní nádrž.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/buddhisticka-stavba-mezi-rakouskymi-vinicemi/\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\t\tPo cestě na tento výlet je ještě jedno originální místo - klikni a čti o originální stavbě u Vídně\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVýlet byl naplánován jako okruh v délce 9 km, lehká trasa, necelé 3 hod ( při zastávkách max. 4 hod )\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tOkruh v přírodě s cestami střídajícího se povchu, převýšení cca 300m.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"481\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/mapka-vystrizek-768x481.jpg\" alt=\"mapka výletu a trasy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/mapka-vystrizek-768x481.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/mapka-vystrizek-300x188.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/mapka-vystrizek-1024x641.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/04/mapka-vystrizek.jpg 1269w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Pokud se vám výlet líbil, ráda vám dám vědět o dalších, aby vám už žádný výlet neutekl.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t\t<h3>Další zajímavé výlety v oblasti Niederösterreich, které v průvodcích nenajdete:</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/hainburg-an-der-donau/\">\n\t\t\t\t\t\t\t<img width=\"450\" height=\"564\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/vystrizek-vylet.jpg\" alt=\"Nahled.obrazek vylety5\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/vystrizek-vylet.jpg 450w, https://sblankouzahranice.eu/wp-content/uploads/2021/05/vystrizek-vylet-239x300.jpg 239w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/\">\n\t\t\t\t\t\t\t<img width=\"451\" height=\"566\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg\" alt=\"Nahled.obrazek vylety kostely\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg 451w, https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1-239x300.jpg 239w\" sizes=\"(max-width: 451px) 100vw, 451px\" />\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "co-se-skryva-za-pruhledem-thunberger-stausee",
+ "title": "Thunberger Stausee, co se skrývá za průhledem",
+ "type": "post"
+}

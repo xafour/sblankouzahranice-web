@@ -1,0 +1,128 @@
+[
+ {
+  "active": true,
+  "file": "all-in-one-wp-migration/all-in-one-wp-migration.php",
+  "name": "All-in-One WP Migration and Backup",
+  "version": "7.111"
+ },
+ {
+  "active": true,
+  "file": "all-in-one-wp-migration-unlimited-extension/all-in-one-wp-migration-unlimited-extension.php",
+  "name": "All-in-One WP Migration Unlimited Extension",
+  "version": "2.87"
+ },
+ {
+  "active": true,
+  "file": "cache-enabler/cache-enabler.php",
+  "name": "Cache Enabler",
+  "version": "1.8.17"
+ },
+ {
+  "active": true,
+  "file": "complianz-gdpr/complianz-gpdr.php",
+  "name": "Complianz | GDPR/CCPA Cookie Consent",
+  "version": "7.5.5"
+ },
+ {
+  "active": true,
+  "file": "elementor/elementor.php",
+  "name": "Elementor",
+  "version": "4.3.1"
+ },
+ {
+  "active": true,
+  "file": "elementor-pro/elementor-pro.php",
+  "name": "Elementor Pro",
+  "version": "4.3.0"
+ },
+ {
+  "active": true,
+  "file": "google-language-translator/google-language-translator.php",
+  "name": "Google Language Translator",
+  "version": "7.0.1"
+ },
+ {
+  "active": true,
+  "file": "limit-login-attempts-reloaded/limit-login-attempts-reloaded.php",
+  "name": "Limit Login Attempts Reloaded",
+  "version": "3.3.10"
+ },
+ {
+  "active": false,
+  "file": "official-mailerlite-sign-up-forms/mailerlite.php",
+  "name": "MailerLite - Signup forms (official)",
+  "version": "1.7.26"
+ },
+ {
+  "active": true,
+  "file": "premium-addons-for-elementor/premium-addons-for-elementor.php",
+  "name": "Premium Addons for Elementor",
+  "version": "4.11.107"
+ },
+ {
+  "active": true,
+  "file": "recent-posts-widget-with-thumbnails/recent-posts-widget-with-thumbnails.php",
+  "name": "Recent Posts Widget With Thumbnails",
+  "version": "7.2.0"
+ },
+ {
+  "active": true,
+  "file": "simple-author-box/simple-author-box.php",
+  "name": "Simple Author Box",
+  "version": "2.61"
+ },
+ {
+  "active": true,
+  "file": "404page/404page.php",
+  "name": "Smart Custom 404 Error Page",
+  "version": "11.4.8"
+ },
+ {
+  "active": true,
+  "file": "instagram-feed/instagram-feed.php",
+  "name": "Smash Balloon Instagram Feed",
+  "version": "6.13.1"
+ },
+ {
+  "active": true,
+  "file": "header-footer-elementor/header-footer-elementor.php",
+  "name": "Ultimate Addons for Elementor (UAE)",
+  "version": "2.9.4"
+ },
+ {
+  "active": true,
+  "file": "updraftplus/updraftplus.php",
+  "name": "UpdraftPlus - Backup/Restore",
+  "version": "1.26.8"
+ },
+ {
+  "active": true,
+  "file": "insert-headers-and-footers/ihaf.php",
+  "name": "WPCode Lite",
+  "version": "2.3.9"
+ },
+ {
+  "active": true,
+  "file": "wpforms-lite/wpforms.php",
+  "name": "WPForms Lite",
+  "version": "2.0.2.1"
+ },
+ {
+  "active": true,
+  "file": "wp-revisions-control/wp-revisions-control.php",
+  "name": "WP Revisions Control",
+  "version": "1.4.4"
+ },
+ {
+  "active": true,
+  "file": "wordpress-seo/wp-seo.php",
+  "name": "Yoast SEO",
+  "version": "28.5"
+ },
+ {
+  "active": true,
+  "file": "zero-spam/wordpress-zero-spam.php",
+  "name": "Zero Spam for WordPress",
+  "version": "5.7.11"
+ }
+]

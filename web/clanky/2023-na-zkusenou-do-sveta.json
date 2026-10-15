@@ -1,0 +1,957 @@
+{
+ "ID": 18985,
+ "categories": [
+  "Blog",
+  "Cestování",
+  "K zamyšlení i pobavení"
+ ],
+ "date": "2023-10-05 11:01:28",
+ "excerpt": "Láká vás vydat se na zkušenou do světa? Chcete vědět, jak se opravdu začíná a žije za hranicí vlasti v nové zemi? Navštivte spolu se mnou 6 různých zemí prostřednictvím autentických příběhů obyčejných a přitom neobyčejně zajímavých žen. ",
+ "link": "https://sblankouzahranice.eu/na-zkusenou-do-sveta/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d7fe62b",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rádi byste se vypravili na zkušenou do světa? Zjistit, jaké to je žít v zahraničí. Láká vás tato myšlenka, ale nevíte úplně zda je to pro vás?",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "f91c881",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "58d169d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "10",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c7c701b",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Není jen otázkou, jak se žije v jiné zemi, otázkou je, jak se v nové zemi vlastně začíná?",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "30bdb2e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2c07093",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "906a035",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=accent",
+          "words_color": ""
+         },
+         "after_text": "které se vydaly žít za hranice vlasti.",
+         "before_text": "Pokud chcete odpovědi, přečtěte si",
+         "highlighted_text": "autentické příběhy žen,",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_color": "#0A431B",
+         "words_color": "#A22D1D"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "6e8f13a",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "22e5274",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "10",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c2f70af",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Proč se některé ze světa vracíme a jiné tam zůstáváme?"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "47810c7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9cb6977",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "547efc5",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "6 žen, 6 zemí, 6 neobyčejných příběhů obyčejných žen.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4fd8720",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c8bbc99",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "010",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "010",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8af629a",
+        "settings": {
+         "aspect_ratio": "1:1",
+         "columns": 3,
+         "galleries": [
+          {
+           "_id": "33a00b7",
+           "gallery_title": "New Gallery"
+          }
+         ],
+         "gallery": [
+          {
+           "id": 7834,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/08/1upoutavka-s-prvkem2.png"
+          },
+          {
+           "id": 7836,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/08/2-upoutavka-s-prvkem-2.png"
+          },
+          {
+           "id": 8463,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/3Upoutavka-s-prvkem-3.png"
+          },
+          {
+           "id": 7839,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/08/5-Upoutavka-Veronika2.png"
+          },
+          {
+           "id": 9262,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/11/Vystrizek-novy-opr.-1.jpg"
+          },
+          {
+           "id": 9270,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/11/vystrizek-uvodni-novy.jpg"
+          }
+         ],
+         "gap": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_animation_duration": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_border_width": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "show_all_galleries_label": "Vše",
+         "thumbnail_image_size": "medium_large"
+        },
+        "widgetType": "gallery"
+       }
+      ],
+      "id": "5e9e698",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "44c21a9",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ca09459",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Příběhy Aničky, Jany, Ivety, Veroniky, Elif a Michaely </p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "facd4cb",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">a jejich začátků </p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5c51c2b",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">v Anglii, Belgii, Švýcarsku, Holandsku, Rumunsku a na Slovensku</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4a2cb8f",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/jak-se-zije-za-hranici/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "najdete ZDE"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "ee5ac22",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fc15380",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "10",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b9f2d45",
+        "settings": {
+         "__globals__": {
+          "image_border_color": "globals/colors?id=primary"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "5",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Rakousko s Blankou",
+          "id": 12166,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/Vystrizek-ja-na-SEO-stranky2.jpg"
+         },
+         "image_border_border": "solid",
+         "image_border_width": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "df59a83",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53af66b",
+        "settings": {
+         "editor": "<p>Pokud chcete poznat Rakousko nebo Vídeň jinak, očima Češky žijící již 7 let v zahraničí, koukněte se <span style=\"text-decoration: underline;\"><strong><a href=\"https://sblankouzahranice.eu/viden-s-podporou-za-zady/\">ZDE.</a></strong></span></p><p>Můžeme se tak společně potkat a vy se dozvíte třeba i to, kdo je autorkou tohoto webu a jak se žije za hranicí vlasti v Rakousku.</p><p>Z Prahy do Vídně jsem se totiž přestěhovala přesně v 50 letech, bez znalosti němčiny. <br />Ráda vám řeknu, co mě za hranicí čekalo.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "547a922",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2f749ec",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence3"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "50",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bed8c02",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se vám moje příspěvky? <br />Ráda vám dám o nových vědět 1x měsíčně e-mailem.<br />Pro odběr novinek mi zanechte svůj e-mail.<br /><br /></strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "2f9e761",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "58f2639c",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "align": "center",
+         "background_color": "#0A431B",
+         "background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "button_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "22af850",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "23e88cca",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "c1ddad9",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "687307dd",
+    "isInner": false,
+    "settings": {
+     "background_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "0609e54",
+       "pa_condition_date": "2022/07/18",
+       "pa_condition_date_range": "2022/07/18"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e857495",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "d71cd6c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "11d5509",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "7810",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Na zkušenou do světa",
+  "_yoast_wpseo_metadesc": "Láká vás vydat se na zkušenou do světa. Zjistěte, jak se žije za hranicí vlasti v různých koutech světa. Autentické příběhy žen."
+ },
+ "modified": "2023-10-10 17:35:04",
+ "obsah_wordpress": "<h2>Rádi byste se vypravili na zkušenou do světa? Zjistit, jaké to je žít v zahraničí. Láká vás tato myšlenka, ale nevíte úplně zda je to pro vás?</h2>\t\t\n\t\t\t<h5>Není jen otázkou, jak se žije v jiné zemi, otázkou je, jak se v nové zemi vlastně začíná?</h5>\t\t\n\t\t\t\t\t<h3>\n\t\t\t\t\tPokud chcete odpovědi, přečtěte si\n\t\t\t\t\tautentické příběhy žen,\n\t\t\t\t\tkteré se vydaly žít za hranice vlasti.\n\t\t\t\t\t</h3>\n\t\t\t<h5>Proč se některé ze světa vracíme a jiné tam zůstáváme?</h5>\t\t\n\t\t\t<h2>6 žen, 6 zemí, 6 neobyčejných příběhů obyčejných žen.</h2>\t\t\n\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/wp-content/uploads/2021/08/1upoutavka-s-prvkem2.png\" data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"8af629a\" data-elementor-lightbox-title=\"1upoutavka s prvkem2\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzgzNCwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wOFwvMXVwb3V0YXZrYS1zLXBydmtlbTIucG5nIiwic2xpZGVzaG93IjoiOGFmNjI5YSJ9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/wp-content/uploads/2021/08/2-upoutavka-s-prvkem-2.png\" data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"8af629a\" data-elementor-lightbox-title=\"2 upoutavka s prvkem 2\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzgzNiwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wOFwvMi11cG91dGF2a2Etcy1wcnZrZW0tMi5wbmciLCJzbGlkZXNob3ciOiI4YWY2MjlhIn0%3D\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/wp-content/uploads/2021/09/3Upoutavka-s-prvkem-3.png\" data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"8af629a\" data-elementor-lightbox-title=\"3Upoutavka s prvkem 3\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6ODQ2MywidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wOVwvM1Vwb3V0YXZrYS1zLXBydmtlbS0zLnBuZyIsInNsaWRlc2hvdyI6IjhhZjYyOWEifQ%3D%3D\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/wp-content/uploads/2021/08/5-Upoutavka-Veronika2.png\" data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"8af629a\" data-elementor-lightbox-title=\"5 Upoutávka Veronika2\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzgzOSwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wOFwvNS1VcG91dGF2a2EtVmVyb25pa2EyLnBuZyIsInNsaWRlc2hvdyI6IjhhZjYyOWEifQ%3D%3D\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/wp-content/uploads/2021/11/Vystrizek-novy-opr.-1.jpg\" data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"8af629a\" data-elementor-lightbox-title=\"Výstřižek-novy opr.\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6OTI2MiwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMVwvVnlzdHJpemVrLW5vdnktb3ByLi0xLmpwZyIsInNsaWRlc2hvdyI6IjhhZjYyOWEifQ%3D%3D\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/wp-content/uploads/2021/11/vystrizek-uvodni-novy.jpg\" data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"8af629a\" data-elementor-lightbox-title=\"vystrizek-uvodni novy\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6OTI3MCwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMVwvdnlzdHJpemVrLXV2b2RuaS1ub3Z5LmpwZyIsInNsaWRlc2hvdyI6IjhhZjYyOWEifQ%3D%3D\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\">Příběhy Aničky, Jany, Ivety, Veroniky, Elif a Michaely </p><p style=\"text-align: center;\">a jejich začátků </p><p style=\"text-align: center;\">v Anglii, Belgii, Švýcarsku, Holandsku, Rumunsku a na Slovensku</p>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/jak-se-zije-za-hranici/\">\n\t\t\t\t\t\tnajdete ZDE\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"647\" height=\"469\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/Vystrizek-ja-na-SEO-stranky2.jpg\" alt=\"Rakousko s Blankou\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/Vystrizek-ja-na-SEO-stranky2.jpg 647w, https://sblankouzahranice.eu/wp-content/uploads/2022/07/Vystrizek-ja-na-SEO-stranky2-300x217.jpg 300w\" sizes=\"(max-width: 647px) 100vw, 647px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Pokud chcete poznat Rakousko nebo Vídeň jinak, očima Češky žijící již 7 let v zahraničí, koukněte se <strong><a href=\"https://sblankouzahranice.eu/viden-s-podporou-za-zady/\">ZDE.</a></strong></p><p>Můžeme se tak společně potkat a vy se dozvíte třeba i to, kdo je autorkou tohoto webu a jak se žije za hranicí vlasti v Rakousku.</p><p>Z Prahy do Vídně jsem se totiž přestěhovala přesně v 50 letech, bez znalosti němčiny. <br />Ráda vám řeknu, co mě za hranicí čekalo.</p><p style=\"text-align: center;\"><strong>Líbí se vám moje příspěvky? <br />Ráda vám dám o nových vědět 1x měsíčně e-mailem.<br />Pro odběr novinek mi zanechte svůj e-mail.<br /><br /></strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "na-zkusenou-do-sveta",
+ "title": "Na zkušenou do světa aneb život za hranicí vlasti.",
+ "type": "post"
+}

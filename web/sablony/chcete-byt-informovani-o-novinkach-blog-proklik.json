@@ -1,0 +1,117 @@
+{
+ "ID": 5556,
+ "categories": [],
+ "date": "2021-04-27 15:26:03",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=chcete-byt-informovani-o-novinkach-blog-proklik",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2cebd25b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "412c708f",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje články? <br />Ráda ti dám o nových vědět e-mailem.</strong></p>",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6f546abd",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "114ced12",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "6d74ce9e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "232f7ca7",
+    "isInner": false,
+    "settings": {
+     "structure": "33"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2021-04-27 15:26:03",
+ "obsah_wordpress": "<p style=\"text-align: center;\"><strong>Líbí se ti moje články? <br />Ráda ti dám o nových vědět e-mailem.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" role=\"button\" rel=\"noopener noreferrer\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "chcete-byt-informovani-o-novinkach-blog-proklik",
+ "title": "chcete být informováni o novinkách-blog -proklik",
+ "type": "elementor_library"
+}

@@ -1,0 +1,2630 @@
+{
+ "ID": 4304,
+ "categories": [
+  "Stadtwanderweg Wien",
+  "Vídeň",
+  "Výlety"
+ ],
+ "date": "2021-03-22 17:01:26",
+ "excerpt": "Celkem 14 značených turistických tras vede krásnou zelení Vídně a nejbližšího okolí a nabízí vám pohled na hlavní město Rakouska z jiného úhlu. Zajímavostí města Vídně je, že bylo vyhlášeno nejzelenější metropolí světa.",
+ "link": "https://sblankouzahranice.eu/stadtwanderweg-wien/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5faf96ac",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-23",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "7885d06",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "2b1a6901",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "background_background": "classic",
+       "background_color": "#FFFBFB",
+       "pa_condition_repeater": [
+        {
+         "_id": "c58c51b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "72c0af7b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-17",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "cc4bbce",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-shoe-prints"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "695d2953",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 9,
+       "_inline_size_mobile": 6,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "41",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "62ec26d",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "82bf8e4",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-32",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Pěší turistika.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e13dfa9",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7d5a2a8d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 85.648,
+       "_inline_size_mobile": 65,
+       "pa_condition_repeater": [
+        {
+         "_id": "87037c0",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "37f881c1",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "4bab665",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4216dc1",
+        "settings": {
+         "image": {
+          "id": 5443,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-misto-ve-Vidni.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "19d2a7a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2fe8209",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0065c6a",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "62a84da",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ddef158",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "09282ec",
+        "settings": {
+         "editor": "<p>Celkem 14 Stadtwanderweg - značených turistických tras vede krásnou zelení Vídně a nejbližšího okolí.</p><p>Na internetu je možné si stáhnout tzv. \"turistický pas\" a při pěších procházkách si ho na jednotlivých trasách nechat orazítkovat.<br />Tak můžete získat za 3 prošlé trasy s razítky stříbrný turistický odznak a za 7 navštívených tras s razítkem zlatý turistický odznak.<br />Městské turistické stezky - Stadtwanderweg - jsou také dostupné na mobilní mapě města ke stažení <a href=\"https://www.wien.gv.at/umwelt/wald/freizeit/wandern/wege/\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><span style=\"color: #333399; text-decoration: underline;\">ZDE.</span></span></a> </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a6bdbef",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e952b2e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "96fd65d",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "851032a",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#EC9833AD",
+     "margin": {
+      "bottom": "030",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e2b455a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8828500",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "98b4bdd",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "My jsme na první jarní den 21.3.2021 měli naplánováno Stadwanderweg 8 - Sophienalpe.",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "0f6cb50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "db3c754",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "863e1ec",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "55a7ea2",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "35141b9",
+        "settings": {
+         "editor": "<p>Přesto že byl první jarní den, počasí na JARO vůbec nevypadalo a navíc ještě napadlo mírně sněhu.</p><p style=\"text-align: left;\">Proč ale chodíme na výlety za každého počasí se můžete dočíst <strong><a href=\"https://sblankouzahranice.eu/kdyz-jaro-tuka-na-dvere/\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">ZDE.</span></span></a></strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4dfe0b8",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7d8e879",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b3a1595",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "856718a",
+    "isInner": false,
+    "settings": {
+     "border_border": "dashed",
+     "border_color": "#EC9833AD",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "73ce551",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e0ffded",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "12",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Výchozí bodem naší túry bylo parkovišti ve Vorderhainbachu na Maurbachstraße u rozcestníku Stadtwanderweg 8 - Vídeň Penzing.</p><p>První úsek trasy vedl do kopce s převýšením cca 400 m. Zajímavostí tohoto stoupání je, že jdete vedle oficiální vybudované Mountainbikestrecke, která se nalézá v MTB- Trailpark. </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "5514332",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3c1afcb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "47df06c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fd23335",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "65",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4308,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/start-a-cil.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c17b57a",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b57e072",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "40da218",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "18f9b18",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d2c590a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "36b9e96",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4310,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/cedule-trailpark.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "370",
+          "width": "280"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "5cdb5b9",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "03e4cd2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a0c36a5",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5ffa015",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "18",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "80",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4309,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/trailpark.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "d6585e5",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f29a6a2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e9196f3",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e5952c7",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "040",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "60e0772",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6ef39b3",
+        "settings": {
+         "editor": "<p>Po cestě je velmi bohatá fauna. Během naší procházky jsme mohli vidět plno jarních květin, které již rašily-ten den však pod popraškem sněhu. Celou cestu nás také provázela zcela typická vůně medvědího česneku, kterého je v lesích kolem opravdu hodně.</p><p>Jedná se o nádhernou procházku v přírodě, převážně v lese. Zajímavostí na těchto trasách je, že vedou metropolí Rakouska a to přímo skrz území města Vídeň.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e64eeab",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "0a2f3d4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "421bad8",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f831415",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "10",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6f5cb79",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8c803db",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "cc9c122",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Co možná ale nevíte?",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "c2c8c83",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0493360",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "186da4e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "c1c6208",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5586790",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         },
+         "size": {
+          "size": 38,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "1abd8a2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7dde35a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6fbc7a7",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Vídeň</strong> je <strong>nejzelenějším městem světa</strong> a vzorem pro ostatní, což dokládá 1. místo v žebříčku „nejzelenějších\" metropolí.</p><p style=\"text-align: center;\"><strong><span style=\"color: #008000;\">Soutěž „The World’s 10 Greenest Cities 2020 označila Vídeň za vítěze.</span></strong></p><p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/viden-nejzelenejsi-mesto-sveta/\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline; color: #333399;\">Tolik zeleně nenajdete v žádném jiném městě nikde na světě!</span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "139e227",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9c353b1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7b29400",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cb21ecb",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#277D41",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "3eff76a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "46a64c4",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "7",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4317,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/petrklic-prisp1-1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "800",
+          "width": "670"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "7f83207",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "69be412",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "129bd8a",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3889820",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-5",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4318,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/strom.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "1100",
+          "width": "670"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c890f94",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8f8b747",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "aff5fce",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f9115b0",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4319,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/medvedi-cesnek.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "500",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "147880e",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7bed1f1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ec5b84a",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dfe5011",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "020",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "3bf3c38",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bd45c3e",
+        "settings": {
+         "editor": "<p>Během pár minut takto dojdete k hostinci „Mostalm“ ( za normální situace jedna ze zastávek s občerstvením a možností nechat si svůj turistický pas opatřit razítkem ). <br />( V současné době - březen 2021 bylo zavřeno).</p><p>Odsud jsme pokračovali po červené turistické značce a trase Mostalm Trail až k nejvyššímu bodu výletu Franz-Karl-Fernsicht- výškový bod 488 m. Zde je opravdu krásný výhled na Vídeň = Donauturm a UNO City. <br />My jsme se zde i občerstvili z našich zásob, protože je tu i odpočinkové místo s lavičkami.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "88cbf6b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3cf8f46",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a374d22",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "77aaf8d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ebbf158",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "45b3bc8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Po občerstvení jsme pokračovali po červené trase až ke známému místu Gasthaus Sophienalpe. <br />Zde je také možné si odpočinout, protože poté je na trase jediná strmější část cesty.</p><p>Tento  úsek cesty není vhodný pro dětský kočárek, ale pro turisty s vhodnou obuví to není nijak náročný úsek.</p><p>Po sestupu vás trasa dovede k Rieglerhütte.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "3899a4e",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8af5fb2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a51db0e",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "07ca959",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "27",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 4324,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/smerovky-u-Sofienalpe.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "90cafa1",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "89b8875",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d0bec9c",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "aa69a07",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "79ab447",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7cc61c4",
+        "settings": {
+         "image": {
+          "id": 4325,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/pamatnik.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "ea9af48",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7b8dee6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "acf0887",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db91224",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-45",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Další trasa vede po Halterbachu po poměrně rovném terénu až k Spitalwiese. <br />Zanedlouho se v přírodě objeví památník, který nelze přehlédnout. <br />Je to památník Heimita von Doderera a připomíná bitvu s Turky o město Bělehrad.</p><p>To už je závěrečný úsek cesty, zhruba 1 km zpět k parkovišti a výchozímu bodu.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a2fe2bc",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "855c214",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "55a982b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "596f8d5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "a03240a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "485b757",
+        "settings": {
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "2bfebbb",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Shrnutí trasy:"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5e8face",
+        "settings": {
+         "custom_css": "\r\n",
+         "divider": "yes",
+         "divider_style": "dotted",
+         "divider_weight": {
+          "size": 2,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_list": [
+          {
+           "_id": "81d580e",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "Stadtwanderweg Wien jsou zajímavé trasy vedoucí v zeleni a možnost poznat město jinak."
+          },
+          {
+           "_id": "085e150",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-star"
+           },
+           "text": "Všechny trasy vedou Vídní a nejbližším okolím a nabízí možnost rekreace a sportu."
+          },
+          {
+           "_id": "08d7180",
+           "text": "Výlet byl naplánován jako okruh v délce 9,2 km, cca 3 hod volnou chůzí ."
+          },
+          {
+           "_id": "917ee4d",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-grin"
+           },
+           "text": "Okruh v přírodě, převážně v lese s nádherným výhledem na celou Vídeň. Převýšení cca 430m."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "0c36070",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "3a15510",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "294b001",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "496275a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6ee4ca9",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "af8ebc3",
+        "settings": {
+         "image": {
+          "id": 4342,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-mapicka.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "bef391f",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b6362e6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "98c6f69",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "29d7cd9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "209c000",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "18a951d",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "963255d",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "faf1908",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "cffdb04",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0eb4b18",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "070efab",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "7043ae15",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 15,
+       "_inline_size_tablet": 9,
+       "pa_condition_repeater": [
+        {
+         "_id": "2c5f7bc",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d45c87f",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "44e9a8d",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4e4b26dd",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "62b3ac1",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "56e9a5d7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 70,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "63c56a8",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "8aaaf70",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 14.994,
+       "pa_condition_repeater": [
+        {
+         "_id": "3d97527",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "14374690",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "99b9618",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f777268",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "b9095e3",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "db84e17",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8876fd5",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6c2452f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "68b7b4b",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4cb6a26",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "99d4b4f",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Další zajímavé výlety ve Vídni, které by se vám mohli líbit:",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "858f55d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0cba99f",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "febe889",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4700b7a",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bcf1bfc",
+        "settings": {
+         "image": {
+          "id": 9168,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-2.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/vylet-az-do-nebe-19-okres-vidne/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "171e08b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7cf89c4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2aeec0f",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a270827",
+        "settings": {
+         "image": {
+          "id": 9167,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/06/vstrizek-vylet.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/videnske-vinice-a-rakouske-heuriger/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "c69775f",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "25db3e9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ac719a8",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "142d25b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "6306181",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c2b4f79",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "13f5f1b",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "f737db5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "20c84ca",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ff9aa9c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "b3bb070",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "4305",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Stadtwanderweg Wien. Poznejte Vídeň.",
+  "_yoast_wpseo_metadesc": "Celkem 13 Stadtwanderweg - značených turistických tras vede krásnou zelení Vídně a nejbližšího okolí. Na internetu je možné si stáhnout tzv. \"turistický pas\" a při pěších procházkách si ho na jednotlivých trasách nechat orazítkovat. Tak můžete získat za 3 prošlé trasy s razítky stříbrný turistický odznak a za 7 navštívených tras s razítkem zlatý turistický odznak. Městské turistické stezky - Stadtwanderweg jsou také dostupné na mobilní mapě města Vídeň ke stažení. Poznejte Vídeň na výletech s Blankou za hranice."
+ },
+ "modified": "2024-10-24 15:05:16",
+ "obsah_wordpress": "<p>Pěší turistika.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"601\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-misto-ve-Vidni-768x601.jpg\" alt=\"mapka Vídeň\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-misto-ve-Vidni-768x601.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-misto-ve-Vidni-300x235.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-misto-ve-Vidni-1024x802.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-misto-ve-Vidni.jpg 1054w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Celkem 14 Stadtwanderweg - značených turistických tras vede krásnou zelení Vídně a nejbližšího okolí.</p><p>Na internetu je možné si stáhnout tzv. \"turistický pas\" a při pěších procházkách si ho na jednotlivých trasách nechat orazítkovat.<br />Tak můžete získat za 3 prošlé trasy s razítky stříbrný turistický odznak a za 7 navštívených tras s razítkem zlatý turistický odznak.<br />Městské turistické stezky - Stadtwanderweg - jsou také dostupné na mobilní mapě města ke stažení <a href=\"https://www.wien.gv.at/umwelt/wald/freizeit/wandern/wege/\" target=\"_blank\" rel=\"noopener\">ZDE.</a> </p>\t\t\n\t\t\t<h4>My jsme na první jarní den 21.3.2021 měli naplánováno Stadwanderweg 8 - Sophienalpe.</h4>\t\t\n\t\t<p>Přesto že byl první jarní den, počasí na JARO vůbec nevypadalo a navíc ještě napadlo mírně sněhu.</p><p style=\"text-align: left;\">Proč ale chodíme na výlety za každého počasí se můžete dočíst <strong><a href=\"https://sblankouzahranice.eu/kdyz-jaro-tuka-na-dvere/\" rel=\"noopener\">ZDE.</a></strong></p><p>Výchozí bodem naší túry bylo parkovišti ve Vorderhainbachu na Maurbachstraße u rozcestníku Stadtwanderweg 8 - Vídeň Penzing.</p><p>První úsek trasy vedl do kopce s převýšením cca 400 m. Zajímavostí tohoto stoupání je, že jdete vedle oficiální vybudované Mountainbikestrecke, která se nalézá v MTB- Trailpark. </p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"437\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/start-a-cil-1024x497.jpg\" alt=\"Stadtwanderweg 8\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/start-a-cil-1024x497.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/start-a-cil-300x146.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/start-a-cil-768x373.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/start-a-cil.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/cedule-trailpark-qr9gp9ybhncdk48pauiw6d11vnqp2562309b9vsjg4.jpg\" title=\"cedule trailpark\" alt=\"trailpark\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"717\" height=\"348\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/trailpark.jpg\" alt=\"trailpark2\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/trailpark.jpg 717w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/trailpark-300x146.jpg 300w\" sizes=\"(max-width: 717px) 100vw, 717px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Po cestě je velmi bohatá fauna. Během naší procházky jsme mohli vidět plno jarních květin, které již rašily-ten den však pod popraškem sněhu. Celou cestu nás také provázela zcela typická vůně medvědího česneku, kterého je v lesích kolem opravdu hodně.</p><p>Jedná se o nádhernou procházku v přírodě, převážně v lese. Zajímavostí na těchto trasách je, že vedou metropolí Rakouska a to přímo skrz území města Vídeň.</p>\t\t\n\t\t\t<h3>Co možná ale nevíte?</h3>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Vídeň</strong> je <strong>nejzelenějším městem světa</strong> a vzorem pro ostatní, což dokládá 1. místo v žebříčku „nejzelenějších\" metropolí.</p><p style=\"text-align: center;\"><strong>Soutěž „The World’s 10 Greenest Cities 2020 označila Vídeň za vítěze.</strong></p><p style=\"text-align: center;\"><a href=\"https://sblankouzahranice.eu/viden-nejzelenejsi-mesto-sveta/\" target=\"_blank\" rel=\"noopener\">Tolik zeleně nenajdete v žádném jiném městě nikde na světě!</a></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/petrklic-prisp1-1-qr9gp9yg8omp0yzz91dftwuo2tjqcchu2ecm1u9hs0.jpg\" title=\"petrklic prisp1\" alt=\"Petrklíč pod sněhem\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"422\" height=\"592\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/strom.jpg\" alt=\"Strom 5\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/strom.jpg 422w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/strom-214x300.jpg 214w\" sizes=\"(max-width: 422px) 100vw, 422px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/medvedi-cesnek-qr9gp9ydk7a3436c2kiwcuq9hlis9rub1nuyvucbig.jpg\" title=\"medvedi cesnek\" alt=\"Medvědí česnek v lese\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Během pár minut takto dojdete k hostinci „Mostalm“ ( za normální situace jedna ze zastávek s občerstvením a možností nechat si svůj turistický pas opatřit razítkem ). <br />( V současné době - březen 2021 bylo zavřeno).</p><p>Odsud jsme pokračovali po červené turistické značce a trase Mostalm Trail až k nejvyššímu bodu výletu Franz-Karl-Fernsicht- výškový bod 488 m. Zde je opravdu krásný výhled na Vídeň = Donauturm a UNO City. <br />My jsme se zde i občerstvili z našich zásob, protože je tu i odpočinkové místo s lavičkami.</p><p>Po občerstvení jsme pokračovali po červené trase až ke známému místu Gasthaus Sophienalpe. <br />Zde je také možné si odpočinout, protože poté je na trase jediná strmější část cesty.</p><p>Tento  úsek cesty není vhodný pro dětský kočárek, ale pro turisty s vhodnou obuví to není nijak náročný úsek.</p><p>Po sestupu vás trasa dovede k Rieglerhütte.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"710\" height=\"351\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/smerovky-u-Sofienalpe.jpg\" alt=\"Sofienalm\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/smerovky-u-Sofienalpe.jpg 710w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/smerovky-u-Sofienalpe-300x148.jpg 300w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pamatnik.jpg\" alt=\"Památník v lese\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/pamatnik.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/pamatnik-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Další trasa vede po Halterbachu po poměrně rovném terénu až k Spitalwiese. <br />Zanedlouho se v přírodě objeví památník, který nelze přehlédnout. <br />Je to památník Heimita von Doderera a připomíná bitvu s Turky o město Bělehrad.</p><p>To už je závěrečný úsek cesty, zhruba 1 km zpět k parkovišti a výchozímu bodu.</p>\t\t\n\t\t\t<h4>Shrnutí trasy:</h4>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tStadtwanderweg Wien jsou zajímavé trasy vedoucí v zeleni a možnost poznat město jinak.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVšechny trasy vedou Vídní a nejbližším okolím a nabízí možnost rekreace a sportu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVýlet byl naplánován jako okruh v délce 9,2 km, cca 3 hod volnou chůzí .\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tOkruh v přírodě, převážně v lese s nádherným výhledem na celou Vídeň. Převýšení cca 430m.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"628\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-mapicka-1024x714.jpg\" alt=\"mapa\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-mapicka-1024x714.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-mapicka-300x209.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-mapicka-768x536.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Vystrizek-mapicka.jpg 1140w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t\t<h3>Další zajímavé výlety ve Vídni, které by se vám mohli líbit:</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylet-az-do-nebe-19-okres-vidne/\">\n\t\t\t\t\t\t\t<img width=\"453\" height=\"540\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-2.jpg\" alt=\"Nahled.obrazek vylety 4\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-2.jpg 453w, https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-2-252x300.jpg 252w\" sizes=\"(max-width: 453px) 100vw, 453px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/videnske-vinice-a-rakouske-heuriger/\">\n\t\t\t\t\t\t\t<img width=\"456\" height=\"561\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vstrizek-vylet.jpg\" alt=\"Nahled.obrazek vylety vinice\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vstrizek-vylet.jpg 456w, https://sblankouzahranice.eu/wp-content/uploads/2021/06/vstrizek-vylet-244x300.jpg 244w\" sizes=\"(max-width: 456px) 100vw, 456px\" />\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "stadtwanderweg-wien",
+ "title": "Vídeň, jak ji neznáte - Stadtwanderweg Wien",
+ "type": "post"
+}

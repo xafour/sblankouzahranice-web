@@ -1,0 +1,1421 @@
+{
+ "ID": 15868,
+ "categories": [
+  "Blog",
+  "Ze života v Rakousku"
+ ],
+ "date": "2022-11-23 18:24:15",
+ "excerpt": "Vánoční trhy lákají do metropole Rakouska každoročně stovky turistů z okolních států pro jejich kouzelnou atmosféru v kulisách krásného města Vídně. Kde ale najdete ten nejznámější, největší anebo nejstarší trh? Pokud nevíte, vydejte se tudy... ",
+ "link": "https://sblankouzahranice.eu/advent-in-wien/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1b34999",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Od poloviny listopadu až do Vánoc nastává ve Vídni čas kouzelných vánočních trhů.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "989f184",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "f1d3bcc",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e299c06",
+        "settings": {
+         "editor": "<p>Období velmi oblíbené zejména turisty z okolních zemí (Česká republika, Polsko, Slovensko), kteří před vánocemi do metropole Rakouska přijíždějí prožít neopakovatelnou atmosféru adventu.<br /><br /></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8f7403b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "1333bbf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0f2e23b",
+        "settings": {
+         "_margin": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Nejznámějším trhem je každoročně, a stejně tak i letos, vídeňský CHRISTKINDLMARKT na náměstí před radnicí - na Rathausplatz. "
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "510927d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "d587c60",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6602cf4",
+        "settings": {
+         "image": {
+          "alt": "Rathausplatz o vánocích",
+          "id": 15872,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/osvetlena-radnice-S.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "cc5e57e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "8bf82be",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dd1f3f9",
+        "settings": {
+         "image": {
+          "alt": "advent ve Vídni",
+          "id": 15873,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/advent-ve-Vidni-u-radnice.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "04f8f6b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "97061d5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "953dca3",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Najdete zde tradičně pečené kaštany i brambory, svařené víno a punč i nabídku mnoha vánočních dárků. Mezi přibližně 100 stánky mají letos návštěvníci více prostoru než dříve.</p><p style=\"text-align: center;\"><span style=\"color: #800000;\"><strong>Většina gastro stánků je ekologicky certifikovaná.</strong></span></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3aa2870",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e15745e",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d85f6b3",
+        "settings": {
+         "_margin": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Zábavu zde najdou i děti. Na vánočním trhu je pro ně připraven 12 m vysoký kolotoč, stánek na ruční práce nebo psaní dopisu Ježíškovi i malé kluziště. "
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d369336",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9137e1c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68cc51f",
+        "settings": {
+         "_margin": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "0",
+          "right": "00",
+          "top": "15",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Kluziště před radnicí je i letos součástí této tradice.<br />  Přes celý Rathauspark se táhne kluziště o rozloze 3000 m čtverečních, kde si můžete zdarma zabruslit s výhledem na panorama osvětlené budovy radnice.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "47b39b0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "57f0be5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d064111",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "17",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "vánoční kluziště před radnicí",
+          "id": 15877,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/kluziste-pred-radnici-S.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6af1d0e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "036001e",
+        "settings": {
+         "image": {
+          "alt": "kluziště Rathausplatz",
+          "id": 15878,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/bruslim-u-radnice.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "660",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "005dfa4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "53d4288",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7359d5e",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Dominantou kluziště je každoročně světelná dekorace uprostřed. V letošním roce je touto dekorací symbol nejen pro zamilované - strom srdce."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "cb9c70a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "dc5a75f",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "49652c9",
+        "settings": {
+         "image": {
+          "alt": "dominanta kluziště",
+          "id": 15880,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/dominanta-kluziste-Snew.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9017aa0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e0fba9b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1bab8dd",
+        "settings": {
+         "_margin": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Dohromady najdete ve Vídni 17 různě velkých vánočních trhů s celkem 905 stánky. "
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "113765d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e795cb8",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin_mobile": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5acdb2d",
+        "settings": {
+         "image": {
+          "alt": "vánoční trhy Vídně",
+          "id": 15881,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/jine-trhy-vidne-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "451"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f262d4c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "6450ae3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "01f9692",
+        "settings": {
+         "image": {
+          "alt": "vánoční trhy Vídně 2",
+          "id": 15882,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/museum-quartier.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9252c23",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9fd3e27",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8bf6f9d",
+        "settings": {
+         "editor": "<ul><li><strong>Nejstarší vánoční trh</strong> s 250 letou tradicí je na <strong>náměstí Freyung</strong>, který nabízí nejen bio-produkty, ale i rukodělné výrobky.<br /><br /></li><li>Kulturní a vánoční trh <strong>před zámkem Schönbrunn</strong> okouzlí svou <strong>císařskou kulisou</strong> a po Vánocích se promění v novoroční trh.<br /><br /></li><li>Vánoční trhy <strong>u paláce Belvedere</strong> zapůsobí na návštěvníky svou <strong>barokní kulisou.</strong> Jedinečný zámecký park nabízí prostor pro tento poklidný vánoční trh s kvalitními řemeslnými výrobky a kulinářskými specialitami.<br /><br /></li><li>Ve „vánoční vesničce“ na <strong>náměstí Stephansplatz</strong> je dominantou tradice, asi 40 stánků na úpatí katedrály sv.Štěpána nabízí <strong><strong>vysoce kvalitní výrobky z Rakouska.</strong></strong><p> </p></li><li>Letošní <strong>novinkou je Ottakringer Christmas Magic</strong> na nádvoří pivovaru Ottakringer. Od čtvrtka do neděle tento městský vánoční trh nabízí <strong>kulinářské speciality a samozřejmě pivní punč Ottakringer.</strong></li></ul>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c3616d6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "6422b2e",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac41f51",
+        "settings": {
+         "image": {
+          "alt": "vánoční trh 3",
+          "id": 15883,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Korneuburg-S.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "733bf7c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "1907e66",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b9ff4b6",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Další více či méně známé trhy najdete např. u Opery, před Karlskirche a v dalších čtvrtích Vídně na jejich hlavních prostranstvích např. Favoriten, Meidling, Florisdorf a další.",
+         "typography_font_size_mobile": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "f3a2f20",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "0cb5be9",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b11ab4",
+        "settings": {
+         "gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "6205173",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "f8e95b9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bf2e49b",
+        "settings": {
+         "_margin": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "31",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Chcete-li zažít atmosféru rakouských vánoc i vy, pak si návštěvu adventní Vídně nenechte ujít.",
+         "typography_font_size_mobile": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "c68cf03",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "5d8fdd5",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "-30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "-30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "330009b",
+        "settings": {
+         "gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "41e7ae3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "aa342d8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9acd185",
+        "settings": {
+         "image": {
+          "alt": "kočár u Stephansdomu",
+          "id": 15885,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/kocar-u-Stephansdomu-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "610",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f990411",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "176b0c5",
+        "settings": {
+         "image": {
+          "alt": "vánoční Vídeň4",
+          "id": 15884,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-rotated.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "670",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2ad5740",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "589a959",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6198fea",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-63",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-48",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Vánoční Stephansdom",
+          "id": 15886,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/Advent-u-Stephansdomu2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "670",
+          "width": "450"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0768b72",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4baae7f",
+        "settings": {
+         "image": {
+          "alt": "vánoční Vídeň ulice",
+          "id": 15887,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/strom-ve-Vidni.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d2082f6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "32e0a3a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "612e6ea",
+        "settings": {
+         "gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "pattern_height": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "0735206",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "6518bba",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3612f918",
+        "settings": {
+         "__globals__": {
+          "_background_color": ""
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje články ze života češky v Rakousku? <br />Ráda ti dám o nových vědět e-mailem.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "679441f6",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=text"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "2ebf0867",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=primary",
+        "border_color": "globals/colors?id=text"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "6e13ec91",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1b00036",
+        "settings": {
+         "_margin": {
+          "bottom": "020",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "010",
+          "isLinked": true,
+          "left": "010",
+          "right": "010",
+          "top": "010",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Pokud se chcete v Rakousku domluvit alespoň trochu německy a chcete si u toho užít zábavu, pak se vám bude hodit</p><p style=\"text-align: center;\"><strong>TAHÁK NA VÝUKU NĚMČINY-3 tipy, jak se učit hravě a vtipně.</strong></p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9ab780e",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=text"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-long-arrow-alt-down"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4ab7e1e",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=text"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/produkty-ke-stazeni/"
+         },
+         "pa_condition_repeater": [],
+         "text": "zdarma ke stažení ZDE"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "d11883d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "03788a6",
+        "settings": {
+         "image": {
+          "alt": "tahák na výuku němčiny",
+          "id": 15901,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/11/vystrizek-novy2.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "78d7add",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3c78a3a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=text"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3c4cd03",
+        "settings": {
+         "pa_condition_repeater": [],
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "3fa64f8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "8fbf0f1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "15870",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Čas vánočních trhů ve Vídni",
+  "_yoast_wpseo_metadesc": "Od poloviny listopadu až do Vánoc nastává ve Vídni čas kouzelných vánočních trhů, velmi oblíbených zejména turisty z okolních zemí ."
+ },
+ "modified": "2022-11-23 23:58:37",
+ "obsah_wordpress": "<h2>Od poloviny listopadu až do Vánoc nastává ve Vídni čas kouzelných vánočních trhů.</h2>\t\t\n\t\t<p>Období velmi oblíbené zejména turisty z okolních zemí (Česká republika, Polsko, Slovensko), kteří před vánocemi do metropole Rakouska přijíždějí prožít neopakovatelnou atmosféru adventu.<br /><br /></p>\t\t\n\t\t\t<h3>Nejznámějším trhem je každoročně, a stejně tak i letos, vídeňský CHRISTKINDLMARKT na náměstí před radnicí - na Rathausplatz. </h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/osvetlena-radnice-S.jpg\" alt=\"Rathausplatz o vánocích\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/osvetlena-radnice-S.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/osvetlena-radnice-S-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/advent-ve-Vidni-u-radnice.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/advent-ve-Vidni-u-radnice.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/advent-ve-Vidni-u-radnice-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Najdete zde tradičně pečené kaštany i brambory, svařené víno a punč i nabídku mnoha vánočních dárků. Mezi přibližně 100 stánky mají letos návštěvníci více prostoru než dříve.</p><p style=\"text-align: center;\"><strong>Většina gastro stánků je ekologicky certifikovaná.</strong></p>\t\t\n\t\t\t<h3>Zábavu zde najdou i děti. Na vánočním trhu je pro ně připraven 12 m vysoký kolotoč, stánek na ruční práce nebo psaní dopisu Ježíškovi i malé kluziště. </h3>\t\t\n\t\t<p style=\"text-align: center;\">Kluziště před radnicí je i letos součástí této tradice.<br />  Přes celý Rathauspark se táhne kluziště o rozloze 3000 m čtverečních, kde si můžete zdarma zabruslit s výhledem na panorama osvětlené budovy radnice.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"393\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kluziste-pred-radnici-S.jpg\" alt=\"vánoční kluziště před radnicí\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kluziste-pred-radnici-S.jpg 393w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kluziste-pred-radnici-S-177x300.jpg 177w\" sizes=\"(max-width: 393px) 100vw, 393px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"383\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/bruslim-u-radnice.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/bruslim-u-radnice.jpg 383w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/bruslim-u-radnice-168x300.jpg 168w\" sizes=\"(max-width: 383px) 100vw, 383px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Dominantou kluziště je každoročně světelná dekorace uprostřed. V letošním roce je touto dekorací symbol nejen pro zamilované - strom srdce.</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/dominanta-kluziste-Snew.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/dominanta-kluziste-Snew.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/dominanta-kluziste-Snew-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Dohromady najdete ve Vídni 17 různě velkých vánočních trhů s celkem 905 stánky. </h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/jine-trhy-vidne-S.jpg\" alt=\"vánoční trhy Vídně\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/jine-trhy-vidne-S.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/jine-trhy-vidne-S-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/museum-quartier.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/museum-quartier.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/museum-quartier-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<ul><li><strong>Nejstarší vánoční trh</strong> s 250 letou tradicí je na <strong>náměstí Freyung</strong>, který nabízí nejen bio-produkty, ale i rukodělné výrobky.<br /><br /></li><li>Kulturní a vánoční trh <strong>před zámkem Schönbrunn</strong> okouzlí svou <strong>císařskou kulisou</strong> a po Vánocích se promění v novoroční trh.<br /><br /></li><li>Vánoční trhy <strong>u paláce Belvedere</strong> zapůsobí na návštěvníky svou <strong>barokní kulisou.</strong> Jedinečný zámecký park nabízí prostor pro tento poklidný vánoční trh s kvalitními řemeslnými výrobky a kulinářskými specialitami.<br /><br /></li><li>Ve „vánoční vesničce“ na <strong>náměstí Stephansplatz</strong> je dominantou tradice, asi 40 stánků na úpatí katedrály sv.Štěpána nabízí <strong><strong>vysoce kvalitní výrobky z Rakouska.</strong></strong><p> </p></li><li>Letošní <strong>novinkou je Ottakringer Christmas Magic</strong> na nádvoří pivovaru Ottakringer. Od čtvrtka do neděle tento městský vánoční trh nabízí <strong>kulinářské speciality a samozřejmě pivní punč Ottakringer.</strong></li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Korneuburg-S.jpg\" alt=\"vánoční trh 3\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Korneuburg-S.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Korneuburg-S-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Další více či méně známé trhy najdete např. u Opery, před Karlskirche a v dalších čtvrtích Vídně na jejich hlavních prostranstvích např. Favoriten, Meidling, Florisdorf a další.</h3>\t\t\n\t\t\t<h2>Chcete-li zažít atmosféru rakouských vánoc i vy, pak si návštěvu adventní Vídně nenechte ujít.</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"409\" height=\"640\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kocar-u-Stephansdomu-S.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kocar-u-Stephansdomu-S.jpg 409w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kocar-u-Stephansdomu-S-192x300.jpg 192w\" sizes=\"(max-width: 409px) 100vw, 409px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"1365\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-768x1365.jpg\" alt=\"vánoční Vídeň4\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-768x1365.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-506x900.jpg 506w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-864x1536.jpg 864w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/kone-rotated.jpg 1086w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"401\" height=\"652\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Advent-u-Stephansdomu2.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/Advent-u-Stephansdomu2.jpg 401w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/Advent-u-Stephansdomu2-185x300.jpg 185w\" sizes=\"(max-width: 401px) 100vw, 401px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"423\" height=\"618\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/strom-ve-Vidni.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/strom-ve-Vidni.jpg 423w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/strom-ve-Vidni-205x300.jpg 205w\" sizes=\"(max-width: 423px) 100vw, 423px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbí se ti moje články ze života češky v Rakousku? <br />Ráda ti dám o nových vědět e-mailem.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\">Pokud se chcete v Rakousku domluvit alespoň trochu německy a chcete si u toho užít zábavu, pak se vám bude hodit</p><p style=\"text-align: center;\"><strong>TAHÁK NA VÝUKU NĚMČINY-3 tipy, jak se učit hravě a vtipně.</strong></p>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/produkty-ke-stazeni/\" role=\"button\">\n\t\t\t\t\t\tzdarma ke stažení ZDE\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"452\" height=\"468\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/vystrizek-novy2.jpg\" alt=\"tahák na výuku němčiny\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/11/vystrizek-novy2.jpg 452w, https://sblankouzahranice.eu/wp-content/uploads/2022/11/vystrizek-novy2-290x300.jpg 290w\" sizes=\"(max-width: 452px) 100vw, 452px\" />",
+ "parent": 0,
+ "slug": "advent-in-wien",
+ "title": "Advent in Wien -Vánoční trhy ve Vídni",
+ "type": "post"
+}

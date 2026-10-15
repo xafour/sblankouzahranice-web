@@ -1,0 +1,1399 @@
+{
+ "ID": 2073,
+ "categories": [],
+ "date": "2021-02-20 17:32:11",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=tlacitko-2",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "section",
+        "elements": [
+         {
+          "elType": "column",
+          "elements": [
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "4964d1cc",
+            "settings": {
+             "align_tablet": "center",
+             "title": "s Blankou za hranice ",
+             "title_color": "#172305",
+             "typography_font_family": "Patua One",
+             "typography_font_weight": "600",
+             "typography_typography": "custom"
+            },
+            "widgetType": "heading"
+           }
+          ],
+          "id": "38b13f60",
+          "isInner": true,
+          "settings": {
+           "_column_size": 50,
+           "_inline_size": null
+          }
+         },
+         {
+          "elType": "column",
+          "elements": [
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "f6ba775",
+            "settings": {
+             "align_tablet": "center",
+             "editor": "<p>vlasti/denní rutiny</p>",
+             "text_color": "#111D03",
+             "typography_font_family": "Patua One",
+             "typography_font_size": {
+              "size": 24,
+              "sizes": [],
+              "unit": "px"
+             },
+             "typography_font_size_tablet": {
+              "size": 20,
+              "sizes": [],
+              "unit": "px"
+             },
+             "typography_font_weight": "600",
+             "typography_line_height_tablet": {
+              "size": 0.8,
+              "sizes": [],
+              "unit": "em"
+             },
+             "typography_typography": "custom"
+            },
+            "widgetType": "text-editor"
+           }
+          ],
+          "id": "6012dac6",
+          "isInner": true,
+          "settings": {
+           "_column_size": 50,
+           "_inline_size": null
+          }
+         }
+        ],
+        "id": "1fbc5dd6",
+        "isInner": true,
+        "settings": {
+         "structure": "20"
+        }
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "254c1c3c",
+        "settings": [],
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "778682c2",
+        "settings": {
+         "align": "left",
+         "header_size": "h3",
+         "title": "\n\n\n",
+         "typography_font_family": "Roboto",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 10,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "220eec48",
+        "settings": [],
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2aa0380c",
+        "settings": [],
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7f762a4b",
+        "settings": [],
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "section",
+        "elements": [
+         {
+          "elType": "column",
+          "elements": [],
+          "id": "1236b114",
+          "isInner": true,
+          "settings": {
+           "_column_size": 50,
+           "_inline_size": null
+          }
+         },
+         {
+          "elType": "column",
+          "elements": [],
+          "id": "c26e57d",
+          "isInner": true,
+          "settings": {
+           "_column_size": 50,
+           "_inline_size": null
+          }
+         }
+        ],
+        "id": "15f5d15d",
+        "isInner": true,
+        "settings": {
+         "structure": "20"
+        }
+       }
+      ],
+      "id": "613e5fd9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "content_position": "bottom"
+      }
+     }
+    ],
+    "id": "1ca95b18",
+    "isInner": false,
+    "settings": {
+     "background_attachment": "scroll",
+     "background_background": "classic",
+     "background_image": {
+      "id": 592,
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/02/uvodfoto.jpg"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#5A775F",
+     "background_overlay_color_b": "#1c393d",
+     "background_overlay_opacity": {
+      "size": 0.03,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_repeat": "no-repeat",
+     "background_size": "cover",
+     "content_width": {
+      "size": 800,
+      "sizes": [],
+      "unit": "px"
+     },
+     "css_filters_css_filter": "custom",
+     "custom_height": {
+      "size": 80,
+      "unit": "vh"
+     },
+     "custom_height_mobile": {
+      "size": 350,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height_tablet": {
+      "size": 300,
+      "unit": "px"
+     },
+     "height": "min-height",
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "overlay_blend_mode": "overlay",
+     "padding_mobile": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "50",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "shape_divider_bottom": "wave-brush",
+     "shape_divider_bottom_height": {
+      "size": 50,
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 40,
+      "sizes": [],
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33c3f630",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 593,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/02/bb5c-1.jpg"
+         },
+         "image_size": "full",
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 300,
+          "sizes": [],
+          "unit": "px"
+         },
+         "width_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "101e9533",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 35,
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "71ba2a22",
+        "settings": {
+         "header_size": "h4",
+         "text_shadow_text_shadow": {
+          "blur": 0,
+          "color": "rgba(0,0,0,0.3)",
+          "horizontal": -1,
+          "vertical": -1
+         },
+         "title": "s Blankou za hranice",
+         "title_color": "#020202E6",
+         "typography_font_family": "Patua One",
+         "typography_font_size": {
+          "size": 35,
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "size": "",
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "525a0685",
+        "settings": {
+         "gap": {
+          "size": 9,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1fae8bfa",
+        "settings": {
+         "editor": "<p><strong>Jsem žena, která vstoupila do druhé poloviny života tím, že svůj život již potřetí zcela zásadně změnila (skokem do neznáma).</strong></p><p><strong>Z Prahy hlavního města ČR, od života s dcerou a dobrého zaměstnání do Vídně, hlavního města Rakouska, k životu s mužem a bez vidiny dalšího pracovního uplatnění. </strong></p><p>Předávám svoji zkušenost z vlastní cesty životem o tom, jaké to je „skočit“, nevědět, kam nás proud zanese a „neutopit se“.</p><p>O tom, co znamená, ocitnout se za hranicí vlasti, své denní rutiny, vlastní komfortní zóny nebo i za hranicí města.</p><p>Jak se nezbláznit z nové situace, kdy se vám život zcela radikálně otočí.</p><p>Rady, návody a zkušenosti, které vám usnadní začátek za hranicemi, a to nejen ve Vídni.</p><p>Rady, návody a zkušenosti, které vám pomohou najít řád a stabilitu ve zdánlivém chaosu.</p><p><strong>Každý den přináší nové možnosti, život je výzva a cesta je cíl.</strong></p>",
+         "text_color": "#0E100E",
+         "typography_font_family": "Hammersmith One",
+         "typography_font_size": {
+          "size": 16,
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_font_weight": "300",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6e334931",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "background_color": "#219822",
+         "border_color": "#ffffff",
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "button_box_shadow_box_shadow": {
+          "blur": 6,
+          "color": "#ffffff",
+          "horizontal": 0,
+          "spread": 0,
+          "vertical": 0
+         },
+         "button_text_color": "#020101DB",
+         "size": "md",
+         "text": "Můj příběh zde",
+         "typography_font_family": "Tahoma",
+         "typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_text_transform": "none",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "3f3f4279",
+      "isInner": false,
+      "settings": {
+       "_column_size": 66,
+       "_inline_size": 64.997,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "20",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "6b7c7b30",
+    "isInner": false,
+    "settings": {
+     "content_position": "middle",
+     "gap": "wide",
+     "margin": {
+      "bottom": "100",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "100",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "80",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": "20",
+      "right": "20",
+      "top": "20",
+      "unit": "px"
+     },
+     "structure": "21"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4224f004",
+        "settings": {
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "section",
+        "elements": [
+         {
+          "elType": "column",
+          "elements": [
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "2c32aece",
+            "settings": {
+             "align": "center",
+             "align_tablet": "center",
+             "text_shadow_text_shadow": {
+              "blur": 0,
+              "color": "rgba(0,0,0,0.3)",
+              "horizontal": -1,
+              "vertical": -1
+             },
+             "title": "„10 tipů pro nalezení stability v nové zemi a nové životní situaci“",
+             "title_color": "#1E1F1DDE",
+             "typography_font_size": {
+              "size": "",
+              "unit": "px"
+             },
+             "typography_font_size_mobile": {
+              "size": "",
+              "unit": "px"
+             },
+             "typography_font_size_tablet": {
+              "size": "",
+              "unit": "px"
+             },
+             "typography_line_height": {
+              "size": "",
+              "unit": "px"
+             },
+             "typography_line_height_tablet": {
+              "size": "",
+              "sizes": [],
+              "unit": "px"
+             }
+            },
+            "widgetType": "heading"
+           },
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "13df435e",
+            "settings": {
+             "align": "center",
+             "editor": "<p>(Návod na to, kde hledat znovu opěrné body)</p>",
+             "text_color": "#0B0A0A",
+             "typography_font_family": "Roboto",
+             "typography_font_size": {
+              "size": 24,
+              "sizes": [],
+              "unit": "px"
+             },
+             "typography_font_weight": "600",
+             "typography_letter_spacing": {
+              "size": -0.5,
+              "sizes": [],
+              "unit": "px"
+             },
+             "typography_line_height": {
+              "size": 1.6,
+              "sizes": [],
+              "unit": "em"
+             },
+             "typography_typography": "custom"
+            },
+            "widgetType": "text-editor"
+           },
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "55bb653",
+            "settings": {
+             "align": "center",
+             "background_color": "#CE7D61",
+             "size": "lg",
+             "text": "JIŽ BRZY",
+             "typography_font_family": "Roboto",
+             "typography_font_size": {
+              "size": 24,
+              "sizes": [],
+              "unit": "px"
+             },
+             "typography_font_weight": "500",
+             "typography_typography": "custom"
+            },
+            "widgetType": "button"
+           },
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "12d2de1",
+            "settings": {
+             "_margin": {
+              "bottom": "0",
+              "isLinked": false,
+              "left": "0",
+              "right": "0",
+              "top": "0",
+              "unit": "px"
+             },
+             "_padding": {
+              "bottom": "0",
+              "isLinked": false,
+              "left": "0",
+              "right": "0",
+              "top": "0",
+              "unit": "px"
+             },
+             "align": "center",
+             "column_gap": {
+              "size": 16,
+              "sizes": [],
+              "unit": "px"
+             },
+             "editor": "<p>ZDARMA KE STAŽENÍ</p>",
+             "text_color": "#0A0909",
+             "text_columns": "1",
+             "typography_font_family": "Roboto",
+             "typography_font_size": {
+              "size": 21,
+              "unit": "px"
+             },
+             "typography_font_size_mobile": {
+              "size": "",
+              "unit": "px"
+             },
+             "typography_font_weight": "800",
+             "typography_letter_spacing": {
+              "size": -0.2,
+              "sizes": [],
+              "unit": "px"
+             },
+             "typography_line_height": {
+              "size": 0.9,
+              "sizes": [],
+              "unit": "em"
+             },
+             "typography_typography": "custom"
+            },
+            "widgetType": "text-editor"
+           }
+          ],
+          "id": "2739d6b2",
+          "isInner": true,
+          "settings": {
+           "_column_size": 100,
+           "_inline_size": null
+          }
+         }
+        ],
+        "id": "6d9d92dd",
+        "isInner": true,
+        "settings": {
+         "content_width": {
+          "size": 650,
+          "sizes": [],
+          "unit": "px"
+         },
+         "margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": 0,
+          "right": 0,
+          "top": "0",
+          "unit": "px"
+         },
+         "padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         }
+        }
+       },
+       {
+        "elType": "section",
+        "elements": [
+         {
+          "elType": "column",
+          "elements": [
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "2c60ef65",
+            "settings": {
+             "align": "center",
+             "image": {
+              "id": 285,
+              "url": "https://sblankouzahranice.eu/wp-content/uploads/2020/11/itojsemja.jpg"
+             },
+             "image_custom_dimension": {
+              "height": "230",
+              "width": "250"
+             },
+             "image_size": "custom"
+            },
+            "widgetType": "image"
+           },
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "6c686dfd",
+            "settings": {
+             "description_text": "Základní zajištění životních potřeb",
+             "image": {
+              "id": "",
+              "url": ""
+             },
+             "image_size": {
+              "size": 100,
+              "sizes": [],
+              "unit": "%"
+             },
+             "image_space": {
+              "size": 10,
+              "sizes": [],
+              "unit": "px"
+             },
+             "thumbnail_custom_dimension": {
+              "height": "60",
+              "width": "60"
+             },
+             "thumbnail_size": "custom",
+             "title_text": "NOVÉ MÍSTO"
+            },
+            "widgetType": "image-box"
+           }
+          ],
+          "id": "6ece4d42",
+          "isInner": true,
+          "settings": {
+           "_column_size": 33,
+           "_inline_size": null
+          }
+         },
+         {
+          "elType": "column",
+          "elements": [
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "31be8f2e",
+            "settings": {
+             "image": {
+              "id": 615,
+              "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/02/handsfrends.jpg"
+             },
+             "image_custom_dimension": {
+              "height": "230",
+              "width": "250"
+             },
+             "image_size": "custom"
+            },
+            "widgetType": "image"
+           },
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "409bc723",
+            "settings": {
+             "description_text": "Rodina, vztahy, přátelé, pomoc v nouzi",
+             "image": {
+              "id": "",
+              "url": ""
+             },
+             "image_size": {
+              "size": 100,
+              "sizes": [],
+              "unit": "%"
+             },
+             "image_space": {
+              "size": 10,
+              "sizes": [],
+              "unit": "px"
+             },
+             "thumbnail_custom_dimension": {
+              "height": "60",
+              "width": "60"
+             },
+             "thumbnail_size": "custom",
+             "title_text": "SOCIÁLNÍ VAZBY"
+            },
+            "widgetType": "image-box"
+           }
+          ],
+          "id": "7104c591",
+          "isInner": true,
+          "settings": {
+           "_column_size": 33,
+           "_inline_size": null
+          }
+         },
+         {
+          "elType": "column",
+          "elements": [
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "7907f942",
+            "settings": {
+             "image": {
+              "id": 308,
+              "url": "https://sblankouzahranice.eu/wp-content/uploads/2020/11/fotovsiti.jpg"
+             },
+             "image_custom_dimension": {
+              "height": "230",
+              "width": "250"
+             },
+             "image_size": "custom"
+            },
+            "widgetType": "image"
+           },
+           {
+            "elType": "widget",
+            "elements": [],
+            "id": "47f6bf97",
+            "settings": {
+             "description_text": "Relax, hoby, zájmy a záliby",
+             "image": {
+              "id": "",
+              "url": ""
+             },
+             "image_size": {
+              "size": 100,
+              "sizes": [],
+              "unit": "%"
+             },
+             "image_space": {
+              "size": 10,
+              "sizes": [],
+              "unit": "px"
+             },
+             "thumbnail_custom_dimension": {
+              "height": "60",
+              "width": "60"
+             },
+             "thumbnail_size": "custom",
+             "title_text": "DOBÍJEČ BATEREK"
+            },
+            "widgetType": "image-box"
+           }
+          ],
+          "id": "759749b8",
+          "isInner": true,
+          "settings": {
+           "_column_size": 33,
+           "_inline_size": null
+          }
+         }
+        ],
+        "id": "2182c31",
+        "isInner": true,
+        "settings": {
+         "structure": "30"
+        }
+       }
+      ],
+      "id": "1db9ba67",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "20",
+        "right": "20",
+        "top": "0",
+        "unit": "px"
+       },
+       "space_between_widgets": 5
+      }
+     }
+    ],
+    "id": "6973ee23",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_overlay_color": ""
+     },
+     "background_color": "#10E4DF",
+     "background_color_b": "#95F229",
+     "background_gradient_angle": {
+      "size": 280,
+      "sizes": [],
+      "unit": "deg"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#CCD730",
+     "background_overlay_color_b": "#7C8432D4",
+     "background_overlay_color_b_stop": {
+      "size": 88,
+      "unit": "%"
+     },
+     "background_overlay_color_stop": {
+      "size": 11,
+      "unit": "%"
+     },
+     "background_overlay_gradient_angle": {
+      "size": 150,
+      "unit": "deg"
+     },
+     "background_overlay_opacity": {
+      "size": 0.68,
+      "unit": "px"
+     },
+     "box_shadow_box_shadow": {
+      "blur": 10,
+      "color": "rgba(0,0,0,0.5)",
+      "horizontal": 55,
+      "spread": 0,
+      "vertical": 0
+     },
+     "box_shadow_box_shadow_type": "yes",
+     "column_position": "stretch",
+     "content_position": "middle",
+     "content_width": {
+      "size": 915,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height": {
+      "size": 350,
+      "unit": "px"
+     },
+     "custom_height_mobile": {
+      "size": 400,
+      "unit": "px"
+     },
+     "height": "full",
+     "margin": {
+      "bottom": "60",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "82",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "shape_divider_bottom_flip": "yes",
+     "shape_divider_bottom_height": {
+      "size": 21,
+      "unit": "px"
+     },
+     "shape_divider_bottom_width": {
+      "size": 100,
+      "unit": "%"
+     },
+     "shape_divider_top_above_content": "yes",
+     "shape_divider_top_height": {
+      "size": 70,
+      "unit": "px"
+     },
+     "shape_divider_top_height_mobile": {
+      "size": 9,
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5080a9ad",
+        "settings": {
+         "align": "left",
+         "editor": "<p>LEDNOVÁ DEKORACE</p>",
+         "text_color": "#2396D1",
+         "typography_font_family": "Patua One",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "400",
+         "typography_line_height": {
+          "size": 0.6,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "15d32edd",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "text_shadow_text_shadow": {
+          "blur": 0,
+          "color": "rgba(0,0,0,0.3)",
+          "horizontal": -1,
+          "vertical": -1
+         },
+         "title": "TVOŘTE SE MNOU",
+         "title_color": "#388020",
+         "typography_font_family": "Roboto",
+         "typography_font_size": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 2.1,
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "680748b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "editor": "<p>Ať jsem kde jsem...OPORU, UKOTVENÍ a STABILITU vždy nacházím v PŘÍRODĚ. A proto vám každý měsíc přináším návod na to, jak si se mnou pomocí jednoduchých dekorací přenést trochu přírody do svých domovů. </p>",
+         "text_color": "#0A0909ED",
+         "typography_font_family": "Patua One",
+         "typography_font_size": {
+          "size": 18,
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": "",
+          "unit": "px"
+         },
+         "typography_font_weight": "400",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "38906352",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "align_mobile": "left",
+         "border_color": "#ffffff",
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "button_box_shadow_box_shadow": {
+          "blur": 6,
+          "color": "#ffffff",
+          "horizontal": 0,
+          "spread": 0,
+          "vertical": 0
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://youtu.be/kmCHRWMAcuk"
+         },
+         "size": "md",
+         "text": "VIDEO ZDE",
+         "typography_letter_spacing": {
+          "size": "",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "35ef55fc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 48,
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "254ff843",
+        "settings": {
+         "image": {
+          "id": 532,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/01/Vystrizek-LEDNOV.DEKor_.jpg"
+         }
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5432bd72",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 52,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "40",
+        "unit": "px"
+       },
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "50765b71",
+    "isInner": false,
+    "settings": {
+     "content_position": "middle",
+     "gap": "wide",
+     "margin": {
+      "bottom": "100",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "100",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "80",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": "20",
+      "right": "20",
+      "top": "20",
+      "unit": "px"
+     },
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a08aa62",
+        "settings": {
+         "social_icon_list": [
+          {
+           "_id": "3af622b",
+           "social_icon": {
+            "library": "fa-brands",
+            "value": "fab fa-facebook"
+           }
+          },
+          {
+           "_id": "11e59f5",
+           "social_icon": {
+            "library": "fa-brands",
+            "value": "fab fa-facebook"
+           }
+          },
+          {
+           "_id": "cc37410",
+           "social_icon": {
+            "library": "fa-brands",
+            "value": "fab fa-youtube"
+           }
+          }
+         ]
+        },
+        "widgetType": "social-icons"
+       }
+      ],
+      "id": "5c355e9a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "2ddfef1",
+    "isInner": false,
+    "settings": []
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "Montserrat",
+   "astra_sites_body_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "500",
+   "astra_sites_body_line_height": {
+    "size": 1.8,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Montserrat', sans-serif",
+   "astra_sites_heading_1_font_family": "'Montserrat'",
+   "astra_sites_heading_1_font_size": {
+    "size": 69,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_line_height": {
+    "size": 1.3,
+    "unit": "em"
+   },
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Montserrat'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_line_height": {
+    "size": 1.3,
+    "unit": "em"
+   },
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Montserrat'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_line_height": {
+    "size": 1.3,
+    "unit": "em"
+   },
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Montserrat'",
+   "astra_sites_heading_4_font_size": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "600",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Montserrat'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "600",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Montserrat'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "600",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000000",
+   "astra_sites_link_color": "#007527",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#007527",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a"
+  },
+  "_elementor_template_type": "page",
+  "_wp_page_template": "elementor_header_footer"
+ },
+ "modified": "2021-02-20 17:32:11",
+ "obsah_wordpress": "<h2>s Blankou za hranice </h2>\t\t\n\t\t<p>vlasti/denní rutiny</p>\t\t\n\t\t\t<h3>\n</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t<img width=\"374\" height=\"666\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/02/bb5c-1.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/02/bb5c-1.jpg 374w, https://sblankouzahranice.eu/wp-content/uploads/2021/02/bb5c-1-168x300.jpg 168w\" sizes=\"(max-width: 374px) 100vw, 374px\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>s Blankou za hranice</h4>\t\t\n\t\t<p><strong>Jsem žena, která vstoupila do druhé poloviny života tím, že svůj život již potřetí zcela zásadně změnila (skokem do neznáma).</strong></p><p><strong>Z Prahy hlavního města ČR, od života s dcerou a dobrého zaměstnání do Vídně, hlavního města Rakouska, k životu s mužem a bez vidiny dalšího pracovního uplatnění. </strong></p><p>Předávám svoji zkušenost z vlastní cesty životem o tom, jaké to je „skočit“, nevědět, kam nás proud zanese a „neutopit se“.</p><p>O tom, co znamená, ocitnout se za hranicí vlasti, své denní rutiny, vlastní komfortní zóny nebo i za hranicí města.</p><p>Jak se nezbláznit z nové situace, kdy se vám život zcela radikálně otočí.</p><p>Rady, návody a zkušenosti, které vám usnadní začátek za hranicemi, a to nejen ve Vídni.</p><p>Rady, návody a zkušenosti, které vám pomohou najít řád a stabilitu ve zdánlivém chaosu.</p><p><strong>Každý den přináší nové možnosti, život je výzva a cesta je cíl.</strong></p>\t\t\n\t\t\t<a href=\"#\" role=\"button\">\n\t\t\t\t\t\tMůj příběh zde\n\t\t\t\t\t</a>\n\t\t\t<h2>„10 tipů pro nalezení stability v nové zemi a nové životní situaci“</h2>\t\t\n\t\t<p>(Návod na to, kde hledat znovu opěrné body)</p>\t\t\n\t\t\t<a href=\"#\" role=\"button\">\n\t\t\t\t\t\tJIŽ BRZY\n\t\t\t\t\t</a>\n\t\t<p>ZDARMA KE STAŽENÍ</p>\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/itojsemja-p2ib6lakefhpxnqmcd3l9po4rvpprdajlcd9200wak.jpg\" title=\"itojsemja\" alt=\"itojsemja\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>NOVÉ MÍSTO</h3><p>Základní zajištění životních potřeb</p>\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/handsfrends-p2iidh0corvpjdp7nrljhvven9q0qc166ooici6gl8.jpg\" title=\"handsfrends\" alt=\"handsfrends\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>SOCIÁLNÍ VAZBY</h3><p>Rodina, vztahy, přátelé, pomoc v nouzi</p>\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/fotovsiti-p2ib6lakefhpxnqmcd3l9po4rvpprdajlcd9200wak.jpg\" title=\"fotovsiti\" alt=\"fotovsiti\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>DOBÍJEČ BATEREK</h3><p>Relax, hoby, zájmy a záliby</p>\t\t\n\t\t<p>LEDNOVÁ DEKORACE</p>\t\t\n\t\t\t<h2>TVOŘTE SE MNOU</h2>\t\t\n\t\t<p>Ať jsem kde jsem...OPORU, UKOTVENÍ a STABILITU vždy nacházím v PŘÍRODĚ. A proto vám každý měsíc přináším návod na to, jak si se mnou pomocí jednoduchých dekorací přenést trochu přírody do svých domovů. </p>\t\t\n\t\t\t<a href=\"https://youtu.be/kmCHRWMAcuk\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tVIDEO ZDE\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<img width=\"677\" height=\"368\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/01/Vystrizek-LEDNOV.DEKor_.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/01/Vystrizek-LEDNOV.DEKor_.jpg 677w, https://sblankouzahranice.eu/wp-content/uploads/2021/01/Vystrizek-LEDNOV.DEKor_-300x163.jpg 300w\" sizes=\"(max-width: 677px) 100vw, 677px\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tYoutube\n\t\t\t\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "tlacitko-2",
+ "title": "tlačítko",
+ "type": "elementor_library"
+}

@@ -1,0 +1,676 @@
+{
+ "ID": 14871,
+ "categories": [],
+ "date": "2022-09-18 13:10:11",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=spoluprace-obrazek-vpravo",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "27891068",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_slideshow_gallery": [],
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_slideshow_gallery": [],
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "050d58a",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Pro firmy, zařízení nebo instituce mající zájem o terapeutický koncept Lesní mysl.",
+         "title_color": "#000000",
+         "typography_font_size": {
+          "size": 25,
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "648c260b",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_slideshow_gallery": [],
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_slideshow_gallery": [],
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "1",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "editor": "<p>Domníváš se, že se naše témata doplňují nebo že bychom mohly společně vytvořit smysluplný projekt?<br />Neváhej a napiš mi <a href=\"http://www.test.sblankouzahranice.eu/kontakt\"><span style=\"text-decoration: underline;\"><strong>ZDE.</strong></span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "74bef79",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "text_color": "#0C0C0C",
+         "typography_font_size": {
+          "size": 18,
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.8,
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5469ffec",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 60,
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_slideshow_gallery": [],
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_slideshow_gallery": [],
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_slideshow_gallery": [],
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_slideshow_gallery": [],
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "4d03907",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "35",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "25",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b858d78",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_slideshow_gallery": [],
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_slideshow_gallery": [],
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-50",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_size": "custom",
+         "_mask_size_scale": {
+          "size": 90,
+          "sizes": [],
+          "unit": "%"
+         },
+         "_mask_switch": "yes",
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 14870,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/09/soc.firmy-S.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "e861272",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "51abbfe1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 40,
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_slideshow_gallery": [],
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_slideshow_gallery": [],
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_slideshow_gallery": [],
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_slideshow_gallery": [],
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "b932dc1",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "6dc59acf",
+    "isInner": false,
+    "settings": {
+     "background_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_slideshow_gallery": [],
+     "background_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_slideshow_gallery": [],
+     "background_overlay_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_slideshow_gallery": [],
+     "background_overlay_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_slideshow_gallery": [],
+     "background_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "content_position": "middle",
+     "custom_height": {
+      "size": 800,
+      "unit": "px"
+     },
+     "gap": "no",
+     "pa_condition_repeater": [
+      {
+       "_id": "45fb6af",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "padding": {
+      "bottom": "10",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "10",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "50",
+      "isLinked": false,
+      "left": "20",
+      "right": "20",
+      "top": "50",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "100",
+      "isLinked": false,
+      "left": "25",
+      "right": "25",
+      "top": "100",
+      "unit": "px"
+     },
+     "structure": "20"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section"
+ },
+ "modified": "2022-09-18 13:10:11",
+ "obsah_wordpress": "<h4>Pro firmy, zařízení nebo instituce mající zájem o terapeutický koncept Lesní mysl.</h4>\t\t\n\t\t<p>Domníváš se, že se naše témata doplňují nebo že bychom mohly společně vytvořit smysluplný projekt?<br />Neváhej a napiš mi <a href=\"http://www.test.sblankouzahranice.eu/kontakt\"><strong>ZDE.</strong></a></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"525\" height=\"499\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/09/soc.firmy-S.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/09/soc.firmy-S.jpg 525w, https://sblankouzahranice.eu/wp-content/uploads/2022/09/soc.firmy-S-300x285.jpg 300w\" sizes=\"(max-width: 525px) 100vw, 525px\" />",
+ "parent": 0,
+ "slug": "spoluprace-obrazek-vpravo",
+ "title": "spolupráce obrázek vpravo",
+ "type": "elementor_library"
+}

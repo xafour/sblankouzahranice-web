@@ -1,0 +1,695 @@
+{
+ "ID": 13112,
+ "categories": [],
+ "date": "2022-08-04 16:02:16",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=rozcestnik",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1d9f7eb7",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "dcc4445",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "title": "Tipy na výlety v Rakousku"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1215bf28",
+        "settings": {
+         "_border_border": "solid",
+         "_border_color": "#414A3F",
+         "_border_width": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "home vylety",
+          "id": 12529,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/vylety.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "c2e28c3",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ]
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6b4126c1",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Příroda, památky, historie, zajímavá místa.</p><ul><li>Více než 5 let cestování v Rakousku.</li><li>Více než 150 tras a navštívených míst. </li><li>Více než 3 000 km prošlapaných cest.</li><li>Více než 1 000 hod v přírodě.</li><li>Okolí Vídně i celé Rakousko.</li><li>Pěší turistika i cyklo-turistika.</li><li>Pro dospělé i děti<br />a mnohem více...</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1972ed2",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "38eaf788",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-70",
+          "top": "-70",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-140",
+          "top": "-70",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-119",
+          "top": "-40",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "šipka",
+          "id": 12587,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/sipka-removebg2-preview.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a2b662b"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1203625a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_color": "#0A431B",
+       "border_width_tablet": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "5acdeea",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5c8b6bc4",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "dcc4445",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "title": "Přírodou zpátky k sobě"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7783ddeb",
+        "settings": {
+         "_border_border": "solid",
+         "_border_color": "#414A3F",
+         "_border_width": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "home priroda",
+          "id": 12530,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/prirodou-k-sobe2.png"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "c2e28c3",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ]
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "64a10794",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Regenerační procházky do přírody s využitím finského konceptu LESNÍ MYSL i zkušeností  z Tai-Chi a Qi-Gong.</p><ul><li>Regenerace.</li><li>Sebepoznávání.</li><li>Harmonizace.</li><li>Ozdravení.</li><li>Zpomalení, zastavení.</li><li>Koučing<br />a mnohem více...</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1972ed2",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5974082e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-70",
+          "top": "-70",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-140",
+          "top": "-70",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-121",
+          "top": "-40",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "šipka",
+          "id": 12587,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/sipka-removebg2-preview.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a2b662b"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f62ffc4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_color": "#0A431B",
+       "border_width_tablet": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "5acdeea",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18"
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "38f5d5f",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "dcc4445",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "title": "Jak se žije za hranicí vlasti"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e3f83d0",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-3",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "home za hranici",
+          "id": 12535,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/jak-se-zije-za-hranici2.png"
+         },
+         "image_border_border": "solid",
+         "image_border_color": "#0A431B",
+         "image_border_width": {
+          "bottom": "4",
+          "isLinked": true,
+          "left": "4",
+          "right": "4",
+          "top": "4",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c2e28c3",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ]
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "49e93ed2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Autentické příběhy žen o začátcích v nové zemi. Proč se některé ze světa vracíme a jiné tam zůstáváme.</p><ul><li>Anglie</li><li>Belgie</li><li>Holandsko</li><li>Švýcarsko</li><li>Rumunsko<br />     a další...</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1972ed2",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5f2483f2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "15",
+          "top": "-70",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-52",
+          "top": "-70",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "-40",
+          "top": "-40",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "šipka",
+          "id": 12587,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/sipka-removebg2-preview.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a2b662b"
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "48767492",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "dotted",
+       "border_color": "#0A431B",
+       "border_width_tablet": {
+        "bottom": "2",
+        "isLinked": true,
+        "left": "2",
+        "right": "2",
+        "top": "2",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "5acdeea",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "97fb79b",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#DEE5A3",
+     "margin": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d45700a",
+       "pa_condition_date": "2022/07/18",
+       "pa_condition_date_range": "2022/07/18"
+      }
+     ],
+     "structure": "30"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-08-04 16:02:17",
+ "obsah_wordpress": "<h2>Tipy na výlety v Rakousku</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"455\" height=\"397\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/vylety.jpg\" alt=\"home vylety\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/vylety.jpg 455w, https://sblankouzahranice.eu/wp-content/uploads/2022/07/vylety-300x262.jpg 300w\" sizes=\"(max-width: 455px) 100vw, 455px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Příroda, památky, historie, zajímavá místa.</p><ul><li>Více než 5 let cestování v Rakousku.</li><li>Více než 150 tras a navštívených míst. </li><li>Více než 3 000 km prošlapaných cest.</li><li>Více než 1 000 hod v přírodě.</li><li>Okolí Vídně i celé Rakousko.</li><li>Pěší turistika i cyklo-turistika.</li><li>Pro dospělé i děti<br />a mnohem více...</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"50\" height=\"21\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/sipka-removebg2-preview.png\" alt=\"\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Přírodou zpátky k sobě</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"400\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/prirodou-k-sobe2.png\" alt=\"home priroda\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/prirodou-k-sobe2.png 450w, https://sblankouzahranice.eu/wp-content/uploads/2022/07/prirodou-k-sobe2-300x267.png 300w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Regenerační procházky do přírody s využitím finského konceptu LESNÍ MYSL i zkušeností  z Tai-Chi a Qi-Gong.</p><ul><li>Regenerace.</li><li>Sebepoznávání.</li><li>Harmonizace.</li><li>Ozdravení.</li><li>Zpomalení, zastavení.</li><li>Koučing<br />a mnohem více...</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"50\" height=\"21\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/sipka-removebg2-preview.png\" alt=\"\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Jak se žije za hranicí vlasti</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"400\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/jak-se-zije-za-hranici2.png\" alt=\"home za hranici\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/jak-se-zije-za-hranici2.png 450w, https://sblankouzahranice.eu/wp-content/uploads/2022/07/jak-se-zije-za-hranici2-300x267.png 300w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Autentické příběhy žen o začátcích v nové zemi. Proč se některé ze světa vracíme a jiné tam zůstáváme.</p><ul><li>Anglie</li><li>Belgie</li><li>Holandsko</li><li>Švýcarsko</li><li>Rumunsko<br />     a další...</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"50\" height=\"21\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/sipka-removebg2-preview.png\" alt=\"\" loading=\"lazy\" />",
+ "parent": 0,
+ "slug": "rozcestnik",
+ "title": "rozcestnik",
+ "type": "elementor_library"
+}

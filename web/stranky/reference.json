@@ -1,0 +1,1586 @@
+{
+ "ID": 23091,
+ "categories": [],
+ "date": "2025-03-09 19:22:06",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/reference/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c873780",
+        "settings": {
+         "_element_custom_width_mobile": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Reference zákazníků .",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b625af6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height": {
+          "size": 400,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 140,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_tablet": {
+          "size": 315,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Zahlavi home-new.",
+          "id": 20121,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_tablet": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "567481d",
+        "settings": {
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-25",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Co o mých službách a produktech říkají klienti.",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "dedc233",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=c61b4ef"
+       },
+       "_column_size": 100,
+       "_inline_size": 100,
+       "_inline_size_mobile": 100,
+       "background_background": "classic",
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6c0b3d8",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1190,
+      "sizes": [],
+      "unit": "px"
+     },
+     "content_width_mobile": {
+      "size": 1560,
+      "sizes": [],
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59cc32f",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "anchor": "vsechnyreference",
+         "pa_condition_repeater": [
+          {
+           "_id": "4fc00f2",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "db799a6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "49432b5",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "80af7a6",
+        "settings": {
+         "description_text": "",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Reference individual",
+          "id": 23105,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/5.png"
+         },
+         "image_size": {
+          "size": 85,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-cestovni-podpora/#individualnipodporareference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Služba cestovní podpory pro jednotlivce",
+         "title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dc40154",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-cestovni-podpora/#individualnipodporareference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Reference od klientů",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "a3daf5f",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a8136a3",
+        "settings": {
+         "description_text": "",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "reference skupiny",
+          "id": 23104,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/1.png"
+         },
+         "image_size": {
+          "size": 85,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-s-programem-cestovni-podpora/#skupinovapodporareference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Služba cestovní podpory pro skupinky",
+         "title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "66aa420",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-s-programem-cestovni-podpora/#skupinovapodporareference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Reference od klientů",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "480ee1b",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6c7c4e2",
+        "settings": {
+         "description_text": "",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "vylety reference",
+          "id": 23112,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/3.png"
+         },
+         "image_size": {
+          "size": 85,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/vylety-v-rakousku/#vyletyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Skvělé tipy na výlety po Rakousku",
+         "title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "69e3b4c",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/vylety-v-rakousku/#vyletyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Reference od klientů",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "6047567",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ad3d457",
+    "isInner": false,
+    "settings": {
+     "content_width": {
+      "size": 1190,
+      "sizes": [],
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "97974dd",
+        "settings": {
+         "description_text": "",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Akce reference",
+          "id": 23120,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/7.png"
+         },
+         "image_size": {
+          "size": 85,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Akce a pobyty s Blankou",
+         "title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8b35161",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Reference od klientek",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "1454c71",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5fb187a",
+        "settings": {
+         "description_text": "",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Workshopy reference",
+          "id": 23121,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/8.png"
+         },
+         "image_size": {
+          "size": 85,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy/#workshopyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Workshopy a živé akce",
+         "title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "382820c",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy/#workshopyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Reference od klientů",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "02f1703",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b86894c",
+        "settings": {
+         "description_text": "",
+         "description_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "image": {
+          "alt": "Produkty reference",
+          "id": 23122,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/9.png"
+         },
+         "image_size": {
+          "size": 85,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 70,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/produkty-ke-stazeni/#produktyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Produkty ke stažení",
+         "title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d71e951",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/produkty-ke-stazeni/#produktyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Reference od klientů",
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "e11d650",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence8",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "68ed83d",
+    "isInner": false,
+    "settings": {
+     "content_width": {
+      "size": 1190,
+      "sizes": [],
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "8daaa77",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "84793f2",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d65c2dd",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "66f766b",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5789f42",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "67e58fe",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f3092f5",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "7a48dcd",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_tablet": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "83f7394",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c3072a5",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4fc6ba1",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6a868f9",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "960c44b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "45",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "65",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "left",
+         "align_tablet": "left",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "25621c0",
+           "pa_condition_date": "2022/09/18",
+           "pa_condition_date_range": "2022/09/18"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Chcete mi poslat zprávu nebo zpětnou vazbu? Udělejte to nejlépe hned zde.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "66d3fd0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d9f2ea1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "13de0e8",
+        "settings": {
+         "__globals__": {
+          "button_background_color": "globals/colors?id=kadence2",
+          "button_background_hover_color": "globals/colors?id=kadence3",
+          "button_hover_color": "globals/colors?id=kadence2",
+          "success_message_color": "globals/colors?id=kadence2"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "5",
+          "top": "0",
+          "unit": "px"
+         },
+         "activecampaign_fields_map": [],
+         "button_align": "start",
+         "button_border_radius": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "button_content_align": "center",
+         "button_size": "md",
+         "button_text": "Odeslat",
+         "button_typography_font_weight": "700",
+         "button_typography_typography": "custom",
+         "convertkit_fields_map": [],
+         "custom_messages": "yes",
+         "drip_fields_map": [],
+         "email_content": "[all-fields]",
+         "email_content_2": "[all-fields]",
+         "email_from": "blanka@sblankouzahranice.eu",
+         "email_from_2": "email@sblankouzahranice.eu",
+         "email_from_name": "s Blankou za hranice ",
+         "email_from_name_2": "s Blankou za hranice ",
+         "email_reply_to_2": "skryty-email@example.invalid",
+         "email_subject": "Nová zpráva z kontaktního formulář",
+         "email_subject_2": "New message from &quot;s Blankou za hranice &quot;",
+         "email_to": "blanka@sblankouzahranice.eu",
+         "email_to_2": "skryty-email@example.invalid",
+         "error_message": "Zřejmě došlo k chybě. Zkontrolujte prosím formulář nebo ho vyplňte znovu.",
+         "form_fields": [
+          {
+           "_id": "aebbecd",
+           "custom_id": "name",
+           "dynamic": {
+            "active": true
+           },
+           "field_label": "Jméno",
+           "placeholder": "Jméno a příjmení"
+          },
+          {
+           "_id": "48ca2f6",
+           "custom_id": "email",
+           "field_label": "Email",
+           "field_type": "email",
+           "placeholder": "Email",
+           "required": "true"
+          },
+          {
+           "_id": "6b9ebb1",
+           "custom_id": "message",
+           "field_label": "Zpráva",
+           "field_type": "textarea",
+           "placeholder": "Napiš mi"
+          },
+          {
+           "_id": "1c6f12e",
+           "acceptance_text": "Souhlasím se zpracováním osobních údajů v souladu se Zásadami ochrany osobních údajů.",
+           "custom_id": "field_1c6f12e",
+           "field_type": "acceptance",
+           "required": "true"
+          }
+         ],
+         "form_name": "New Form",
+         "form_validation": "custom",
+         "getresponse_fields_map": [],
+         "hover_transition_duration": {
+          "size": 0,
+          "sizes": [],
+          "unit": "ms"
+         },
+         "invalid_message": "Your submission failed because the form is invalid.",
+         "label_spacing": {
+          "size": 5,
+          "sizes": [],
+          "unit": "px"
+         },
+         "mailchimp_fields_map": [],
+         "mailerlite_fields_map": [],
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "required_field_message": "Toto pole je povinné.",
+         "row_gap": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "server_message": "Your submission failed because of a server error.",
+         "step_next_label": "Next",
+         "step_previous_label": "Previous",
+         "step_type": "text",
+         "success_message": "Děkuji za vaši zprávu, odpovím vám co možná nejrychleji."
+        },
+        "widgetType": "form"
+       }
+      ],
+      "id": "3343633",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "70398a9",
+    "isInner": false,
+    "settings": {
+     "content_width": {
+      "size": 1190,
+      "sizes": [],
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "10374",
+  "_wp_page_template": "elementor_header_footer",
+  "_yoast_wpseo_focuskw": "s Blankou za hranice - reference zákazníků",
+  "_yoast_wpseo_metadesc": "Reference zákazníků se službami projektu \"s Blankou za hranice\". Cestovní podpora ve Vídni, workshopy, akce a další.",
+  "_yoast_wpseo_title": "%%sitename%% %%sep%% %%sitedesc%%"
+ },
+ "modified": "2026-10-14 17:42:55",
+ "obsah_wordpress": "<h2>Reference zákazníků .</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"357\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1-900x357.png\" alt=\"Zahlavi home-new.\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1-900x357.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1-300x119.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1-768x304.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1-1536x609.png 1536w, https://sblankouzahranice.eu/wp-content/uploads/2024/03/Home-1.png 1640w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Co o mých službách a produktech říkají klienti.</h3>\t\t\t\t\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/#individualnipodporareference\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/5.png\" alt=\"Reference individual\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/#individualnipodporareference\">Služba cestovní podpory pro jednotlivce</a></h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/#individualnipodporareference\">\n\t\t\t\t\t\t\t\t\tReference od klientů\n\t\t\t\t\t</a>\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/viden-s-programem-cestovni-podpora/#skupinovapodporareference\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/1.png\" alt=\"reference skupiny\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/viden-s-programem-cestovni-podpora/#skupinovapodporareference\">Služba cestovní podpory pro skupinky</a></h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/viden-s-programem-cestovni-podpora/#skupinovapodporareference\">\n\t\t\t\t\t\t\t\t\tReference od klientů\n\t\t\t\t\t</a>\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/vylety-v-rakousku/#vyletyreference\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/3.png\" alt=\"vylety reference\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/vylety-v-rakousku/#vyletyreference\">Skvělé tipy na výlety po Rakousku</a></h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/vylety-v-rakousku/#vyletyreference\">\n\t\t\t\t\t\t\t\t\tReference od klientů\n\t\t\t\t\t</a>\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/7.png\" alt=\"Akce reference\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko\">Akce a pobyty s Blankou</a></h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko\">\n\t\t\t\t\t\t\t\t\tReference od klientek\n\t\t\t\t\t</a>\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/workshopy/#workshopyreference\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/8.png\" alt=\"Workshopy reference\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/workshopy/#workshopyreference\">Workshopy a živé akce</a></h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/workshopy/#workshopyreference\">\n\t\t\t\t\t\t\t\t\tReference od klientů\n\t\t\t\t\t</a>\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/produkty-ke-stazeni/#produktyreference\" tabindex=\"-1\"><img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/9.png\" alt=\"Produkty reference\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/produkty-ke-stazeni/#produktyreference\">Produkty ke stažení</a></h3>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/produkty-ke-stazeni/#produktyreference\">\n\t\t\t\t\t\t\t\t\tReference od klientů\n\t\t\t\t\t</a>\n\t\t\t\t\t<h3>Chcete mi poslat zprávu nebo zpětnou vazbu? Udělejte to nejlépe hned zde.</h3>",
+ "parent": 0,
+ "slug": "reference",
+ "title": "Reference",
+ "type": "page"
+}

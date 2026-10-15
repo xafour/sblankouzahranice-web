@@ -1,0 +1,2306 @@
+{
+ "ID": 17762,
+ "categories": [
+  "Historie Rakouska",
+  "Rakousko - Niederösterreich",
+  "Výlety",
+  "Zajímavá místa a unikáty"
+ ],
+ "date": "2023-04-30 16:35:54",
+ "excerpt": "Nedaleko hranic s Českou republikou leží v nadmořské výšce 520m okouzlující město Zwettl, které tvoří zeměpisný střed Waldviertelu a které se mimo jiné pyšní stavbou, kterou byste hledali spíše ve Vídni.",
+ "link": "https://sblankouzahranice.eu/zwettl-niederosterreich/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1c4fdef9",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#050505",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-street-view"
+         },
+         "size": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "363cbb79",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 6,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "30ece009",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-gem"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "56e2fdd2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "343089dc",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "15",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1de6d75f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 89.648,
+       "_inline_size_mobile": 83,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "7",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "3230148f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fbb1960",
+        "settings": {
+         "_margin": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Město Zwettl leží nedaleko hranic s Českou republikou, na soutoku dvou řek Zwettl a Kamp. \n",
+         "typography_font_size_mobile": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "cebb87c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "4bd8342",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8677079",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Nachází se v severním Rakousku, ve spolkové zemi Dolní Rakousy (Niederösterreich). <br />Leží v nadmořské výšce 520 metrů a tvoří zeměpisný střed Waldviertelu. <br />Co se týká plochy je to největší okres ve spolkové zemi Dolní Rakousko.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "b3803f9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "68ca8c3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c019f0d",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17768,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto2-S-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5cf68d1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33d7800",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17763,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto1-S-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2f190ca",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "9313975",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5e01302",
+        "settings": {
+         "align_mobile": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Vzdálenost z Českých Budějovic cca 1 hod autem(80km) a od Vídně 1,5 hod autem (125 km). Proto je Zwettl příhodným místem pro návstěvníky z obou zemí.",
+         "typography_font_size_mobile": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ca7f663",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "cf3d43f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "015e4f2",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Zwettl svým hostům nabízí mnoho rozmanitých zážitků, nejen návštěvu kulturních památek, ale také sportovní vyžití i pestrou škálu akcí pro příznivce zábavy.</p><p style=\"text-align: center;\">Opominout nesmíme ani kulinářské speciality. <br />K pohostinství Zwettlu samozřejmě patří lahodné „pivo Zwettler“ a s velkou dávkou vynalézavosti je v restauracích Zwettl připravována nabídka regionálních specialit.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9de49c4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "4b34efc",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ba7f334",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "46",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<blockquote><p><strong>Náš tip</strong>: ochutnejte „Stift Zwettler“ filet z kapra v krustě s mákem “. Na této specialitě si zde pochutnával můj partner, který byl ke kombinaci zpočátku trochu skeptický. Po obědě však přiznal, že se jednalo o zajímavý a netradiční kulinářský zážitek a že svého výběru nelituje.</p></blockquote>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "521038c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c1f7906",
+        "settings": {
+         "image": {
+          "alt": "Zwettl gastronomie",
+          "id": 17769,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-scaled.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2d0c7a2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "e6f016b",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=secondary"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "15",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "15",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59abd82",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Co vše můžete ve městě Zwettl vidět a zažít:",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "e8a842d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "f3e20c2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "05506fb",
+        "settings": {
+         "editor": "<p><strong>1.</strong> Na náměstí Hauptplatz stojí řada měšťanských domů a budova Radnice s freskami z 15. století. Především je však <strong>dominantou náměstí Hundertwasserova kašna,</strong> která ho zdobí. Podobnou kašnu od stejného umělce najdete i ve Vídni u domu Hundertwasserhaus, což je známý turistický cíl většiny návštěvníků Vídně.<br /><em>* kdo byl Hundertwasser? <strong><span style=\"text-decoration: underline;\"><a href=\"#hundertwasser\">Najdete na konci článku</a></span></strong>.</em></p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c899b82",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "2c83607",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "046ad32",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-4",
+          "unit": "px"
+         },
+         "caption": "Kašna Hundertwasser ve Zwettlu",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Zwettl",
+          "id": 17773,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-kasna-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2c9c5cc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9c388da",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "caption": "Kašna Hundertwasser ve Vídni",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Hundertwasser kasna ve Vidni",
+          "id": 17774,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserkasna-ve-Vidni.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "580",
+          "width": "450"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "29a07a3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3fe334b",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17ac36c",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17777,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-6-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0986093",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f65acd",
+        "settings": {
+         "caption": "Radnice",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Zwettl",
+          "id": 17776,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-radnice-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d4d5503",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2319068",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17775,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-3-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8e10c01",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "59b57cf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a4b2cc1",
+        "settings": {
+         "editor": "<p><strong>2. Hradby</strong> - staré hradby vysoké 917 m se šesti věžemi. Zwettl patří k těm městům Dolního Rakouska, které se ještě dnes těší ochraně historickými hradbami. Procházka kolem hradeb vás unese na zajímavou cestu do historie města, které bylo založeno ve 12. století.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "085df53",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "f4bb3e5",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8a9240b",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17781,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-2V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "615",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f125e9c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "52fd53f",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17782,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwettl-hradby.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "615",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "08fce78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "7063c66",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8f5d22a",
+        "settings": {
+         "_margin": {
+          "bottom": "30",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "03",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "editor": "<p><strong>3. Turistické stezky</strong>- na jednu z hezkých tras můžete vykročit hned uprostřed města, kde začíná turistická stezka „Wasserwunderweg Nr. 55a“ oceněná Rakouskou značkou kvality v oblasti turistiky. Výšlap začíná u Hundertwasserovy kašny a pokračuje ven do idylického údolí Kamptal. <br />Můžete si však vybrat i z mnoha dalších tras a turistických stezek různé délky i obtížnosti.</p><p style=\"text-align: center;\">Anebo jednoduše nasedněte na kola, silniční nebo horská – region Zwettl znamená svobodu na dvou kolech pro celou rodinu.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2877dca",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "af6e3e3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f5c4073",
+        "settings": {
+         "image": {
+          "alt": "Zwetll",
+          "id": 17789,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/turisticke-trasy-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9bcf625",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d435495",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17790,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Turist.mapa-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "510",
+          "width": "350"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0692521",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ed90a73",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17791,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Turistic.trasy-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "513",
+          "width": "350"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "406e7fd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "2030829",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33acd6e",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17792,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/turist.trasa-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e877b44",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b98317b",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17793,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/turist.trasa_.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "555",
+          "width": "350"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "82b1d80",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c4fffc8",
+        "settings": {
+         "image": {
+          "alt": "Zwettl",
+          "id": 17794,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/trasa-V-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e04ce69",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "956b41b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a0ce792",
+        "settings": {
+         "editor": "<p><strong>4. Kultura</strong>- pokud máte raději kulturu, vydat se můžete na průzkum blízkého <strong>cisterciáckého kláštera Zwettl.</strong> Klášter byl založen roku 1138.</p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "06bece1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "f8c1996",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "10642ce",
+        "settings": {
+         "image": {
+          "alt": "Zwettl klaster",
+          "id": 17798,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Klaster-Zwetll.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5c48536",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "ce7c1d9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e23703c",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Celá oblast Niederösterreich - Dolní Rakousko je z hlediska turistiky a návštěvnosti v porovnání s Vídní stále ještě takovou \"opomíjenou popelkou\", přitom zde najdeme opravdové klenoty a nádherná města i místa k navštívení. ",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b4e8207",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "589611d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e930e88",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "left",
+         "editor": "<p style=\"text-align: center;\">Proto doporučuji podívat se i na další tipy <br /><span style=\"text-decoration: underline;\"><a href=\"https://sblankouzahranice.eu/category/vylety/https:/sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\"><strong>na výlety v oblasti Niederösterreich .</strong></a></span></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "85c323f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "b8a623c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=secondary"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f91e1ad",
+        "settings": {
+         "anchor": "hundertwasser",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "d265d75",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "3f102c7",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83c34ae",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=text"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-comment-dots"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "862cbae",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=text"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "* Kdo byl Hundertwasser?"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8b97777",
+        "settings": {
+         "editor": "<p>Friedensreich Regentag Dunkelbunt Hundertwasser, vlastním jménem Friedrich Stowasser (nar.15. prosince 1928 ve Vídni a zemřel 19. února 2000 na palubě zaoceánské lodi Queen Elizabeth 2), byl rakouský mnohostranný umělec a průkopník ekologického přístupu k životu. <br />Proslavil se především jako architekt, malíř a grafik. Byl samotářem, hodně cestoval a učil se cizí jazyky.<br /><br /></p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ab28d58",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "14a2b39",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5eee468",
+        "settings": {
+         "editor": "<p>Jeho nejznámější rakouské dílo stojí ve Vídni a nese název Hundertwasserhaus.<br />Oblé linie a inspirace přírodními tvary dává tušit, že Hundertwasser byl inspirován vídeňskou secesí, ovlivnil ho Gaudí i Schiele. <br />Ve Vídni nalezneme řadu jeho staveb, na které se dodnes jezdí dívat zástupy turistů.</p><p>Hundertwasserhaus ve Vídni je budova postavená ve 3. vídeňském okrese. Stavba byla postavena v letech 1983 až 1985. Toto dílo je známé po celém světě.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "89e6b7a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "609a838",
+        "settings": {
+         "image": {
+          "alt": "Hundertwasser Viden",
+          "id": 17821,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserhaus-ve-Vidni-S-s.jpg"
+         },
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ef3370e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "d33606e",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-42",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "faa3cb3",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=text"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "title": "Ale není již tolik známo, že jeho stavby najdeme i v dolnorakouském Zwetllu. A proč zrovna toto místo?"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "773991e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "cebd3f5",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a95734b",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Tento muž vlastnil od 70. let starý mlýn na břehu řeky Kamp nad Zwettlem.</p><p style=\"text-align: center;\">Vedení města se podařilo přesvědčit mistra Hundertwassera, aby naplánoval a postavil fontánu na hlavním náměstí.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c585e86",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "a860049",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f0ef5d0",
+        "settings": {
+         "image": {
+          "alt": "Hundertwasser Zwettl",
+          "id": 17822,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-Hundertwasser-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "620",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ead4ff0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17587fc",
+        "settings": {
+         "image": {
+          "alt": "Hundertwasser Zwettl",
+          "id": 17823,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-Kasna-Hundertwasser-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "620",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a972430",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "7338d15",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "91791e7",
+        "settings": {
+         "_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>A z tohoto důvodu můžeme tedy vidět dvě podobné fontány stejného rukopisu jednoho umělce jak ve Vídni, tak ve městě Zwetll.</strong></p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "45481b1",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence1"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "eefde6d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "81149e7",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6e58de1",
+        "settings": {
+         "image": {
+          "alt": "Hundertwasser kašny",
+          "id": 17824,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/dve-kasny-Hundertwasserhaus.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "700",
+          "width": "1000"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0ecee7c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "658be6f",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "44d12fa",
+        "settings": {
+         "align_tablet": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "title": "Jak poznáme jeho umělecký rukopis:",
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "222182a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "35",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-26",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: left;\">Hundertwasserovy stavby hýří barvami a jsou propleteny přírodninami. Stromy a keře vyrůstají na střechách i po stěnách staveb. <br /><br /><strong>Jeho architektura pro něj byla součástí přírody.</strong></p><p style=\"text-align: left;\"><strong>Hundertwasser byl velkým ekologem.</strong></p><p>Pryč s přímými čarami a racionalistickou architekturou.<br />Hundertwasser tvrdil, že rovné čáry se v přírodě nevyskytují.</p><p>Příznivcem strohé geometrie, která začínala v jeho době pozvolna ovládat moderní architekturu, rozhodně nebyl.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "4667333",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9f8eee1",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "caption": "náměstí ve Zwettlu",
+         "caption_source": "custom",
+         "image": {
+          "alt": "Zwettl",
+          "id": 17828,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-namesti-Hundertwasser-V-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bcb3528",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "d9c06b1",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "pa_condition_repeater": [],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8122672",
+        "settings": {
+         "pa_condition_repeater": [],
+         "title": ""
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8017d37",
+        "settings": {
+         "editor": "<blockquote><p style=\"text-align: center;\"><strong>„Rovná čára vede k zániku lidstva. Spirála je symbolem života a smrti,“</strong></p><p style=\"text-align: center;\">Friedensreich Hundertwasser<sup id=\"cite_ref-Sch_1-0\" class=\"reference\"></sup></p></blockquote>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "83c8d3d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "05372d3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=secondary"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e6341d9",
+        "settings": {
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Myšlenky tohoto muže, jsou mi blízké a moudrost, která přetrvává věky a je nadčasová se odráží v jeho názorech na svět.</p><p><strong>Hundertwasser se snažil žít v souladu s přírodou a nebýt závislý na běžné společnosti a jejích zvycích. <br /></strong>Patrně nejznámějším příkladem jeho výstřednosti nebo moudrosti? je veřejná demonstrace, při níž se snažil vysvětlit kolemjdoucím, že člověk nepotřebuje peníze, protože se dokáže uživit jen tím, co najde v přírodě. Populární se stala jeho snaha zužitkovat veškerý odpad, který člověk vyprodukuje. Oblečení si většinou vyráběl sám; muselo být z přírodních materiálů a praktické, čímž záměrně vyvolával pozornost a budil pozdvižení.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "40bb62a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "ef834dc",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8",
+      "border_color": "globals/colors?id=secondary"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_radius": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "37317004",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>",
+         "pa_condition_repeater": [],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3db09ac5",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "d02e4bb",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "108cbf19",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "17765",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Zwettl",
+  "_yoast_wpseo_metadesc": "Město Zwettl tvoří zeměpisný střed Waldviertelu a najdete zde jednu raritu, která toto město propojuje zvláštním fenoménem s Vídní."
+ },
+ "modified": "2023-05-01 19:19:18",
+ "obsah_wordpress": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>\t\t\n\t\t\t<h2>Město Zwettl leží nedaleko hranic s Českou republikou, na soutoku dvou řek Zwettl a Kamp. \n</h2>\t\t\n\t\t<p style=\"text-align: center;\">Nachází se v severním Rakousku, ve spolkové zemi Dolní Rakousy (Niederösterreich). <br />Leží v nadmořské výšce 520 metrů a tvoří zeměpisný střed Waldviertelu. <br />Co se týká plochy je to největší okres ve spolkové zemi Dolní Rakousko.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto2-S-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto2-S-s.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto2-S-s-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto1-S-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto1-S-s.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Pohled-na-mesto1-S-s-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Vzdálenost z Českých Budějovic cca 1 hod autem(80km) a od Vídně 1,5 hod autem (125 km). Proto je Zwettl příhodným místem pro návstěvníky z obou zemí.</h3>\t\t\n\t\t<p style=\"text-align: center;\">Zwettl svým hostům nabízí mnoho rozmanitých zážitků, nejen návštěvu kulturních památek, ale také sportovní vyžití i pestrou škálu akcí pro příznivce zábavy.</p><p style=\"text-align: center;\">Opominout nesmíme ani kulinářské speciality. <br />K pohostinství Zwettlu samozřejmě patří lahodné „pivo Zwettler“ a s velkou dávkou vynalézavosti je v restauracích Zwettl připravována nabídka regionálních specialit.</p><blockquote><p><strong>Náš tip</strong>: ochutnejte „Stift Zwettler“ filet z kapra v krustě s mákem “. Na této specialitě si zde pochutnával můj partner, který byl ke kombinaci zpočátku trochu skeptický. Po obědě však přiznal, že se jednalo o zajímavý a netradiční kulinářský zážitek a že svého výběru nelituje.</p></blockquote>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"215\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-215x300.jpg\" alt=\"Zwettl gastronomie\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-215x300.jpg 215w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-644x900.jpg 644w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-768x1073.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-1099x1536.jpg 1099w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-1465x2048.jpg 1465w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Kapr-v-maku-scaled.jpg 1832w\" sizes=\"(max-width: 215px) 100vw, 215px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Co vše můžete ve městě Zwettl vidět a zažít:</h3>\t\t\n\t\t<p><strong>1.</strong> Na náměstí Hauptplatz stojí řada měšťanských domů a budova Radnice s freskami z 15. století. Především je však <strong>dominantou náměstí Hundertwasserova kašna,</strong> která ho zdobí. Podobnou kašnu od stejného umělce najdete i ve Vídni u domu Hundertwasserhaus, což je známý turistický cíl většiny návštěvníků Vídně.<br /><em>* kdo byl Hundertwasser? <strong><a href=\"#hundertwasser\">Najdete na konci článku</a></strong>.</em></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zwetll-kasna-V-s-q5p1xetqi77fm8mrem3xjk1n6r1f8ry15mgyycb980.jpg\" title=\"Zwetll kasna\" alt=\"Zwettl\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Kašna Hundertwasser ve Zwettlu</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"443\" height=\"591\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserkasna-ve-Vidni.jpg\" alt=\"\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserkasna-ve-Vidni.jpg 443w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserkasna-ve-Vidni-225x300.jpg 225w\" sizes=\"(max-width: 443px) 100vw, 443px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Kašna Hundertwasser ve Vídni</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-6-V-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-6-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-6-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"426\" height=\"615\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-radnice-V-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-radnice-V-s.jpg 426w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-radnice-V-s-208x300.jpg 208w\" sizes=\"(max-width: 426px) 100vw, 426px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Radnice</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-3-V-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-3-V-s.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Zwetll-3-V-s-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong>2. Hradby</strong> - staré hradby vysoké 917 m se šesti věžemi. Zwettl patří k těm městům Dolního Rakouska, které se ještě dnes těší ochraně historickými hradbami. Procházka kolem hradeb vás unese na zajímavou cestu do historie města, které bylo založeno ve 12. století.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zwetll-2V-s-q5p2dgwh9b6v0wwpsgscx2jmksnsfihmr4i9eghds6.jpg\" title=\"Zwetll-2V&#8211;s\" alt=\"Zwettl\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zwettl-hradby-q5p2g5put8ve8r0334mxjw43rhelgc5zgfp9uazxom.jpg\" title=\"Zwettl hradby\" alt=\"Zwettl hradby\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong>3. Turistické stezky</strong>- na jednu z hezkých tras můžete vykročit hned uprostřed města, kde začíná turistická stezka „Wasserwunderweg Nr. 55a“ oceněná Rakouskou značkou kvality v oblasti turistiky. Výšlap začíná u Hundertwasserovy kašny a pokračuje ven do idylického údolí Kamptal. <br />Můžete si však vybrat i z mnoha dalších tras a turistických stezek různé délky i obtížnosti.</p><p style=\"text-align: center;\">Anebo jednoduše nasedněte na kola, silniční nebo horská – region Zwettl znamená svobodu na dvou kolech pro celou rodinu.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"423\" height=\"618\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/turisticke-trasy-V-s.jpg\" alt=\"Zwetll\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/turisticke-trasy-V-s.jpg 423w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/turisticke-trasy-V-s-205x300.jpg 205w\" sizes=\"(max-width: 423px) 100vw, 423px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Turist.mapa-V-s-q5p2pgcd6et0f3h2ofhbo41c6mgfcj95dz32gi7be4.jpg\" title=\"Zwettl Turist.mapa &#8211; V-s\" alt=\"Zwettl\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Turistic.trasy-V-s-q5p2qhxwrs8hxlh6t5w6antocunu1ek5ccjmik90ne.jpg\" title=\"Zwettl Turistic.trasy &#8211; V-s\" alt=\"Zwettl\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"408\" height=\"641\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/turist.trasa-V-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/turist.trasa-V-s.jpg 408w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/turist.trasa-V-s-191x300.jpg 191w\" sizes=\"(max-width: 408px) 100vw, 408px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/turist.trasa_-q5p2v0jzm4fcbi76nkfgren0vxchypq0bkiil9w75a.jpg\" title=\"Zwettl turist.trasa\" alt=\"Zwettl\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"405\" height=\"646\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/trasa-V-s.jpg\" alt=\"Zwettl\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/trasa-V-s.jpg 405w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/trasa-V-s-188x300.jpg 188w\" sizes=\"(max-width: 405px) 100vw, 405px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong>4. Kultura</strong>- pokud máte raději kulturu, vydat se můžete na průzkum blízkého <strong>cisterciáckého kláštera Zwettl.</strong> Klášter byl založen roku 1138.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"521\" height=\"324\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Klaster-Zwetll.jpg\" alt=\"Zwettl klaster\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Klaster-Zwetll.jpg 521w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Klaster-Zwetll-300x187.jpg 300w\" sizes=\"(max-width: 521px) 100vw, 521px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Celá oblast Niederösterreich - Dolní Rakousko je z hlediska turistiky a návštěvnosti v porovnání s Vídní stále ještě takovou \"opomíjenou popelkou\", přitom zde najdeme opravdové klenoty a nádherná města i místa k navštívení. </h3>\t\t\n\t\t<p style=\"text-align: center;\">Proto doporučuji podívat se i na další tipy <br /><a href=\"https://sblankouzahranice.eu/category/vylety/https:/sblankouzahranice.eu/category/vylety/rakousko-niederosterreich/\"><strong>na výlety v oblasti Niederösterreich .</strong></a></p>\t\t\n\t\t\t<h2>* Kdo byl Hundertwasser?</h2>\t\t\n\t\t<p>Friedensreich Regentag Dunkelbunt Hundertwasser, vlastním jménem Friedrich Stowasser (nar.15. prosince 1928 ve Vídni a zemřel 19. února 2000 na palubě zaoceánské lodi Queen Elizabeth 2), byl rakouský mnohostranný umělec a průkopník ekologického přístupu k životu. <br />Proslavil se především jako architekt, malíř a grafik. Byl samotářem, hodně cestoval a učil se cizí jazyky.<br /><br /></p><p>Jeho nejznámější rakouské dílo stojí ve Vídni a nese název Hundertwasserhaus.<br />Oblé linie a inspirace přírodními tvary dává tušit, že Hundertwasser byl inspirován vídeňskou secesí, ovlivnil ho Gaudí i Schiele. <br />Ve Vídni nalezneme řadu jeho staveb, na které se dodnes jezdí dívat zástupy turistů.</p><p>Hundertwasserhaus ve Vídni je budova postavená ve 3. vídeňském okrese. Stavba byla postavena v letech 1983 až 1985. Toto dílo je známé po celém světě.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"591\" height=\"443\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserhaus-ve-Vidni-S-s.jpg\" alt=\"Hundertwasser Viden\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserhaus-ve-Vidni-S-s.jpg 591w, https://sblankouzahranice.eu/wp-content/uploads/2023/04/Hundertwasserhaus-ve-Vidni-S-s-300x225.jpg 300w\" sizes=\"(max-width: 591px) 100vw, 591px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Ale není již tolik známo, že jeho stavby najdeme i v dolnorakouském Zwetllu. A proč zrovna toto místo?</h3>\t\t\n\t\t<p style=\"text-align: center;\">Tento muž vlastnil od 70. let starý mlýn na břehu řeky Kamp nad Zwettlem.</p><p style=\"text-align: center;\">Vedení města se podařilo přesvědčit mistra Hundertwassera, aby naplánoval a postavil fontánu na hlavním náměstí.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zwetll-Hundertwasser-V-s-q5s7g9bte9smy7q5ye32boco8f6gluua8c58ji0bi0.jpg\" title=\"Zwetll Hundertwasser-V-s\" alt=\"Zwetll Hundertwasser-V-s\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zwetll-Kasna-Hundertwasser-V-s-q5s7haxczn83um7juuc53ev3zu155qzjpi8nr14piw.jpg\" title=\"Zwetll &#8211; Kasna Hundertwasser &#8211; V-s\" alt=\"Zwetll - Kasna Hundertwasser - V-s\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>A z tohoto důvodu můžeme tedy vidět dvě podobné fontány stejného rukopisu jednoho umělce jak ve Vídni, tak ve městě Zwetll.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/dve-kasny-Hundertwasserhaus-q5s7lqq3yokkdd4tu8dlebrevmlr59zt4yjtni4lso.jpg\" title=\"dve kasny Hundertwasserhaus\" alt=\"dve kasny Hundertwasserhaus\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Jak poznáme jeho umělecký rukopis:</h4>\t\t\n\t\t<p style=\"text-align: left;\">Hundertwasserovy stavby hýří barvami a jsou propleteny přírodninami. Stromy a keře vyrůstají na střechách i po stěnách staveb. <br /><br /><strong>Jeho architektura pro něj byla součástí přírody.</strong></p><p style=\"text-align: left;\"><strong>Hundertwasser byl velkým ekologem.</strong></p><p>Pryč s přímými čarami a racionalistickou architekturou.<br />Hundertwasser tvrdil, že rovné čáry se v přírodě nevyskytují.</p><p>Příznivcem strohé geometrie, která začínala v jeho době pozvolna ovládat moderní architekturu, rozhodně nebyl.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Zwetll-namesti-Hundertwasser-V-s-q5s7vouflcwzgfudzch31v038dfjpspeu0lmrftnjk.jpg\" title=\"Zwetll namesti Hundertwasser-V-s\" alt=\"Zwetll namesti Hundertwasser-V-s\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>náměstí ve Zwettlu</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<blockquote><p style=\"text-align: center;\"><strong>„Rovná čára vede k zániku lidstva. Spirála je symbolem života a smrti,“</strong></p><p style=\"text-align: center;\">Friedensreich Hundertwasser<sup id=\"cite_ref-Sch_1-0\"></sup></p></blockquote><p style=\"text-align: center;\">Myšlenky tohoto muže, jsou mi blízké a moudrost, která přetrvává věky a je nadčasová se odráží v jeho názorech na svět.</p><p><strong>Hundertwasser se snažil žít v souladu s přírodou a nebýt závislý na běžné společnosti a jejích zvycích. <br /></strong>Patrně nejznámějším příkladem jeho výstřednosti nebo moudrosti? je veřejná demonstrace, při níž se snažil vysvětlit kolemjdoucím, že člověk nepotřebuje peníze, protože se dokáže uživit jen tím, co najde v přírodě. Populární se stala jeho snaha zužitkovat veškerý odpad, který člověk vyprodukuje. Oblečení si většinou vyráběl sám; muselo být z přírodních materiálů a praktické, čímž záměrně vyvolával pozornost a budil pozdvižení.</p><p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "zwettl-niederosterreich",
+ "title": "Zwettl, Niederösterreich a jeho stavba, kterou hledají turisté spíše ve Vídni.",
+ "type": "post"
+}

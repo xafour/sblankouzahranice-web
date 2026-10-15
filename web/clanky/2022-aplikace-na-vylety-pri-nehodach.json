@@ -1,0 +1,1822 @@
+{
+ "ID": 11635,
+ "categories": [
+  "Blog",
+  "Cestování",
+  "Ze života v Rakousku"
+ ],
+ "date": "2022-04-24 19:11:49",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/aplikace-na-vylety-pri-nehodach/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "31544e5",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "a594303",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Mobilní aplikace pro komunikaci se záchranými složkami by se měla stát nezbytnou součástí výbavy, než vyrazíte na výlet do hor či nepřehledných míst.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "96c5cc8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8c601c9",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "87491d2",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#CDD38F",
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "525b40f",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "991c8e9",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "53",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Už se vám někdy stalo, že se vám nebo vašim blízký stal na výletě nějaký úraz, nebo nehoda, nenadálá zdravotní příhoda a vy jste najednou v tom zmatku nevěděli co dřív? </p><p>Dokážete si představit, že jen proto, že jste se včas nedokázali rozhodnout nebo zorientovat, jak přivolat pomoc, se celá situace stala vážnější a dramatičtější?</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "38fd751",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f884149",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2bcc995",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f49dbe9",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "21",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "",
+          "id": 11675,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/Lezim-na-ceste-S-s.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "f1ccc7a",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a65b3e1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2bcc995",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c82e62a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "7c312e1",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c808afa",
+        "settings": {
+         "align": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "154f019",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pokud ne, jste šťastni a pokud ano, pak jistě víte, že v takové chvíli rozhodují:",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "0dd5417",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "11475a0",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ad7216c",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "1d05ab2",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "acb266e",
+        "settings": {
+         "icon_align": "left",
+         "icon_color": "#0A431B",
+         "icon_list": [
+          {
+           "_id": "0e06488",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-alt-circle-right"
+           },
+           "text": "Minuty"
+          },
+          {
+           "_id": "c687fcc",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-alt-circle-right"
+           },
+           "text": "Vaše koncentrace a schopnost reálně uvažovat"
+          },
+          {
+           "_id": "91ca46b",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-alt-circle-right"
+           },
+           "text": "Znalosti první pomoci"
+          },
+          {
+           "_id": "4fb5177",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-arrow-alt-circle-right"
+           },
+           "text": "Chytré mobilní aplikace usnadňující přivolání pomoci"
+          }
+         ],
+         "icon_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "7580724",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between_mobile": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "3edd454",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e3d66de",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b085817",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "2c078fe",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6a4d117",
+        "settings": {
+         "align_mobile": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "b0cf2db",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "A právě o tom posledním bodě chci dnes napsat, protože je to právě ten nejdůležitější. Ten ve finále podpoří všechny ty předchozí. ",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "d49c7a3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "0117e8d",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "773d672",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b8054a9",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "941b2de",
+        "settings": {
+         "editor": "<p>Já sama jsem po osobní zkušenosti s těžkým úrazem v horách, v terénu lesa a při velmi chladném počasí před pár dny. Proto se už bez chytrých aplikací na výlet nevydám. Můžou vám totiž zachránit život nebo minimálně minuty bolestí. A řeknu vám, při těžkém a bolavém úraze o minuty rozhodně jde.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "23fa490",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "501410d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "36e26e5",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "71daed5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "48ec54b",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7bab3ab",
+        "settings": {
+         "image": {
+          "alt": "zranění na výletě",
+          "id": 11653,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/prijizdi-zachrana-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "630",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "34640c8",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "fbfb3ef",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "27f4b46",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "395edcd",
+        "settings": {
+         "image": {
+          "alt": "záchranka úraz",
+          "id": 11654,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/v-nositkach-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "600",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "2c0108e",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "eafd6a6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2a6657c",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6e5c819",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "eadda17",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "50b71f5",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "a594303",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "A která to jsou? Jsou to aplikace, které vám pomůžou s rychlou identifikací polohy při úraze nebo nenadálé potřebě pomoci na výletě, túře či trakingu. \nJsou velmi důležité pro urychlení a komunikaci se záchrannými složkami.\n",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "9be669b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8c601c9",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "66bfd2d",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#CDD38F",
+     "margin_tablet": {
+      "bottom": "31",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "31",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "525b40f",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "087f6f2",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "ef2139a",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Podívejme se teď na dvě z nich:",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "769f29a",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "d6fb5ba",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-angle-double-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "aa54ec0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3787135",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9999186",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "3748b8b",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cdb2efb",
+        "settings": {
+         "editor": "<p>v<strong><span style=\"color: #333399;\"> ČR</span></strong> lze doporučit aplikaci <a href=\"https://www.zachrankaapp.cz/\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #ff0000; text-decoration: underline;\">ZÁCHRANKA.</span></strong></span></a><br />Tuto aplikaci si do svého mobilu stáhlo již více než 1 900 000 lidí a v březnu 2022 oslavila již 6 let fungování.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0db472c",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "81a590c",
+        "settings": {
+         "editor": "<p>Aplikace Záchranka skvěle funguje v České republice, na Slovensku, ale i v Rakousku a nově teď i v Maďarsku.<br />V nouzi jedním stiskem tlačitka odešle GPS polohu, zdravotní údaje, kontakty na osoby blízké a další informace příslušné záchranné službě toho daného státu, kde se člověk zrovna nachází.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "d5d8dbc",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b842d02",
+        "settings": {
+         "image": {
+          "alt": "aplikace zachranka",
+          "id": 11663,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/zachranka-logo-S.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "25d0a65",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "869ab39",
+        "settings": {
+         "editor": "<p>v <strong><span style=\"color: #ff0000;\">Rakousku</span></strong> vznikla sesterská aplikace <a href=\"https://play.google.com/store/apps/details?id=eu.medicalit.notruf&amp;hl=cs&amp;gl=US&amp;pli=1\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #ff0000; text-decoration: underline;\">RETTUNG </span></strong></span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ef9a719",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3ce5e3e",
+        "settings": {
+         "editor": "<p>Sesterská aplikace „Rettung“, je dostupná pro rakouské občany. Fungovat pro ně bude stejně, jako aplikace Záchranka pro Čechy. Rakušané tak při příjezdu do ČR nebudou muset instalovat aplikaci Záchranka a přes Rettung předají nouzovou zprávu a zavolají na českou zdravotnickou záchrannou službu. Systém aplikace Záchranka je natolik dobrý, že se ho Rakousko rozhodlo plně převzít. Aplikace Záchranka má na území České republiky výborné výsledky, které přesvědčily Rakousko o tom, aby vyvinuli její rakouskou sestru Rettung.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6a2acc2",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a77e438",
+        "settings": {
+         "image": {
+          "alt": "aplikace rettung",
+          "id": 11664,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/lide-s-aplikaci-S-s.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "c863aea",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e98bedb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9311d7d",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a4584dd",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#FBF9F9",
+     "border_border": "solid",
+     "border_color": "#DA4040",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "907ec45",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1a2847e",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "901ce79",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "\nPropojení systému tísňového volání pomocí aplikací v obou státech je jedním z výsledků přeshraniční spolupráce záchranných služeb v Česku a Rakousku.\n",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ac2d2f6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4615608",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b54b47e",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#CDD38F",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "025",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ab5009d",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c3eb4fa",
+        "settings": {
+         "editor": "<p style=\"text-align: left;\">Hlavní předností tedy je, že občané Rakouska i České republiky mají ve svých aplikacích implementovaný záchranný systém obou států. Bez nutnosti instalací zahraničních aplikací se jim dostane stejné pomoci, jako by volali na tísňovou linku doma. V krizové situaci tak nemusí zdlouhavě přemýšlet nad tím, jakou tísňovou linku daný stát má, anebo jak popíšou v cizím jazyce místo, kde se nacházejí.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "715f496",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d93f138",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "cf30782",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1a305e3",
+    "isInner": false,
+    "settings": {
+     "margin_tablet": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "005db73",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b6e0669",
+        "settings": {
+         "image": {
+          "alt": "jde o minuty",
+          "id": 11671,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/vystrizek-jde-o-minuty-S-s.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "6b65201",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2f09eee",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d637143",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "be11004",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "e7f4a96",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f17a46c",
+        "settings": {
+         "editor": "<p><strong>CHECKLIST na výlety</strong> – 10 věcí na které je dobré myslet, než se vydáte na výlet.</p><p> </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "706ad0f",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3608872",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Budu muset po této zkušenosti doplnit.</p><p><strong>Nově bude jmenovat 10+1 věcí...</strong></p><p>Přibyde do něj, jak jinak, než chytrá aplikace.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "982e4f9",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4a0b065",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-235",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-295",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-287",
+          "unit": "px"
+         },
+         "align": "center",
+         "background_color": "#A2A770",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/checklist-na-vylety/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "b2a49ad",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Ke stažení zde"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "e610234",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "95b8f21",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4bda5be",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-18",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "31",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "checklist na bote",
+          "id": 7329,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "f1604ef",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f215890",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2dad869",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "391e884",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#CDD38F",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "border_width_tablet": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "45",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7a4a3f0",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "78f6953",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "22",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "e4061f1",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Na závěr pak ještě malé zamyšlení:",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "f5a3ba8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "10dc9f3",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cc2f129",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "7ee8d06",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5a6f6e6",
+        "settings": {
+         "editor": "<p>Přináším vám už přes rok tipy na výletování v oblasti Rakouska a informace o moudrosti přírody i o jejích darech pro nás lidi.</p><p>Vždy jsem psala o tom, jak si přírodu užívat všemi smysly – zrak, čich, chuť, hmat a sluch jsou známou \"pětkou\", kterou umí všichni vyjmenovat. Nicméně od teď budu uvádět i šestý „smysl“ a tím je <strong>EMOCE VDĚČNOSTI.</strong></p><p>Teprve nyní, když nemohu chodit a jít na výlet plně prožívám, jak velkou vděčnost bychom měli mít, že je kolem nás příroda a hlavně, že do ní můžeme dojít a užívat si ji.</p><p style=\"text-align: center;\"><strong>NENÍ TO SAMOZŘEJMOST.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "c785b6c",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9023e3f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "fef1ec6",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "30ae65b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "5cd4211",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b15adfb",
+        "settings": {
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "823923c",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vydávejte se tedy do přírody s láskou, pokorou, úctou i obezřetností, ať neuškodíte přírodě ani sobě. ",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "400",
+         "typography_letter_spacing_mobile": {
+          "size": -0.5,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "bbf966b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d329e7f",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "725612e",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "90b55a8",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "017410e",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "823923c",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Šťastné výletování se stejně šťastnými návraty.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing_mobile": {
+          "size": -0.5,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9b85166",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "00c3c9f",
+           "pa_condition_date": "2023/02/09",
+           "pa_condition_date_range": "2023/02/09"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-smile"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "3a34411",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d329e7f",
+         "pa_condition_date": "2023/02/09",
+         "pa_condition_date_range": "2023/02/09"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4ea6301",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "90b55a8",
+       "pa_condition_date": "2023/02/09",
+       "pa_condition_date_range": "2023/02/09"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "15964",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Mobilní aplikace záchranka a rettung",
+  "_yoast_wpseo_metadesc": "Mobilní aplikace na výlety záchranka a rettung vám může zachránit život. Někdy jde o minuty a tyto aplikace výrazně pomohou."
+ },
+ "modified": "2026-03-01 15:23:43",
+ "obsah_wordpress": "<h2>Mobilní aplikace pro komunikaci se záchranými složkami by se měla stát nezbytnou součástí výbavy, než vyrazíte na výlet do hor či nepřehledných míst.</h2>\t\t\t\t\n\t\t<p>Už se vám někdy stalo, že se vám nebo vašim blízký stal na výletě nějaký úraz, nebo nehoda, nenadálá zdravotní příhoda a vy jste najednou v tom zmatku nevěděli co dřív? </p><p>Dokážete si představit, že jen proto, že jste se včas nedokázali rozhodnout nebo zorientovat, jak přivolat pomoc, se celá situace stala vážnější a dramatičtější?</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Lezim-na-ceste-S-s-qr9gokkqfoa7hfimim71xbgsoi3gy636r796wozigo.jpg\" title=\"Lezim na ceste-S-s\" alt=\"Lezim na ceste-S-s\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h4>Pokud ne, jste šťastni a pokud ano, pak jistě víte, že v takové chvíli rozhodují:</h4>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMinuty\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVaše koncentrace a schopnost reálně uvažovat\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZnalosti první pomoci\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChytré mobilní aplikace usnadňující přivolání pomoci\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t<h3>A právě o tom posledním bodě chci dnes napsat, protože je to právě ten nejdůležitější. Ten ve finále podpoří všechny ty předchozí. </h3>\t\t\t\t\n\t\t<p>Já sama jsem po osobní zkušenosti s těžkým úrazem v horách, v terénu lesa a při velmi chladném počasí před pár dny. Proto se už bez chytrých aplikací na výlet nevydám. Můžou vám totiž zachránit život nebo minimálně minuty bolestí. A řeknu vám, při těžkém a bolavém úraze o minuty rozhodně jde.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/prijizdi-zachrana-S-v-qr9gokkqfoc306qrtnu62rpty6zc5lm3bpe1jyxwv0.jpg\" title=\"prijizdi zachrana-S-v\" alt=\"zranění na výletě\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/v-nositkach-S-v-qr9gokkqfobwv7jhiu8fimytu1g2ru0qjnqoxsv1v4.jpg\" title=\"v nositkach-S-v\" alt=\"v nositkach-S-v\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>A která to jsou? Jsou to aplikace, které vám pomůžou s rychlou identifikací polohy při úraze nebo nenadálé potřebě pomoci na výletě, túře či trakingu. \nJsou velmi důležité pro urychlení a komunikaci se záchrannými složkami.\n</h3>\t\t\t\t\n\t\t\t\t\t<h2>Podívejme se teď na dvě z nich:</h2>\t\t\t\t\n\t\t<p>v<strong> ČR</strong> lze doporučit aplikaci <a href=\"https://www.zachrankaapp.cz/\" target=\"_blank\" rel=\"noopener\"><strong>ZÁCHRANKA.</strong></a><br />Tuto aplikaci si do svého mobilu stáhlo již více než 1 900 000 lidí a v březnu 2022 oslavila již 6 let fungování.</p><p>Aplikace Záchranka skvěle funguje v České republice, na Slovensku, ale i v Rakousku a nově teď i v Maďarsku.<br />V nouzi jedním stiskem tlačitka odešle GPS polohu, zdravotní údaje, kontakty na osoby blízké a další informace příslušné záchranné službě toho daného státu, kde se člověk zrovna nachází.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"88\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/zachranka-logo-S-300x88.jpg\" alt=\"aplikace zachranka\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/zachranka-logo-S-300x88.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/zachranka-logo-S.jpg 554w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>v <strong>Rakousku</strong> vznikla sesterská aplikace <a href=\"https://play.google.com/store/apps/details?id=eu.medicalit.notruf&amp;hl=cs&amp;gl=US&amp;pli=1\" target=\"_blank\" rel=\"noopener\"><strong>RETTUNG </strong></a></p><p>Sesterská aplikace „Rettung“, je dostupná pro rakouské občany. Fungovat pro ně bude stejně, jako aplikace Záchranka pro Čechy. Rakušané tak při příjezdu do ČR nebudou muset instalovat aplikaci Záchranka a přes Rettung předají nouzovou zprávu a zavolají na českou zdravotnickou záchrannou službu. Systém aplikace Záchranka je natolik dobrý, že se ho Rakousko rozhodlo plně převzít. Aplikace Záchranka má na území České republiky výborné výsledky, které přesvědčily Rakousko o tom, aby vyvinuli její rakouskou sestru Rettung.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"139\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/lide-s-aplikaci-S-s-300x139.jpg\" alt=\"aplikace rettung\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/lide-s-aplikaci-S-s-300x139.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/lide-s-aplikaci-S-s.jpg 753w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>\nPropojení systému tísňového volání pomocí aplikací v obou státech je jedním z výsledků přeshraniční spolupráce záchranných služeb v Česku a Rakousku.\n</h3>\t\t\t\t\n\t\t<p style=\"text-align: left;\">Hlavní předností tedy je, že občané Rakouska i České republiky mají ve svých aplikacích implementovaný záchranný systém obou států. Bez nutnosti instalací zahraničních aplikací se jim dostane stejné pomoci, jako by volali na tísňovou linku doma. V krizové situaci tak nemusí zdlouhavě přemýšlet nad tím, jakou tísňovou linku daný stát má, anebo jak popíšou v cizím jazyce místo, kde se nacházejí.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"674\" height=\"388\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/vystrizek-jde-o-minuty-S-s.jpg\" alt=\"jde o minuty\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/vystrizek-jde-o-minuty-S-s.jpg 674w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/vystrizek-jde-o-minuty-S-s-300x173.jpg 300w\" sizes=\"(max-width: 674px) 100vw, 674px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong>CHECKLIST na výlety</strong> – 10 věcí na které je dobré myslet, než se vydáte na výlet.</p><p> </p><p>Budu muset po této zkušenosti doplnit.</p><p><strong>Nově bude jmenovat 10+1 věcí...</strong></p><p>Přibyde do něj, jak jinak, než chytrá aplikace.</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/checklist-na-vylety/\">\n\t\t\t\t\t\t\t\t\tKe stažení zde\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"225\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web-225x300.jpg\" alt=\"checklist na bote\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web-225x300.jpg 225w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg 432w\" sizes=\"(max-width: 225px) 100vw, 225px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Na závěr pak ještě malé zamyšlení:</h2>\t\t\t\t\n\t\t<p>Přináším vám už přes rok tipy na výletování v oblasti Rakouska a informace o moudrosti přírody i o jejích darech pro nás lidi.</p><p>Vždy jsem psala o tom, jak si přírodu užívat všemi smysly – zrak, čich, chuť, hmat a sluch jsou známou \"pětkou\", kterou umí všichni vyjmenovat. Nicméně od teď budu uvádět i šestý „smysl“ a tím je <strong>EMOCE VDĚČNOSTI.</strong></p><p>Teprve nyní, když nemohu chodit a jít na výlet plně prožívám, jak velkou vděčnost bychom měli mít, že je kolem nás příroda a hlavně, že do ní můžeme dojít a užívat si ji.</p><p style=\"text-align: center;\"><strong>NENÍ TO SAMOZŘEJMOST.</strong></p>\t\t\n\t\t\t\t\t<h5>Vydávejte se tedy do přírody s láskou, pokorou, úctou i obezřetností, ať neuškodíte přírodě ani sobě. </h5>\t\t\t\t\n\t\t\t\t\t<h3>Šťastné výletování se stejně šťastnými návraty.</h3>",
+ "parent": 0,
+ "slug": "aplikace-na-vylety-pri-nehodach",
+ "title": "Aplikace na výlety, která vám může zachránit život",
+ "type": "post"
+}
