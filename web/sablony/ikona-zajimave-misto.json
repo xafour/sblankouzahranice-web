@@ -1,0 +1,231 @@
+{
+ "ID": 6667,
+ "categories": [],
+ "date": "2021-06-05 16:12:34",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=ikona-zajimave-misto",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "41422949",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-2",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "primary_color": "#050505",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-street-view"
+         },
+         "size": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "d5adc12",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 6
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "10aa4b19",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-6",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "primary_color": "#030303",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-gem"
+         },
+         "size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "1b468ec3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2238c36",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "15",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "14",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6dceeed7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 89.648,
+       "_inline_size_mobile": 83,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "7",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     }
+    ],
+    "id": "42f4d8e9",
+    "isInner": false,
+    "settings": {
+     "structure": "30"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2021-06-05 16:12:34",
+ "obsah_wordpress": "<p><strong>Zajímavé místo, stojí za návštěvu.</strong></p>",
+ "parent": 0,
+ "slug": "ikona-zajimave-misto",
+ "title": "IKONA zajímavé místo",
+ "type": "elementor_library"
+}

@@ -1,0 +1,330 @@
+{
+ "ID": 19979,
+ "categories": [],
+ "date": "2024-01-08 22:32:51",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=moje-nabidka-na-konec-prispevku",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "172aa506",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=accent"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "4",
+          "isLinked": true,
+          "left": "4",
+          "right": "4",
+          "top": "4",
+          "unit": "px"
+         },
+         "_element_custom_width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "-7",
+          "isLinked": true,
+          "left": "-7",
+          "right": "-7",
+          "top": "-7",
+          "unit": "px"
+         },
+         "description_text": "Přihlaste se ZDE.\nA buďte informováni.\n",
+         "image": {
+          "alt": "Vylety SEO",
+          "id": 19960,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/VYLETY-PO-RAKOUSKU-optim.vel_.png"
+         },
+         "image_size": {
+          "size": 93,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 75,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_custom_dimension": {
+          "height": "310",
+          "width": "350"
+         },
+         "thumbnail_size": "custom",
+         "title_bottom_space_tablet": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Odběr novinek."
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "5d558f5e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5d781aee",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=accent"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "4",
+          "isLinked": true,
+          "left": "4",
+          "right": "4",
+          "top": "4",
+          "unit": "px"
+         },
+         "description_text": "Využijte pomoc a podporu ve Vídni.",
+         "image": {
+          "alt": "Home-viden s podporou",
+          "id": 18794,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/viden-s-podporou-S.png"
+         },
+         "image_size": {
+          "size": 87,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 75,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-s-podporou-za-zady/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Cestovní podpora."
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "8c6098b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "75eedfdd",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=accent"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "4",
+          "isLinked": true,
+          "left": "4",
+          "right": "4",
+          "top": "4",
+          "unit": "px"
+         },
+         "description_text": "S programem a malou skupinkou.",
+         "image": {
+          "alt": "Viden s podporou",
+          "id": 18910,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/kalendar.jpg"
+         },
+         "image_size": {
+          "size": 84,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_size_mobile": {
+          "size": 75,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-s-podporou-za-zady/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_text": "Tématické výlety."
+        },
+        "widgetType": "image-box"
+       }
+      ],
+      "id": "48323096",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7662acb7",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=kadence2"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "4",
+          "isLinked": true,
+          "left": "4",
+          "right": "4",
+          "top": "4",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "1",
+          "isLinked": true,
+          "left": "1",
+          "right": "1",
+          "top": "1",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "description_text": "@s Blankou za hranice-Vídeň",
+         "icon_size": {
+          "size": 108,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size_mobile": {
+          "size": 80,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size_tablet": {
+          "size": 102,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/sblankouzahraniceviden/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-facebook"
+         },
+         "title_text": "Sledujte mě na Facebooku."
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "4b139303",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1c4e7cf0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2024-01-08 22:32:51",
+ "obsah_wordpress": "<figure><a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" tabindex=\"-1\" rel=\"noopener\"><img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/VYLETY-PO-RAKOUSKU-optim.vel_-qi10sb2t9o6zvdrjrkyeo3t9iyprvc6q54ltg4rt0c.png\" title=\"VYLETY PO RAKOUSKU-optim.vel.\" alt=\"Vylety SEO\" loading=\"lazy\" /></a></figure><h3><a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" rel=\"noopener\">Odběr novinek.</a></h3><p>Přihlaste se ZDE.\nA buďte informováni.\n</p>\t\t\n\t\t\t<figure><a href=\"https://sblankouzahranice.eu/viden-s-podporou-za-zady/\" target=\"_blank\" tabindex=\"-1\" rel=\"noopener\"><img width=\"500\" height=\"471\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/viden-s-podporou-S.png\" alt=\"Home-viden s podporou\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/viden-s-podporou-za-zady/\" target=\"_blank\" rel=\"noopener\">Cestovní podpora.</a></h3><p>Využijte pomoc a podporu ve Vídni.</p>\t\t\n\t\t\t<figure><a href=\"https://sblankouzahranice.eu/viden-s-podporou-za-zady/\" target=\"_blank\" tabindex=\"-1\" rel=\"noopener\"><img width=\"652\" height=\"627\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/kalendar.jpg\" alt=\"Viden s podporou\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/viden-s-podporou-za-zady/\" target=\"_blank\" rel=\"noopener\">Tématické výlety.</a></h3><p>S programem a malou skupinkou.</p>\t\t\n\t\t\t\t<a href=\"https://www.facebook.com/sblankouzahraniceviden/\" target=\"_blank\" tabindex=\"-1\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t<h3>\n\t\t\t\t\t<a href=\"https://www.facebook.com/sblankouzahraniceviden/\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tSledujte mě na Facebooku.\t\t\t\t\t</a>\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t@s Blankou za hranice-Vídeň\t\t\t\t\t</p>",
+ "parent": 0,
+ "slug": "moje-nabidka-na-konec-prispevku",
+ "title": "Moje nabidka na konec prispevku",
+ "type": "elementor_library"
+}

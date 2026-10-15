@@ -1,0 +1,2774 @@
+{
+ "ID": 6312,
+ "categories": [],
+ "date": "2021-05-22 10:48:03",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/checklist-na-vylety/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2de88db",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "054e5dc",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "CHECKLIST - 10 věcí, na které je dobré myslet, než se vydáte na výlet",
+         "title_color": "#0A431B",
+         "typography_font_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "58e6ee3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a888536",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c06ff39",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "de5bf2d",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ff73fd4",
+        "settings": {
+         "__globals__": {
+          "marker_color": "globals/colors?id=kadence2"
+         },
+         "after_text": "na cestách a výletech",
+         "before_text": "Co zabalit do batohu",
+         "highlighted_text": "pro pohodu",
+         "pa_condition_repeater": [],
+         "rotating_text": "Better\nBigger\nFaster",
+         "stroke_width": {
+          "size": 8,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#D23D3D"
+        },
+        "widgetType": "animated-headline"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b8eba06",
+        "settings": {
+         "color": "#0A431B",
+         "pa_condition_repeater": [
+          {
+           "_id": "cd0a677",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "64e84d7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3538d64",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "e85f23d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "12c22bd",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "006498a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "39",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "70",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 7329,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "1000",
+          "width": "950"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "f6579fa",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "48ddc38",
+        "settings": {
+         "_margin": {
+          "bottom": "18",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "35",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "23",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "4d9e244",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "I vy můžete mít ještě dnes tuto pomůcku:\n\n",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5080a5d",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "55",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "20",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_align": "left",
+         "icon_list": [
+          {
+           "_id": "3c153af",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           },
+           "text": "ušetřit si tak čas před každou cestou či výletem"
+          },
+          {
+           "_id": "634e441",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           },
+           "text": "vydat se na výlet bez stresu, co jste zapomněli"
+          },
+          {
+           "_id": "ebf9296",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           },
+           "text": "usnadnit si řešení nenadálých příhod na cestách"
+          }
+         ],
+         "icon_size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "space_between": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2eb1b42",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "16",
+          "unit": "px"
+         },
+         "gap": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "e2134f5",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "bfda93c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "406624c",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "633d04e",
+        "settings": {
+         "Badge_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "Badge_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "Badge_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "Badge_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "Badge_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "badge_align_h_tablet": "8",
+         "badge_border_radius": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "badge_border_radius_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "badge_border_radius_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size_mobile": {
+          "size": 33,
+          "sizes": [],
+          "unit": "px"
+         },
+         "inline_icon_align_mobile": "flex-start",
+         "inline_icon_align_tablet": "flex-start",
+         "list": [
+          {
+           "_id": "3872f22",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": " Přemýšlíte před výletem co vše vzít, ale nemít těžký batoh?",
+           "premium_icon_list_font_updated": {
+            "library": "fa-regular",
+            "value": "far fa-flushed"
+           }
+          },
+          {
+           "_id": "54c5921",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "Zjistíte většinou až cestou, že by se hodilo něco, co nemáte?",
+           "premium_icon_list_font_updated": {
+            "library": "fa-regular",
+            "value": "far fa-smile"
+           }
+          },
+          {
+           "_id": "97e637f",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "Rádi byste měli svůj vlastní seznam pro pohodlné použití?",
+           "premium_icon_list_font_updated": {
+            "library": "fa-regular",
+            "value": "far fa-check-circle"
+           }
+          }
+         ],
+         "list_divider_width_tablet": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_item_border_radius_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "list_item_border_radius_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "list_item_margin": {
+          "bottom": "5",
+          "isLinked": false,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "list_item_margin_mobile": {
+          "bottom": "3",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "3",
+          "unit": "px"
+         },
+         "list_item_margin_tablet": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "list_items_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "list_title_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "list_title_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "list_title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "list_title_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "89416d0",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "premium-icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "acee8bc",
+        "settings": {
+         "_border_border": "solid",
+         "_border_color": "#1C6E1C",
+         "_border_radius": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "_border_width": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "9",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>V tom případě se vám určitě hodí tento <br /><strong><span style=\"color: #008000;\">CHECKLIST s praktickou přílohou \"váš osobní seznam věcí\".</span></strong></p><p><span style=\"color: #003300;\"><strong>S touto jedinečnou přílohou, pro jednoduchý přehled a odškrtnutí nutných věcí, vám příprava na cestu nebo výlet přijde snadná a rychlá.</strong></span></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a4591ad",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.3,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33d83b8",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "25",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/y7g3p8"
+         },
+         "pa_condition_repeater": [],
+         "text": "TO POTŘEBUJI",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "66d3a39",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=kadence2",
+          "words_color": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "17",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "after_text": "checklistu:",
+         "before_text": "Jaké jsou",
+         "highlighted_text": "přínosy",
+         "pa_condition_repeater": [
+          {
+           "_id": "e220d0c",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "rotating_text": "Better\nBigger\nFaster",
+         "title_color": "#0a431b",
+         "title_typography_font_size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_tablet": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#B07318"
+        },
+        "widgetType": "animated-headline"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ae39ec4",
+        "settings": {
+         "icon_list": [
+          {
+           "_id": "f026228",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-child"
+           },
+           "text": "Užijete si naplno svůj výlet s větším klidem a jistotou."
+          },
+          {
+           "_id": "8d6bb3a",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-grin-wink"
+           },
+           "text": "Budete mít v batohu přesně jen to, co potřebujete."
+          },
+          {
+           "_id": "3280e69",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-thumbs-up"
+           },
+           "text": "Sbalíte se na cestu snadno a rychle."
+          }
+         ],
+         "icon_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_weight": "600",
+         "icon_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "icon_typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "7ee9f2a",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "space_between": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between_mobile": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "00feec2",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3",
+          "title_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "020",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "020",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "0c88adf",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Říkáte si, ano, to se hodí? Tak to jste tu správně!",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "433f9b8",
+        "settings": {
+         "_border_border": "solid",
+         "_border_radius": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "_border_width": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-2",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Získat  CHECKLIST teď můžete ZDARMA jako dárek. </strong></span></p><p>Do CHECKLISTU jsem zbalila své několikaleté know-how z výletování a chození do přírody a daruji vám ho za váš zájem o dění na mém webu a o projekt \"s Blankou za hranice\".</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "f8bbf11",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.3,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "99e062e",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "20",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/y7g3p8"
+         },
+         "pa_condition_repeater": [],
+         "text": "CHCI CHECKLIST",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "108f9de",
+        "settings": {
+         "gap": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "e2134f5",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "eb21a4a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5ce7d95",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "04f76b3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "db82f6f",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "acb70a3",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "382c0b7",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Získat CHECKLIST můžete ZDE:",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "18eba76",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"4141312:c8m2i3\">\r\n</div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "9f1330f",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "7b3ed31",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "beac5a3",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9c31350",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "8019314",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Co na CHECKLIST řekli první \"cestovatelé\", kteří si ho prohlédli a pročetli:",
+         "title_color": "#74330E",
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e01f1d2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "content_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#3641A7",
+         "job_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "www.ivanaceste.cz"
+         },
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "cfe1e9e",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "testimonial_content": "Checklist poslouží pro ujasnění si potřebných věcí na výlet. Mě velmi pomohl rozeznat, co sebou opravdu zabalit a co už nosím navíc. Díky přehlednému seznamu vyrazím na výšlap vždy s potřebnými a užitečnými věcmi.",
+         "testimonial_image": {
+          "id": 6333,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/05/Vystrizek-Iva-Kyselova.jpg"
+         },
+         "testimonial_image_size": "medium_large",
+         "testimonial_job": "cestovatelka",
+         "testimonial_name": "Iva Kyselová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33a8512",
+        "settings": {
+         "gap": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "e2134f5",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "47af8e8",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#3641A7",
+         "job_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": ""
+         },
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "1ead6a6",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "testimonial_content": "Blanka je opravdový odborník na výlety a túry! Je skvělé, že připravila tento checklist věcí, které je přímo nutné mít s sebou na jakémkoliv výletě. Já osobně balím hlavně spoustu svačin pro děti a pokaždé si lámu hlavu, na co dalšího nezapomenout, a nakonec vezmu spoustu \"blbostí\". Teď už to mám díky Blance konečně vyřešené 🙂",
+         "testimonial_image": {
+          "id": 6340,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/05/zatini-zuby.jpg"
+         },
+         "testimonial_job": "cestovatelka",
+         "testimonial_name": "Nikola Mášová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3067097",
+        "settings": {
+         "gap": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4031057",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e3658e7",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "job_text_color": "#3641A7",
+         "job_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "job_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": ""
+         },
+         "name_typography_font_size": {
+          "size": 15,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "1910f48",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "testimonial_content": "Děkuji za praktické rady a doporučení, na co nezapomenout při přípravě na výlet. Já sama mohu potvrdit, že to bývají drobnosti, které vám krásný výlet mohou naprosto zhatit. \nProto souhlasím, že je dobré být připraven, než zaskočen a to zejména, když na výlet vyrážíte s dětmi. \n",
+         "testimonial_image": {
+          "id": 6344,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/05/Vystrizek-Zuzka-Bezpalcova.jpg"
+         },
+         "testimonial_job": "cestovatelka",
+         "testimonial_name": "Zuzka Bezpalcová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6a7603e",
+        "settings": {
+         "gap": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4031057",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dotted",
+         "text": "Oddělovač",
+         "weight": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "73bd104",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "dd1fb10",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "ebfe5a8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "aa4224d",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "758a727",
+        "settings": {
+         "color": "#0A431B",
+         "pa_condition_repeater": [
+          {
+           "_id": "871651e",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "b6c2839",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7a19b8a",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "642d86f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "20d531b",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "508d391",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "200",
+          "right": "200",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "-36",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "1",
+          "isLinked": true,
+          "left": "1",
+          "right": "1",
+          "top": "1",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Tak si:</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "9c9466c",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b6b66b",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "200",
+          "right": "200",
+          "top": "-44",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "02bdfba",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4b1db90",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "200",
+          "right": "200",
+          "top": "-40",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "200",
+          "right": "200",
+          "top": "-44",
+          "unit": "px"
+         },
+         "icon_align": "center",
+         "icon_color": "#070707",
+         "icon_list": [
+          {
+           "_id": "270ac80",
+           "selected_icon": {
+            "library": "fa-regular",
+            "value": "far fa-arrow-alt-circle-right"
+           },
+           "text": "stáhni ZDARMA"
+          },
+          {
+           "_id": "bd8f41a",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-book-reader"
+           },
+           "text": "přečti CHECKLIST"
+          },
+          {
+           "_id": "d6e9c49",
+           "text": "zabal svůj BATOH"
+          },
+          {
+           "_id": "0c0c80a",
+           "link": {
+            "custom_attributes": "",
+            "is_external": "",
+            "nofollow": "",
+            "url": "www.test.sblankouzahranice.eu/vylety"
+           },
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-walking"
+           },
+           "text": "vydej se NA VÝLET..."
+          }
+         ],
+         "icon_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "a6abe19",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "space_between": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_color": "#0A0A0A"
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ae4c069",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence8"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "200",
+          "right": "200",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "10",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Nejlépe s Blankou za hranice.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "e7bbb52",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/10/22",
+           "pa_condition_date_range": "2022/10/22",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dd715c0",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=secondary",
+          "button_text_color": "globals/colors?id=kadence2",
+          "typography_typography": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "align_tablet": "center",
+         "background_color": "#E4E7C5",
+         "border_radius_mobile": {
+          "bottom": "-2",
+          "isLinked": true,
+          "left": "-2",
+          "right": "-2",
+          "top": "-2",
+          "unit": "px"
+         },
+         "icon_align": "right",
+         "icon_indent": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/y7g3p8"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-right"
+         },
+         "size": "md",
+         "text": "Jdu na to",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "70a2303",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "90949ec",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/10/22",
+         "pa_condition_date_range": "2022/10/22",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "e8746bb",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_image": {
+      "alt": "pozadi sekce hory",
+      "id": 13965,
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/pozadi-siroke-1200-hory.png"
+     },
+     "background_position": "center center",
+     "background_repeat": "no-repeat",
+     "background_size": "auto",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "8517caf",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/10/22",
+       "pa_condition_date_range": "2022/10/22",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "padding": {
+      "bottom": "50",
+      "isLinked": false,
+      "left": "50",
+      "right": "50",
+      "top": "50",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "020",
+      "isLinked": true,
+      "left": "020",
+      "right": "020",
+      "top": "020",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "20",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "20",
+      "unit": "px"
+     }
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "7329",
+  "_wp_page_template": "elementor_header_footer",
+  "_yoast_wpseo_focuskw": "Checklist na výlety. Praktická pomůcka s tvým osobním seznamem věcí.",
+  "_yoast_wpseo_metadesc": "Checklist na výlety - 10, věcí na které je dobré myslet, než se vydáte na výlet. Praktická pomůcka, která vám pomůže, abyste si svůj výlet opravdu užili. Spolu s přílohou-váš osobní seznam věcí."
+ },
+ "modified": "2023-03-08 10:50:16",
+ "obsah_wordpress": "<h2>CHECKLIST - 10 věcí, na které je dobré myslet, než se vydáte na výlet</h2>\t\t\n\t\t\t\t\t<h3>\n\t\t\t\t\tCo zabalit do batohu\n\t\t\t\t\tpro pohodu\n\t\t\t\t\tna cestách a výletech\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"432\" height=\"576\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg\" alt=\"checklist na bote\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web.jpg 432w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/obr.obalka-na-noze-3D_na-str.checklist-web-225x300.jpg 225w\" sizes=\"(max-width: 432px) 100vw, 432px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>I vy můžete mít ještě dnes tuto pomůcku:\n</h4>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tušetřit si tak čas před každou cestou či výletem\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tvydat se na výlet bez stresu, co jste zapomněli\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tusnadnit si řešení nenadálých příhod na cestách\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<ul>\n\t\t\t<li>\n\t\t\t\t  Přemýšlíte před výletem co vše vzít, ale nemít těžký batoh? \n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t Zjistíte většinou až cestou, že by se hodilo něco, co nemáte? \n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t Rádi byste měli svůj vlastní seznam pro pohodlné použití? \n\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>V tom případě se vám určitě hodí tento <br /><strong>CHECKLIST s praktickou přílohou \"váš osobní seznam věcí\".</strong></p><p><strong>S touto jedinečnou přílohou, pro jednoduchý přehled a odškrtnutí nutných věcí, vám příprava na cestu nebo výlet přijde snadná a rychlá.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/y7g3p8\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tTO POTŘEBUJI\n\t\t\t\t\t</a>\n\t\t\t\t\t<h3>\n\t\t\t\t\tJaké jsou\n\t\t\t\t\tpřínosy\n\t\t\t\t\tchecklistu:\n\t\t\t\t\t</h3>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tUžijete si naplno svůj výlet s větším klidem a jistotou.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBudete mít v batohu přesně jen to, co potřebujete.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tSbalíte se na cestu snadno a rychle.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<h4>Říkáte si, ano, to se hodí? Tak to jste tu správně!</h4>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Získat  CHECKLIST teď můžete ZDARMA jako dárek. </strong></p><p>Do CHECKLISTU jsem zbalila své několikaleté know-how z výletování a chození do přírody a daruji vám ho za váš zájem o dění na mém webu a o projekt \"s Blankou za hranice\".</p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/y7g3p8\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tCHCI CHECKLIST\n\t\t\t\t\t</a>\n\t\t\t<h4>Získat CHECKLIST můžete ZDE:</h4>\t\t\n\t\t\t<h4>Co na CHECKLIST řekli první \"cestovatelé\", kteří si ho prohlédli a pročetli:</h4>\t\t\n\t\t\t\t\t\t\tChecklist poslouží pro ujasnění si potřebných věcí na výlet. Mě velmi pomohl rozeznat, co sebou opravdu zabalit a co už nosím navíc. Díky přehlednému seznamu vyrazím na výšlap vždy s potřebnými a užitečnými věcmi.\n\t\t\t\t\t\t\t<a href=\"http://www.ivanaceste.cz\" target=\"_blank\" rel=\"noopener\"><img width=\"322\" height=\"332\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/Vystrizek-Iva-Kyselova.jpg\" alt=\"Iva\" loading=\"lazy\" /></a>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://www.ivanaceste.cz\" target=\"_blank\" rel=\"noopener\">Iva Kyselová</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://www.ivanaceste.cz\" target=\"_blank\" rel=\"noopener\">cestovatelka</a>\n\t\t\t\t\t\t\tBlanka je opravdový odborník na výlety a túry! Je skvělé, že připravila tento checklist věcí, které je přímo nutné mít s sebou na jakémkoliv výletě. Já osobně balím hlavně spoustu svačin pro děti a pokaždé si lámu hlavu, na co dalšího nezapomenout, a nakonec vezmu spoustu \"blbostí\". Teď už to mám díky Blance konečně vyřešené 🙂\n\t\t\t\t\t\t\t<img width=\"500\" height=\"500\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/zatini-zuby.jpg\" alt=\"Zatni zuby logo\" loading=\"lazy\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tNikola Mášová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tcestovatelka\n\t\t\t\t\t\t\tDěkuji za praktické rady a doporučení, na co nezapomenout při přípravě na výlet. Já sama mohu potvrdit, že to bývají drobnosti, které vám krásný výlet mohou naprosto zhatit. \nProto souhlasím, že je dobré být připraven, než zaskočen a to zejména, když na výlet vyrážíte s dětmi. \n\t\t\t\t\t\t\t<img width=\"333\" height=\"387\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/Vystrizek-Zuzka-Bezpalcova.jpg\" alt=\"Zuzana\" loading=\"lazy\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tZuzka Bezpalcová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tcestovatelka\n\t\t<p style=\"text-align: center;\">Tak si:</p>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tstáhni ZDARMA\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tpřečti CHECKLIST\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tzabal svůj BATOH\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://www.test.sblankouzahranice.eu/vylety\">\n\t\t\t\t\t\t\t\t\t\tvydej se NA VÝLET...\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p style=\"text-align: center;\">Nejlépe s Blankou za hranice.</p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/y7g3p8\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tJdu na to\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "checklist-na-vylety",
+ "title": "CHECKLIST na výlety",
+ "type": "page"
+}

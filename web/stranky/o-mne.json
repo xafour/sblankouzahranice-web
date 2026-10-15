@@ -1,0 +1,4268 @@
+{
+ "ID": 12736,
+ "categories": [],
+ "date": "2022-07-29 21:24:51",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/o-mne/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7573780b",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Co dělá Češka v Rakousku? Z Prahy do Vídně.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6a5b8807",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-14",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-16",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height": {
+          "size": 400,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 135,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_tablet": {
+          "size": 315,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Zahlavi webu o mne",
+          "id": 21195,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_tablet": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4e49b985",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "12836832",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-2",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "10",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "20",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "44b41fd7",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "63",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "68d0d9be",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7dc9a9b",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "shape_divider_bottom_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-65",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 75,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 86,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b6ce58",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-67",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-90",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "a5bd979",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jmenuji se Blanka, a právě teď žiji za hranicí své vlasti i své denní rutiny.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "9e4bf7a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b03fa50",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "057e5eb",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "b5a6434",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fb6606a",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "5a9cfc9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "503ee0a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4fb76f6",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Není snadné v pár větách popsat, kdo jsem.<br />Jsem žena, matka, partnerka, milovnice přírody, stále hledající a objevující kouzlo života...<br />Prostě člověk z masa a kostí s nohama na zemi a hlavou v oblacích.</p><p style=\"text-align: center;\">Něco více přeci jen prozradím a...</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "7815592",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db868fe",
+        "settings": {
+         "image": {
+          "alt": "kdo je Blanka",
+          "id": 13377,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/kdo-jsem.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "ff00ca1",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a3a4bb3",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">...pokusím se vám trochu více \"vybarvit\".</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "2526025",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5e4e95c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a73d446",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7648762",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ce5ee53",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "74f1934",
+        "settings": {
+         "image": {
+          "alt": "sipka",
+          "id": 13388,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/sipka_3-removebg-preview.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "9ddf750",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bbdd100",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6ccbc6c",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0d721f9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "b412418",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eb3b447",
+        "settings": {
+         "anchor": "kdojeBlanka",
+         "pa_condition_repeater": [
+          {
+           "_id": "2136c29",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "c4c8739",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d25f1b8",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dc1a0d9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d45cf6f",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b68076b",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "8b826d6",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jsem:  •\tŽena, která na prahu druhé poloviny života učinila vskutku velký skok do neznáma.",
+         "title_color": "#0A431B",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 2.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "60b1a0c",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "88cccdd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "061048d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "034d2c8",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1f0c5b6",
+        "settings": {
+         "editor": "<p>Přestože jsem se narodila ve znamení Kozoroha a tudíž jsem žena zakládající si na svých jistotách, stabilitách a domově, přesto dnes žiji život plný změn.</p><p>V 50 letech jsem se vydala žít za hranice vlasti do Rakouska, do Vídně a současně i hodně za hranice mé denní rutiny. Opustila jsem vše dosud známé a jisté, o co jsem se v životě opírala a „doma“ jsem nechala všechny své pevné opěrné body = dceru, práci, přátelé, zájmy a koníčky i své plány. <br />Do života mi neplánovaně přišlo něco, s čím jsem nepočítala a ani po tom netoužila :-). Žít v jiné zemi bez znalosti jazyka bylo velké vybočení z mé komfortní zóny. Přesto jsem tento krok za hranice udělala. Pro lásku, pro zkušenost, pro…..</p><p style=\"text-align: center;\"><strong>Dnes </strong>žiji život střídavě na třech místech a můj domov je ve dvou státech.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1f7d1ab",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_line_height_mobile": {
+          "size": 1.4,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6ba4957",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4bd0760",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7ebeb73",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-100",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "38",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja ve Vidni",
+          "id": 13382,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/1viden.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "250",
+          "width": "400"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "09ec1ac",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d7a30ba",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "90",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja v Praze",
+          "id": 13384,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/milujici-Prahu-S.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "500"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "64583e2",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7ede060",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e4fca85",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0f3a827",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "426d6fd",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4b2d571",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=kadence2"
+         },
+         "editor": "<p style=\"text-align: center;\"><span style=\"font-family: var(--global-body-font-family);\">A </span><span style=\"font-family: var(--global-body-font-family);\">tyto dny a roky mi přináší dar poznání, dar kreativity a inspirace, o které se zde s vámi dělím.</span></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4cad718",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "bba5b50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1293b92",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "01c8611",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "3b07f3a",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b10068f",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "109c07f",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "904c5f8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5b1d13e",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "68da3aa",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "3a4111a",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ea4763b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5a6e21b",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Chceš se v Rakousku domluvit nebo jednoduše potřebuješ oprášit svoji znalost němčiny?  \n",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0d177ba",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-9",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5a6e21b",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Nabízím ti něco, co mě osobně v začátcích pomáhalo učit se nový jazyk s lehkostí a vtipem.\n",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3d6fece",
+        "settings": {
+         "_margin": {
+          "bottom": "19",
+          "isLinked": false,
+          "left": "56",
+          "right": "19",
+          "top": "19",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "-2",
+          "isLinked": false,
+          "left": "-2",
+          "right": "-2",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "-3",
+          "isLinked": true,
+          "left": "-3",
+          "right": "-3",
+          "top": "-3",
+          "unit": "px"
+         },
+         "description_text": "Jak se naučit jazyk hravě a vtipně",
+         "image": {
+          "alt": "tahak na vyuku nemčiny",
+          "id": 14819,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/09/vystrizek-novy2.jpg"
+         },
+         "image_border_radius": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image_size_mobile": {
+          "size": 60,
+          "sizes": [],
+          "unit": "%"
+         },
+         "image_space_mobile": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/tahak-na-vyuku-nemciny/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "e390fdb",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_size": "medium",
+         "title_text": "TAHÁK na výuku němčiny"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83b2a8b",
+        "settings": {
+         "_padding": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/tahak-na-vyuku-nemciny/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "94f8a2d",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "chci TAHÁK na němčinu"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "49ab8c3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#EFE9EA80",
+       "border_border": "dotted",
+       "border_width": {
+        "bottom": "4",
+        "isLinked": true,
+        "left": "4",
+        "right": "4",
+        "top": "4",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "058e842",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0b28b4a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8",
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "background_background": "classic",
+     "border_border": "none",
+     "border_color": "#0a431b",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "5a1d1be",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f367ab4",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c67c781",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "6e8fb85",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d0832b8",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3e12853",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "7cd656a",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "93b89a5",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a8b1648",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-arrow-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "c1041b8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7d261db",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "61cc01c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "629e709",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b7215e8",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "8b826d6",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jsem:  •\tŽena poznávající Rakousko prostřednictvím výletů do přírody.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 2.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "8c85187",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "88cccdd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7de87ea",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "034d2c8",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9e4ea78",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "19",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Jak již víte, ocitla jsem se v 50 letech v zemi, jejímž jazykem jsem nehovořila, kde pro mne bylo vše nové a neznámé a kde jsem jen velmi pomalu hledala své místo a své kořeny.</p><p>Protože mám ráda přírodu ve všech jejích podobách a můj partner mi chtěl pomoci s tím, abych novou zemi lépe poznala a také si ji zamilovala, začali jsme cestovat po celém Rakousku a vydávat se na výlety do přírody.</p><p>Nejdříve to byly jen krátké příspěvky pro mé přátelé a známé v ČR, později se z našich výletů vyklubal můj nový projekt</p><p style=\"text-align: center;\">„s Blankou za hranice“.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1f7d1ab",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "77ebe96",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4bd0760",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8e47ccb",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-100",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "46",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja na vylete",
+          "id": 13395,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/3.png"
+         },
+         "image_custom_dimension": {
+          "height": "250",
+          "width": "400"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "09ec1ac",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "550c1f2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "90",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja na vylete2",
+          "id": 13398,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/4.png"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "500"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "64583e2",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4974e14",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e4fca85",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2d5754e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "426d6fd",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6966c45",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=kadence2"
+         },
+         "editor": "<p style=\"text-align: center;\">Jak se z výletů stane budoucí projekt si můžete <strong><span style=\"text-decoration: underline;\"><a href=\"https://sblankouzahranice.eu/projekt-vylety-v-rakousku/\">přečíst</a><a href=\"https://sblankouzahranice.eu/projekt-vylety-v-rakousku/\"> ZDE.</a></span></strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4cad718",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_weight": "600",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e19731f",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5a6e21b",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Dnes máme prochozeno několik stovek kilometrů, stovky hodin strávených v přírodě a navštíveny desítky zajímavých míst. Můžete po Rakousku cestovat s námi.",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "32b5c30",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/vylety-v-rakousku/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "4af53b9",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "na VÝLETY ZDE"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "1b37786",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "cda0907",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "004ad70",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "999a9c9",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "97606cc",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c67c781",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "585e613",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d21fe74",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ef99bbb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "2d3e5df",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a6a8b0c",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a8b1648",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-arrow-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "6678bb0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "452faa3",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dfdf29b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "3e077f9",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b15c1e1",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "8b826d6",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jsem:  •\tŽena vnímající přírodu všemi smysly. Obdivuji její moudrost a využívám  její dary a potenciál.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 2.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "7f44eb2",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "88cccdd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c3fc1fe",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "034d2c8",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c3c0f98",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "19",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>V přírodě nacházím a čerpám moudrost, inspiraci a energii pro svůj život. Od mládí intuitivně cítím a vnímám velký a široký přesah přírody, jejích zákonitostí a moudrosti do každodenního života, dokážu vidět maličkosti a souvztažnosti tam, kde je jiní nevidí.</p><p>Uvědomuji si čím dál jasněji, že kdybychom se nechali inspirovat pravidly přírody, může být pro nás lidi život jednoduchý a krásný.</p><p>A proto vám nabízím nejen poznávání nových míst v přírodě, ale i poznávání sebe sama prostřednictvím krátkých ozdravných procházek do přírody. Na procházkách propojuji své intuitivní vnímání moudrosti přírody spolu s finským konceptem Lesní mysli i mým dlouholetým praktikováním cvičení Tai-Chi a Qi -Gong.  </p><p style=\"text-align: center;\">Procházky přináší regeneraci, sebepoznání i načerpání energie.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1f7d1ab",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d2cdb8b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4bd0760",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "83b62f1",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-270",
+          "right": "0",
+          "top": "35",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja a druidsky kamen",
+          "id": 13399,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/8.png"
+         },
+         "image_custom_dimension": {
+          "height": "250",
+          "width": "400"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "09ec1ac",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a3d48dd",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "330",
+          "right": "0",
+          "top": "-268",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja u stromu",
+          "id": 13400,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/6.png"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "500"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "64583e2",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ce7f01b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e4fca85",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d561cd8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "426d6fd",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d43e73c",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5a6e21b",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vydejte se s Blankou za hranice města do přírody a přírodou k sobě.",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "82d6e40",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "941357d",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7921f83",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "fe8337a",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "166cfd3",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/prirodou-k-sobe/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "033cfdb",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "na PROCHÁZKU ZDE"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "a8808af",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "275cb0f",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "226c36f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "f340a17",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "471c65b",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">K vedení těchto procházek mi pomáhá můj cit, vnímat přírodu všemi smysly,<br />získání certifikátu průvodkyně Lesní mysli <br />i mé studium university Tai-Chi a následně dlouholeté praktikování a aktivní využívání energie a přínosu těchto čínských forem cvičení.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "a2f5e98",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "bad0b3d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "229ff9f",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "328462a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "6387a8f",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c8a2c03",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "gallery_columns": "4",
+         "pa_condition_repeater": [
+          {
+           "_id": "ccfe436",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_size": "medium",
+         "wp_gallery": [
+          {
+           "id": 13407,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/certifikat-V.png"
+          },
+          {
+           "id": 13414,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/9.png"
+          },
+          {
+           "id": 13405,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/Vystrizek-certifikat.jpg"
+          },
+          {
+           "id": 13415,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/7.png"
+          }
+         ]
+        },
+        "widgetType": "image-gallery"
+       }
+      ],
+      "id": "679b672",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "b43efdb",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fc62076",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "0d6b79d",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a24168c",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c67c781",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "70f905a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d21fe74",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a7546ff",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "139ca7d",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6243d66",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a8b1648",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-arrow-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "89ce33a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c6ff9f1",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9c17d98",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c488eb4",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "053c4c3",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "8b826d6",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jsem:  •\tŽena milující přírodu ve všech jejích podobách.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 2.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "6900120",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "88cccdd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7121ac3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "034d2c8",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6cac25f",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Už od dětství vidím v přírodě její rozmanitost a nacházím hojnost, všude kam se podívám.</p><p>Baví mě vázat luční a zahradní květiny, sbírat na procházkách a výletech přírodní materiál a dekorovat s ním svůj byt a dům. <br />Vnáším si tak přírodu do mých domovů a naplňuje mě to radostí.</p><p>Je to nejen tvůrčí vyjádření, ale i práce rukama a v neposlední řadě celoroční výzdoba bytu zadarmo.</p><p>Je to naladění se na koloběh života v přírodě a také možnost jít rokem o trochu vědoměji a pomaleji. Pokud chceš inspiraci na tvoření a výzdobu bytu pomocí dekorací z přírody, zvu tě k tvoření každý měsíc po celý rok.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "1f7d1ab",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1df105f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4bd0760",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6c3db6f",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-270",
+          "right": "0",
+          "top": "35",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja u kvetin",
+          "id": 13412,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/13.png"
+         },
+         "image_custom_dimension": {
+          "height": "250",
+          "width": "400"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "09ec1ac",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c232d3a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "330",
+          "right": "0",
+          "top": "-320",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "ja s kvetinami",
+          "id": 13413,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/08/12.png"
+         },
+         "image_custom_dimension": {
+          "height": "300",
+          "width": "500"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "64583e2",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7f5fca1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e4fca85",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8b2bd3c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "426d6fd",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5e32669",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [
+          {
+           "_id": "5a6e21b",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "12 tipů+12 video-návodů na 12 měsíců v roce",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "6d566b1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "941357d",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7f7b58f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "fe8337a",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e2a21a",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/dekorace-rokem-krok-za-krokem/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "033cfdb",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "chci tvořit a jít ROKEM KROK ZA KROKEM"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "5a87c60",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "275cb0f",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b0853a0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "f340a17",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d93e0a7",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c67c781",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "fdd5a42",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d21fe74",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1cf56b2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "139ca7d",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "23587cb",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a8b1648",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-arrow-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "61642df",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a1fdf24",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "21a8240",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "78ecf50",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "777c6d6",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "8b826d6",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jsem:  •\tŽena, s jejíž tvorbou se můžete setkávat na více místech.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 2.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5086153",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "88cccdd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "967475f",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "034d2c8",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17c6db5",
+        "settings": {
+         "description_text": "Stránka přinášející tipy na výlety v Rakousku i zajímavosti ze života ve Vídni.",
+         "description_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "icon_size_mobile": {
+          "size": 50,
+          "sizes": [],
+          "unit": "px"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://www.facebook.com/sblankouzahraniceviden"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5551a35",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0B4465",
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-facebook-square"
+         },
+         "title_text": "Facebooková stránka s Blankou za hranice-Vídeň",
+         "title_typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "91f26b1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "26609bd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1a79bb3",
+        "settings": {
+         "description_text": "Skupina, ve které příroda hraje prim. Tématické týdny, rady, inspirace a návody \na mnohem více.\n",
+         "description_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://www.facebook.com/groups/629199171499748"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5551a35",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#0B4465",
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-facebook"
+         },
+         "title_text": "Facebooková skupina s Blankou za hranice, přírodou k sobě",
+         "title_typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "e10b76a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "939bbca",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2f34ecd",
+        "settings": {
+         "description_text": "Fotky z výletů a míst v Rakousku i z dalších míst ve světě. Cestování a příroda.",
+         "description_typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "description_typography_typography": "custom",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://www.instagram.com/sblankouzahranice/"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "5551a35",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#C95A5A",
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-instagram"
+         },
+         "title_text": "Instagram - s Blankou za hranice",
+         "title_typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_typography": "custom"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "fb9fb11",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4d3dde4",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "44b27ec",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "5933aad",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5a890b5",
+        "settings": {
+         "__globals__": {
+          "color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "c67c781",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "93904f0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "add7a9a",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ffe8e6e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ea89f63",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9244624",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "a8b1648",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-arrow-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "960c442",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a1fdf24",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f7156d1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "875dfea",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e53f462",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [
+          {
+           "_id": "8b826d6",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Ze srdce si přeji, aby vám na cestě \"s Blankou za hranice\" - vlasti i denní rutiny, bylo příjemně.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 2.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b39bc1d",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "88cccdd",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "47669eb",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "034d2c8",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "57ffb24",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "46d13bd",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Čerpejte odsud vše to, co je právě pro vás nyní to nejdůležitější.\nNacházejte v mých příspěvcích tipy, rady, informace či inspirace, podložené mou vlastní zkušeností. \n",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5f90e5b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7a8e889",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e92d628",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6e8a3f0",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "762ad3f",
+        "settings": {
+         "image": {
+          "alt": "za stromem",
+          "id": 12177,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/ja-za-stromem2-o-mne-oriznuta-680x600-1-1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "520",
+          "width": "450"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [
+          {
+           "_id": "65c8226",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6179734",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "b3e9a9e",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pokud chcete jít kousek té cesty se mnou a sledovat, jak se žije v Rakousku, pak si zaříďte pravidelný přísun novinek ZDE.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0eb5e88",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "509a2a9",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "chci dostávat info o novinkách"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "009fa36",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "dc82d60",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "821e8aa",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#FFFFFFA1",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "17",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2acead4",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fb18691",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "537de54",
+           "pa_condition_date": "2022/08/30",
+           "pa_condition_date_range": "2022/08/30"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "bbe236f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "7bcd480",
+         "pa_condition_date": "2022/08/30",
+         "pa_condition_date_range": "2022/08/30"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0204fae",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "dfb18be",
+       "pa_condition_date": "2022/08/30",
+       "pa_condition_date_range": "2022/08/30"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "5213",
+  "_wp_page_template": "elementor_header_footer",
+  "_yoast_wpseo_focuskw": "Jmenuji se Blanka a žiji za hranicí své vlasti.",
+  "_yoast_wpseo_metadesc": "Jmenuji se Blanka Štulíková a několik let již žiji za hranici vlasti v Rakousku, ve Vídni a přináším vám skvělé tipy na výlety po Rakousku."
+ },
+ "modified": "2024-10-27 16:24:05",
+ "obsah_wordpress": "<h2>Co dělá Češka v Rakousku? Z Prahy do Vídně.</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"331\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386-900x331.png\" alt=\"Zahlavi webu o mne\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386-900x331.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386-300x110.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386-768x282.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386-1536x564.png 1536w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/O-MNE-kraken-3sv-e1712643586386.png 1606w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Jmenuji se Blanka, a právě teď žiji za hranicí své vlasti i své denní rutiny.</h2>\t\t\n\t\t<p style=\"text-align: center;\">Není snadné v pár větách popsat, kdo jsem.<br />Jsem žena, matka, partnerka, milovnice přírody, stále hledající a objevující kouzlo života...<br />Prostě člověk z masa a kostí s nohama na zemi a hlavou v oblacích.</p><p style=\"text-align: center;\">Něco více přeci jen prozradím a...</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"287\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/kdo-jsem-287x300.jpg\" alt=\"kdo je Blanka\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/kdo-jsem-287x300.jpg 287w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/kdo-jsem-980x1024.jpg 980w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/kdo-jsem-768x803.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/kdo-jsem.jpg 1378w\" sizes=\"(max-width: 287px) 100vw, 287px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">...pokusím se vám trochu více \"vybarvit\".</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"229\" height=\"100\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/sipka_3-removebg-preview.png\" alt=\"sipka\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>Jsem:  •\tŽena, která na prahu druhé poloviny života učinila vskutku velký skok do neznáma.</h2>\t\t\n\t\t<p>Přestože jsem se narodila ve znamení Kozoroha a tudíž jsem žena zakládající si na svých jistotách, stabilitách a domově, přesto dnes žiji život plný změn.</p><p>V 50 letech jsem se vydala žít za hranice vlasti do Rakouska, do Vídně a současně i hodně za hranice mé denní rutiny. Opustila jsem vše dosud známé a jisté, o co jsem se v životě opírala a „doma“ jsem nechala všechny své pevné opěrné body = dceru, práci, přátelé, zájmy a koníčky i své plány. <br />Do života mi neplánovaně přišlo něco, s čím jsem nepočítala a ani po tom netoužila :-). Žít v jiné zemi bez znalosti jazyka bylo velké vybočení z mé komfortní zóny. Přesto jsem tento krok za hranice udělala. Pro lásku, pro zkušenost, pro…..</p><p style=\"text-align: center;\"><strong>Dnes </strong>žiji život střídavě na třech místech a můj domov je ve dvou státech.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"196\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/1viden-300x196.jpg\" alt=\"ja ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/1viden-300x196.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/1viden.jpg 448w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"167\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/milujici-Prahu-S-300x167.jpg\" alt=\"ja v Praze\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/milujici-Prahu-S-300x167.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/milujici-Prahu-S.jpg 629w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">A tyto dny a roky mi přináší dar poznání, dar kreativity a inspirace, o které se zde s vámi dělím.</p>\t\t\n\t\t\t<h5>Chceš se v Rakousku domluvit nebo jednoduše potřebuješ oprášit svoji znalost němčiny?  \n</h5>\t\t\n\t\t\t<h5>Nabízím ti něco, co mě osobně v začátcích pomáhalo učit se nový jazyk s lehkostí a vtipem.\n</h5>\t\t\n\t\t\t<figure><a href=\"https://sblankouzahranice.eu/tahak-na-vyuku-nemciny/\" tabindex=\"-1\"><img width=\"290\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/09/vystrizek-novy2-290x300.jpg\" alt=\"tahak na vyuku nemčiny\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/tahak-na-vyuku-nemciny/\">TAHÁK na výuku němčiny</a></h3><p>Jak se naučit jazyk hravě a vtipně</p>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/tahak-na-vyuku-nemciny/\">\n\t\t\t\t\t\t\t\t\tchci TAHÁK na němčinu\n\t\t\t\t\t</a>\n\t\t\t<h2>Jsem:  •\tŽena poznávající Rakousko prostřednictvím výletů do přírody.</h2>\t\t\n\t\t<p>Jak již víte, ocitla jsem se v 50 letech v zemi, jejímž jazykem jsem nehovořila, kde pro mne bylo vše nové a neznámé a kde jsem jen velmi pomalu hledala své místo a své kořeny.</p><p>Protože mám ráda přírodu ve všech jejích podobách a můj partner mi chtěl pomoci s tím, abych novou zemi lépe poznala a také si ji zamilovala, začali jsme cestovat po celém Rakousku a vydávat se na výlety do přírody.</p><p>Nejdříve to byly jen krátké příspěvky pro mé přátelé a známé v ČR, později se z našich výletů vyklubal můj nový projekt</p><p style=\"text-align: center;\">„s Blankou za hranice“.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"195\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/3-300x195.png\" alt=\"ja na vylete 5 fingers\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/3-300x195.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/3.png 448w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"200\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/4-300x200.png\" alt=\"ja na vylete2\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/4-300x200.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/4.png 449w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Jak se z výletů stane budoucí projekt si můžete <strong><a href=\"https://sblankouzahranice.eu/projekt-vylety-v-rakousku/\">přečíst</a><a href=\"https://sblankouzahranice.eu/projekt-vylety-v-rakousku/\"> ZDE.</a></strong></p>\t\t\n\t\t\t<h5>Dnes máme prochozeno několik stovek kilometrů, stovky hodin strávených v přírodě a navštíveny desítky zajímavých míst. Můžete po Rakousku cestovat s námi.</h5>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/vylety-v-rakousku/\">\n\t\t\t\t\t\t\t\t\tna VÝLETY ZDE\n\t\t\t\t\t</a>\n\t\t\t<h2>Jsem:  •\tŽena vnímající přírodu všemi smysly. Obdivuji její moudrost a využívám  její dary a potenciál.</h2>\t\t\n\t\t<p>V přírodě nacházím a čerpám moudrost, inspiraci a energii pro svůj život. Od mládí intuitivně cítím a vnímám velký a široký přesah přírody, jejích zákonitostí a moudrosti do každodenního života, dokážu vidět maličkosti a souvztažnosti tam, kde je jiní nevidí.</p><p>Uvědomuji si čím dál jasněji, že kdybychom se nechali inspirovat pravidly přírody, může být pro nás lidi život jednoduchý a krásný.</p><p>A proto vám nabízím nejen poznávání nových míst v přírodě, ale i poznávání sebe sama prostřednictvím krátkých ozdravných procházek do přírody. Na procházkách propojuji své intuitivní vnímání moudrosti přírody spolu s finským konceptem Lesní mysli i mým dlouholetým praktikováním cvičení Tai-Chi a Qi -Gong.  </p><p style=\"text-align: center;\">Procházky přináší regeneraci, sebepoznání i načerpání energie.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"255\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/8-255x300.png\" alt=\"ja a druidsky kamen\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/8-255x300.png 255w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/8.png 339w\" sizes=\"(max-width: 255px) 100vw, 255px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"245\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/6-245x300.png\" alt=\"ja na prochazkach v lese\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/6-245x300.png 245w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/6.png 315w\" sizes=\"(max-width: 245px) 100vw, 245px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h5>Vydejte se s Blankou za hranice města do přírody a přírodou k sobě.</h5>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/prirodou-k-sobe/\">\n\t\t\t\t\t\t\t\t\tna PROCHÁZKU ZDE\n\t\t\t\t\t</a>\n\t\t<p style=\"text-align: center;\">K vedení těchto procházek mi pomáhá můj cit, vnímat přírodu všemi smysly,<br />získání certifikátu průvodkyně Lesní mysli <br />i mé studium university Tai-Chi a následně dlouholeté praktikování a aktivní využívání energie a přínosu těchto čínských forem cvičení.</p>\t\t\n\t\t\t<figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"c8a2c03\" data-elementor-lightbox-title=\"certifikat -V\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM0MDcsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2NlcnRpZmlrYXQtVi5wbmciLCJzbGlkZXNob3ciOiJjOGEyYzAzIn0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2022/08/certifikat-V.png'><img width=\"218\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/certifikat-V-218x300.png\" alt=\"certifikat tai-chi\" aria-describedby=\"gallery-3-13407\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/certifikat-V-218x300.png 218w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/certifikat-V.png 400w\" sizes=\"(max-width: 218px) 100vw, 218px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-13407'>\n\t\t\t\tTai-Chi\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"c8a2c03\" data-elementor-lightbox-title=\"kdo je blanka 9\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM0MTQsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcLzkucG5nIiwic2xpZGVzaG93IjoiYzhhMmMwMyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2022/08/9.png'><img width=\"227\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/9-227x300.png\" alt=\"ja a tai-chi\" aria-describedby=\"gallery-3-13414\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/9-227x300.png 227w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/9.png 301w\" sizes=\"(max-width: 227px) 100vw, 227px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-13414'>\n\t\t\t\tcvičím Tai-Chi\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"c8a2c03\" data-elementor-lightbox-title=\"Lesni mysl certifikat\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM0MDUsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL1Z5c3RyaXplay1jZXJ0aWZpa2F0LmpwZyIsInNsaWRlc2hvdyI6ImM4YTJjMDMifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2022/08/Vystrizek-certifikat.jpg'><img width=\"219\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/Vystrizek-certifikat-219x300.jpg\" alt=\"Lesni mysl certifikat\" aria-describedby=\"gallery-3-13405\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/Vystrizek-certifikat-219x300.jpg 219w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/Vystrizek-certifikat.jpg 402w\" sizes=\"(max-width: 219px) 100vw, 219px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-13405'>\n\t\t\t\tLesní mysl\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"c8a2c03\" data-elementor-lightbox-title=\"7 kdo je blanka\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM0MTUsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcLzcucG5nIiwic2xpZGVzaG93IjoiYzhhMmMwMyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2022/08/7.png'><img width=\"250\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/7-250x300.png\" alt=\"ja u stromu\" aria-describedby=\"gallery-3-13415\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/7-250x300.png 250w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/7.png 331w\" sizes=\"(max-width: 250px) 100vw, 250px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-13415'>\n\t\t\t\tprovázím přírodou\n\t\t\t\t</figcaption></figure>\n\t\t\t<h2>Jsem:  •\tŽena milující přírodu ve všech jejích podobách.</h2>\t\t\n\t\t<p>Už od dětství vidím v přírodě její rozmanitost a nacházím hojnost, všude kam se podívám.</p><p>Baví mě vázat luční a zahradní květiny, sbírat na procházkách a výletech přírodní materiál a dekorovat s ním svůj byt a dům. <br />Vnáším si tak přírodu do mých domovů a naplňuje mě to radostí.</p><p>Je to nejen tvůrčí vyjádření, ale i práce rukama a v neposlední řadě celoroční výzdoba bytu zadarmo.</p><p>Je to naladění se na koloběh života v přírodě a také možnost jít rokem o trochu vědoměji a pomaleji. Pokud chceš inspiraci na tvoření a výzdobu bytu pomocí dekorací z přírody, zvu tě k tvoření každý měsíc po celý rok.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"257\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/13-257x300.png\" alt=\"ja u kvetin\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/13-257x300.png 257w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/13.png 342w\" sizes=\"(max-width: 257px) 100vw, 257px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"249\" height=\"300\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/12-249x300.png\" alt=\"ja s kvetinami\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/08/12-249x300.png 249w, https://sblankouzahranice.eu/wp-content/uploads/2022/08/12.png 330w\" sizes=\"(max-width: 249px) 100vw, 249px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h5>12 tipů+12 video-návodů na 12 měsíců v roce</h5>\t\t\n\t\t\t<a href=\"https://sblankouzahranice.eu/dekorace-rokem-krok-za-krokem/\">\n\t\t\t\t\t\t\t\t\tchci tvořit a jít ROKEM KROK ZA KROKEM\n\t\t\t\t\t</a>\n\t\t\t<h2>Jsem:  •\tŽena, s jejíž tvorbou se můžete setkávat na více místech.</h2>\t\t\n\t\t\t\t<a href=\"https://www.facebook.com/sblankouzahraniceviden\" target=\"_blank\" tabindex=\"-1\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t<a href=\"https://www.facebook.com/sblankouzahraniceviden\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\tFacebooková stránka s Blankou za hranice-Vídeň\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tStránka přinášející tipy na výlety v Rakousku i zajímavosti ze života ve Vídni.\t\t\t\t\t</p>\n\t\t\t\t<a href=\"https://www.facebook.com/groups/629199171499748\" tabindex=\"-1\">\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t<a href=\"https://www.facebook.com/groups/629199171499748\" >\n\t\t\t\t\t\t\tFacebooková skupina s Blankou za hranice, přírodou k sobě\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tSkupina, ve které příroda hraje prim. Tématické týdny, rady, inspirace a návody \na mnohem více.\n\t\t\t\t\t</p>\n\t\t\t\t<a href=\"https://www.instagram.com/sblankouzahranice/\" tabindex=\"-1\">\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t<a href=\"https://www.instagram.com/sblankouzahranice/\" >\n\t\t\t\t\t\t\tInstagram - s Blankou za hranice\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tFotky z výletů a míst v Rakousku i z dalších míst ve světě. Cestování a příroda.\t\t\t\t\t</p>\n\t\t\t<h2>Ze srdce si přeji, aby vám na cestě \"s Blankou za hranice\" - vlasti i denní rutiny, bylo příjemně.</h2>\t\t\n\t\t\t<h3>Čerpejte odsud vše to, co je právě pro vás nyní to nejdůležitější.\nNacházejte v mých příspěvcích tipy, rady, informace či inspirace, podložené mou vlastní zkušeností. \n</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"289\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/ja-za-stromem2-o-mne-oriznuta-680x600-1-1-300x289.jpg\" alt=\"za stromem\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/07/ja-za-stromem2-o-mne-oriznuta-680x600-1-1-300x289.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/07/ja-za-stromem2-o-mne-oriznuta-680x600-1-1.jpg 680w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Pokud chcete jít kousek té cesty se mnou a sledovat, jak se žije v Rakousku, pak si zaříďte pravidelný přísun novinek ZDE.</h3>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tchci dostávat info o novinkách\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "o-mne",
+ "title": "Kdo je Blanka",
+ "type": "page"
+}

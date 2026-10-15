@@ -1,0 +1,650 @@
+{
+ "ID": 12175,
+ "categories": [],
+ "date": "2022-07-18 22:43:43",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=odber-novinek-vylety",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "7f7de8d4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 25,
+       "_inline_size_tablet": 9,
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_slideshow_gallery": [],
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_slideshow_gallery": [],
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_slideshow_gallery": [],
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_slideshow_gallery": [],
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "182b3b8",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1e0f3cec",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_slideshow_gallery": [],
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_slideshow_gallery": [],
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "45bec99",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 14,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6a9b741e",
+        "settings": {
+         "_background_hover_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_hover_slideshow_gallery": [],
+         "_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_mobile": {
+          "id": "",
+          "url": ""
+         },
+         "_background_image_tablet": {
+          "id": "",
+          "url": ""
+         },
+         "_background_slideshow_gallery": [],
+         "_background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "_mask_image": {
+          "id": "",
+          "url": ""
+         },
+         "align": "center",
+         "background_color": "#0A431B",
+         "background_slideshow_gallery": [],
+         "background_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "button_background_hover_slideshow_gallery": [],
+         "button_background_hover_video_fallback": {
+          "id": "",
+          "url": ""
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "2aa1bc1",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "selected_icon": {
+          "library": "",
+          "value": ""
+         },
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "c8ec9a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 49.994,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#B0BC48A1",
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_slideshow_gallery": [],
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_slideshow_gallery": [],
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_slideshow_gallery": [],
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_slideshow_gallery": [],
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "border_border": "solid",
+       "border_color": "#0A431B",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "2ef4268",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "fb000af",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 25,
+       "background_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_hover_slideshow_gallery": [],
+       "background_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_hover_slideshow_gallery": [],
+       "background_overlay_hover_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_mobile": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_image_tablet": {
+        "id": "",
+        "url": ""
+       },
+       "background_overlay_slideshow_gallery": [],
+       "background_overlay_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "background_slideshow_gallery": [],
+       "background_video_fallback": {
+        "id": "",
+        "url": ""
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "ed857fd",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/07/18",
+         "pa_condition_date_range": "2022/07/18",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "727db356",
+    "isInner": false,
+    "settings": {
+     "background_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_hover_slideshow_gallery": [],
+     "background_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_hover_slideshow_gallery": [],
+     "background_overlay_hover_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_mobile": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_image_tablet": {
+      "id": "",
+      "url": ""
+     },
+     "background_overlay_slideshow_gallery": [],
+     "background_overlay_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "background_slideshow_gallery": [],
+     "background_video_fallback": {
+      "id": "",
+      "url": ""
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d6d0e02",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/07/18",
+       "pa_condition_date_range": "2022/07/18",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "33"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section"
+ },
+ "modified": "2022-07-18 22:43:43",
+ "obsah_wordpress": "<p style=\"text-align: center;\"><strong>Líbí se ti moje tipy na výlety? <br />Ráda ti dám o nových vědět e-mailem, aby ti už žádný neutekl.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "odber-novinek-vylety",
+ "title": "ODBĚR novinek VÝLETY",
+ "type": "elementor_library"
+}

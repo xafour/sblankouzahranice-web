@@ -1,0 +1,1636 @@
+{
+ "ID": 22391,
+ "categories": [],
+ "date": "2025-01-30 17:10:25",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/workshopy-akce/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6ccb0b91",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "-6",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "6",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Workshopy a akce.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "73735b2b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-16",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height": {
+          "size": 475,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_laptop": {
+          "size": 390,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 140,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_tablet": {
+          "size": 315,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_widescreen": {
+          "size": 440,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "alt": "zahlavi webu workshopy a akce",
+          "id": 22394,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/01/Workshopy-a-akce.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_tablet": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c468750",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "54297978",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin_laptop": {
+        "bottom": "-20",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "20",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-1",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "51b8eab9",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "95",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "-10",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_laptop": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "db19b69",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "61d1cccc",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "shape_divider_bottom_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "content_width_widescreen": {
+      "size": 500,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap_columns_custom_widescreen": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-92",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "margin_widescreen": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-90",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "00",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_laptop": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "10",
+      "unit": "px"
+     },
+     "padding_widescreen": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_color": "#f8f9f1",
+     "shape_divider_bottom_height": {
+      "size": 75,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 86,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b95eead",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Workshopy a pobyty pro relaxaci, poznávání přírody i sebe. ",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "ee08bf7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3c8c3e3",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e9f77b6",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-5",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Většina akcí je setkání naživo a vždy v malých skupinkách.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3063396",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a0b778b",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17dc9c6",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Workshopy"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fc3484b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "description_text": "Workshopy a živé akce <span style=\"white-space:nowrap;\"> v exteriéru i interiéru.</span>\n\n",
+         "image": {
+          "alt": "workshopy viden",
+          "id": 22409,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/01/workshopy-small.png"
+         },
+         "image_size": {
+          "size": 65,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Živá setkání ve Vídni"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42c4475",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=kadence8",
+          "button_text_color": "globals/colors?id=kadence2"
+         },
+         "_padding_mobile": {
+          "bottom": "8",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Program a termíny zde",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "3634fa4",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "15",
+        "isLinked": true,
+        "left": "15",
+        "right": "15",
+        "top": "15",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2cc72a9",
+        "settings": {
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pobyty-nabidka/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Relaxační a regenerační pobyty.",
+         "typography_font_size_tablet": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dae2db7",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "description_text": "Výjimečné pobyty v Rakousku </span><span style=\"white-space:nowrap;\"> i v zahraničí s programem.</span>",
+         "image": {
+          "alt": "akce v prirode",
+          "id": 22413,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/01/more-small.png"
+         },
+         "image_size": {
+          "size": 65,
+          "sizes": [],
+          "unit": "%"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pobyty-nabidka/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title_bottom_space": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_text": "Pobyty v zahraničí"
+        },
+        "widgetType": "image-box"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a28b06a",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=kadence8",
+          "button_text_color": "globals/colors?id=kadence2"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pobyty-nabidka/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Informace a termíny zde",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "4888f21",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "15",
+        "isLinked": true,
+        "left": "15",
+        "right": "15",
+        "top": "15",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e7932a9",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2dbc5af",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "cdbb7c3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "99255c9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "561258c",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=kadence2"
+         },
+         "_border_border": "none",
+         "_border_width": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Fotky, informace a reference z již proběhlých akcí ZDE."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fc7c027",
+        "settings": {
+         "__globals__": {
+          "hover_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0350",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "300",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "150",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/workshopy/#workshopyreference"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Proběhlé workshopy "
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b89beb2",
+        "settings": {
+         "__globals__": {
+          "hover_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0600",
+          "right": "0",
+          "top": "-60",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "400",
+          "right": "0",
+          "top": "-62",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "25",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Proběhlé akce "
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "b1e2304",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3",
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 100,
+       "_inline_size": 100,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "10",
+        "right": "10",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f592057",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7bdbe4a",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "9fd698e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "42dcb36",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b979907",
+        "settings": {
+         "anchor": "prihlasit",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "menu-anchor"
+       }
+      ],
+      "id": "19559df",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "020201d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "40768ff",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Chcete dostávat informace o workschopech i dalších akcích a termínech? Přihlaste se zde.",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3fdc571",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"6025315:r8z0v3\">\r\n</div>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "79c2c98",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6136c30",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_mobile": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "PŘIHLÁSIT SE na jakoukoliv akci můžete i zde přes formulář.\nDo zprávy uveďte název akce, na kterou se přihlašujete nebo váš dotaz k akci.\nPošlu vám bližší informace do e-mailu.",
+         "typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "df07332",
+        "settings": {
+         "__globals__": {
+          "button_background_color": "globals/colors?id=kadence2",
+          "button_background_hover_color": "globals/colors?id=kadence3",
+          "button_hover_color": "globals/colors?id=kadence2",
+          "success_message_color": "globals/colors?id=kadence2"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "5",
+          "top": "0",
+          "unit": "px"
+         },
+         "activecampaign_fields_map": [],
+         "button_align": "start",
+         "button_border_radius": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "button_content_align": "center",
+         "button_size": "md",
+         "button_text": "Odeslat",
+         "button_typography_font_weight": "700",
+         "button_typography_typography": "custom",
+         "convertkit_fields_map": [],
+         "custom_messages": "yes",
+         "drip_fields_map": [],
+         "email_content": "[all-fields]",
+         "email_content_2": "[all-fields]",
+         "email_from": "blanka@sblankouzahranice.eu",
+         "email_from_2": "email@sblankouzahranice.eu",
+         "email_from_name": "s Blankou za hranice ",
+         "email_from_name_2": "s Blankou za hranice ",
+         "email_reply_to_2": "skryty-email@example.invalid",
+         "email_subject": "Nová zpráva z kontaktního formulář",
+         "email_subject_2": "New message from &quot;s Blankou za hranice &quot;",
+         "email_to": "blanka@sblankouzahranice.eu",
+         "email_to_2": "skryty-email@example.invalid",
+         "error_message": "Zřejmě došlo k chybě. Zkontrolujte prosím formulář nebo ho vyplňte znovu.",
+         "form_fields": [
+          {
+           "_id": "aebbecd",
+           "custom_id": "name",
+           "dynamic": {
+            "active": true
+           },
+           "field_label": "Jméno",
+           "placeholder": "Jméno a příjmení"
+          },
+          {
+           "_id": "48ca2f6",
+           "custom_id": "email",
+           "field_label": "Email",
+           "field_type": "email",
+           "placeholder": "Email",
+           "required": "true"
+          },
+          {
+           "_id": "6b9ebb1",
+           "custom_id": "message",
+           "field_label": "Zpráva",
+           "field_type": "textarea",
+           "placeholder": "Napiš mi"
+          },
+          {
+           "_id": "1c6f12e",
+           "acceptance_text": "Souhlasím se zpracováním osobních údajů v souladu se Zásadami ochrany osobních údajů.",
+           "custom_id": "field_1c6f12e",
+           "field_type": "acceptance",
+           "required": "true"
+          }
+         ],
+         "form_name": "New Form",
+         "form_validation": "custom",
+         "getresponse_fields_map": [],
+         "hover_transition_duration": {
+          "size": 0,
+          "sizes": [],
+          "unit": "ms"
+         },
+         "invalid_message": "Your submission failed because the form is invalid.",
+         "label_spacing": {
+          "size": 5,
+          "sizes": [],
+          "unit": "px"
+         },
+         "mailchimp_fields_map": [],
+         "mailerlite_fields_map": [],
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "required_field_message": "Toto pole je povinné.",
+         "row_gap": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "server_message": "Your submission failed because of a server error.",
+         "step_next_label": "Next",
+         "step_previous_label": "Previous",
+         "step_type": "text",
+         "success_message": "Děkuji za vaši zprávu, odpovím vám co možná nejrychleji."
+        },
+        "widgetType": "form"
+       }
+      ],
+      "id": "417f294",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0e95905",
+    "isInner": false,
+    "settings": {
+     "content_width": {
+      "size": 1000,
+      "sizes": [],
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "aebe28b",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3",
+          "_border_color": "globals/colors?id=kadence2",
+          "text_color": "globals/colors?id=accent"
+         },
+         "_background_background": "classic",
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "10",
+          "isLinked": true,
+          "left": "10",
+          "right": "10",
+          "top": "10",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Měli byste zájem o workshopy i v ČR nebo na Slovensku? Hodil by se vám můj program k vašim aktivitám?</p><p style=\"text-align: center;\">Propojme se. <br />Napište mi zprávu na email <span style=\"text-decoration: underline;\"><a href=\"mailto:sblankouzahranice@gmail.com\">ZDE.</a><br /><br /></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "080d971",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "50",
+        "isLinked": true,
+        "left": "50",
+        "right": "50",
+        "top": "50",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "10",
+        "isLinked": true,
+        "left": "10",
+        "right": "10",
+        "top": "10",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "1e391cc",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4bc6d7d",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "75d28bc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a77e8bb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "20085",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Workshopy a akce",
+  "_yoast_wpseo_metadesc": "s Blankou za hranice, přírodou k sobě. Workshopy, živé akce, setkání. Návrat do přírody, návrat k sobě. V Rakousku a v České republice."
+ },
+ "modified": "2025-12-13 22:24:49",
+ "obsah_wordpress": "<h2>Workshopy a akce.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"400\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/01/Workshopy-a-akce-900x400.png\" alt=\"zahlavi webu workshopy a akce\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/01/Workshopy-a-akce-900x400.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/01/Workshopy-a-akce-300x133.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/01/Workshopy-a-akce-768x341.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/01/Workshopy-a-akce.png 1111w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Workshopy a pobyty pro relaxaci, poznávání přírody i sebe. </h2>\t\t\t\t\n\t\t\t\t\t<h2>Většina akcí je setkání naživo a vždy v malých skupinkách.</h2>\t\t\t\t\n\t\t\t\t\t<h2><a href=\"https://sblankouzahranice.eu/workshopy/\">Workshopy</a></h2>\t\t\t\t\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/workshopy/\" tabindex=\"-1\"><img width=\"450\" height=\"517\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/01/workshopy-small.png\" alt=\"\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/workshopy/\">Živá setkání ve Vídni</a></h3><p>Workshopy a živé akce  v exteriéru i interiéru.\n</p>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/workshopy/\">\n\t\t\t\t\t\t\t\t\tProgram a termíny zde\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2><a href=\"https://sblankouzahranice.eu/pobyty-nabidka/\">Relaxační a regenerační pobyty.</a></h2>\t\t\t\t\n\t\t\t\t\t<figure><a href=\"https://sblankouzahranice.eu/pobyty-nabidka/\" tabindex=\"-1\"><img width=\"450\" height=\"529\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/01/more-small.png\" alt=\"\" /></a></figure><h3><a href=\"https://sblankouzahranice.eu/pobyty-nabidka/\">Pobyty v zahraničí</a></h3><p>Výjimečné pobyty v Rakousku  i v zahraničí s programem.</p>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/pobyty-nabidka/\">\n\t\t\t\t\t\t\t\t\tInformace a termíny zde\n\t\t\t\t\t</a>\n\t\t\t\t\t<h4>Fotky, informace a reference z již proběhlých akcí ZDE.</h4>\t\t\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/workshopy/#workshopyreference\">\n\t\t\t\t\t\t\t\t\tProběhlé workshopy \n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/pobyty-nabidka/#referencerakousko\">\n\t\t\t\t\t\t\t\t\tProběhlé akce \n\t\t\t\t\t</a>\n\t\t\t\t\t<h3>Chcete dostávat informace o workschopech i dalších akcích a termínech? Přihlaste se zde.</h3>\t\t\t\t\n\t\t\t\t\t<h3>PŘIHLÁSIT SE na jakoukoliv akci můžete i zde přes formulář.\nDo zprávy uveďte název akce, na kterou se přihlašujete nebo váš dotaz k akci.\nPošlu vám bližší informace do e-mailu.</h3>\t\t\t\t\n\t\t<p style=\"text-align: center;\">Měli byste zájem o workshopy i v ČR nebo na Slovensku? Hodil by se vám můj program k vašim aktivitám?</p><p style=\"text-align: center;\">Propojme se. <br />Napište mi zprávu na email <a href=\"mailto:sblankouzahranice@gmail.com\">ZDE.</a><br /><br /></p>",
+ "parent": 0,
+ "slug": "workshopy-akce",
+ "title": "Workshopy a akce",
+ "type": "page"
+}

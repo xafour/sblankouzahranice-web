@@ -1,0 +1,628 @@
+{
+ "ID": 8596,
+ "categories": [
+  "Dekorace do bytu"
+ ],
+ "date": "2021-09-29 13:52:24",
+ "excerpt": "Mám tady pro vás již v pořadí devátý letošní tip na výrobu jednoduché dekorace do bytu z přírodních materiálů. A protože je dobré připomínat si koloběh života v přírodě i doma, tak jsem se rozhodla ...",
+ "link": "https://sblankouzahranice.eu/zarijova-dekorace/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a7f4e53",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Měsíc<strong> ZÁŘÍ</strong> je prvním z podzimních měsíců.</p><p>A protože je dobré, připomínat si koloběh života v přírodě i doma, tak jsem se rozhodla projít se naší zahradou, využít co zrovna v tuto dobu najdu z větviček a stromků a vyrobit podzimní věnce – na závěs na dveře, na stůl nebo jako ozdobu na zeď.</p><p>A k tomu samému vybízím i vás, projděte se podzimní přírodou nebo zahradou a podívejte se, z čeho by se vám dobře tvořilo, a co by se vám doma barevně hodilo nebo k něčemu ladilo. </p><p style=\"text-align: center;\"><strong>A pak si vyberte dle svého vkusu.</strong></p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "df2e3bc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "e687620",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#0A431B",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b632ab",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "title": "Příroda nám v tuto dobu nabízí spousta barev i plodů, a tak je možné na výrobu věnců využít opravdu cokoliv – větvičky s barevnými plody, kaštany, barevné listí a další.",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "55a2df8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "3059709",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "21",
+      "unit": "px"
+     },
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "041b13c",
+        "settings": {
+         "image": {
+          "id": 8605,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/foto-cerven.plody_.png"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "400"
+         },
+         "image_size": "custom"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "08cc2ed",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65040e4",
+        "settings": {
+         "image": {
+          "id": 8606,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/foto-kastany.png"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "400"
+         },
+         "image_size": "custom"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a050d08",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fc33e73",
+        "settings": {
+         "image": {
+          "id": 8604,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/foto-rakytnik-S.png"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "400"
+         },
+         "image_size": "custom"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "47612dd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "ec67448",
+    "isInner": false,
+    "settings": {
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7d059df",
+        "settings": {
+         "editor": "<p>Já budu tvořit z větviček keřů, ale na závěr vám dám pro inspiraci i fotku loňského podzimního věnce z kaštanů.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "edcfad7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "6ca0a88",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#E7E08B"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "065b298",
+        "settings": {
+         "align": "center",
+         "background_color": "#E7E08B",
+         "button_background_hover_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://youtu.be/N6amt9Fi0Og"
+         },
+         "text": "Video z tvoření zde"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "c9292b8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "0cd09f0",
+    "isInner": false,
+    "settings": []
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ebf9c46",
+        "settings": {
+         "aspect_ratio": "43",
+         "dailymotion_url": "https://www.dailymotion.com/video/x6tqhqb",
+         "vimeo_url": "https://vimeo.com/235215203",
+         "youtube_url": "https://youtu.be/N6amt9Fi0Og"
+        },
+        "widgetType": "video"
+       }
+      ],
+      "id": "74846fb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "afc90cc",
+    "isInner": false,
+    "settings": []
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "710eb3c",
+        "settings": {
+         "editor": "<p><strong>CO BUDEME NA VÝROBU ZÁŘIJOVÉ DEKORACE POTŘEBOVAT:</strong></p><ul><li>Pár větviček s barevnými plody – libavka, rakytní, hloh ..</li><li>Korpus na věneček buď ze slámy nebo z větviček.</li><li>Zahradnický drát nejlépe zelený (není podmínka).</li></ul>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f7e9bf3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "6455c4e",
+    "isInner": false,
+    "settings": []
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e83fc16",
+        "settings": {
+         "editor": "<p><strong>Postup výroby:</strong></p><ol><li>Z procházky podzimní přírodou si přineseme pár větviček zelených keřů s barevnými plody.</li><li>Připravíme si korpus na věneček a zahradnický drátek na připevnění větviček.</li><li>Potřebovat budeme ještě malé zahradnické nůžky na úpravu větviček.</li><li>Nastříháme si potřebné délky větviček a postupně je upevňujeme na korpus zahradnickým drátkem. Hustotu, délku větviček i design si volíme podle svého vkusu a představy pro hotový výrobek.</li></ol><ol start=\"6\"><li style=\"text-align: left;\">Poté, co celý korpus zaplníme větvičkami můžeme ještě zahradnickými nůžkami „doladit“ tvar, případně dále ještě ozdobit mašličkami nebo čímkoliv dle své fantazie.<br /><br /><p style=\"text-align: center;\"><strong>A máme hotovo!</strong></p><p style=\"text-align: center;\"><strong>Váš podzimní věnec už čeká na pověšení či položení na stůl.</strong></p></li></ol>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1823dc6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "42b35ab",
+    "isInner": false,
+    "settings": []
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6332061",
+        "settings": {
+         "image": {
+          "id": 8616,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/podzimvenec2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "400"
+         },
+         "image_size": "custom"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ebb41bc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6257490",
+        "settings": {
+         "image": {
+          "id": 8617,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/kastanvenec2.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "400"
+         },
+         "image_size": "custom"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "865443b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "b445208",
+    "isInner": false,
+    "settings": {
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e703d5a",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "title": "Přeji vám, ať vám podzim přinese nejen nějaký krásný věnec, ale i pár slunečných dní do vašeho života. Hodně štěstí a radosti.  ",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "1a3d043",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "2b1e552",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#E7E08B"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "03c2929",
+        "settings": {
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-leaf"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "3139c4e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "_inline_size_mobile": 33
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cf90d2e",
+        "settings": {
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-leaf"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "e8ee048",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "_inline_size_mobile": 33
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1dd73df",
+        "settings": {
+         "primary_color": "#0A431B",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-leaf"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "a0b698f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "_inline_size_mobile": 33
+      }
+     }
+    ],
+    "id": "9ae1c40",
+    "isInner": false,
+    "settings": {
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac24343",
+        "settings": {
+         "align": "center",
+         "align_tablet": "center",
+         "header_size": "h4",
+         "title": "Pokud chcete se mnou tvořit i dál v průběhu roku a zajistit si, aby vám žádná další dekorace neutekla, přihlaste se k odběru dekorací zde:",
+         "title_color": "#80793D",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b7fafd1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "dac84a4",
+    "isInner": false,
+    "settings": []
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "de56a8e",
+        "settings": {
+         "html": "<div class=\"ml-form-embed\"\r\n  data-account=\"2648759:d8y3q6l4n1\"\r\n  data-form=\"3531916:a8q7j9\">\r\n</div>"
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "4221801",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null
+      }
+     }
+    ],
+    "id": "ed380bc",
+    "isInner": false,
+    "settings": []
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "8633",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Zářijová dekorace z cyklu ROKEM KROK ZA KROKEM",
+  "_yoast_wpseo_metadesc": "V rámci cyklu ROKEM KROK ZA KROKEM jsme se dostali již k deváté - zářijové dekoraci, kterou můžeme opět tvořit společně s dětmi a připomenout si tak koloběh života v přírodě a jednotlivá roční období."
+ },
+ "modified": "2021-09-29 15:47:44",
+ "obsah_wordpress": "<p style=\"text-align: center;\">Měsíc<strong> ZÁŘÍ</strong> je prvním z podzimních měsíců.</p><p>A protože je dobré, připomínat si koloběh života v přírodě i doma, tak jsem se rozhodla projít se naší zahradou, využít co zrovna v tuto dobu najdu z větviček a stromků a vyrobit podzimní věnce – na závěs na dveře, na stůl nebo jako ozdobu na zeď.</p><p>A k tomu samému vybízím i vás, projděte se podzimní přírodou nebo zahradou a podívejte se, z čeho by se vám dobře tvořilo, a co by se vám doma barevně hodilo nebo k něčemu ladilo. </p><p style=\"text-align: center;\"><strong>A pak si vyberte dle svého vkusu.</strong></p>\t\t\n\t\t\t<h4>Příroda nám v tuto dobu nabízí spousta barev i plodů, a tak je možné na výrobu věnců využít opravdu cokoliv – větvičky s barevnými plody, kaštany, barevné listí a další.</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/foto-cerven.plody_-pdtwc44vrhjueos52am25v2od9x6gxzcmxc9ylxqpg.png\" title=\"foto cerven.plody\" alt=\"foto cerven.plody\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/foto-kastany-pdtwck44zo5pw24xgzipu91igtqf3sqsd4fj4ba1ro.png\" title=\"foto kastany\" alt=\"foto kastany\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/foto-rakytnik-S-pdtwa0xskqowlvtd9e3wme1sug7td5otol5fkh18j8.png\" title=\"foto rakytnik -S\" alt=\"foto rakytnik -S\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Já budu tvořit z větviček keřů, ale na závěr vám dám pro inspiraci i fotku loňského podzimního věnce z kaštanů.</p>\t\t\n\t\t\t<a href=\"https://youtu.be/N6amt9Fi0Og\" role=\"button\">\n\t\t\t\t\t\tVideo z tvoření zde\n\t\t\t\t\t</a>\n\t\thttps://youtu.be/N6amt9Fi0Og<p><strong>CO BUDEME NA VÝROBU ZÁŘIJOVÉ DEKORACE POTŘEBOVAT:</strong></p><ul><li>Pár větviček s barevnými plody – libavka, rakytní, hloh ..</li><li>Korpus na věneček buď ze slámy nebo z větviček.</li><li>Zahradnický drát nejlépe zelený (není podmínka).</li></ul><p><strong>Postup výroby:</strong></p><ol><li>Z procházky podzimní přírodou si přineseme pár větviček zelených keřů s barevnými plody.</li><li>Připravíme si korpus na věneček a zahradnický drátek na připevnění větviček.</li><li>Potřebovat budeme ještě malé zahradnické nůžky na úpravu větviček.</li><li>Nastříháme si potřebné délky větviček a postupně je upevňujeme na korpus zahradnickým drátkem. Hustotu, délku větviček i design si volíme podle svého vkusu a představy pro hotový výrobek.</li></ol><ol start=\"6\"><li style=\"text-align: left;\">Poté, co celý korpus zaplníme větvičkami můžeme ještě zahradnickými nůžkami „doladit“ tvar, případně dále ještě ozdobit mašličkami nebo čímkoliv dle své fantazie.<br /><br /><p style=\"text-align: center;\"><strong>A máme hotovo!</strong></p><p style=\"text-align: center;\"><strong>Váš podzimní věnec už čeká na pověšení či položení na stůl.</strong></p></li></ol>\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/podzimvenec2-pdtx24c4uh5fmb097jah5ats11qrfh807n3vy7dmsg.jpg\" title=\"podzimvenec2\" alt=\"podzimvenec2\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kastanvenec2-pdtx3fc2c6xrqt3zl3ltlyytqbb44cel23q5y1fy5c.jpg\" title=\"kastanvenec2\" alt=\"kastanvenec2\" />\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Přeji vám, ať vám podzim přinese nejen nějaký krásný věnec, ale i pár slunečných dní do vašeho života. Hodně štěstí a radosti.  </h4>\t\t\n\t\t\t<h4>Pokud chcete se mnou tvořit i dál v průběhu roku a zajistit si, aby vám žádná další dekorace neutekla, přihlaste se k odběru dekorací zde:</h4>",
+ "parent": 0,
+ "slug": "zarijova-dekorace",
+ "title": "Zářijová dekorace",
+ "type": "post"
+}

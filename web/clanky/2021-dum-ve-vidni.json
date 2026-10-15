@@ -1,0 +1,3940 @@
+{
+ "ID": 6978,
+ "categories": [
+  "Blog",
+  "Inspirace přírodou",
+  "Ze života v Rakousku"
+ ],
+ "date": "2021-07-09 12:39:47",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/dum-ve-vidni/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac0106d",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "title": "Změna je život a život je pohyb, vývoj, transformace a proměna. Stejně jako tento dům ve Vídni, který se stal součástí mého  příběhu-cesty za hranice vlasti."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b05668b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "89567d5",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "85ea081",
+        "settings": {
+         "editor": "<p>Proč se tedy jako lidé většinou tolik bojíme změn ve svých životech. Vždyť změny kolem nás probíhají každý den - slunce vychází a zapadá, květiny rostou, rozkvetou a vadnou. Transformace a proměna je součástí každého dne a každého procesu zvaného život. </p>",
+         "pa_condition_repeater": [],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "35071df",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "407b6b8",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "69da5bc",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "dc1ff8b",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4f1668d",
+        "settings": {
+         "editor": "<p>Nejlépe tyto změny můžeme pozorovat v přírodě. A je tu opět moje učitelka, moje věčná inspirace, kam si chodím pro odpovědi na své otázky i za pozorováním přirozených cyklů, abych je pak aplikovala a používala i ve svém životě. Je tu opět <strong>PŘÍRODA.</strong></p><p style=\"text-align: center;\">Do přírody si chodím pravidelně pro inspiraci i moudrost. Více v příspěvku <a href=\"https://sblankouzahranice.eu/dojdi-si-pro-zivot/\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><span style=\"color: #333399; text-decoration: underline;\"><strong>\"Dojdi si pro život\".</strong></span></span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4fd309a",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "032a5a1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c6b7eca",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "20ab0e7",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D7D7D7",
+     "pa_condition_repeater": [
+      {
+       "_id": "2055bf5",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1af1e14",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "29febd9",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Ale moment, ještě se vrátím na počátek k prvotní otázce. Proč se tolik bojíme změn?",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "6b0f4cb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4cb8168",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "0a96cc8",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "93773fe",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4db0ace",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "7",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "id": 6982,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-ruka-pres-oblicej2.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "bc253ec",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "46a386e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3639c43",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e7e6198",
+        "settings": {
+         "image": {
+          "id": 6983,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-odmitani-2-S.png"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "96c5d03",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "79cd082",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3dd9973",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2ad7feb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "9bdefc6",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "576d081",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">My lidé máme rádi zažité věci, navyklé způsoby práce, vyšlapané cestičky, zažité denní rituály.  <br />Na otázku „co je u tebe nového?“, odpovídáme často „zaplaťpánbůh nic“. <br />Snažíme se v životě na vše pojistit: na ztrátu zaměstnání, na život, na zdraví atd.<br />Přináší nám to „domnělý“ pocit JISTOTY. </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4f2dc5d",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f79db40",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f4a1ce4",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "afdda67",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "4ffcd5e",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "457adfc",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "cea3d62",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Ale já už ze zkušenosti vím že JEDINÁ JISTOTA V ŽIVOTĚ JE, ŽE VŠECHNO JE NEJISTÉ.",
+         "title_color": "#6A6363",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "0d6e09c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "07a0a2e",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "af96a15",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "985a72a",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c8dc698",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Poprvé jsem tuto větu slyšela od našeho mistra tai-chi před mnoha lety a zprvu jsem z této informace nebyla nadšená. <br />Stejně jako většina lidí i já jsem chtěla mít vždy vše předem známé, dobře naplánované a pokud možno „jisté“.</p><p style=\"text-align: center;\"><strong>Změny jakéhokoliv druhu jsem opravdu neměla ráda.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "38d6154",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "76a606a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a3a0f40",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "78a242b",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7ec3cdc",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6fa9c9a",
+        "settings": {
+         "editor": "<p>Od těch malých – změnit kabelku, boty nebo kousek oblečení, který mi vyhovoval…až po ty větší –  změnit zaměstnání, svůj stav z vdané na rozvedenou nebo bydlení pro mě představovaly v životě opravdu velký otřes a pocit „ohrožení“ z neznámého.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "8c6514a",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b281dc8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-9",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "image": {
+          "id": 6994,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-obleceni.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "f908261",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f4f9dbd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5f8bc65",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9c68009",
+        "settings": {
+         "image": {
+          "id": 6993,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-boty.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "450",
+          "width": "380"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "e3f0372",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "231de6a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "bbf099b",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "80e9487",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6ce2a26",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9931523",
+        "settings": {
+         "editor": "<p>A na jednom takovém příkladu z přírody bych vám chtěla ukázat, že změny jsou opravdu zcela přirozené a v přírodě, jíž jsme součástí, úplně běžné.  <strong>A každá fáze je něčím krásná!</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0665f61",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f6d033b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4adb008",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "737f11a",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D7D7D7",
+     "margin": {
+      "bottom": "31",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "31",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "8841618",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cf02f3f",
+        "settings": {
+         "editor": "<p>Jak jste se mohli dočíst na stránkách mého webu, v 50 letech jsem zcela neplánovaně, ale o to více zásadně, změnila svůj život. Stěhovala jsem se do místa, o kterém jsem vůbec nic nevěděla, kde jsem nikoho a nic neznala. Z ČR – z Prahy, do Rakouska - do Vídně.<br />Můj přítel, kterého jsem do tohoto místa následovala, mi chtěl Vídeň předem trochu přiblížit. A tak mi mimo jiné fotil i různá místa, kterými projížděl na kole do práce.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "7575156",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "77673a8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "985f54c",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "44982ee",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "3a94d3a",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f4dba2d",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Jedním z těchto míst byl i „živý dům“. <br />Dům, na jedné z Vídeňských ulic, který je zcela obrostlý popínavými rostlinami.  Ten pohled na jeden a ten samý dům byl pokaždé jiný, jinak barevný, jinak zajímavý.</p><p style=\"text-align: center;\">Nedalo se říct, že by jakákoliv změna nebyla krásná, či alespoň inspirativní.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4a8d35d",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "8397fde",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "99c9a7d",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "1fe9081",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "bf8674d",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3584c5c",
+        "settings": {
+         "__globals__": {
+          "_background_color": ""
+         },
+         "_background_background": "classic",
+         "_element_width": "inherit",
+         "gallery_columns": "2",
+         "pa_condition_repeater": [
+          {
+           "_id": "581638f",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "thumbnail_size": "large",
+         "wp_gallery": [
+          {
+           "id": 7007,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/zeleny-cely-dum-cervenec-2.jpg"
+          },
+          {
+           "id": 7008,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-zari-2.jpg"
+          },
+          {
+           "id": 7009,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-2-listopad-2.jpg"
+          },
+          {
+           "id": 7010,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-3-prosinec.jpg"
+          },
+          {
+           "id": 7011,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-4-leden.jpg"
+          },
+          {
+           "id": 7012,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum5-unor-2.jpg"
+          }
+         ]
+        },
+        "widgetType": "image-gallery"
+       }
+      ],
+      "id": "ae48af7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2046f18",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "794448d",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e2b4c93",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3d072e0",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Zamilovala jsem si tento jeden záchytný bod a když jsem se ocitla ve Vídni, šla jsem se na dům podívat osobně. <br />Do té doby jsem ho přeci znala jen z fotek.</p><p style=\"text-align: center;\"><br /><strong>Když jsem ho našla, objevila jsem s ním opět mnoho dalších pohledů, ale především jeden zásadní pohled na svůj život.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "d9c78c3",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5ee9701",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e47d63b",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d3bf534",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "4da3a8e",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "451f0c0",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "e8c6e08",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Život je změna, vývoj, pohyb. ",
+         "title_color": "#6A6363",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4c4d013",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d9c49af",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "0cf462f",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "40",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e71a3da",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f53a6e5",
+        "settings": {
+         "editor": "<p>A každá změna je něčím nová, zajímavá, inspirativní.  Tak jako měl tento dům čas rašení, čas zbarvení, čas plné krásy, měl i svůj čas opadávání a čas odpočívání….</p><p>Stejně tak je to v našich životech. V životech lidí. A nemůže to být jinak, vždyť jsme součástí celku.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "2130603",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "cb0d98f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "fb59167",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "12ea676",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D7D7D7",
+     "pa_condition_repeater": [
+      {
+       "_id": "92415a9",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "875b0a1",
+        "settings": {
+         "editor": "<p>I my máme během života čas vývoje a vzestupu, i čas barevnosti, plnosti a krásy, stejně tak přichází i čas „opadávání“ a vadnutí a třeba i čas odpočinku a stagnace. A zase tak nějak dokola nebo střídavě.</p><p>Ale tak je to přirozené! Takže vše je vlastně naprosto v pořádku, když do našich životů přichází změny. Berme je stejně jako malé děti, které se těší na vše nové. Jako děti, které mají vášeň a touhu objevovat.</p><p>Jak bychom dokázali rozlišovat, jak bychom se mohli vyvíjet, jak bychom mohli dělat zkušenosti, kdyby se v našich životech nic neměnilo a my, jednou vybudované, dosažené či vytvořené chtěli ve stejné podobě uchovávat již navždy? Není to možné, šli bychom proti řádu přirozenosti.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "37f0eab",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "5ac26d5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f3cb12a",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d30d46e",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "030",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "a04316c",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f361384",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "ad10d1f",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Protože „ŽIVOT JE ZMĚNA a STAGNACE JE SMRT“.",
+         "title_color": "#6A6363",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5a026f5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "635f86d",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "8901df8",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ef493c4",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e2179fe",
+        "settings": {
+         "image": {
+          "id": 7036,
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-ZMENA-na-zaver.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "53f0bbb",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c24d0ae",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c12e28f",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d5de229",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "47f66fa",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3d622ae",
+        "settings": {
+         "editor": "<p>A tak, až se ve vašem životě opět objeví nějaká ta změna, která vás zprvu vyvede z rovnováhy, vzpomeňte si na přirozenost přírody a třeba i na tyto fotky jednoho a toho samého domu.</p><p>Uvědomíte si, že každá změna přinesla tomuto domu jiný obraz, jiný kabát, ale dům samotný tu je stále. To jen jeho obal se mění.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "85a8860",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d927163",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6d46075",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "91af3ea",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7377f53",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ad0f997",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "a06b577",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Přeji vám, ať vás změny ve vašich životech už více neznepokojují a ať si vždy vzpomenete, že není třeba se bát.",
+         "title_color": "#6A6363",
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "18abefe",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e40b706",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "09cb363",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "7520bc6",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2943416",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Právě v tuto dobu, je toto uvědomění potřeba více než kdy dříve.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "ecfab0f",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "0b7fe46",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "d502089",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "9548544",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D7D7D7",
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d163f3d",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "455614f",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "cd72cb9",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "65dc692",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "51a9149",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "a9a34f6",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "6d5cffe",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "578bf12",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Jak už to tak bývá, vždy, když mi život přinese nějaké uvědomění, tak se mi záhy potvrzuje i z okolí. <br />Včera večer jsem dopsala tento příspěvek pro vás a dnes jsem si udělala chvíli pro přečtení mého oblíbeného časopisu a hned v prvním článku je rozhovor s Markétou Daňhelovou, která prošla obrovskou změnou ve svém životě-od redaktorky ČT po dnešní „svobodnou Markétu“, jak sama o sobě říká, která předává a inspiruje svým příběhem další ženy. <br />A já s dovolením kousek z textu cituji:</p><blockquote><p style=\"text-align: center;\">Jediná jistota je změna a to, že se vyvíjíme skrze změny. <br />A možná i to, že když se vyvíjíme dobrovolně, tak ty změny nemusí být tak bolestivý.</p></blockquote>",
+         "pa_condition_repeater": [
+          {
+           "_id": "4c6760e",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1585de5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "c2683bc",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d65824f",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#D7D7D7",
+     "border_width": {
+      "bottom": "2",
+      "isLinked": true,
+      "left": "2",
+      "right": "2",
+      "top": "2",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "16",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "f1b4bef",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2e3e2d7",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "8565676",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "style": "dots_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "cd6b0cc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "2ee0e0b",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "f1a6655",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "d45cf2f",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "370f9bf2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "_inline_size_tablet": 20,
+       "pa_condition_repeater": [
+        {
+         "_id": "9b3c1ac",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "26fffa4e",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbil se ti můj článek? <br />Ráda ti dám o dalších vědět e-mailem.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "f313b37",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7b731120",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A1E43",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "12d746f",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "text": "Mám zájem"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "70055ca5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 60,
+       "background_background": "classic",
+       "background_color": "#D7D7D7",
+       "border_border": "solid",
+       "border_color": "#0A1E43",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "9c9e50f",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "d7a7330",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e4c256d",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "3fa8d19c",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "pa_condition_repeater": [
+      {
+       "_id": "3ccbac8",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dc41ffa",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "7759675",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/11/23",
+           "pa_condition_date_range": "2022/11/23",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "dd2eefb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "867de59",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/11/23",
+         "pa_condition_date_range": "2022/11/23",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d307d2a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "08a961f",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/11/23",
+       "pa_condition_date_range": "2022/11/23",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "15962",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Změna je život-dům ve Vídni.",
+  "_yoast_wpseo_metadesc": "Změna je život. Tak ,co je to s námi lidmi, že se většina z nás tolik bojí změn ve svých životech? Jako lidé jsme součástí procesu zvaného život, který se neustále proměňuje, vyvíjí a transformuje. Stejně jako zajímavý dům ve Vídni, který se stal součástí mého příběhu o cestě za hranice vlasti."
+ },
+ "modified": "2023-02-17 21:48:17",
+ "obsah_wordpress": "<h2>Změna je život a život je pohyb, vývoj, transformace a proměna. Stejně jako tento dům ve Vídni, který se stal součástí mého  příběhu-cesty za hranice vlasti.</h2>\t\t\n\t\t<p>Proč se tedy jako lidé většinou tolik bojíme změn ve svých životech. Vždyť změny kolem nás probíhají každý den - slunce vychází a zapadá, květiny rostou, rozkvetou a vadnou. Transformace a proměna je součástí každého dne a každého procesu zvaného život. </p><p>Nejlépe tyto změny můžeme pozorovat v přírodě. A je tu opět moje učitelka, moje věčná inspirace, kam si chodím pro odpovědi na své otázky i za pozorováním přirozených cyklů, abych je pak aplikovala a používala i ve svém životě. Je tu opět <strong>PŘÍRODA.</strong></p><p style=\"text-align: center;\">Do přírody si chodím pravidelně pro inspiraci i moudrost. Více v příspěvku <a href=\"https://sblankouzahranice.eu/dojdi-si-pro-zivot/\" rel=\"noopener\"><strong>\"Dojdi si pro život\".</strong></a></p>\t\t\n\t\t\t<h4>Ale moment, ještě se vrátím na počátek k prvotní otázce. Proč se tolik bojíme změn?</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"600\" height=\"313\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-ruka-pres-oblicej2.png\" alt=\"strach\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-ruka-pres-oblicej2.png 600w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-ruka-pres-oblicej2-300x157.png 300w\" sizes=\"(max-width: 600px) 100vw, 600px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"600\" height=\"329\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-odmitani-2-S.png\" alt=\"ne odmitnuti\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-odmitani-2-S.png 600w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/Fotka-odmitani-2-S-300x165.png 300w\" sizes=\"(max-width: 600px) 100vw, 600px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">My lidé máme rádi zažité věci, navyklé způsoby práce, vyšlapané cestičky, zažité denní rituály.  <br />Na otázku „co je u tebe nového?“, odpovídáme často „zaplaťpánbůh nic“. <br />Snažíme se v životě na vše pojistit: na ztrátu zaměstnání, na život, na zdraví atd.<br />Přináší nám to „domnělý“ pocit JISTOTY. </p>\t\t\n\t\t\t<h4>Ale já už ze zkušenosti vím že JEDINÁ JISTOTA V ŽIVOTĚ JE, ŽE VŠECHNO JE NEJISTÉ.</h4>\t\t\n\t\t<p style=\"text-align: center;\">Poprvé jsem tuto větu slyšela od našeho mistra tai-chi před mnoha lety a zprvu jsem z této informace nebyla nadšená. <br />Stejně jako většina lidí i já jsem chtěla mít vždy vše předem známé, dobře naplánované a pokud možno „jisté“.</p><p style=\"text-align: center;\"><strong>Změny jakéhokoliv druhu jsem opravdu neměla ráda.</strong></p><p>Od těch malých – změnit kabelku, boty nebo kousek oblečení, který mi vyhovoval…až po ty větší –  změnit zaměstnání, svůj stav z vdané na rozvedenou nebo bydlení pro mě představovaly v životě opravdu velký otřes a pocit „ohrožení“ z neznámého.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"745\" height=\"537\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-obleceni.jpg\" alt=\"saty\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-obleceni.jpg 745w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-obleceni-300x216.jpg 300w\" sizes=\"(max-width: 745px) 100vw, 745px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Vystrizek-boty-pcojj2st0hi1fvz49nelq5b7q0yulg78pay3f59sb8.jpg\" title=\"Výstřižek-boty\" alt=\"boty\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>A na jednom takovém příkladu z přírody bych vám chtěla ukázat, že změny jsou opravdu zcela přirozené a v přírodě, jíž jsme součástí, úplně běžné.  <strong>A každá fáze je něčím krásná!</strong></p><p>Jak jste se mohli dočíst na stránkách mého webu, v 50 letech jsem zcela neplánovaně, ale o to více zásadně, změnila svůj život. Stěhovala jsem se do místa, o kterém jsem vůbec nic nevěděla, kde jsem nikoho a nic neznala. Z ČR – z Prahy, do Rakouska - do Vídně.<br />Můj přítel, kterého jsem do tohoto místa následovala, mi chtěl Vídeň předem trochu přiblížit. A tak mi mimo jiné fotil i různá místa, kterými projížděl na kole do práce.</p><p style=\"text-align: center;\">Jedním z těchto míst byl i „živý dům“. <br />Dům, na jedné z Vídeňských ulic, který je zcela obrostlý popínavými rostlinami.  Ten pohled na jeden a ten samý dům byl pokaždé jiný, jinak barevný, jinak zajímavý.</p><p style=\"text-align: center;\">Nedalo se říct, že by jakákoliv změna nebyla krásná, či alespoň inspirativní.</p>\t\t\n\t\t\t<figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3584c5c\" data-elementor-lightbox-title=\"zeleny cely dum-cervenec (2)\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzAwNywidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wN1wvemVsZW55LWNlbHktZHVtLWNlcnZlbmVjLTIuanBnIiwic2xpZGVzaG93IjoiMzU4NGM1YyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2021/07/zeleny-cely-dum-cervenec-2.jpg'><img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zeleny-cely-dum-cervenec-2.jpg\" alt=\"barevny dum5\" decoding=\"async\" loading=\"lazy\" aria-describedby=\"gallery-3-7007\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zeleny-cely-dum-cervenec-2.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/zeleny-cely-dum-cervenec-2-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-7007'>\n\t\t\t\tčervenec\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3584c5c\" data-elementor-lightbox-title=\"zbarveny dum- září (2)\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzAwOCwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wN1wvemJhcnZlbnktZHVtLXphcmktMi5qcGciLCJzbGlkZXNob3ciOiIzNTg0YzVjIn0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-zari-2.jpg'><img width=\"636\" height=\"392\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-zari-2.jpg\" alt=\"barevny dum4\" decoding=\"async\" loading=\"lazy\" aria-describedby=\"gallery-3-7008\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-zari-2.jpg 636w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-zari-2-300x185.jpg 300w\" sizes=\"(max-width: 636px) 100vw, 636px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-7008'>\n\t\t\t\tzáří\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3584c5c\" data-elementor-lightbox-title=\"zbarveny dum 2-listopad (2)\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzAwOSwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wN1wvemJhcnZlbnktZHVtLTItbGlzdG9wYWQtMi5qcGciLCJzbGlkZXNob3ciOiIzNTg0YzVjIn0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-2-listopad-2.jpg'><img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-2-listopad-2.jpg\" alt=\"barevny dum6\" decoding=\"async\" loading=\"lazy\" aria-describedby=\"gallery-3-7009\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-2-listopad-2.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-2-listopad-2-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-7009'>\n\t\t\t\tlistopad\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3584c5c\" data-elementor-lightbox-title=\"zbarveny dum 3 - prosinec\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzAxMCwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wN1wvemJhcnZlbnktZHVtLTMtcHJvc2luZWMuanBnIiwic2xpZGVzaG93IjoiMzU4NGM1YyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-3-prosinec.jpg'><img width=\"666\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-3-prosinec.jpg\" alt=\"barevny dum3\" decoding=\"async\" loading=\"lazy\" aria-describedby=\"gallery-3-7010\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-3-prosinec.jpg 666w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-3-prosinec-300x169.jpg 300w\" sizes=\"(max-width: 666px) 100vw, 666px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-7010'>\n\t\t\t\tprosinec\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3584c5c\" data-elementor-lightbox-title=\"zbarveny dum 4-leden\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzAxMSwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wN1wvemJhcnZlbnktZHVtLTQtbGVkZW4uanBnIiwic2xpZGVzaG93IjoiMzU4NGM1YyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-4-leden.jpg'><img width=\"632\" height=\"395\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-4-leden.jpg\" alt=\"barevny dum2\" decoding=\"async\" loading=\"lazy\" aria-describedby=\"gallery-3-7011\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-4-leden.jpg 632w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum-4-leden-300x188.jpg 300w\" sizes=\"(max-width: 632px) 100vw, 632px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-7011'>\n\t\t\t\tleden\n\t\t\t\t</figcaption></figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"3584c5c\" data-elementor-lightbox-title=\"zbarveny dum5- únor (2)\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NzAxMiwidXJsIjoiaHR0cHM6XC9cL3NibGFua291emFocmFuaWNlLmV1XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wN1wvemJhcnZlbnktZHVtNS11bm9yLTIuanBnIiwic2xpZGVzaG93IjoiMzU4NGM1YyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum5-unor-2.jpg'><img width=\"656\" height=\"380\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum5-unor-2.jpg\" alt=\"barevny dum\" decoding=\"async\" loading=\"lazy\" aria-describedby=\"gallery-3-7012\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum5-unor-2.jpg 656w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/zbarveny-dum5-unor-2-300x174.jpg 300w\" sizes=\"(max-width: 656px) 100vw, 656px\" /></a>\n\t\t\t\t<figcaption class='wp-caption-text gallery-caption' id='gallery-3-7012'>\n\t\t\t\túnor\n\t\t\t\t</figcaption></figure>\n\t\t<p style=\"text-align: center;\">Zamilovala jsem si tento jeden záchytný bod a když jsem se ocitla ve Vídni, šla jsem se na dům podívat osobně. <br />Do té doby jsem ho přeci znala jen z fotek.</p><p style=\"text-align: center;\"><br /><strong>Když jsem ho našla, objevila jsem s ním opět mnoho dalších pohledů, ale především jeden zásadní pohled na svůj život.</strong></p>\t\t\n\t\t\t<h4>Život je změna, vývoj, pohyb. </h4>\t\t\n\t\t<p>A každá změna je něčím nová, zajímavá, inspirativní.  Tak jako měl tento dům čas rašení, čas zbarvení, čas plné krásy, měl i svůj čas opadávání a čas odpočívání….</p><p>Stejně tak je to v našich životech. V životech lidí. A nemůže to být jinak, vždyť jsme součástí celku.</p><p>I my máme během života čas vývoje a vzestupu, i čas barevnosti, plnosti a krásy, stejně tak přichází i čas „opadávání“ a vadnutí a třeba i čas odpočinku a stagnace. A zase tak nějak dokola nebo střídavě.</p><p>Ale tak je to přirozené! Takže vše je vlastně naprosto v pořádku, když do našich životů přichází změny. Berme je stejně jako malé děti, které se těší na vše nové. Jako děti, které mají vášeň a touhu objevovat.</p><p>Jak bychom dokázali rozlišovat, jak bychom se mohli vyvíjet, jak bychom mohli dělat zkušenosti, kdyby se v našich životech nic neměnilo a my, jednou vybudované, dosažené či vytvořené chtěli ve stejné podobě uchovávat již navždy? Není to možné, šli bychom proti řádu přirozenosti.</p>\t\t\n\t\t\t<h4>Protože „ŽIVOT JE ZMĚNA a STAGNACE JE SMRT“.</h4>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"403\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-ZMENA-na-zaver-768x403.jpg\" alt=\"cas na zmenu\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-ZMENA-na-zaver-768x403.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-ZMENA-na-zaver-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-ZMENA-na-zaver-1024x538.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2021/07/Vystrizek-ZMENA-na-zaver.jpg 1219w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>A tak, až se ve vašem životě opět objeví nějaká ta změna, která vás zprvu vyvede z rovnováhy, vzpomeňte si na přirozenost přírody a třeba i na tyto fotky jednoho a toho samého domu.</p><p>Uvědomíte si, že každá změna přinesla tomuto domu jiný obraz, jiný kabát, ale dům samotný tu je stále. To jen jeho obal se mění.</p>\t\t\n\t\t\t<h4>Přeji vám, ať vás změny ve vašich životech už více neznepokojují a ať si vždy vzpomenete, že není třeba se bát.</h4>\t\t\n\t\t<p style=\"text-align: center;\">Právě v tuto dobu, je toto uvědomění potřeba více než kdy dříve.</p>\t\t\n\t\t<p style=\"text-align: center;\">Jak už to tak bývá, vždy, když mi život přinese nějaké uvědomění, tak se mi záhy potvrzuje i z okolí. <br />Včera večer jsem dopsala tento příspěvek pro vás a dnes jsem si udělala chvíli pro přečtení mého oblíbeného časopisu a hned v prvním článku je rozhovor s Markétou Daňhelovou, která prošla obrovskou změnou ve svém životě-od redaktorky ČT po dnešní „svobodnou Markétu“, jak sama o sobě říká, která předává a inspiruje svým příběhem další ženy. <br />A já s dovolením kousek z textu cituji:</p><blockquote><p style=\"text-align: center;\">Jediná jistota je změna a to, že se vyvíjíme skrze změny. <br />A možná i to, že když se vyvíjíme dobrovolně, tak ty změny nemusí být tak bolestivý.</p></blockquote>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbil se ti můj článek? <br />Ráda ti dám o dalších vědět e-mailem.</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "dum-ve-vidni",
+ "title": "Změna je život - dům ve Vídni.",
+ "type": "post"
+}

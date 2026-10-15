@@ -1,0 +1,157 @@
+{
+ "ID": 17731,
+ "categories": [],
+ "date": "2023-03-17 17:40:47",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=share-soc-media",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1fee5ed5",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Jestli ti článek přišel zajímavý, pošli ho dál.</p>",
+         "pa_condition_repeater": []
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7a88623b",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=text"
+         },
+         "pa_condition_repeater": [],
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1f974098",
+        "settings": {
+         "_border_border": "none",
+         "_border_radius": {
+          "bottom": "6",
+          "isLinked": true,
+          "left": "6",
+          "right": "6",
+          "top": "6",
+          "unit": "px"
+         },
+         "alignment": "center",
+         "border_size": {
+          "size": 3,
+          "sizes": [],
+          "unit": "px"
+         },
+         "button_height": {
+          "size": 5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "button_size": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "column_gap": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 3,
+          "sizes": [],
+          "unit": "em"
+         },
+         "pa_condition_repeater": [],
+         "row_gap": {
+          "size": 0,
+          "sizes": [],
+          "unit": "px"
+         },
+         "share_buttons": [
+          {
+           "_id": "2ddf5bc"
+          },
+          {
+           "_id": "fd87e61",
+           "button": "linkedin"
+          },
+          {
+           "_id": "13c5c06",
+           "button": "telegram"
+          }
+         ],
+         "skin": "framed",
+         "view": "icon"
+        },
+        "widgetType": "share-buttons"
+       }
+      ],
+      "id": "60746067",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": []
+      }
+     }
+    ],
+    "id": "20586eaf",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": []
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2023-03-17 17:40:48",
+ "obsah_wordpress": "<p style=\"text-align: center;\">Jestli ti článek přišel zajímavý, pošli ho dál.</p>",
+ "parent": 0,
+ "slug": "share-soc-media",
+ "title": "Share soc.media",
+ "type": "elementor_library"
+}

@@ -1,0 +1,3181 @@
+{
+ "ID": 16633,
+ "categories": [
+  "Produkty ke stažení"
+ ],
+ "date": "2023-01-30 14:57:54",
+ "excerpt": "3+3 tipy, jak si usnadnit poznávání Vídně pro pěší i cyklo-turisty. Poznejte Vídeň jinak a využijte všechny možnosti, které vám Vídeň nabízí.",
+ "link": "https://sblankouzahranice.eu/vidni-pesky-i-na-kole-ke-stazeni/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ce6567e",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "3+3 tipy jak si usnadnit poznávání Vídně pro pěší i cyklo-turisty."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "1d09a4d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "cfbe93d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6cb0fb4",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jmenuji se Blanka, jsem Češka, v současné době žijící již několik let v Rakousku, ve Vídni."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e0cebeb",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Se svým projektem „s Blankou za hranice“ pomáhám návštěvníkům, turistům, krajanům žijícím v Rakousku i všem milovníkům Rakouska objevovat tuto zemi prostřednictvím zajímavých tipů na výlety i radami a vychytávkami, jak metropoli Rakouska-Vídeň i celou zemi lépe a snadněji poznávat a objevovat.</p><p style=\"text-align: center;\">Tuto příručku níže jsem vytvořila po několika letech objevování hlavního města a věřím, že vám pomůže se ve Vídni lépe zorientovat.</p><p style=\"text-align: center;\">No a pokud se rozhodnete Vídeň navštívit a chtěli byste více rad k tomu co vidět, kam zajít a jak vše co nejlépe naplánovat a zorganizovat, pak se vám určitě bude hodit moje služba <br /><strong><span style=\"text-decoration: underline;\"><a href=\"https://sblankouzahranice.eu/viden-s-podporou\">CESTOVNÍ PODPORY = DO VÍDNĚ SÁM(A), VE VÍDNI S PODPOROU ZA ZÁDY.</a></span></strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "401dd46",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "36a2b68",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=secondary",
+      "border_color": "globals/colors?id=accent"
+     },
+     "background_background": "classic",
+     "border_border": "dashed",
+     "border_width": {
+      "bottom": "4",
+      "isLinked": true,
+      "left": "4",
+      "right": "4",
+      "top": "4",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "35",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8ea049b",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=text"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-bicycle"
+         },
+         "size": {
+          "size": 80,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "b3d3395",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "35c543d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "41a5c0a",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "POZNEJ VÍDEŇ NA KOLE A VYUŽIJ VŠECHNY MOŽNOSTI A NABÍDKY, KTERÉ TI MĚSTO NABÍZÍ.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dbf7d1e",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=accent",
+          "icon_hover_color": "globals/colors?id=text",
+          "list_title_typography_typography": ""
+         },
+         "icon_color": "#0A431B",
+         "icon_hover_color": "#294568",
+         "icon_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "5",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "inline_icon_align_mobile": "flex-start",
+         "list": [
+          {
+           "_id": "9481384",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "kde vypůjčit přepravní kolo",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           }
+          },
+          {
+           "_id": "a37291d",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "nejlepší trasy z místa A do B",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           }
+          },
+          {
+           "_id": "b271ab0",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "tipy na poznávání Vídně a okolí -trasy,délky,obtížnost",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           }
+          }
+         ],
+         "list_items_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "4",
+          "unit": "px"
+         },
+         "list_title_typography_font_family": "Tahoma",
+         "list_title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_font_weight": "600",
+         "list_title_typography_letter_spacing_mobile": {
+          "size": -0.3,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "list_title_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "list_title_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_icon_list_animation": "zoomIn",
+         "premium_icon_list_animation_switcher": "yes",
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rbadges_repeater": [],
+         "text_icon_typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_icon_typography_typography": "custom"
+        },
+        "widgetType": "premium-icon-list"
+       }
+      ],
+      "id": "b87de4e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "baf0140",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=primary"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "425fbd6",
+        "settings": {
+         "image": {
+          "alt": "Na kole po Vidni",
+          "id": 16653,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni-S.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c98dc6c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0e23ff2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0e698d3",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "ad2be51",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0605b13",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2b606d5",
+        "settings": {
+         "editor": "<p>1. Pokud se chcete po Vídni pohybovat na kole, najít vždy nejlepší trasu a nejlepší spojení, pak doporučuji kouknout <span style=\"color: #000080;\"><strong><span style=\"text-decoration: underline;\"><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.fahrradwien.at/routenplaner/\" target=\"_blank\" rel=\"noopener\">ZDE - Fahrradwien.</a></span></strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a36e8ba",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "235c8eb",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=text"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a247b2b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "55",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "25",
+          "unit": "px"
+         },
+         "editor": "<p>Přehledně, jasně, srozumitelně – pouze zadáte start a cíl a mapka vám ukáže ideální trasu vč. délky, převýšení, času a dalších informací.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ab9f247",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7de227c",
+        "settings": {
+         "image": {
+          "alt": "Mapky pro poznavani Vidne",
+          "id": 16642,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/vystrizek.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "94e5f2f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a77d8ed",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ec656c7",
+        "settings": {
+         "image": {
+          "alt": "Viden pesky i na kole",
+          "id": 16651,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni2-S.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "7276965",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "13e78b2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "42358c5",
+        "settings": {
+         "editor": "<p>2. Potřebujete si po Vídni přepravit těžší náklad – nákup, část vybavení domácnosti, děti na hřiště či sbalit více věcí na piknik u Dunaje? </p><p>Pro všechny tyto případy je tu nová nabídka města Vídeň. <br />Pozor! <strong>Platí jen pro obyvatele Vídně, ne pro turisty!</strong></p><p>Využijte půjčovnu nákladních kol – s přidaným vozíkem. <span style=\"color: #000080;\"><strong><span style=\"text-decoration: underline;\"><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.graetzlrad.wien/\" target=\"_blank\" rel=\"noopener\">INFO </a><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.graetzlrad.wien/\" target=\"_blank\" rel=\"noopener\">ZDE.</a></span></strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "977463a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fc5705c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=text"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "25",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f261c96",
+        "settings": {
+         "editor": "<p>Na této stránce najdete veškeré informace a všechny společnosti i jednotlivce, kteří pronajímají tato kola <strong>ZDARMA.<br /></strong><br />Kola Graetzl jsou iniciativou města Vídně. <br /><strong>Vídeňáci by měli mít možnost využít přepravní kola pro občasné soukromé cesty</strong>. <br />Zapůjčení a užívání jsou pro vypůjčitele bezplatné.</p><p>Kola Graetzl vlastní společnosti, které je zpřístupňují - bary, obchody a kanceláře. Město Vídeň poskytuje pouze webovou stránku, na které se Gräzlräder vyskytuje a prostřednictvím které lze tyto společnosti kontaktovat.</p><p><strong>Je to zcela jednoduché:<br /></strong></p><ul><li>Vyberete si model.</li><li>Najdete volný termín.</li><li>Provedete rezervaci.</li><li>Pak už si kolo s vozíkem vypůjčíte na 24 hod.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_line_height_mobile": {
+          "size": 1.4,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "712de9b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8b448f6",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "71ee728",
+        "settings": {
+         "image": {
+          "alt": "Přepravní kola Vídeň",
+          "id": 16643,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-prepravni-kola.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "328e041",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e89c2a9",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "45b469a",
+        "settings": {
+         "editor": "<p>3. Rádi byste ve Vídni a v okolí Vídně navštívili nějaké zajímavé místo, ale nevíte přesně co, a potřebovali byste dobrý tip přizpůsobený vašim časovým i výkonnostním možnostem?</p><p>Pak je tu pro vás stránka <strong><a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">Mobilitätsagentur ZDE.</span></span></a></strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "23f51e3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b1f785d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=text"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "25",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9a44bff",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Na této stránce najdete tipy na zajímavé cyklo-trasy a výlety na kole ve Vídni a okolí vč. popisu, plánku, délky trasy i časového odhadu. U každého výletu je přesné označení délky v km i typ trasy.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "dc1aafd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b9a4c19",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "trasa cyklo vyletu",
+          "id": 16647,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-cyklo-vyletu.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ec90b75",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "bce6bce",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b69c457",
+        "settings": {
+         "editor": "<p>Vydat se můžete například: </p><ul><li><strong>Juliálnovou tajnou cestou</strong> – zhruba 7 km projížďka k jezeru.<br /><br /></li><li><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\"><strong>Čistý Weinviertel</strong> -  55 km dlouhá cyklo-túra po vinicích, kopcích nad vinicemi, sklepními uličkami a zámky Dolního Rakouska aj.</span></span></span><p> </p></li><li><span style=\"font-family: var(--global-body-font-family);\"><strong>Nahoru na Bisamberk</strong> – 31,7 km na krásnou a známou vyhlídku nad Vídní. <br />Více o tomto místě <a href=\"https://m.facebook.com/story.php?story_fbid=pfbid0q1x5cnHNwQYcjPSqdqEZsXqo29H93SQvPx3TRiHTbakveg5qrbbrokVsFEjnR8Kpl&amp;id=100063581893321\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">najdete i ZDE</span></span></strong></a>.</span></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "61b92f0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "edaf4f1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6725425",
+        "settings": {
+         "image": {
+          "alt": "Na kole oblast Lobau",
+          "id": 16652,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/na-kole-Lobau.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5032164",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4a76964",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "001d723",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 80,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "dd8cb9d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c43342b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c3a2a18",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "POZNEJ VÍDEŇ PĚŠKY A VYUŽIJ VŠECHNY MOŽNOSTI A NABÍDKY, KTERÉ TI MĚSTO NABÍZÍ.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e4ca0bd",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=accent",
+          "icon_hover_color": "globals/colors?id=text",
+          "list_title_typography_typography": ""
+         },
+         "icon_color": "#0A431B",
+         "icon_hover_color": "#294568",
+         "icon_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "5",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "inline_icon_align_mobile": "flex-start",
+         "list": [
+          {
+           "_id": "9481384",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "objevuj metropoli Rakouska s parťáky či průvodci",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           }
+          },
+          {
+           "_id": "a37291d",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "nejlepší trasy z místa A do B - nejrychleji a nejpohodlněji",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           }
+          },
+          {
+           "_id": "b271ab0",
+           "badge_title": "New",
+           "list_text_icon": "New",
+           "list_title": "tipy na skvělé pěší procházky ve Vídni i v okolí",
+           "premium_icon_list_font_updated": {
+            "library": "fa-solid",
+            "value": "fas fa-angle-double-right"
+           }
+          }
+         ],
+         "list_items_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "4",
+          "unit": "px"
+         },
+         "list_title_typography_font_family": "Tahoma",
+         "list_title_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_font_size_mobile": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_font_weight": "600",
+         "list_title_typography_letter_spacing_mobile": {
+          "size": -0.3,
+          "sizes": [],
+          "unit": "px"
+         },
+         "list_title_typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "list_title_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "list_title_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_icon_list_animation": "zoomIn",
+         "premium_icon_list_animation_switcher": "yes",
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "rbadges_repeater": [],
+         "text_icon_typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_icon_typography_typography": "custom"
+        },
+        "widgetType": "premium-icon-list"
+       }
+      ],
+      "id": "ccd768a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ccbf81d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1024962",
+        "settings": {
+         "image": {
+          "alt": "Vídeň na prochazkach",
+          "id": 16669,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/Viden-a-ja.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2916d47",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a45f20e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cead55e",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "2cd6923",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "150b79d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "de58c0c",
+        "settings": {
+         "editor": "<ol><li>O<span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\">bjevujte metropoli Rakouska na pěších trasách. Aby to bylo pro vás snadné , je tady na pomoc stránka města Vídeň<a href=\"https://www.wienzufuss.at/\" target=\"_blank\" rel=\"noopener\"> <span style=\"text-decoration: underline;\"><strong><span style=\"color: #000080; text-decoration: underline;\">ZDE.</span></strong></span></a></span></span><p>Pokud jste ve Vídni krátce anebo sami a chcete poznat toto město jinak a seznámit se, pak není nic jednoduššího než vyhledat v kalendáři blížící se akce.</p>Od kulinářské túry po čtvrtích, přes klikaté stezky ve starém městě až po prohlídku legend – při procházce.<p><strong>Objevíte nové stránky města i nové přátele.<br /><a href=\"https://www.wienzufuss.at/termine/\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline;\"><span style=\"color: #000080; text-decoration: underline;\">INFO a TERMÍNY ZDE.  </span></span></a></strong></p></li></ol>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3c59397",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "87b7007",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=accent"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a5189ce",
+        "settings": {
+         "image": {
+          "alt": "Ja u Schönbrunn",
+          "id": 16676,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-ve-Vidni-2.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c6a8bc3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "222f3b2",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "065d073",
+        "settings": {
+         "editor": "<p>2. Pokud chcete raději poznávat město sami nebo se prostě potřebujete co nejlépe dostat z bodu A do bodu B, pak vám skvěle poslouží mapka, kterou si můžete vyzvednout na desítkách míst v každém vídeňském okrese. <br />Seznam míst, kde si můžete tzv.Fusswegkarte vyzvednout najdete <span style=\"text-decoration: underline;\"><a href=\"https://www.wienzufuss.at/fusswegkarte-bestellen/\" target=\"_blank\" rel=\"noopener\">ZDE.</a></span></p><p>Chodíte rádi, ale ještě jste nenašli tu nejkrásnější, nejrychlejší nebo nejrozmanitější trasu pro vás? Pomůže vám mapa Vídeňské stezky.</p><p>Mapa ukazuje síť vídeňských cest a městské turistické stezky. Kromě stezek pro pěší a nákupních ulic ukazuje mapa i nejrůznější užitečné tipy na nejkrásnější procházky Vídní. Označeny jsou také pítka a veřejné toalety. Nové vydání obsahuje mnoho skrytých zkratek a veřejných průchodů.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6574672",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ff88005",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=accent"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d6360b8",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "13",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "18",
+          "unit": "px"
+         },
+         "editor": "<p>Objednat či vyzvednout si ji můžete ZDARMA na mnoha místech tam, kde to je pro vás nejlepší.<span style=\"text-decoration: underline; color: #000080;\"><strong> V<a href=\"https://www.wienzufuss.at/fusswegkarte-bestellen/\" target=\"_blank\" rel=\"noopener\">yhledáte ZDE.</a><br /></strong></span></p><p><strong>POZOR!</strong> Můžete si i stáhnout do svého telefonu <strong>mobilní aplikaci Wien zu Fuß</strong> – v Google play nebo App store.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a2ba189",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 65,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d315fa5",
+        "settings": {
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Mobilni aplikace Wien zu Fuß",
+          "id": 16677,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-Wien-zu-Fus-app..jpg"
+         },
+         "image_custom_dimension": {
+          "height": "200",
+          "width": "200"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "29fe62b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 35,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b744460",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6055e8b",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "13",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "18",
+          "unit": "px"
+         },
+         "editor": "<p>S touto aplikací sledujete své kroky, cíle aj. <br />Pokud budete hodně chodit, budete odměněni. Kroky nasbírané pomocí aplikace <a href=\"https://www.wienzufuss.at/\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: underline; color: #000080;\"><strong>Wien zu Fuß</strong></span></a> (Vídeň pěšky) lze vyměnit za dárky. Vždy jsou nové dárky. Ať už zmrzlina, káva, kniha, deštník nebo v době, kdy jsem tuto příroučku tvořila tj. v lednu 2023 multifunkční šátek na túry.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "450a626",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 65,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b5567ab",
+        "settings": {
+         "__globals__": {
+          "image_border_color": "globals/colors?id=text"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "satek na turistiku",
+          "id": 16681,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/satek-na-turistiku.jpg"
+         },
+         "image_border_border": "solid",
+         "image_border_radius": {
+          "bottom": "20",
+          "isLinked": true,
+          "left": "20",
+          "right": "20",
+          "top": "20",
+          "unit": "px"
+         },
+         "image_custom_dimension": {
+          "height": "200",
+          "width": "200"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "880ba15",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 35,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7a17a54",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "608534d",
+        "settings": {
+         "editor": "<p>3. Pokud byste rádi metropoli Rakouska a jeho okolí prozkoumali důkladněji, pak se vám určitě bude hodit tato <span style=\"text-decoration: underline; color: #000080;\"><strong><a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">webová stránka Mobilitätsagentur,</a><br /></strong></span>na které najdete zajímavé tipy na vycházky a prohlídky města.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_letter_spacing": {
+          "size": 1,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d6a3b6b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "db70b98",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=accent"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "35",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "00f9965",
+        "settings": {
+         "editor": "<p>Tip na výlet vám kromě jiného zobrazí mapku, délku trasy a informaci o tom, zda procházka je vhodná pro osoby na vozíku či maminky s kočárky.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "073ea8b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "49389f2",
+        "settings": {
+         "image": {
+          "alt": "Oznaceni prochazek ve Vidni",
+          "id": 16685,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-prochazek.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "370",
+          "width": "540"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5649d78",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 40,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "835289e",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e5145c5",
+        "settings": {
+         "editor": "<p>Vybrat si můžete například i z takovýchto tras: </p><ul><li>Pěšky temnou historií vnitřního města -délka 2 km.</li><li><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\">Až na nejvyšší bod ve Vídni – délka 3,8 km.</span></span></li><li><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\">Na Hohe wand až nad mraky – délka 7,7 km.</span></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Cestou na hrad Wilhelminenberg – délka 8,6 km. Vily, víno a nádherný výhled z Ottakringu do Penzingu.</span></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "b8da4ac",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7770ce5",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "543b2c8",
+        "settings": {
+         "image": {
+          "alt": "21. bezirk vinice",
+          "id": 16699,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/21-bezirk-S-vel..jpg"
+         },
+         "image_custom_dimension": {
+          "height": "400",
+          "width": "550"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6eb1637",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ea02271",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "35",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d7e3f1b",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Na závěr přehledný seznam webových stránek",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f70ed32",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "3+3 tipy jak si usnadnit poznávání Vídně pro pěší i cyklo-turisty.",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1fee875",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=primary",
+          "primary_color": "globals/colors?id=text"
+         },
+         "_background_background": "classic",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-bicycle"
+         },
+         "size": {
+          "size": 50,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e9d80ae",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=primary"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>CYKLO TURISTIKA:</strong></p><ul><li>Vyhledání spojení nejlepší trasy z bodu A do bodu B = <span style=\"text-decoration: underline;\"><a href=\"http://www.fahrradwien.at/routenplaner/\" target=\"_blank\" rel=\"noopener\">www.fahrradwien.at/routenplaner/</a><br /><br /></span></li><li>Půjčovna kol pro přepravu nákladů = <span style=\"text-decoration: underline;\"><a href=\"http://www.graetzlrad.wien\" target=\"_blank\" rel=\"noopener\">www.graetzlrad.wien</a><br /><br /></span></li><li>Zajímavé cyklotrasy a tipy na výlety = <span style=\"text-decoration: underline;\"><a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">www.mobilitaetsagentur.at/touren/</a></span><br /><br /></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ca4ebd7",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3",
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 53,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e7db4db",
+        "settings": {
+         "__globals__": {
+          "_background_color": "globals/colors?id=kadence3"
+         },
+         "_background_background": "classic",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-20",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>PĚŠÍ TURISTIKA:</strong></p><ul><li>Setkání s přáteli či průvodci při poznávání Vídně = <span style=\"text-decoration: underline;\"><span style=\"text-decoration: underline;\"><a href=\"https://www.wienzufuss.at/termine\" target=\"_blank\" rel=\"noopener\">www.wienzufuss.at/termine</a></span></span></li><li>Nejlepší trasa a spojení z bodu A do bodu B = <span style=\"text-decoration: underline;\"><span style=\"text-decoration: underline;\"><a href=\"https://www.wienzufuss.at/fusswegkarte-bestellen/\" target=\"_blank\" rel=\"noopener\">www.wienzufuss.at/fusswegkarte/</a></span></span></li><li>Zajímavé trasy a tipy na výlety a procházky = <span style=\"text-decoration: underline;\"><span style=\"text-decoration: underline;\"><a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">www.mobilitaetsagentur.at/touren/</a></span></span><p> </p></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c3178b3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2d15fc2",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=11f029e"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68f4109",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "c5627dd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2a8a8d1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a3c7350",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vídeň je zkrátka metropole, která vás uchvátí svými nesčetnými možnostmi.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "199d9f4",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "90712fc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2af8323",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a08ce06",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "A pokud chcete poznávat Vídeň bez starostí, shonu a levněji, mám pro vás další tip.\n\"Miniprůvodce pro lepší a snadnější poznávání Vídně\". \nVyjde v průběhu roku 2025.\nPoznejte Vídeň jako místní. Přestaňte bloudit a začněte si metropoli užívat.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4afb4ee",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "dc5814c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "684dc7d",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Městský miniprůvodce - Poznejte Vídeň jinak.",
+         "title_color": "#BA1717",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "5fd943f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "12d7ad0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9c36b60",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "50",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "70",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "122",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Minipruvodce 3 aplikace",
+          "id": 23006,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-obalka-new.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "09a075b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53829db",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "75",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "48",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>3 aplikace, které vám přinesou klid, pohodu, čas i peníze.</strong></p><ul><li>Pro snadnou orientaci ve městě.</li><li>Pro lepší poznávání Vídně a okolí.</li><li>Úspora nákladů při vaší návštěvě Vídně – už žádné zbytečné výdaje.</li><li>Pohodlný pohyb po městě bez bloudění a stresu.</li><li>Chytré plánování denních tras a vašeho času.</li><li>Objevte více, než jen centrum města.</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cf6053e",
+        "settings": {
+         "align": "center",
+         "background_color": "#AD2D2D",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/pruvodce-a-minipruvodce/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "CHCI INFORMACE O MINIPRŮVODCI",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "0a47f33",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9534cae",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence2"
+     },
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-60",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-90",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cba839a",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "09b7f38",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "640c7bf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "569edbe",
+        "settings": {
+         "editor": "<p style=\"text-align: left;\">Líbí se ti Vídeň a Rakousko? Máš zájem dozvídat se více o životě v Rakousku a dostávat skvělé tipy, rady a inspirace?<br /><span style=\"font-family: var(--global-body-font-family);\">Přihlas k odběru novinek a dostaneš 1x měsíčně nové informace přímo do emailu.</span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "36f650c",
+        "settings": {
+         "align": "center",
+         "background_color": "#0A431B",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/z8k7j0"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "22af850",
+           "pa_condition_date": "2022/07/18",
+           "pa_condition_date_range": "2022/07/18"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Mám zájem o NOVINKY"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "efc1163",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1ded830",
+        "settings": {
+         "editor": "<p>Říkáš si, že mapky, aplikace i rady jsou fajn, přesto bys rád(a) individuální pomoc a podporu pro plánování tvého pobytu ve Vídni.<br />Pak je tu <strong><span style=\"text-decoration: underline;\"><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">služba CESTOVNÍ PODPORY.</a></span></strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "958b8cb",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "30",
+          "unit": "px"
+         },
+         "align": "center",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/viden-cestovni-podpora/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Více informací a reference zde"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "67d4da7",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence2"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "781ff7d",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "25",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "25",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "571e4f4",
+        "settings": {
+         "image": {
+          "alt": "ML formular",
+          "id": 16454,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/01/automatizace-clen.sekce-S.jpg"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d73ba7b",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=accent"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2943f85",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cecccae",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "8dcd62f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "9a9e952",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "16635",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Vídní pěšky i na kole",
+  "_yoast_wpseo_metadesc": "Příručka \"Vídně pěšky i na kole\"vám přinese zajímavé tipy, jak si usnadnit poznávání Vídně.Využijte všechny možnosti, které vám Vídeň nabízí."
+ },
+ "modified": "2025-05-27 22:00:27",
+ "obsah_wordpress": "<h2>3+3 tipy jak si usnadnit poznávání Vídně pro pěší i cyklo-turisty.</h2>\t\t\t\t\n\t\t\t\t\t<h5>Jmenuji se Blanka, jsem Češka, v současné době žijící již několik let v Rakousku, ve Vídni.</h5>\t\t\t\t\n\t\t<p style=\"text-align: center;\">Se svým projektem „s Blankou za hranice“ pomáhám návštěvníkům, turistům, krajanům žijícím v Rakousku i všem milovníkům Rakouska objevovat tuto zemi prostřednictvím zajímavých tipů na výlety i radami a vychytávkami, jak metropoli Rakouska-Vídeň i celou zemi lépe a snadněji poznávat a objevovat.</p><p style=\"text-align: center;\">Tuto příručku níže jsem vytvořila po několika letech objevování hlavního města a věřím, že vám pomůže se ve Vídni lépe zorientovat.</p><p style=\"text-align: center;\">No a pokud se rozhodnete Vídeň navštívit a chtěli byste více rad k tomu co vidět, kam zajít a jak vše co nejlépe naplánovat a zorganizovat, pak se vám určitě bude hodit moje služba <br /><strong><a href=\"https://sblankouzahranice.eu/viden-s-podporou\">CESTOVNÍ PODPORY = DO VÍDNĚ SÁM(A), VE VÍDNI S PODPOROU ZA ZÁDY.</a></strong></p>\t\t\n\t\t\t\t\t<h2>POZNEJ VÍDEŇ NA KOLE A VYUŽIJ VŠECHNY MOŽNOSTI A NABÍDKY, KTERÉ TI MĚSTO NABÍZÍ.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t<ul data-list-animation=\"zoomIn animated-\">\n\t\t\t<li data-delay=\"0\">\n\t\t\t\t kde vypůjčit přepravní kolo \n\t\t\t</li>\n\t\t\t<li data-delay=\"0\">\n\t\t\t\t nejlepší trasy z místa A do B \n\t\t\t</li>\n\t\t\t<li data-delay=\"0\">\n\t\t\t\t tipy na poznávání Vídně a okolí -trasy,délky,obtížnost \n\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"357\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni-S.jpg\" alt=\"Na kole po Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni-S.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni-S-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>1. Pokud se chcete po Vídni pohybovat na kole, najít vždy nejlepší trasu a nejlepší spojení, pak doporučuji kouknout <strong><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.fahrradwien.at/routenplaner/\" target=\"_blank\" rel=\"noopener\">ZDE - Fahrradwien.</a></strong></p><p>Přehledně, jasně, srozumitelně – pouze zadáte start a cíl a mapka vám ukáže ideální trasu vč. délky, převýšení, času a dalších informací.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"394\" height=\"234\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/vystrizek.jpg\" alt=\"Mapky pro poznavani Vidne\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/vystrizek.jpg 394w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/vystrizek-300x178.jpg 300w\" sizes=\"(max-width: 394px) 100vw, 394px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"697\" height=\"375\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni2-S.jpg\" alt=\"Viden pesky i na kole\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni2-S.jpg 697w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-na-kole-ve-Vidni2-S-300x161.jpg 300w\" sizes=\"(max-width: 697px) 100vw, 697px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>2. Potřebujete si po Vídni přepravit těžší náklad – nákup, část vybavení domácnosti, děti na hřiště či sbalit více věcí na piknik u Dunaje? </p><p>Pro všechny tyto případy je tu nová nabídka města Vídeň. <br />Pozor! <strong>Platí jen pro obyvatele Vídně, ne pro turisty!</strong></p><p>Využijte půjčovnu nákladních kol – s přidaným vozíkem. <strong><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.graetzlrad.wien/\" target=\"_blank\" rel=\"noopener\">INFO </a><a style=\"color: #000080; text-decoration: underline;\" href=\"https://www.graetzlrad.wien/\" target=\"_blank\" rel=\"noopener\">ZDE.</a></strong></p><p>Na této stránce najdete veškeré informace a všechny společnosti i jednotlivce, kteří pronajímají tato kola <strong>ZDARMA.<br /></strong><br />Kola Graetzl jsou iniciativou města Vídně. <br /><strong>Vídeňáci by měli mít možnost využít přepravní kola pro občasné soukromé cesty</strong>. <br />Zapůjčení a užívání jsou pro vypůjčitele bezplatné.</p><p>Kola Graetzl vlastní společnosti, které je zpřístupňují - bary, obchody a kanceláře. Město Vídeň poskytuje pouze webovou stránku, na které se Gräzlräder vyskytuje a prostřednictvím které lze tyto společnosti kontaktovat.</p><p><strong>Je to zcela jednoduché:<br /></strong></p><ul><li>Vyberete si model.</li><li>Najdete volný termín.</li><li>Provedete rezervaci.</li><li>Pak už si kolo s vozíkem vypůjčíte na 24 hod.</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"758\" height=\"322\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-prepravni-kola.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-prepravni-kola.jpg 758w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-prepravni-kola-300x127.jpg 300w\" sizes=\"(max-width: 758px) 100vw, 758px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>3. Rádi byste ve Vídni a v okolí Vídně navštívili nějaké zajímavé místo, ale nevíte přesně co, a potřebovali byste dobrý tip přizpůsobený vašim časovým i výkonnostním možnostem?</p><p>Pak je tu pro vás stránka <strong><a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">Mobilitätsagentur ZDE.</a></strong></p><p>Na této stránce najdete tipy na zajímavé cyklo-trasy a výlety na kole ve Vídni a okolí vč. popisu, plánku, délky trasy i časového odhadu. U každého výletu je přesné označení délky v km i typ trasy.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"543\" height=\"222\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-cyklo-vyletu.jpg\" alt=\"trasa cyklo vyletu\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-cyklo-vyletu.jpg 543w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-cyklo-vyletu-300x123.jpg 300w\" sizes=\"(max-width: 543px) 100vw, 543px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Vydat se můžete například: </p><ul><li><strong>Juliálnovou tajnou cestou</strong> – zhruba 7 km projížďka k jezeru.<br /><br /></li><li><strong>Čistý Weinviertel</strong> -  55 km dlouhá cyklo-túra po vinicích, kopcích nad vinicemi, sklepními uličkami a zámky Dolního Rakouska aj.<p> </p></li><li><strong>Nahoru na Bisamberk</strong> – 31,7 km na krásnou a známou vyhlídku nad Vídní. <br />Více o tomto místě <a href=\"https://m.facebook.com/story.php?story_fbid=pfbid0q1x5cnHNwQYcjPSqdqEZsXqo29H93SQvPx3TRiHTbakveg5qrbbrokVsFEjnR8Kpl&amp;id=100063581893321\" target=\"_blank\" rel=\"noopener\"><strong>najdete i ZDE</strong></a>.</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"706\" height=\"370\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/na-kole-Lobau.jpg\" alt=\"Na kole oblast Lobau\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/na-kole-Lobau.jpg 706w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/na-kole-Lobau-300x157.jpg 300w\" sizes=\"(max-width: 706px) 100vw, 706px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>POZNEJ VÍDEŇ PĚŠKY A VYUŽIJ VŠECHNY MOŽNOSTI A NABÍDKY, KTERÉ TI MĚSTO NABÍZÍ.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t<ul data-list-animation=\"zoomIn animated-\">\n\t\t\t<li data-delay=\"0\">\n\t\t\t\t objevuj metropoli Rakouska s parťáky či průvodci \n\t\t\t</li>\n\t\t\t<li data-delay=\"0\">\n\t\t\t\t nejlepší trasy z místa A do B - nejrychleji a nejpohodlněji \n\t\t\t</li>\n\t\t\t<li data-delay=\"0\">\n\t\t\t\t tipy na skvělé pěší procházky ve Vídni i v okolí \n\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Viden-a-ja.jpg\" alt=\"Vídeň na prochazkach\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Viden-a-ja.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/Viden-a-ja-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<ol><li>Objevujte metropoli Rakouska na pěších trasách. Aby to bylo pro vás snadné , je tady na pomoc stránka města Vídeň<a href=\"https://www.wienzufuss.at/\" target=\"_blank\" rel=\"noopener\"> <strong>ZDE.</strong></a><p>Pokud jste ve Vídni krátce anebo sami a chcete poznat toto město jinak a seznámit se, pak není nic jednoduššího než vyhledat v kalendáři blížící se akce.</p>Od kulinářské túry po čtvrtích, přes klikaté stezky ve starém městě až po prohlídku legend – při procházce.<p><strong>Objevíte nové stránky města i nové přátele.<br /><a href=\"https://www.wienzufuss.at/termine/\" target=\"_blank\" rel=\"noopener\">INFO a TERMÍNY ZDE.  </a></strong></p></li></ol>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"809\" height=\"503\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-ve-Vidni-2.jpg\" alt=\"Ja u Schönbrunn\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-ve-Vidni-2.jpg 809w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-ve-Vidni-2-300x187.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/ja-ve-Vidni-2-768x478.jpg 768w\" sizes=\"(max-width: 809px) 100vw, 809px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>2. Pokud chcete raději poznávat město sami nebo se prostě potřebujete co nejlépe dostat z bodu A do bodu B, pak vám skvěle poslouží mapka, kterou si můžete vyzvednout na desítkách míst v každém vídeňském okrese. <br />Seznam míst, kde si můžete tzv.Fusswegkarte vyzvednout najdete <a href=\"https://www.wienzufuss.at/fusswegkarte-bestellen/\" target=\"_blank\" rel=\"noopener\">ZDE.</a></p><p>Chodíte rádi, ale ještě jste nenašli tu nejkrásnější, nejrychlejší nebo nejrozmanitější trasu pro vás? Pomůže vám mapa Vídeňské stezky.</p><p>Mapa ukazuje síť vídeňských cest a městské turistické stezky. Kromě stezek pro pěší a nákupních ulic ukazuje mapa i nejrůznější užitečné tipy na nejkrásnější procházky Vídní. Označeny jsou také pítka a veřejné toalety. Nové vydání obsahuje mnoho skrytých zkratek a veřejných průchodů.</p><p>Objednat či vyzvednout si ji můžete ZDARMA na mnoha místech tam, kde to je pro vás nejlepší.<strong> V<a href=\"https://www.wienzufuss.at/fusswegkarte-bestellen/\" target=\"_blank\" rel=\"noopener\">yhledáte ZDE.</a><br /></strong></p><p><strong>POZOR!</strong> Můžete si i stáhnout do svého telefonu <strong>mobilní aplikaci Wien zu Fuß</strong> – v Google play nebo App store.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Vystrizek-Wien-zu-Fus-app.-qr9gp2fkzw0f9wes35rq95lny8so9uzkcef8ovufo0.jpg\" title=\"Vidni pesky i na kole mobilni aplikace.\" alt=\"Mobilni aplikace Wien zu Fuß\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>S touto aplikací sledujete své kroky, cíle aj. <br />Pokud budete hodně chodit, budete odměněni. Kroky nasbírané pomocí aplikace <a href=\"https://www.wienzufuss.at/\" target=\"_blank\" rel=\"noopener\"><strong>Wien zu Fuß</strong></a> (Vídeň pěšky) lze vyměnit za dárky. Vždy jsou nové dárky. Ať už zmrzlina, káva, kniha, deštník nebo v době, kdy jsem tuto příroučku tvořila tj. v lednu 2023 multifunkční šátek na túry.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/satek-na-turistiku-qr9gp3df6q1plidexo6ctnd4jmo1hk3aoj2q65t1hs.jpg\" title=\"Viden pesky i na kole\" alt=\"satek na turistiku\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>3. Pokud byste rádi metropoli Rakouska a jeho okolí prozkoumali důkladněji, pak se vám určitě bude hodit tato <strong><a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">webová stránka Mobilitätsagentur,</a><br /></strong>na které najdete zajímavé tipy na vycházky a prohlídky města.</p><p>Tip na výlet vám kromě jiného zobrazí mapku, délku trasy a informaci o tom, zda procházka je vhodná pro osoby na vozíku či maminky s kočárky.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"550\" height=\"162\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-prochazek.jpg\" alt=\"Oznaceni prochazek ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-prochazek.jpg 550w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-oznaceni-prochazek-300x88.jpg 300w\" sizes=\"(max-width: 550px) 100vw, 550px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Vybrat si můžete například i z takovýchto tras: </p><ul><li>Pěšky temnou historií vnitřního města -délka 2 km.</li><li>Až na nejvyšší bod ve Vídni – délka 3,8 km.</li><li>Na Hohe wand až nad mraky – délka 7,7 km.</li><li>Cestou na hrad Wilhelminenberg – délka 8,6 km. Vily, víno a nádherný výhled z Ottakringu do Penzingu.</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/21-bezirk-S-vel.-qr9gp3djg7sdjmx1vr6rf9kdljqfvvdjdkw2nmouwm.jpg\" title=\"Vidni pesky i na kole\" alt=\"21. bezirk vinice\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Na závěr přehledný seznam webových stránek</h2>\t\t\t\t\n\t\t\t\t\t<h2>3+3 tipy jak si usnadnit poznávání Vídně pro pěší i cyklo-turisty.</h2>\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>CYKLO TURISTIKA:</strong></p><ul><li>Vyhledání spojení nejlepší trasy z bodu A do bodu B = <a href=\"http://www.fahrradwien.at/routenplaner/\" target=\"_blank\" rel=\"noopener\">www.fahrradwien.at/routenplaner/</a><br /><br /></li><li>Půjčovna kol pro přepravu nákladů = <a href=\"http://www.graetzlrad.wien\" target=\"_blank\" rel=\"noopener\">www.graetzlrad.wien</a><br /><br /></li><li>Zajímavé cyklotrasy a tipy na výlety = <a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">www.mobilitaetsagentur.at/touren/</a><br /><br /></li></ul>\t\t\n\t\t<p style=\"text-align: center;\"><strong>PĚŠÍ TURISTIKA:</strong></p><ul><li>Setkání s přáteli či průvodci při poznávání Vídně = <a href=\"https://www.wienzufuss.at/termine\" target=\"_blank\" rel=\"noopener\">www.wienzufuss.at/termine</a></li><li>Nejlepší trasa a spojení z bodu A do bodu B = <a href=\"https://www.wienzufuss.at/fusswegkarte-bestellen/\" target=\"_blank\" rel=\"noopener\">www.wienzufuss.at/fusswegkarte/</a></li><li>Zajímavé trasy a tipy na výlety a procházky = <a href=\"https://www.mobilitaetsagentur.at/touren/\" target=\"_blank\" rel=\"noopener\">www.mobilitaetsagentur.at/touren/</a><p> </p></li></ul>\t\t\n\t\t\t\t\t<h2>Vídeň je zkrátka metropole, která vás uchvátí svými nesčetnými možnostmi.</h2>\t\t\t\t\n\t\t\t\t\t<h2>A pokud chcete poznávat Vídeň bez starostí, shonu a levněji, mám pro vás další tip.\n\"Miniprůvodce pro lepší a snadnější poznávání Vídně\". \nVyjde v průběhu roku 2025.\nPoznejte Vídeň jako místní. Přestaňte bloudit a začněte si metropoli užívat.</h2>\t\t\t\t\n\t\t\t\t\t<h2>Městský miniprůvodce - Poznejte Vídeň jinak.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"434\" height=\"613\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-obalka-new.jpg\" alt=\"Minipruvodce 3 aplikace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-obalka-new.jpg 434w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/Vystrizek-obalka-new-212x300.jpg 212w\" sizes=\"(max-width: 434px) 100vw, 434px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>3 aplikace, které vám přinesou klid, pohodu, čas i peníze.</strong></p><ul><li>Pro snadnou orientaci ve městě.</li><li>Pro lepší poznávání Vídně a okolí.</li><li>Úspora nákladů při vaší návštěvě Vídně – už žádné zbytečné výdaje.</li><li>Pohodlný pohyb po městě bez bloudění a stresu.</li><li>Chytré plánování denních tras a vašeho času.</li><li>Objevte více, než jen centrum města.</li></ul>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/pruvodce-a-minipruvodce/\">\n\t\t\t\t\t\t\t\t\tCHCI INFORMACE O MINIPRŮVODCI\n\t\t\t\t\t</a>\n\t\t<p style=\"text-align: left;\">Líbí se ti Vídeň a Rakousko? Máš zájem dozvídat se více o životě v Rakousku a dostávat skvělé tipy, rady a inspirace?<br />Přihlas k odběru novinek a dostaneš 1x měsíčně nové informace přímo do emailu.</p>\t\t\n\t\t\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/z8k7j0\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\t\t\t\tMám zájem o NOVINKY\n\t\t\t\t\t</a>\n\t\t<p>Říkáš si, že mapky, aplikace i rady jsou fajn, přesto bys rád(a) individuální pomoc a podporu pro plánování tvého pobytu ve Vídni.<br />Pak je tu <strong><a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">služba CESTOVNÍ PODPORY.</a></strong></p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/viden-cestovni-podpora/\">\n\t\t\t\t\t\t\t\t\tVíce informací a reference zde\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"276\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/automatizace-clen.sekce-S-300x276.jpg\" alt=\"ML formular\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/01/automatizace-clen.sekce-S-300x276.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/automatizace-clen.sekce-S-900x829.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/automatizace-clen.sekce-S-768x707.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/01/automatizace-clen.sekce-S.jpg 932w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+ "parent": 0,
+ "slug": "vidni-pesky-i-na-kole-ke-stazeni",
+ "title": "Vídní pěšky i na kole - pro snadnější poznávání Vídně",
+ "type": "post"
+}

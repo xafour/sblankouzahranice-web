@@ -1,0 +1,295 @@
+{
+ "ID": 17472,
+ "categories": [],
+ "date": "2023-02-28 20:52:02",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=animate-headline-elementor-pro",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4be27d23",
+        "settings": {
+         "__globals__": {
+          "marker_color": "",
+          "title_color": "globals/colors?id=kadence2"
+         },
+         "after_text": "s námi dělá zázraky a je osvěžující.",
+         "before_text": "> Víme to všichni",
+         "highlight_animation_duration": 1218,
+         "highlight_iteration_delay": 1200,
+         "highlighted_text": "pobyt v přírodě ",
+         "marker": "underline",
+         "marker_color": "#9F3D23",
+         "pa_condition_repeater": [
+          {
+           "_id": "2d19231",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/02",
+           "pa_condition_date_range": "2022/09/02",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_loc_method": "old",
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "rotating_text": "Better\nBigger\nFaster",
+         "stroke_width": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "tag": "h5",
+         "title_color": "#0a431b",
+         "title_typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "title_typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "title_typography_typography": "custom",
+         "words_color": "#C0AE3D"
+        },
+        "widgetType": "animated-headline"
+       }
+      ],
+      "id": "45cca81",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "29ac0bf",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_loc_method": "old",
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "f922f73",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7fdea9c",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_loc_method": "old",
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2023-02-28 20:52:03",
+ "obsah_wordpress": "<h5>\n\t\t\t\t\t> Víme to všichni\n\t\t\t\t\tpobyt v přírodě \n\t\t\t\t\ts námi dělá zázraky a je osvěžující.\n\t\t\t\t\t</h5>",
+ "parent": 0,
+ "slug": "animate-headline-elementor-pro",
+ "title": "Animate Headline Elementor pro",
+ "type": "elementor_library"
+}

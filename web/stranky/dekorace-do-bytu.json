@@ -1,0 +1,1622 @@
+{
+ "ID": 2492,
+ "categories": [],
+ "date": "2021-03-04 22:52:39",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/dekorace-do-bytu/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "201eb378",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Rokem krok za krokem.",
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "22574437",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-14",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-16",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "height": {
+          "size": 400,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_mobile": {
+          "size": 140,
+          "sizes": [],
+          "unit": "px"
+         },
+         "height_tablet": {
+          "size": 315,
+          "sizes": [],
+          "unit": "px"
+         },
+         "image": {
+          "alt": "zahlavi webu-dekorace",
+          "id": 21369,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527.png"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 91,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_mobile": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "space_tablet": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         },
+         "width": {
+          "size": 100,
+          "sizes": [],
+          "unit": "%"
+         }
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6cd0cfa9",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "464afef2",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "60",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "30",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "30",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2702d96f",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "63",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-25",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "524ed0e4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3a6f078",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=kadence3",
+      "shape_divider_bottom_color": "globals/colors?id=kadence8"
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-65",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "30",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-65",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "10",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 75,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 50,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 86,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 300,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "773d1c14",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=kadence2"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-115",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "8",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-55",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Vyrobte si jednoduché přírodní dekorace do bytu.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "568eac1a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "-1",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "55032296",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": ""
+     },
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "26",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-45",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 20,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 267,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 260,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 232,
+      "sizes": [],
+      "unit": "%"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "56c724c",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=kadence2"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-hand-point-down"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e1e0db3",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vykročte rokem pomaleji a vědoměji v souladu s ročními cykly.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8c70759",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Vnímejte přírodu, tvořte a bavte se po celý rok.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "2fe9656",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6d91e83",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-30",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "0",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "48ab526",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><b>Najdete zde 12 dekorací na 12 měsíců roku.</b><br />Vždy  jeden nápad vč. video návodu k realizaci <strong>dekorace do bytu </strong>z materiálů nasbíraných v přírodě nebo z recyklovatelného \"odpadu\" domácnosti.</p><p style=\"text-align: center;\"><strong>Výroba dekorací je inspirována vždy ročním obdobím</strong>.</p><p>Na výrobu budete potřebovat jen to, co najdete kdekoliv na procházce v přírodě a dále různé věci, které v domácnosti máte, nebo byste je dokonce vyhodily, jako odpad či nepotřebný materiál.</p><p>Celý rok tak můžete mít vyzdobený byt v souladu s proměnami přírody a s cykly roku. Tyto DEKORACE do domácnosti vás nebudou stát žádné peníze, jen váš čas. Odměnou vám bude pohled na něco hmatatelného, co jste vytvořili vlastníma rukama a co vás propojí s rytmem a řádem přírody.</p><p>Jsem přesvědčena, že je  dobré přenášet si tuto jistotu a pravidelnost cyklů v přírodě i do svého života jako zdroj stability v \"nestabilní\" době.</p><p style=\"text-align: center;\">Postupně tak společně projdeme celý rok v proměnách času.</p><p style=\"text-align: center;\"><strong>ROKEM KROK ZA KROKEM.</strong></p><p>Zjistíte, jak snadné je využívat darů přírody k dekoraci domácnosti. Tvořte a radujte se ze svých výtvorů.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "9bc6cae",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9d57942",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "_inline_size_mobile": 100,
+       "background_background": "classic",
+       "pa_condition_repeater": [
+        {
+         "_id": "b98e28a",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "50",
+        "right": "50",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "12",
+        "right": "12",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "e558727",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "020",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "f72285a",
+       "pa_condition_date": "2023/02/28",
+       "pa_condition_date_range": "2023/02/28"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "10",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eb06af4",
+        "settings": {
+         "__globals__": {
+          "premium_blog_box_background_color": "globals/colors?id=kadence3"
+         },
+         "_padding": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "box_border_border": "none",
+         "categories_repeater": [
+          {
+           "_id": "976b5a1"
+          }
+         ],
+         "pa_condition_repeater": [
+          {
+           "_id": "8ffc73e",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_blog_columns_number": "33.33%",
+         "premium_blog_comments_meta": "",
+         "premium_blog_content_background_color": "#FFFEFE",
+         "premium_blog_content_typo_typography": "custom",
+         "premium_blog_date_meta": "",
+         "premium_blog_excerpt_text": "Read More »",
+         "premium_blog_hover_color_effect": "none",
+         "premium_blog_infinite_scroll": "yes",
+         "premium_blog_meta_color": "#0A431B",
+         "premium_blog_new_tab": "",
+         "premium_blog_next_text": "Next",
+         "premium_blog_number_of_posts": 12,
+         "premium_blog_overlay_color": "#0C0707",
+         "premium_blog_post_content_color": "#080808",
+         "premium_blog_prev_text": "Previous",
+         "premium_blog_skin": "cards",
+         "premium_blog_tab_label": "All",
+         "premium_blog_thumb_min_height": {
+          "size": 200,
+          "sizes": [],
+          "unit": "px"
+         },
+         "premium_blog_title_color": "#0A431B",
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "tax_category_post_filter": [
+          "dekorace-do-bytu"
+         ]
+        },
+        "widgetType": "premium-addon-blog"
+       }
+      ],
+      "id": "c298432",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "158bcbe",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "padding": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3e7a241",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "be906b7",
+       "pa_condition_date": "2023/02/28",
+       "pa_condition_date_range": "2023/02/28"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0e669b8",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "643dab9",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Jak se zrodil projekt ROKEM KROK ZA KROKEM.",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9bbe4ea",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "5",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<div role=\"row\"><div class=\"lzcic4wl\" role=\"gridcell\" data-scope=\"messages_table\"><div class=\"q45zohi1 ema1e40h do00u71z ni8dbmo4 stjgntxs ttbfdpzt\"><p><strong>V roce 2020 jsem poprvé začala konkrétně uvažovat o pořádání kurzů \"tvoření dekorací do bytu z přírodních materiálů\".</strong></p><p>Rok 2021 ale začal jak v ČR, tak v Rakousku, další vlnou “lock down” a nebylo jasné, zda můj první plánovaný kurz s příchodem jara – v březnu 2021 se bude moci konat za účasti zájemců.</p><p>Proto ve mně narychlo dozrál plán, začít alespoň krátkými VIDEO-návody, pro výrobu dekorací.</p><p>Díky tomu vznikal každý měsíc 1 tip a návod na výrobu dekorace do bytu z čistě přírodních materiálů.</p><p>Výroba je velmi snadná a postačí Vám vždy materiál, který máte běžně doma a který si můžete přinést z výletu, procházky či zahrádky. Tořit můžete společně s dětmi a využít čas k zamyšlení se nad novým měsícem.  Můžete dětem vyprávět o pranostikách, zvycích i pověrách.</p><p>Tvorba dekorace vám nezabere více jak 15-30 minut a pomůže vám alespoň na chvíli se zastavit v každodenním shonu.</p><p>Vyrobené dekorace vám zároveň pomohou naladit se na koloběh života v přírodě - ROKEM KROK ZA KROKEM.</p><p>Málokdy vnímáme, jak ten čas rychle ubíhá a jak rychle se posunujeme rokem měsíc po měsíci, aniž bychom dokázali vnímat dary jednotlivých ročních období a hlavně změny v přírodě i v nás samých.</p><p>A najednou zjistíme, že je tady Silvestr a my se ptáme sami sebe jak je možné, že už je zase další rok za námi?</p><p>Tento cyklus tvorby dekorací, které si můžeš během roku procházet a vyrábět vám pomohou si uvědomit, že je tady opět další měsíc.</p></div><div> </div><div class=\"q45zohi1 ema1e40h do00u71z ni8dbmo4 stjgntxs ttbfdpzt\" style=\"text-align: center;\"><strong><span style=\"font-size: 16px;\"> Věřím, že se vám spolu s těmito dekoracemi povede jít rokem o trochu pomaleji a zároveň vědoměji. </span></strong></div><div> </div><div class=\"q45zohi1 ema1e40h do00u71z ni8dbmo4 stjgntxs ttbfdpzt\" style=\"text-align: center;\"><span style=\"color: #000000;\"><strong><span style=\"font-size: 16px;\">Budu moc ráda, pokud si to při výrobě užijete.</span></strong></span></div></div></div>",
+         "pa_condition_repeater": [
+          {
+           "_id": "6436a37",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c7b932e",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence3"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "8f9eb31",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0af93cc",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#FAFBF6A1",
+     "border_border": "none",
+     "border_color": "#ABB64CA1",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "margin": {
+      "bottom": "030",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "030",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "37b963b",
+       "pa_condition_date": "2023/02/28",
+       "pa_condition_date_range": "2023/02/28"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f220912",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "130",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "1d83f34",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#1C6E1C",
+         "rotate": {
+          "size": 30,
+          "sizes": [],
+          "unit": "deg"
+         },
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-pagelines"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "2122c80",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "_inline_size_mobile": 10,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "291",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "30",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "110",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "2cf4f80",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e7e41a4",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "8dd8737",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#1C6E1C",
+         "rotate": {
+          "size": 30,
+          "sizes": [],
+          "unit": "deg"
+         },
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-pagelines"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "05c42b7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "_inline_size_mobile": 10,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "271",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "94",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "149",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "f89838b",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db26b55",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "2f9160b",
+           "pa_condition_date": "2023/02/28",
+           "pa_condition_date_range": "2023/02/28"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#1C6E1C",
+         "rotate": {
+          "size": 30,
+          "sizes": [],
+          "unit": "deg"
+         },
+         "selected_icon": {
+          "library": "fa-brands",
+          "value": "fab fa-pagelines"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "58cafcf",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "_inline_size_mobile": 10,
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "19",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "124",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "18",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "67dacf6",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "1077429",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": null,
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "c854050",
+         "pa_condition_date": "2023/02/28",
+         "pa_condition_date_range": "2023/02/28"
+        }
+       ],
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ba5f6d3",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "18",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ad850a0",
+       "pa_condition_date": "2023/02/28",
+       "pa_condition_date_range": "2023/02/28"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "3751",
+  "_wp_page_template": "elementor_header_footer",
+  "_yoast_wpseo_focuskw": "Dekorace z přírodních materiálů. Rokem krok za krokem s Blankou za hranice.",
+  "_yoast_wpseo_metadesc": "Společně projdeme celým rokem měsíc po měsíci v proměnách času v rámci cyklu ROKEM KROK ZA KROKEM. Každý měsíc vám přináším jeden tip na výrobu dekorace do bytu z přírodních materiálů společně s videonávodem na jeho výrobu. Tvořte spolu se mnou jednoduché dekorace, které vás nebudou stát žádné peníze a použijete na ně vždy to, co si přinesete z procházky, výletu či zahrádky."
+ },
+ "modified": "2024-04-09 19:42:10",
+ "obsah_wordpress": "<h2>Rokem krok za krokem.</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"346\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527-900x346.png\" alt=\"zahlavi webu-dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527-900x346.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527-300x115.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527-768x295.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527-1536x591.png 1536w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-e1712687646527.png 1640w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Vyrobte si jednoduché přírodní dekorace do bytu.</p>\t\t\n\t\t\t<h3>Vykročte rokem pomaleji a vědoměji v souladu s ročními cykly.</h3>\t\t\n\t\t\t<h3>Vnímejte přírodu, tvořte a bavte se po celý rok.</h3>\t\t\n\t\t<p style=\"text-align: center;\"><b>Najdete zde 12 dekorací na 12 měsíců roku.</b><br />Vždy  jeden nápad vč. video návodu k realizaci <strong>dekorace do bytu </strong>z materiálů nasbíraných v přírodě nebo z recyklovatelného \"odpadu\" domácnosti.</p><p style=\"text-align: center;\"><strong>Výroba dekorací je inspirována vždy ročním obdobím</strong>.</p><p>Na výrobu budete potřebovat jen to, co najdete kdekoliv na procházce v přírodě a dále různé věci, které v domácnosti máte, nebo byste je dokonce vyhodily, jako odpad či nepotřebný materiál.</p><p>Celý rok tak můžete mít vyzdobený byt v souladu s proměnami přírody a s cykly roku. Tyto DEKORACE do domácnosti vás nebudou stát žádné peníze, jen váš čas. Odměnou vám bude pohled na něco hmatatelného, co jste vytvořili vlastníma rukama a co vás propojí s rytmem a řádem přírody.</p><p>Jsem přesvědčena, že je  dobré přenášet si tuto jistotu a pravidelnost cyklů v přírodě i do svého života jako zdroj stability v \"nestabilní\" době.</p><p style=\"text-align: center;\">Postupně tak společně projdeme celý rok v proměnách času.</p><p style=\"text-align: center;\"><strong>ROKEM KROK ZA KROKEM.</strong></p><p>Zjistíte, jak snadné je využívat darů přírody k dekoraci domácnosti. Tvořte a radujte se ze svých výtvorů.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/prosincova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"608\" height=\"319\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/PROSINCOVA-nahled.obrazek.png\" alt=\"prosincova dekorace\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/prosincova-dekorace/\" target=\"_self\" rel=\"noopener\">Prosincová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/prosincova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tProsincová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc PROSINEC zakončuje celý rok.\nJe nejenom měsícem adventního období, svátků vánočních, ale i období ročního bilancování a spřádání plánů i tužeb do dalšího, nového roku. \nDnes spolu budeme tvořit ...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/listopadova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"1223\" height=\"638\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/11/Vystrizek-upr..jpg\" alt=\"vanoce\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/listopadova-dekorace/\" target=\"_self\" rel=\"noopener\">Listopadová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/listopadova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tListopadová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc LISTOPAD předznamenává příchod Vánoc a v letošním roce je už počátkem adventního období.\nMám tady pro vás netradiční Adventní dekoraci, kterou opět můžete tvořit i s dětmi...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/rijnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"618\" height=\"326\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/10/nahled.obr_.2.jpg\" alt=\"dekorace\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/rijnova-dekorace/\" target=\"_self\" rel=\"noopener\">Říjnová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/rijnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tŘíjnová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc ŘÍJEN je barevným podzimním měsícem bohatým na plody přírody. Máme tady již desátý měsíc letošního roku a s ním i námět na jednu víceúčelovou dekoraci, kterou využijete buď pro sebe nebo pro své ...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/zarijova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"707\" height=\"370\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/09/Nahledovy-obrazek-1.png\" alt=\"venec podzimni dekorace2\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/zarijova-dekorace/\" target=\"_self\" rel=\"noopener\">Zářijová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/zarijova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tZářijová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Mám tady pro vás již v pořadí devátý letošní tip na výrobu jednoduché dekorace do bytu z přírodních materiálů. A protože je dobré připomínat si koloběh života v přírodě i doma, tak jsem se rozhodla ...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/srpnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"707\" height=\"370\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/08/Nahledovy-obrazek.png\" alt=\"kaminky\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/srpnova-dekorace/\" target=\"_self\" rel=\"noopener\">Srpnová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/srpnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tSrpnová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>V SRPNU jsem se rozhodla, že vás ještě jednou inspiruji, jak oživit nasbírané kamínky z dovolené a udělat z nich dekorační obrázek jako připomínku zážitků z místa, odkud jste si je přivezli. Můžete ho tvořit společně s dětmi...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/cervencova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"780\" height=\"408\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/07/cervencova-dekorace-nahledovy-obrazek-do-clanku-S-new1.png\" alt=\"oblazky\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/cervencova-dekorace/\" target=\"_self\" rel=\"noopener\">Červencová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/cervencova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tČervencová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc ČERVENEC je jedním z prázdninových měsíců.\nJe léto a prázdniny a tak spousta z nás vyráží k moři nebo do hor, odkud si přivážíme různé kamínky či oblázky jako přípomínku...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/cervnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"600\" height=\"313\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/nahled-novy-S.png\" alt=\"dekorace\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/cervnova-dekorace/\" target=\"_self\" rel=\"noopener\">Červnová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/cervnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tČervnová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc ČERVEN je měsícem, ve kterém v přírodě začínáme sklízet plody ovoce (jahody, maliny, aj.).\nVenku je krásně, živých květin máme nyní kolem sebe na zahradě i v přírodě, na louce všude plno..</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/kvetnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"691\" height=\"361\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/05/nahledovy-obrazek-3.png\" alt=\"dekorace do bytu\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/kvetnova-dekorace/\" target=\"_self\" rel=\"noopener\">Květnová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/kvetnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tKvětnová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc KVĚTEN je měsícem, ve kterém v přírodě opravdu vše kvete a přímo nás vybízí vyjít ven do přírody a kochat se pohledem na tu rozkvétající krásu. A protože se snažím následovat rytmus přírody, nadělila jsem...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/dubnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"707\" height=\"370\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/04/rokem-krok-za-krokem-duben-nahled-obr..png\" alt=\"dekorace\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/dubnova-dekorace/\" target=\"_self\" rel=\"noopener\">Dubnová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/dubnova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tDubnová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc DUBEN, ke kterému velmi často sedí přídomek „aprílové počasí\". Pár dní sluníčko a teplo a pak náhle změna. Proto zůstaneme doma, zapátráme v naší domácnosti a zrecyklujeme...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/breznova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"900\" height=\"471\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled.png\" alt=\"Březnová dekorace do bytu\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/breznova-dekorace/\" target=\"_self\" rel=\"noopener\">Březnová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/breznova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tBřeznová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc BŘEZEN a k tomuto měsíci neodmyslitelně patří příchod jara. Navíc nás už za pár dní čekají svátky velikonoční.\nA protože moje inspirace na výrobu dekorací jsou vždy spojeny s cyklem roku..</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/unorova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"900\" height=\"471\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/dekorace-unor-nahled.png\" alt=\"Dekorace do bytu únorová\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/unorova-dekorace/\" target=\"_self\" rel=\"noopener\">Únorová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/unorova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tÚnorová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc ÚNOR - přechod z mrazivého počasí směrem k jaru. Za oknem už začínají probleskávat sluneční paprsky.\nDo velikonoc je sice ještě daleko, přesto jaro začíná pomalu klepat na dveře. Příroda se probouzí..</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/lednova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\t<img width=\"900\" height=\"471\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/dekorace-leden1.png\" alt=\"Lednová dekorace video\" />\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/lednova-dekorace/\" target=\"_self\" rel=\"noopener\">Led(n)ová dekorace</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h2>\n\t\t\t<a href=\"https://sblankouzahranice.eu/lednova-dekorace/\" target=\"_self\" rel=\"noopener\">\n\t\t\t\tLed(n)ová dekorace\t\t\t</a>\n\t\t</h2>\n\t\t<p>Měsíc LEDEN - je po vánocích a adventní věnec už doma většinou nemáme. Na živé květiny ve váze je ještě čas. Pokud i tak chceme mít na stole stále něco hezkého, je nejlepší tvořit z přírody...</p>\t\t\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/author/admin/\" title=\"Příspěvky od Blanka\" rel=\"author\">Blanka</a>\t\t\t\t\n\t\t\t\t\t\t\t•\n\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/category/dekorace-do-bytu/\" rel=\"category tag\">Dekorace do bytu</a>\t\t\t\t\n\t\t\t<h4>Jak se zrodil projekt ROKEM KROK ZA KROKEM.</h4>\t\t\n\t\t<p><strong>V roce 2020 jsem poprvé začala konkrétně uvažovat o pořádání kurzů \"tvoření dekorací do bytu z přírodních materiálů\".</strong></p><p>Rok 2021 ale začal jak v ČR, tak v Rakousku, další vlnou “lock down” a nebylo jasné, zda můj první plánovaný kurz s příchodem jara – v březnu 2021 se bude moci konat za účasti zájemců.</p><p>Proto ve mně narychlo dozrál plán, začít alespoň krátkými VIDEO-návody, pro výrobu dekorací.</p><p>Díky tomu vznikal každý měsíc 1 tip a návod na výrobu dekorace do bytu z čistě přírodních materiálů.</p><p>Výroba je velmi snadná a postačí Vám vždy materiál, který máte běžně doma a který si můžete přinést z výletu, procházky či zahrádky. Tořit můžete společně s dětmi a využít čas k zamyšlení se nad novým měsícem.  Můžete dětem vyprávět o pranostikách, zvycích i pověrách.</p><p>Tvorba dekorace vám nezabere více jak 15-30 minut a pomůže vám alespoň na chvíli se zastavit v každodenním shonu.</p><p>Vyrobené dekorace vám zároveň pomohou naladit se na koloběh života v přírodě - ROKEM KROK ZA KROKEM.</p><p>Málokdy vnímáme, jak ten čas rychle ubíhá a jak rychle se posunujeme rokem měsíc po měsíci, aniž bychom dokázali vnímat dary jednotlivých ročních období a hlavně změny v přírodě i v nás samých.</p><p>A najednou zjistíme, že je tady Silvestr a my se ptáme sami sebe jak je možné, že už je zase další rok za námi?</p><p>Tento cyklus tvorby dekorací, které si můžeš během roku procházet a vyrábět vám pomohou si uvědomit, že je tady opět další měsíc.</p> <strong> Věřím, že se vám spolu s těmito dekoracemi povede jít rokem o trochu pomaleji a zároveň vědoměji. </strong> <strong>Budu moc ráda, pokud si to při výrobě užijete.</strong>",
+ "parent": 0,
+ "slug": "dekorace-do-bytu",
+ "title": "Dekorace",
+ "type": "page"
+}

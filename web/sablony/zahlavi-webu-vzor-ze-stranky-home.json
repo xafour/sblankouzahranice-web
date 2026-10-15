@@ -1,0 +1,471 @@
+{
+ "ID": 20113,
+ "categories": [],
+ "date": "2024-03-05 14:23:05",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=zahlavi-webu-vzor-ze-stranky-home",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "45340c09",
+        "settings": {
+         "__globals__": {
+          "_background_color": "",
+          "_border_color": "globals/colors?id=kadence2"
+         },
+         "_background_background": "classic",
+         "_background_color": "#DEE5A3",
+         "_border_border": "none",
+         "_border_color": "#0a431b",
+         "_border_width": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-260",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-232",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-220",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "5",
+          "isLinked": true,
+          "left": "5",
+          "right": "5",
+          "top": "5",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Poznejte Vídeň a Rakousko. Objevte moudrost přírody.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 23,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 19,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 21,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "69d2d476",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": ""
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "28",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "3",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "099df9b",
+         "pa_condition_date": "2022/09/02",
+         "pa_condition_date_range": "2022/09/02"
+        }
+       ],
+       "padding": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "74",
+        "unit": "px"
+       },
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5927e200",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": ""
+     },
+     "background_background": "classic",
+     "background_color": "#DEE5A3",
+     "background_color_b": "#000f2b",
+     "background_gradient_type": "radial",
+     "background_image": {
+      "alt": "Zahlavi HOME",
+      "id": 19533,
+      "size": "",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/11/HOME-kraken-bez-spodku.jpg"
+     },
+     "background_image_mobile": {
+      "alt": "zahlavi HOME",
+      "id": 12809,
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/HOME-kraken.jpg"
+     },
+     "background_image_tablet": {
+      "alt": "zahlavi HOME",
+      "id": 12809,
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/07/HOME-kraken.jpg"
+     },
+     "background_overlay_background": "gradient",
+     "background_overlay_color": "#E2E972E3",
+     "background_overlay_color_b": "#DFE1BEE3",
+     "background_overlay_color_b_stop": {
+      "size": 97,
+      "sizes": [],
+      "unit": "%"
+     },
+     "background_overlay_color_stop": {
+      "size": 40,
+      "sizes": [],
+      "unit": "%"
+     },
+     "background_overlay_gradient_type": "radial",
+     "background_overlay_opacity": {
+      "size": 0.06,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_position_tablet": "center center",
+     "background_size": "cover",
+     "content_width": {
+      "size": 932,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height": {
+      "size": 30,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "custom_height_mobile": {
+      "size": 45,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "custom_height_tablet": {
+      "size": 45,
+      "sizes": [],
+      "unit": "vw"
+     },
+     "height": "min-height",
+     "layout": "full_width",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "65",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "92",
+      "unit": "px"
+     },
+     "margin_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "52",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2b8faa7",
+       "pa_condition_date": "2022/09/02",
+       "pa_condition_date_range": "2022/09/02"
+      }
+     ],
+     "padding": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "00",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_tablet": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "0",
+      "right": "0",
+      "top": "0",
+      "unit": "px"
+     },
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "reverse_order_mobile": "reverse-mobile",
+     "shape_divider_bottom": "triangle",
+     "shape_divider_bottom_height": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_mobile": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_height_tablet": {
+      "size": 0,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_bottom_negative": "yes",
+     "shape_divider_bottom_width": {
+      "size": 100,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_mobile": {
+      "size": 100,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_bottom_width_tablet": {
+      "size": 100,
+      "sizes": [],
+      "unit": "%"
+     },
+     "shape_divider_top_height": {
+      "size": 36,
+      "sizes": [],
+      "unit": "px"
+     },
+     "shape_divider_top_width": {
+      "size": 100,
+      "sizes": [],
+      "unit": "%"
+     },
+     "stretch_section": "section-stretched",
+     "text_align": "center"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "astra_sites_body_font_family": "PT Sans",
+   "astra_sites_body_font_size": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_body_font_weight": "400",
+   "astra_sites_body_line_height": {
+    "size": 1.5,
+    "unit": "em"
+   },
+   "astra_sites_body_typography": "custom",
+   "astra_sites_default_heading_font_family": "'Sarala', sans-serif",
+   "astra_sites_heading_1_font_family": "'Sarala'",
+   "astra_sites_heading_1_font_size": {
+    "size": 70,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_mobile": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_size_tablet": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_1_font_weight": "600",
+   "astra_sites_heading_1_typography": "custom",
+   "astra_sites_heading_2_font_family": "'Sarala'",
+   "astra_sites_heading_2_font_size": {
+    "size": 40,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_mobile": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_size_tablet": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_2_font_weight": "600",
+   "astra_sites_heading_2_typography": "custom",
+   "astra_sites_heading_3_font_family": "'Sarala'",
+   "astra_sites_heading_3_font_size": {
+    "size": 30,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_mobile": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_size_tablet": {
+    "size": 25,
+    "unit": "px"
+   },
+   "astra_sites_heading_3_font_weight": "600",
+   "astra_sites_heading_3_typography": "custom",
+   "astra_sites_heading_4_font_family": "'Sarala'",
+   "astra_sites_heading_4_font_size": {
+    "size": 23,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_size_tablet": {
+    "size": 20,
+    "unit": "px"
+   },
+   "astra_sites_heading_4_font_weight": "700",
+   "astra_sites_heading_4_typography": "custom",
+   "astra_sites_heading_5_font_family": "'Sarala'",
+   "astra_sites_heading_5_font_size": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_mobile": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_size_tablet": {
+    "size": 18,
+    "unit": "px"
+   },
+   "astra_sites_heading_5_font_weight": "700",
+   "astra_sites_heading_5_typography": "custom",
+   "astra_sites_heading_6_font_family": "'Sarala'",
+   "astra_sites_heading_6_font_size": {
+    "size": 15,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_mobile": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_size_tablet": {
+    "size": 16,
+    "unit": "px"
+   },
+   "astra_sites_heading_6_font_weight": "700",
+   "astra_sites_heading_6_typography": "custom",
+   "astra_sites_heading_base_color": "#000f2b",
+   "astra_sites_link_color": "#9dca00",
+   "astra_sites_link_hover_color": "#3a3a3a",
+   "astra_sites_main_color": "#9dca00",
+   "astra_sites_page_setting_enable": "",
+   "astra_sites_text_color": "#3a3a3a",
+   "background_background": "classic",
+   "background_color": "#ffffff",
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2024-03-05 14:23:05",
+ "obsah_wordpress": "<p style=\"text-align: center;\">Poznejte Vídeň a Rakousko. Objevte moudrost přírody.</p>",
+ "parent": 0,
+ "slug": "zahlavi-webu-vzor-ze-stranky-home",
+ "title": "Zahlavi webu vzor ze stranky HOME",
+ "type": "elementor_library"
+}

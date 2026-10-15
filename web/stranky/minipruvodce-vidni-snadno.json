@@ -1,0 +1,5579 @@
+{
+ "ID": 23249,
+ "categories": [],
+ "date": "2025-03-24 16:11:13",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/minipruvodce-vidni-snadno/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bcd0680",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "5343892",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ce62e21",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dd50d1f",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Poznejte Vídeň jako místní - bez stresu, shonu a bez zbytečných výdajů.",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9302bdc",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Přestaňte bloudit a začněte si metropoli užívat."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "06161a5",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Objevujte Vídeň snadno a jednoduše."
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "25f11b7",
+        "settings": {
+         "image": {
+          "alt": "Minipruvodce ",
+          "id": 23252,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Viden.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f6cd478",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "",
+        "border_color": ""
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fe52560",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "593709a",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_laptop": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_mobile": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_tablet": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "228b6dd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b579acc",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cdc810b",
+        "settings": {
+         "__globals__": {
+          "typography_typography": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "945e5a9",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "VÍDEŇ a okolí - Miniprůvodce pro lehčí a&nbsp;snadnější poznávání Vídně.",
+         "title_color": "#A62F0D",
+         "typography_font_family": "Helvetica",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_laptop": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ad66dd4",
+        "settings": {
+         "__globals__": {
+          "typography_typography": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "945e5a9",
+           "pa_condition_date": "2022/09/11",
+           "pa_condition_date_range": "2022/09/11"
+          }
+         ],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "S bonusem navíc: průvodce jízdenkami a tikety na městskou dopravu.",
+         "title_color": "#A62F0D",
+         "typography_font_family": "Helvetica",
+         "typography_font_size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_laptop": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "500",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7ea11ee",
+        "settings": {
+         "_margin": {
+          "bottom": "40",
+          "isLinked": true,
+          "left": "40",
+          "right": "40",
+          "top": "40",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "040",
+          "isLinked": false,
+          "left": "40",
+          "right": "040",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Představte si, že se Vídní pohybujete sebejistě jako místní. <br />Žádný stres z hledání cesty, žádné fronty na jízdenky, žádné zbytečné výdaje.</p><p>Díky třem osvědčeným aplikacím ušetříte čas, peníze i nervy.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_laptop": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_letter_spacing_tablet": {
+          "size": -0.3,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height": {
+          "size": 35,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_line_height_tablet": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a86ea6",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "35",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Poznejte Vídeň snadno.",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "58e6ee3",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": ""
+       },
+       "_column_size": 50,
+       "_inline_size": 80,
+       "_inline_size_tablet": 70,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [
+        {
+         "_id": "db217af",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "89d4d5e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "36",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "pruvodce a minipruvodce",
+          "id": 23239,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-obalka-new.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0fb89e9",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": ""
+       },
+       "_column_size": 50,
+       "_inline_size": 20,
+       "_inline_size_tablet": 30,
+       "background_background": "classic",
+       "background_color": "#979790",
+       "pa_condition_repeater": [
+        {
+         "_id": "db217af",
+         "pa_condition_date": "2022/09/11",
+         "pa_condition_date_range": "2022/09/11"
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "35",
+        "isLinked": true,
+        "left": "35",
+        "right": "35",
+        "top": "35",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "c06ff39",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "border_color": "globals/colors?id=kadence9"
+     },
+     "background_background": "classic",
+     "border_border": "solid",
+     "border_width": {
+      "bottom": "5",
+      "isLinked": true,
+      "left": "5",
+      "right": "5",
+      "top": "5",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "2141c8d",
+       "pa_condition_date": "2022/09/11",
+       "pa_condition_date_range": "2022/09/11"
+      }
+     ],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "f7cdc03",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "24b0496",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68b3868",
+        "settings": {
+         "__globals__": {
+          "button_background_hover_color": "globals/colors?id=kadence5",
+          "button_hover_border_color": "",
+          "button_text_color": "globals/colors?id=kadence1"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "background_color": "#979790",
+         "button_background_hover_color": "#afbfc8",
+         "button_hover_border_color": "#080808",
+         "button_text_color": "#080808",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/qGyg2/buy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Objednat miniprůvodce",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "4a226c2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fba8928",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "c6f8137",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f85ba36",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "31bc290",
+        "settings": {
+         "image": {
+          "alt": "Miniprůvodce",
+          "id": 23265,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hlavicka.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "290",
+          "width": "420"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9294db1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 45,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f613ba1",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Jsem Blanka, vaše cestovní podpora ve Vídni.</p><p>Když jsem se v 50 letech přestěhovala z Prahy do Vídně, musela jsem se naučit pohybovat ve velkém městě bez znalosti němčiny a často se cítila jako turista.</p><p>Dnes, po 8 letech, znám vychytávky, které vám ušetří čas, peníze i stres <br />a pomohou vám pohybovat se metropolí Rakouska jako místní.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0115cb5",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "5be1592",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "_inline_size_tablet": 55,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "682a319",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "81421bb",
+        "settings": {
+         "__globals__": {
+          "title_color": ""
+         },
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Znáte to, přijedete do nového města a místo relaxace a pohody řešíte:",
+         "title_color": "#F9F5F5",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "db3c178",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d32b462",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "60",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eae2ba0",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=kadence8"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "160",
+          "right": "0",
+          "top": "20",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "100",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "icon_align": "left",
+         "icon_list": [
+          {
+           "_id": "f31af3b",
+           "text": "Jak se dostat z místa A na místo B bez bloudění a stresu."
+          },
+          {
+           "_id": "acc1776",
+           "text": "Kde se levně občerstvit."
+          },
+          {
+           "_id": "ba0397d",
+           "text": "Kudy projít město bez časových ztrát, abyste viděli to nejlepší."
+          },
+          {
+           "_id": "70b3416",
+           "text": "Jak ušetřit na zbytečných nákladech."
+          },
+          {
+           "_id": "9ef0712",
+           "text": "Kam zajít, abyste poznali víc než jen centrum města."
+          }
+         ],
+         "icon_self_vertical_align": "flex-start",
+         "icon_self_vertical_align_laptop": "flex-start",
+         "icon_self_vertical_align_tablet": "flex-start",
+         "icon_size": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size_laptop": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space_between": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "ae7ce21",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 65,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "40a25ee",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "120",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "80",
+          "top": "-8",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "12",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Minirpruvodce mockup",
+          "id": 23407,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Mockup-v-mobilu.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "250",
+          "width": "250"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d94bc90",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 35,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2583a24",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ecc043f",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "ccf8a38",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d8b9a41",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f6a2629",
+        "settings": {
+         "__globals__": {
+          "title_color": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "240",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "60",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "S tímto PRAKTICKÝM MINIPRŮVODCEM",
+         "title_color": "#080808",
+         "typography_font_size_mobile": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "dbe3065",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "d44c74d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "4aff2eb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d87bbd5",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "6a854d5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "24b15a3",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><strong>Lehce se zorientujete v městské hromadné dopravě<br /></strong> a nebudete ztrácet čas při přesunech z místa A do místa B.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ed14b75",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "dde2770",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "5201358",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2ccd212",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c4580f1",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "629c76f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "93ba413",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><strong>Vždy najdete tu nejrychlejší trasu</strong> a vyhnete se uzavírkám a výlukám v dopravě.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "c994d0d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "384fe2c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3574b32",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "5b51945",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9099dbe",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "3875b2c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4fae424",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><strong>Nebudete potřebovat umět německy,</strong> abyste se mohli zeptat na správnou linku U-bahn nebo S-bahn, protože si vše jednoduše a lehce najdete ve svém telefonu.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "fb5fd4a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "c43934e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "01f3c9a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "849df72",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4b284ea",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "9a0be56",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f405900",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><strong>Budete vědět, kde se můžete ve Vídni zdarma občerstvit</strong> tou nejčistší vodou z Alp a oceníte, že váš batoh tak zůstane po celou dobu vaší procházky Vídní lehký bez nutnosti nosit si na zádech nápoje na celý den.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "bbf3cad",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "567fac3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "aa3b06b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "4494b40",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4abb597",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "b3e956b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "70c8b41",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p>Nemusíte se bát horkých dní, protože si i v těch největších vedrech naplánujete svoji trasu tak, abyste se mohli osvěžit a <strong>bavit to bude i vaše děti.</strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "37b7dd9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "e3c1754",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "afc90ec",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "76fea1c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "69b04ab",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f534eaa",
+        "settings": {
+         "__globals__": {
+          "button_background_hover_color": "globals/colors?id=kadence5",
+          "button_hover_border_color": "",
+          "button_text_color": "globals/colors?id=kadence1"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "background_color": "#979790",
+         "button_background_hover_color": "#afbfc8",
+         "button_hover_border_color": "#080808",
+         "button_text_color": "#080808",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/qGyg2/buy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Chci miniprůvodce",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "ad689f3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "0bb4aeb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c39a035",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "18",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Minipruvodce",
+          "id": 23328,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/pozadi-sekce-e1742842469857.jpg"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ca1e784",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "5",
+        "right": "5",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6234e6c",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b0003bd",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "145c6d2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f3270ea",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d62fa65",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Objevujte Vídeň a užívejte si své dny naplno."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "8c639fd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f840dae",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d9c8bf7",
+        "settings": {
+         "gallery_columns": "3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "thumbnail_size": "medium",
+         "wp_gallery": [
+          {
+           "id": 23335,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn.jpg"
+          },
+          {
+           "id": 23336,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2.jpg"
+          },
+          {
+           "id": 23337,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg.jpg"
+          },
+          {
+           "id": 23339,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater.jpg"
+          },
+          {
+           "id": 23340,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn.jpg"
+          },
+          {
+           "id": 23341,
+           "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten.jpg"
+          }
+         ]
+        },
+        "widgetType": "image-gallery"
+       }
+      ],
+      "id": "92e6bf8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b4e0caf",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0457521",
+        "settings": {
+         "__globals__": {
+          "title_color": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "235",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "120",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "60",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "110",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Benefity, které vám MINIPRŮVODCE přináší:",
+         "title_color": "#F9F5F5",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "0e6d30f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "010524a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "32e3ca6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bb5fcfe",
+        "settings": {
+         "__globals__": {
+          "primary_color": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "7d550d2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2188443",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><span style=\"color: #ff0000;\"><strong>Úspora nákladů při vaší návštěvě Vídně</strong> </span>– už žádné zbytečné výdaje.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "81fae88",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "15d2e16",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "de78568",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "715275d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e8d11b4",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "3a517ce",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0e27e5c",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><span style=\"color: #ff0000;\"><strong>Pohodlný pohyb po městě</strong></span> bez bloudění a stresu.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "0636bfa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "8a9fbd0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "39e37e8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "3fded52",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "28a0488",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "565b9a1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "048b0eb",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><span style=\"color: #ff0000;\"><strong>Chytré plánování denních tras</strong></span> a vašeho času.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "731d1c1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "d6d2d54",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "63e712f",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "3dabe88",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9b94a46",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "967a77c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5ee7d1b",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><span style=\"color: #ff0000;\"><strong>Výhodné jízdenky a tikety na dopravu</strong></span>, které zaručeně neztratíte.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "19a0d22",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "37cf72e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4a23c50",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "fa215a5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0d6779a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-15",
+          "right": "0",
+          "top": "11",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-5",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_padding_widescreen": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check-circle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_widescreen": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "26c5604",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 13,
+       "_inline_size_widescreen": 10,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8b751a0",
+        "settings": {
+         "_element_custom_width_widescreen": {
+          "size": 1179,
+          "unit": "px"
+         },
+         "_element_width_widescreen": "initial",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align_widescreen": "left",
+         "editor": "<p><span style=\"color: #ff0000;\"><strong>Objevujete Vídeň jinak</strong></span> – více než jen procházení nejznámějších turistických tras.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "83db335",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 70,
+       "_inline_size_mobile": 77,
+       "_inline_size_tablet": 80,
+       "_inline_size_widescreen": 60,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "98e7ed2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 10,
+       "_inline_size_mobile": 5,
+       "_inline_size_tablet": 5,
+       "_inline_size_widescreen": 15,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "fdafc88",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "40"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cc82e00",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "aeebb8b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2a216fb",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b88cea5",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "150",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Stále ještě váháte, zda se vyplatí si tuto malou brožurku pořídit? ",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6e58bce",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "100",
+          "right": "100",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong>1. A co ta úspora času i peněz.</strong> <br />Je jisté, že se vám s informacemi v Miniprůvodce vrátí jeho cena v úsporách nejen finančních, ale i časových a přinese vám při vašem pobytu ve Vídni nejeden další benefit.</p><p><br /><strong>2. Sebejistota v novém městě i tehdy, pokud se německy nedorozumíte.</strong><br />Už se nebudete cítit jako ztracený turista, ale jako naprosto orientovaný návštěvník nebo dokonce obyvatel Vídně.</p><p><br /><strong>3. Nová dimenze poznávání Vídně.</strong><br />Dostanete tipy pro poznávání metropole Rakouska, které v běžných průvodcích nenajdete.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a9e9f05",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": ""
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "e0f599d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f86e0ee",
+    "isInner": false,
+    "settings": {
+     "background_background": "slideshow",
+     "background_overlay_background": "classic",
+     "background_overlay_image": {
+      "alt": "",
+      "id": 23359,
+      "size": "",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Ulice-u-Opery.jpg"
+     },
+     "background_overlay_opacity": {
+      "size": 0.21,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_overlay_position": "center center",
+     "background_slideshow_lazyload": "yes",
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "02cbd52",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Není, co ztratit. ",
+         "title_color": "#E80B0B"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ba3a117",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "100",
+          "right": "100",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "editor": "<p>Pořízení tohoto Miniprůvodce v pdf.podobě vás bude stát přibližně tolik, jako jedna návštěva vídeňské kavárny<br />a navíc chuť vašich dní ve Vídni s ním bude stejně lahodná.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db1d97c",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-15",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "minipruvodce ",
+          "id": 23360,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/kava.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "80",
+          "width": "80"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "900b25c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "54cfe50",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c9cbb77",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "674c2d5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "56c3650",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fa8d349",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Co na produkt řekli mí zákazníci, kteří již Vídeň navšítivili a dostali tyto tipy jako bonus ke službě CESTOVNÍ PODPORY."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4efeb69",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3ad31fe",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "66dd81e",
+        "settings": {
+         "align": "left",
+         "editor": "<p>Paní Kamila s rodinou mi napsala:</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d5094b3",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_border_border": "none",
+         "name_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "„Děkujeme paní Blance, která nám dala rady a tipy, jak se po Vídni dopravovat, což nám následně usnadnilo samostatné cestování a orientaci v této metropoli.“",
+         "testimonial_image": {
+          "id": "",
+          "size": "",
+          "url": ""
+         },
+         "testimonial_job": "Únor 2025",
+         "testimonial_name": ""
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "4f4c549",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9fd7f69",
+        "settings": {
+         "editor": "<p style=\"text-align: left;\">Pan Karel, který navštívil Vídeň se skupinkou cyklistů a měl ode mne tyto informace k dispozici řekl:</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "573f6fd",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_border_border": "none",
+         "name_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "„Bylo to tak jak jsem si představoval. Měl jsem mustr a info, co a jak, a to bylo super!“",
+         "testimonial_image": {
+          "id": "",
+          "size": "",
+          "url": ""
+         },
+         "testimonial_job": "Srpen 2024",
+         "testimonial_name": ""
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "2330f6b",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f98807e",
+        "settings": {
+         "editor": "<p>A co mi řekla paní Marie (62 let), návštěvnice Vídně:</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "caac451",
+        "settings": {
+         "content_typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "content_typography_typography": "custom",
+         "image_border_border": "none",
+         "name_typography_font_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "name_typography_typography": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "testimonial_alignment": "left",
+         "testimonial_content": "„Děkuji. Konečně se ve Vídni cítím sebejistě.“",
+         "testimonial_image": {
+          "id": "",
+          "size": "",
+          "url": ""
+         },
+         "testimonial_job": "Březen 2025",
+         "testimonial_name": ""
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "d9507c2",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 33,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "3dfc370",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "af506aa",
+        "settings": {
+         "__globals__": {
+          "button_background_hover_color": "globals/colors?id=kadence7",
+          "button_hover_border_color": "",
+          "button_text_color": "globals/colors?id=kadence1"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "background_background": "gradient",
+         "background_color": "#E5EBF1",
+         "background_color_b": "#F6F6F6",
+         "button_hover_border_color": "#080808",
+         "button_text_color": "#080808",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/qGyg2/buy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Objednat miniprůvodce ",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "6e54156",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "b0eb84b",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a76147e",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "c39fd32",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "68c2d3a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d3b8a28",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "primary_color": "#000000",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-check"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dbb3003",
+        "settings": {
+         "_background_background": "classic",
+         "_background_color": "#979790BF",
+         "align": "center",
+         "align_tablet": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pro koho je MINIPRŮVODCE přínosný",
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dea06db",
+        "settings": {
+         "editor": "<ul><li>Pro cestovatele, kteří chtějí poznat Vídeň efektivně a bez stresu.<br /><br /></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro každého, kdo má rád pohodu, klid a pomoc na cestách.<br /><br /></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro rodiny s dětmi, hledající pohodlné trasy městem a snadné přesuny.<br /><br /></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro všechny, kdo preferují chytré cestování před chaotickým blouděním a hledáním.<br /><br /></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro návštěvníky metropole, kteří chtějí ušetřit na zbytečných výdajích.<br /><br /></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro objevitele a cestovatele, kteří chtějí víc než jen projít nejfrekventovanější turistické trasy.<br /><br /></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro ty, kteří už ve Vídni byli a nyní chtějí poznat Vídeň ještě jinak.<br /><br /></span></li><li>Pro lidi, kteří si nejsou úplně jistí v němčině a chtějí se cítit sebejistě</li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "85d96ac",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": ""
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "margin": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "72698c2",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "050",
+          "top": "-25",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "050",
+          "top": "-28",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><strong>X</strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53dc7c1",
+        "settings": {
+         "_background_background": "classic",
+         "_background_color": "#979790BF",
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-30",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-31",
+          "unit": "px"
+         },
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Pro koho není MINIPRŮVODCE vhodný",
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2a06d0a",
+        "settings": {
+         "editor": "<ul><li>Pro toho, kdo rád sedí před každou cestou u PC a věnuje čas zjišťováním informací.<br /><br /></li><li><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\">Pro cestovatele a návštěvníky Vídně, kteří toto město znají a lehce se v něm orientují.<br /><br /></span></span></li><li><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\">Pro lidi, které nerozhodí neočekávané situace a jsou schopni se flexibilně přizpůsobit a změnit svůj plán dne.<br /><br /></span></span></li><li><span style=\"font-family: var(--global-body-font-family);\"><span style=\"font-family: var(--global-body-font-family);\">Pro každého, kdo se snadno v Rakousku domluví německy a na vše se doptá na místě.<br /><br /></span></span></li><li><span style=\"font-family: var(--global-body-font-family);\">Pro mé sledovatel, kteří již mnoho informací posbírali z příspěvků na mé Facebookové stránce „s Blankou za hranice-Vídeň“ a domnívají se, že se již nemohou dozvědět nic nového. (To se pletete😊).</span></li></ul>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "ae4b0a0",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 50,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "236a40d",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac18b1d",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Ze zpětných vazeb od mých klientů, které jsem doprovázela městem vím, že jsou to pro ně nové informace. <strong> <br />A pro vás budou také. </strong></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d47f5da",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "solid",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "5",
+        "right": "5",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "2d5910a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ceb2566",
+        "settings": {
+         "__globals__": {
+          "title_color": ""
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "235",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_laptop": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "120",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "110",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "20",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "align_mobile": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Kdo pro vás miniprůvodce vytvořil a proč mi můžete věřit:",
+         "title_color": "#F9F5F5",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "953ddb8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "6e9155f",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "35",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "10f1ee5",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "33",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Minipruvodce prodejni stranka",
+          "id": 23374,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn-1.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "700",
+          "width": "900"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9a6a930",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 50,
+       "_inline_size": 40,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f41dfb5",
+        "settings": {
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "10",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p><strong><em>Jmenuji se Blanka Štulíková, jsem Češka žijící od roku 2017 ve Vídni.</em></strong><br /><em><strong>Když jsem se v 50 letech přestěhovala z Prahy do Vídně, neuměla jsem ani slovo německy a každý den byl výzvou. Na začátku jsem se v novém prostředí cítila podobně, jako každý turista a cestovatel, který se ocitne v nové zemi, jejímž jazykem nehovoří.</strong> </em></p><p><em>Protože i tehdy, když se předem připraví, nikdy se nevyhne neočekávaným situacím přímo na místě.<br /></em><strong style=\"font-family: var(--global-body-font-family);\"><em>A protože mám v živé paměti všechny ty události a příhody, které mi dokázaly znepříjemnit den nebo časově zdržet v momentech, kdy to nejméně potřebujete, rozhodla jsem se po letech pobytu ve Vídni přinést i vám malé, ale mocné pomocníky, které vám pomohou, abyste si své dny ve Vídni opravdu užili bez starostí a nervozity. Pomocníky, které používají i místní.</em></strong></p><p style=\"text-align: center;\"><em>Přesně tyhle nástroje vám totiž v Miniprůvodci nabízím. <br />Já sama je používám už mnoho let.</em></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "73bd7ee",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "border_color": "globals/colors?id=kadence7"
+       },
+       "_column_size": 50,
+       "_inline_size": 60,
+       "border_border": "solid",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "78d7d06",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "609be58",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text_stroke_text_stroke_type": "yes",
+         "title": "Protože vím, že tipy, které v MINIPRŮVODCI nabízím jsou ověřené, nabízím vám ",
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "77f9f13",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\"><span style=\"color: #003366;\"><strong>100% GARANCI SPOKOJENOSTI</strong></span></p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "701cd79",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "da92661",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "50",
+      "unit": "px"
+     },
+     "margin_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "40",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "31e350f",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Minipruvodce GARANCE",
+          "id": 23376,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/GARNACE.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "200",
+          "width": "200"
+         },
+         "image_size": "medium",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "23c8b39",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "border_border": "solid",
+       "border_color": "#979790BF",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "30",
+        "isLinked": true,
+        "left": "30",
+        "right": "30",
+        "top": "30",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": true,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4d44c73",
+        "settings": {
+         "editor": "<p>Pokud vám Miniprůvodce nepřinese žádnou novou informaci nebo úsporu, nabízím GARANCI VRÁCENÍ PENĚZ.</p><p>Stačí mi napsat do 7 dnů od zakoupení produktu a já vám vrátím zaplacenou částku.</p><p>Bez otázek.</p>",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "d8ab57a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#979790BF",
+       "border_border": "solid",
+       "border_color": "#979790BF",
+       "border_width": {
+        "bottom": "3",
+        "isLinked": true,
+        "left": "3",
+        "right": "3",
+        "top": "3",
+        "unit": "px"
+       },
+       "margin_mobile": {
+        "bottom": "20",
+        "isLinked": true,
+        "left": "20",
+        "right": "20",
+        "top": "20",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "4006ec3",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "56df096",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "ae28fd1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "7f2eb02",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "2851381",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "40a1ae4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "515d149",
+        "settings": {
+         "align": "center",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Získejte ověřený systém pohybu po městě, který používám už 8 let.",
+         "title_color": "#565653",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "aa5d7fc",
+        "settings": {
+         "align": "center",
+         "header_size": "h5",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Klikněte níže pro objednávku"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a07e1b0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "border_border": "none",
+       "border_color": "#E0E0E0",
+       "border_width": {
+        "bottom": "5",
+        "isLinked": false,
+        "left": "5",
+        "right": "5",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8685f63",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6c546f1",
+        "settings": {
+         "__globals__": {
+          "button_background_hover_color": "globals/colors?id=kadence5",
+          "button_hover_border_color": "",
+          "button_text_color": "globals/colors?id=kadence1"
+         },
+         "_margin": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": true,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "center",
+         "background_color": "#979790",
+         "button_background_hover_color": "#afbfc8",
+         "button_hover_border_color": "#080808",
+         "button_text_color": "#080808",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/qGyg2/buy/"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "text": "Objednat miniprůvodce",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "42ecc31",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "a7fb5da",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "40f7c73",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "9c630b6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 30,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "f453fb2",
+        "settings": {
+         "__globals__": {
+          "_border_color": "globals/colors?id=11f029e"
+         },
+         "_border_border": "solid",
+         "_border_width": {
+          "bottom": "3",
+          "isLinked": true,
+          "left": "3",
+          "right": "3",
+          "top": "3",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "Minipruvodce obalka SEO",
+          "id": 23405,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Mockup.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "320",
+          "width": "520"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "375a3a4",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "e3b9755",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 39.332,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cc02824",
+        "settings": {
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "d3f48a1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 30,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "8cc708c",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "00f75cf",
+      "isInner": false,
+      "settings": {
+       "__globals__": {
+        "background_color": "globals/colors?id=kadence9",
+        "background_color_b": ""
+       },
+       "_column_size": 100,
+       "_inline_size": null,
+       "background_background": "classic",
+       "background_color": "#e0e0e0",
+       "background_color_b": "#979790BF",
+       "background_gradient_angle": {
+        "size": 50,
+        "sizes": [],
+        "unit": "deg"
+       },
+       "background_overlay_background": "classic",
+       "background_overlay_opacity": {
+        "size": 0.6,
+        "sizes": [],
+        "unit": "px"
+       },
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "72f5d7a",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ee12020",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "title": "Nebudu se zdržovat a objednám hned zde",
+         "typography_font_size": {
+          "size": 24,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "93ad22d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "ff356b1",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bef490c",
+        "settings": {
+         "__globals__": {
+          "primary_color": "globals/colors?id=accent"
+         },
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip.",
+         "selected_icon": {
+          "library": "fa-regular",
+          "value": "far fa-arrow-alt-circle-down"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "0b1c92b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "f612fd8",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip."
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "e7fb681",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 25,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "812cde7",
+        "settings": {
+         "html": "<!-- www.SimpleShop.cz form#117089 start -->\r\n<div data-SimpleShopForm=\"qGyg2\"><div>Prodejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.</div></div>\r\n<script>\r\n (function(i, s, o, g, r, a, m){\r\n  i[r] = i[r] || function(){\r\n   (i[r].q = i[r].q || []).push(arguments)\r\n  }, i[r].l = 1 * new Date();\r\n  a = s.createElement(o),\r\n  m = s.getElementsByTagName(o)[0];\r\n  a.async = 1;\r\n  a.src = g;\r\n  m.parentNode.insertBefore(a, m)\r\n })(window, document, \"script\", \"https://form.simpleshop.cz/prj/js/SimpleShopService.js\", \"sss\");\r\n sss(\"createForm\", \"qGyg2\");\r\n</script>\r\n<!-- www.SimpleShop.cz form#117089 end -->",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "77baaab",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 49.332,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "e5a14d2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 25,
+       "pa_condition_repeater": [],
+       "premium_tooltip_position": "top,bottom",
+       "premium_tooltip_text": "Hi, I'm a global tooltip."
+      }
+     }
+    ],
+    "id": "004a1f2",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [],
+     "premium_tooltip_position": "top,bottom",
+     "premium_tooltip_text": "Hi, I'm a global tooltip.",
+     "structure": "30"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-page",
+  "_thumbnail_id": "23405",
+  "_wp_page_template": "elementor_canvas",
+  "_yoast_wpseo_focuskw": "Poznejte Vídeň snadno",
+  "_yoast_wpseo_metadesc": "Poznejte Vídeň jako místní-snadno, bez bloudění a časových ztrát. Miniprůvodce-pro lehčí a snadnější poznávání Vídně je skvělý pomocník."
+ },
+ "modified": "2026-02-08 21:24:12",
+ "obsah_wordpress": "<h2>Poznejte Vídeň jako místní - bez stresu, shonu a bez zbytečných výdajů.</h2>\t\t\t\t\n\t\t\t\t\t<h2>Přestaňte bloudit a začněte si metropoli užívat.</h2>\t\t\t\t\n\t\t\t\t\t<h2>Objevujte Vídeň snadno a jednoduše.</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"531\" height=\"125\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Viden.jpg\" alt=\"Minipruvodce\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Viden.jpg 531w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Viden-300x71.jpg 300w\" sizes=\"(max-width: 531px) 100vw, 531px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>VÍDEŇ a okolí - Miniprůvodce pro lehčí a&nbsp;snadnější poznávání Vídně.</h3>\t\t\t\t\n\t\t\t\t\t<h3>S bonusem navíc: průvodce jízdenkami a tikety na městskou dopravu.</h3>\t\t\t\t\n\t\t<p>Představte si, že se Vídní pohybujete sebejistě jako místní. <br />Žádný stres z hledání cesty, žádné fronty na jízdenky, žádné zbytečné výdaje.</p><p>Díky třem osvědčeným aplikacím ušetříte čas, peníze i nervy.</p>\t\t\n\t\t\t\t\t<h5>Poznejte Vídeň snadno.</h5>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"434\" height=\"613\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-obalka-new.jpg\" alt=\"pruvodce a minipruvodce\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-obalka-new.jpg 434w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-obalka-new-212x300.jpg 212w\" sizes=\"(max-width: 434px) 100vw, 434px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/qGyg2/buy/\">\n\t\t\t\t\t\t\t\t\tObjednat miniprůvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Hlavicka-r3c8pz3nt59d59zb54wkxv5mgru6q4vfkrm9r5il3o.jpg\" title=\"Miniprůvodce\" alt=\"Miniprůvodce\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Jsem Blanka, vaše cestovní podpora ve Vídni.</p><p>Když jsem se v 50 letech přestěhovala z Prahy do Vídně, musela jsem se naučit pohybovat ve velkém městě bez znalosti němčiny a často se cítila jako turista.</p><p>Dnes, po 8 letech, znám vychytávky, které vám ušetří čas, peníze i stres <br />a pomohou vám pohybovat se metropolí Rakouska jako místní.</p>\t\t\n\t\t\t\t\t<h4>Znáte to, přijedete do nového města a místo relaxace a pohody řešíte:</h4>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tJak se dostat z místa A na místo B bez bloudění a stresu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKde se levně občerstvit.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKudy projít město bez časových ztrát, abyste viděli to nejlepší.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tJak ušetřit na zbytečných nákladech.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKam zajít, abyste poznali víc než jen centrum města.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Mockup-v-mobilu-r3cmifivegy61viubh64dhnu7noz4pvj7h8ywu35fo.jpg\" title=\"Mockup minipruvodce\" alt=\"Minirpruvodce mockup\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h4>S tímto PRAKTICKÝM MINIPRŮVODCEM</h4>\t\t\t\t\n\t\t<p><strong>Lehce se zorientujete v městské hromadné dopravě<br /></strong> a nebudete ztrácet čas při přesunech z místa A do místa B.</p>\t\t\n\t\t<p><strong>Vždy najdete tu nejrychlejší trasu</strong> a vyhnete se uzavírkám a výlukám v dopravě.</p>\t\t\n\t\t<p><strong>Nebudete potřebovat umět německy,</strong> abyste se mohli zeptat na správnou linku U-bahn nebo S-bahn, protože si vše jednoduše a lehce najdete ve svém telefonu.</p>\t\t\n\t\t<p><strong>Budete vědět, kde se můžete ve Vídni zdarma občerstvit</strong> tou nejčistší vodou z Alp a oceníte, že váš batoh tak zůstane po celou dobu vaší procházky Vídní lehký bez nutnosti nosit si na zádech nápoje na celý den.</p>\t\t\n\t\t<p>Nemusíte se bát horkých dní, protože si i v těch největších vedrech naplánujete svoji trasu tak, abyste se mohli osvěžit a <strong>bavit to bude i vaše děti.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/qGyg2/buy/\">\n\t\t\t\t\t\t\t\t\tChci miniprůvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"143\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/pozadi-sekce-e1742842469857-900x143.jpg\" alt=\"Minipruvodce\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/pozadi-sekce-e1742842469857-900x143.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/pozadi-sekce-e1742842469857-300x48.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/pozadi-sekce-e1742842469857-768x122.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/pozadi-sekce-e1742842469857.jpg 1054w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Objevujte Vídeň a užívejte si své dny naplno.</h2>\t\t\t\t\n\t\t\t<figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"d9c8bf7\" data-elementor-lightbox-title=\"Schönbrunn\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjMzMzUsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDNcL1NjaG9uYnJ1bm4uanBnIiwic2xpZGVzaG93IjoiZDljOGJmNyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn-300x169.jpg\" alt=\"Minipruvodce galerie\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Schonbrunn.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"d9c8bf7\" data-elementor-lightbox-title=\"Belveder 2\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjMzMzYsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDNcL0JlbHZlZGVyLTIuanBnIiwic2xpZGVzaG93IjoiZDljOGJmNyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2.jpg'><img width=\"300\" height=\"204\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2-300x204.jpg\" alt=\"Minipruvodce galerie\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2-300x204.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2-900x611.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2-768x522.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Belveder-2.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"d9c8bf7\" data-elementor-lightbox-title=\"Hoffburg\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjMzMzcsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDNcL0hvZmZidXJnLmpwZyIsInNsaWRlc2hvdyI6ImQ5YzhiZjcifQ%3D%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg-300x169.jpg\" alt=\"Minipruvodce galerie\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg-900x506.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg-768x431.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Hoffburg.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"d9c8bf7\" data-elementor-lightbox-title=\"Prater\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjMzMzksInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDNcL1ByYXRlci5qcGciLCJzbGlkZXNob3ciOiJkOWM4YmY3In0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater-300x169.jpg\" alt=\"Minipruvodce galerie\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Prater.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"d9c8bf7\" data-elementor-lightbox-title=\"ja a schonbrunn\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjMzNDAsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDNcL2phLWEtc2Nob25icnVubi5qcGciLCJzbGlkZXNob3ciOiJkOWM4YmY3In0%3D\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn.jpg'><img width=\"300\" height=\"169\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn-300x169.jpg\" alt=\"Minipruvodce galerie\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn-900x506.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn-768x431.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/ja-a-schonbrunn.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure><figure class='gallery-item'>\n\t\t\t\t<a data-elementor-open-lightbox=\"yes\" data-elementor-lightbox-slideshow=\"d9c8bf7\" data-elementor-lightbox-title=\"Burggarten\" data-e-action-hash=\"#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjMzNDEsInVybCI6Imh0dHBzOlwvXC9zYmxhbmtvdXphaHJhbmljZS5ldVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDNcL0J1cmdnYXJ0ZW4uanBnIiwic2xpZGVzaG93IjoiZDljOGJmNyJ9\" href='https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten.jpg'><img width=\"300\" height=\"166\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten-300x166.jpg\" alt=\"\" decoding=\"async\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten-300x166.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten-900x499.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten-768x426.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/Burggarten.jpg 1200w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a>\n\t\t\t</figure>\n\t\t\t\t\t<h4>Benefity, které vám MINIPRŮVODCE přináší:</h4>\t\t\t\t\n\t\t<p><strong>Úspora nákladů při vaší návštěvě Vídně</strong> – už žádné zbytečné výdaje.</p>\t\t\n\t\t<p><strong>Pohodlný pohyb po městě</strong> bez bloudění a stresu.</p>\t\t\n\t\t<p><strong>Chytré plánování denních tras</strong> a vašeho času.</p>\t\t\n\t\t<p><strong>Výhodné jízdenky a tikety na dopravu</strong>, které zaručeně neztratíte.</p>\t\t\n\t\t<p><strong>Objevujete Vídeň jinak</strong> – více než jen procházení nejznámějších turistických tras.</p>\t\t\n\t\t\t\t\t<h5>Stále ještě váháte, zda se vyplatí si tuto malou brožurku pořídit? </h5>\t\t\t\t\n\t\t<p><strong>1. A co ta úspora času i peněz.</strong> <br />Je jisté, že se vám s informacemi v Miniprůvodce vrátí jeho cena v úsporách nejen finančních, ale i časových a přinese vám při vašem pobytu ve Vídni nejeden další benefit.</p><p><br /><strong>2. Sebejistota v novém městě i tehdy, pokud se německy nedorozumíte.</strong><br />Už se nebudete cítit jako ztracený turista, ale jako naprosto orientovaný návštěvník nebo dokonce obyvatel Vídně.</p><p><br /><strong>3. Nová dimenze poznávání Vídně.</strong><br />Dostanete tipy pro poznávání metropole Rakouska, které v běžných průvodcích nenajdete.</p>\t\t\n\t\t\t\t\t<h4>Není, co ztratit. </h4>\t\t\t\t\n\t\t<p>Pořízení tohoto Miniprůvodce v pdf.podobě vás bude stát přibližně tolik, jako jedna návštěva vídeňské kavárny<br />a navíc chuť vašich dní ve Vídni s ním bude stejně lahodná.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/kava-r3cgbg942rri5djjuxv7afa5dlklfl73vs5k1evzfk.jpg\" title=\"kava\" alt=\"minipruvodce\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h5>Co na produkt řekli mí zákazníci, kteří již Vídeň navšítivili a dostali tyto tipy jako bonus ke službě CESTOVNÍ PODPORY.</h5>\t\t\t\t\n\t\t<p>Paní Kamila s rodinou mi napsala:</p>\t\t\n\t\t\t\t\t\t\t„Děkujeme paní Blance, která nám dala rady a tipy, jak se po Vídni dopravovat, což nám následně usnadnilo samostatné cestování a orientaci v této metropoli.“\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tÚnor 2025\n\t\t<p style=\"text-align: left;\">Pan Karel, který navštívil Vídeň se skupinkou cyklistů a měl ode mne tyto informace k dispozici řekl:</p>\t\t\n\t\t\t\t\t\t\t„Bylo to tak jak jsem si představoval. Měl jsem mustr a info, co a jak, a to bylo super!“\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSrpen 2024\n\t\t<p>A co mi řekla paní Marie (62 let), návštěvnice Vídně:</p>\t\t\n\t\t\t\t\t\t\t„Děkuji. Konečně se ve Vídni cítím sebejistě.“\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBřezen 2025\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/qGyg2/buy/\">\n\t\t\t\t\t\t\t\t\tObjednat miniprůvodce \n\t\t\t\t\t</a>\n\t\t\t\t\t<h5>Pro koho je MINIPRŮVODCE přínosný</h5>\t\t\t\t\n\t\t<ul><li>Pro cestovatele, kteří chtějí poznat Vídeň efektivně a bez stresu.<br /><br /></li><li>Pro každého, kdo má rád pohodu, klid a pomoc na cestách.<br /><br /></li><li>Pro rodiny s dětmi, hledající pohodlné trasy městem a snadné přesuny.<br /><br /></li><li>Pro všechny, kdo preferují chytré cestování před chaotickým blouděním a hledáním.<br /><br /></li><li>Pro návštěvníky metropole, kteří chtějí ušetřit na zbytečných výdajích.<br /><br /></li><li>Pro objevitele a cestovatele, kteří chtějí víc než jen projít nejfrekventovanější turistické trasy.<br /><br /></li><li>Pro ty, kteří už ve Vídni byli a nyní chtějí poznat Vídeň ještě jinak.<br /><br /></li><li>Pro lidi, kteří si nejsou úplně jistí v němčině a chtějí se cítit sebejistě</li></ul><p style=\"text-align: center;\"><strong>X</strong></p>\t\t\n\t\t\t\t\t<h5>Pro koho není MINIPRŮVODCE vhodný</h5>\t\t\t\t\n\t\t<ul><li>Pro toho, kdo rád sedí před každou cestou u PC a věnuje čas zjišťováním informací.<br /><br /></li><li>Pro cestovatele a návštěvníky Vídně, kteří toto město znají a lehce se v něm orientují.<br /><br /></li><li>Pro lidi, které nerozhodí neočekávané situace a jsou schopni se flexibilně přizpůsobit a změnit svůj plán dne.<br /><br /></li><li>Pro každého, kdo se snadno v Rakousku domluví německy a na vše se doptá na místě.<br /><br /></li><li>Pro mé sledovatel, kteří již mnoho informací posbírali z příspěvků na mé Facebookové stránce „s Blankou za hranice-Vídeň“ a domnívají se, že se již nemohou dozvědět nic nového. (To se pletete😊).</li></ul><p style=\"text-align: center;\">Ze zpětných vazeb od mých klientů, které jsem doprovázela městem vím, že jsou to pro ně nové informace. <strong> <br />A pro vás budou také. </strong></p>\t\t\n\t\t\t\t\t<h4>Kdo pro vás miniprůvodce vytvořil a proč mi můžete věřit:</h4>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/ja-a-schonbrunn-1-r3cireznn884y3zqqefzed0mf7n58htc0wn487bx3o.jpg\" title=\"ja a schonbrunn\" alt=\"ja a schonbrunn\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p><strong><em>Jmenuji se Blanka Štulíková, jsem Češka žijící od roku 2017 ve Vídni.</em></strong><br /><em><strong>Když jsem se v 50 letech přestěhovala z Prahy do Vídně, neuměla jsem ani slovo německy a každý den byl výzvou. Na začátku jsem se v novém prostředí cítila podobně, jako každý turista a cestovatel, který se ocitne v nové zemi, jejímž jazykem nehovoří.</strong> </em></p><p><em>Protože i tehdy, když se předem připraví, nikdy se nevyhne neočekávaným situacím přímo na místě.<br /></em><strong style=\"font-family: var(--global-body-font-family);\"><em>A protože mám v živé paměti všechny ty události a příhody, které mi dokázaly znepříjemnit den nebo časově zdržet v momentech, kdy to nejméně potřebujete, rozhodla jsem se po letech pobytu ve Vídni přinést i vám malé, ale mocné pomocníky, které vám pomohou, abyste si své dny ve Vídni opravdu užili bez starostí a nervozity. Pomocníky, které používají i místní.</em></strong></p><p style=\"text-align: center;\"><em>Přesně tyhle nástroje vám totiž v Miniprůvodci nabízím. <br />Já sama je používám už mnoho let.</em></p>\t\t\n\t\t\t\t\t<h5>Protože vím, že tipy, které v MINIPRŮVODCI nabízím jsou ověřené, nabízím vám </h5>\t\t\t\t\n\t\t<p style=\"text-align: center;\"><strong>100% GARANCI SPOKOJENOSTI</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"216\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/GARNACE-300x216.jpg\" alt=\"Minipruvodce GARANCE\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/GARNACE-300x216.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2025/03/GARNACE.jpg 371w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Pokud vám Miniprůvodce nepřinese žádnou novou informaci nebo úsporu, nabízím GARANCI VRÁCENÍ PENĚZ.</p><p>Stačí mi napsat do 7 dnů od zakoupení produktu a já vám vrátím zaplacenou částku.</p><p>Bez otázek.</p>\t\t\n\t\t\t\t\t<h2>Získejte ověřený systém pohybu po městě, který používám už 8 let.</h2>\t\t\t\t\n\t\t\t\t\t<h5>Klikněte níže pro objednávku</h5>\t\t\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/qGyg2/buy/\">\n\t\t\t\t\t\t\t\t\tObjednat miniprůvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Mockup-r3cm3fzlpz4td4n22wxi9h0t9m1a8f3oi66jzvjon4.jpg\" title=\"minipruvodce\" alt=\"Minipruvodce obalka SEO\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Nebudu se zdržovat a objednám hned zde</h3>\t\t\t\t\n\t\t\t\t\t<!-- www.SimpleShop.cz form#117089 start -->\nProdejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.\n<!-- www.SimpleShop.cz form#117089 end -->",
+ "parent": 0,
+ "slug": "minipruvodce-vidni-snadno",
+ "title": "Miniprůvodce - pro lehčí a snadnější poznávání Vídně",
+ "type": "page"
+}

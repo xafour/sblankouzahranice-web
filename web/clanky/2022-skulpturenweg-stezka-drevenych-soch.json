@@ -1,0 +1,4020 @@
+{
+ "ID": 10489,
+ "categories": [
+  "Kombinované výlety"
+ ],
+ "date": "2022-01-19 16:33:47",
+ "excerpt": "Umění v přírodě – optimální kombinace fyzického a duševního požitku. Stezka soch je idylická, vycházková cesta z Paudorfu do Höbenbachu, na níž mohou pěší a cyklisté obdivovat působivé dřevěné sochy. Obtížnost trasy: snadná, lehká, vhodná i pro malé děti a kočárky. Délka stezky je zhruba 2,5 km,1 hod cesty.",
+ "link": "https://sblankouzahranice.eu/skulpturenweg-stezka-drevenych-soch/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68dc2294",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-23",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-21",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "95d1bd9",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "size": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 37,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_tablet": {
+          "size": 45,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "a194f0c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 5,
+       "_inline_size_mobile": 5,
+       "background_background": "classic",
+       "background_color": "#FFFBFB",
+       "pa_condition_repeater": [
+        {
+         "_id": "d7edf80",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7af25f86",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-17",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "13",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "d629652",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "primary_color": "#090909",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-shoe-prints"
+         },
+         "size": {
+          "size": 25,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "2ae5a533",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 9,
+       "_inline_size_mobile": 6,
+       "margin_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "41",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "4867a69",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ],
+       "padding_mobile": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3e135175",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-32",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "40",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Pěší turistika.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "0c53212",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3ce956fa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 85.648,
+       "_inline_size_mobile": 65,
+       "pa_condition_repeater": [
+        {
+         "_id": "20a47cc",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "3e2c9b59",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "7cab2ec",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e6b1a79",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Umění v přírodě – optimální kombinace fyzického a duševního požitku.</strong></p><p style=\"text-align: center;\"><strong>Stezka soch je idylická, vycházková cesta z Paudorfu do Höbenbachu, na níž mohou pěší a cyklisté obdivovat působivé dřevěné sochy. </strong></p><p style=\"text-align: center;\"><strong>Byla otevřena v dubnu 2014<br /></strong><strong>ve městě Paudorf, Niederösterreich - oblast Wachau.</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "549ad85",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "2931af2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "4ec4bef",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "061af2c",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#CEC774",
+     "pa_condition_repeater": [
+      {
+       "_id": "f447a90",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "460d942",
+        "settings": {
+         "image": {
+          "alt": "mapka trasy",
+          "id": 10385,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "c6babad",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e0de932",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "98c15af",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "77d7ef7",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "10",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "01ce832",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7317615",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "e4ae5cc",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Obtížnost trasy – snadná, lehká, vhodná i pro malé děti a kočárky. \nDélka stezky je zhruba 2,5 km,1 hod cesty. Pokud však chcete výlet pojmout jako okružní trasu počítejte s délkou cca 7 km a přibližně 2,5 hod.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "2c0aa4d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f274379",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "547343b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "14c56c0",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e768fd0",
+        "settings": {
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "66",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "dřevěná socha",
+          "id": 10495,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja2-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "580",
+          "width": "400"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "54d4ae9",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "326f661",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "de02360",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c34736e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "40",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Každému, kdo navštíví tuto oblast bych doporučila tuto stezku plnou dřevěných soch projít, protože je to příjemná procházka s estetickým zážitkem.</p><p>Důvodem, proč je stezka umístěna ve městě Paudor je „International Wood Sculptors' Symposium“, které bylo zahájeno v roce 1997. Do roku 2012 se konala již 3 sympozia a zhotovené sochy byly po skončení každé akce rozestavěny podél turistické stezky mezi Paudorfem a Höbenbachem.  </p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "214fef6",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "007a161",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "8bc3f40",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Tak vznikla sochařská stezka - Skulpturenweg.",
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b1f1d87",
+        "settings": {
+         "editor": "<p>Umělecká díla tak zůstávají v místě a zkrášlují panoráma města.</p><p>Nejlepší na tom je, že vše, co na tomto místě vzniklo, se rodilo ze skutečné vášně – z hluboce pociťované touhy přivést na svět něco přátelského městu, lidem i přírodě a zároveň něco, co zkrášluje náš každodenní život, říkají o této stezce místní zastupitelé.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "d00931d",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "9c716ce",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "fde8597",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "d7eccc7",
+    "isInner": false,
+    "settings": {
+     "border_border": "solid",
+     "border_color": "#CEC774",
+     "border_width": {
+      "bottom": "3",
+      "isLinked": true,
+      "left": "3",
+      "right": "3",
+      "top": "3",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "ec76055",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a736ba0",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "e6b61d8",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Tuto prohlídku jsme naplánovali jako okružní túru trvající něco málo přes 2 hodiny a procházející přes Paudorfer Skulpturenweg, Gegenkreuz a Hellerhof.  ",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "21805e2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "87d2679",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "5f7bead",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6d3b3bb",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "32709cd",
+        "settings": {
+         "image": {
+          "alt": "drevene sochy",
+          "id": 10506,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha4-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "60e4438",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "59454dc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5ee71cf",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ca71959",
+        "settings": {
+         "image": {
+          "alt": "drevene sochy",
+          "id": 10505,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Skulpturunwanderweg-Pandorf-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "927ea4d",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "aa201b5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "1f7f4dd",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9f21159",
+        "settings": {
+         "image": {
+          "alt": "drevene sochy",
+          "id": 10507,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha3-S-v.jpg"
+         },
+         "image_custom_dimension": {
+          "height": "650",
+          "width": "450"
+         },
+         "image_size": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "bbd3f48",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "328ad50",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3779363",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c21b04b",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "7a27002",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d8654ff",
+        "settings": {
+         "align": "center",
+         "header_size": "h4",
+         "pa_condition_repeater": [
+          {
+           "_id": "8a9a016",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Trasa této okružní procházky:",
+         "typography_line_height_mobile": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "c3778ea",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e4e0f5b",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "68e3e37",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "feebc02",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8684a92",
+        "settings": {
+         "editor": "<ul><li>Výlet začíná na náměstí v Paudorfu. Z náměstí jdete podél Höbenbachu po stezce soch, kde se představují sochy z let 2002, 2007 a 2012.</li><li>Pokračujete přes Eggendorf do Höbenbachu. Cesta tam končí a vy odbočíte vpravo do Meidlinger Straße.</li><li>Na křižovatce u kříže pokračujte pár metrů rovně, pak odbočte doprava a nejprve projdete kolem sadů.</li><li>Poté se dostanete do lesa, který patří opatství Göttweig. Před plotem lesní cesta odbočuje vpravo, ale pro okružní túru a cestu zpět na parkoviště v Paudorfu musíte odbočit vlevo do lesa.</li><li>Krátce za koncem plotu přijdete na širší cestu, kde odbočíte ostře vlevo. To vás pak vyvede zpět z lesa na cestu ke hřbitovu v Hellerhofu.</li><li>Přes Hellerhofweg se vracíte zpět do Höbenbachu, ale krátce před tím odbočíte na cestu vlevo, kterou jste šli již na začátku cesty a vrátíte se po ní zpět na náměstí v Paudorfu.</li></ul>",
+         "pa_condition_repeater": [
+          {
+           "_id": "da1d015",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e701a6a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "f0d96df",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "5ad4161",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ee633a7",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "953345f",
+        "settings": {
+         "image": {
+          "alt": "drevene sochy",
+          "id": 10514,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-5-S-v.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "45691b1",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "ba7aa1f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3a6dbb4",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65aaab6",
+        "settings": {
+         "image": {
+          "alt": "drevene sochy",
+          "id": 10515,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja-S-v.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "0d3db22",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6ceae3d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "3a00f0d",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "487a155",
+        "settings": {
+         "image": {
+          "alt": "drevene sochy",
+          "id": 10516,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-2-S-v.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "fb8a937",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "37b082c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "5e16aea",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "61a8342",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "20",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "20",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "25ff41f",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "30"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8aab5b0",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "f5b45ba",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Při procházce touto trasou můžete obdivovat nejen dřevěné sochy, ale i okolní přírodu.",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "a4ac039",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ae196fe",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "96d8e91",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "ff8f81e",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d0661ca",
+        "settings": {
+         "image": {
+          "alt": "krajina v lednu",
+          "id": 10513,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Krajina-v-lednu-2022-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "d5df31c",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c8f7756",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "-18",
+          "unit": "px"
+         },
+         "editor": "<p style=\"text-align: center;\">Krajina v lednu 2022</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "bd59d5a",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size_mobile": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "6563fa2",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e677a87",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "cca67f6",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "bb9d950",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "54552e7",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "eb7fc47",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Ještě pár tipů a turistických zajímavostí jako bonus:",
+         "typography_font_size_mobile": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "700",
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "49d80ac",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "6eab99a",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "23aa6f6",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "e45587f",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "222290a",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Z této stezky dřevěných soch se dá <strong>odbočkou po Jakobsweg</strong>, jedné z mnoha, nám již známých, Österreichiser Jakobsweg dojít příjemnou procházkou trvající 1 hod <strong>až k opatství Göttweig</strong> (cca 3 km).</p><p style=\"text-align: center;\">Více o tomto místě v mém dalším příspěvku <a href=\"https://sblankouzahranice.eu/stift-gottweig/\" rel=\"noopener\"><span style=\"text-decoration: underline; color: #000080;\">ZDE.</span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "37d04ed",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e96177b",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "503f382",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "9c8362c",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D1CB83",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "13",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6bb86e2",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "32f6322",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "15",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "10",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "cedule Jakobsweg",
+          "id": 10511,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/i-zde-Jakobsweg-S-s.jpg"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "eda71f1",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "92da4d6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "8835e56",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "768fdf3",
+        "settings": {
+         "image": {
+          "alt": "mapa Jakobsweg",
+          "id": 10512,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/01/Jakobsweg-Jerusalem-way-S-s.jpg"
+         },
+         "image_size": "medium_large",
+         "pa_condition_repeater": [
+          {
+           "_id": "50e3ead",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "129e7a1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "a1ae927",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "8a0a9e8",
+    "isInner": false,
+    "settings": {
+     "margin_mobile": {
+      "bottom": "10",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "10",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "aa116c0",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "49a7e56",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\">Kousek od <strong>opatství Göttweig</strong> pak začíná dobrodružná stezka na místo zcela unikátní a zajímavé.<br /><strong>Mammutbäume, jedinečné sekvoje.</strong></p><p style=\"text-align: center;\">Více o tomto místě v mém dalším příspěvku <a href=\"https://sblankouzahranice.eu/mammutbaume-jedinecne-sekvoje/\" rel=\"noopener\"><span style=\"text-decoration: underline; color: #000080;\">ZDE.</span></a></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "37d04ed",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3581db8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "503f382",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "c8ed20a",
+    "isInner": false,
+    "settings": {
+     "background_background": "classic",
+     "background_color": "#D1CB83",
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "6bb86e2",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a1881dc",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "21b6030",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "pattern_height": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "style": "trees_2_tribal",
+         "text": "Oddělovač"
+        },
+        "widgetType": "divider"
+       }
+      ],
+      "id": "ebfafc4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "9de8ffb",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "ac5e1d0",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "c415bed",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "5f1b0b6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 15,
+       "_inline_size_tablet": 9,
+       "pa_condition_repeater": [
+        {
+         "_id": "18f2a95",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c3a7ab6",
+        "settings": {
+         "editor": "<p style=\"text-align: center;\"><strong>Líbil se ti tento výlet?<br />Pokud chceš, aby ti žádný další výlet neutekl, přihlas se zde:</strong></p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "62ed5a9",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "typography_font_size": {
+          "size": 17,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "602b591",
+        "settings": {
+         "align": "center",
+         "background_color": "#50585A",
+         "link": {
+          "custom_attributes": "",
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://landing.mailerlite.com/webforms/landing/v1z3u3"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "9b8549c",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "text": "Mám zájem",
+         "typography_font_size": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "2cd0c01",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 70,
+       "_inline_size_tablet": 85,
+       "background_background": "classic",
+       "background_color": "#D1CB83",
+       "border_border": "solid",
+       "border_color": "#DADFE2",
+       "border_radius": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "border_width": {
+        "bottom": "5",
+        "isLinked": true,
+        "left": "5",
+        "right": "5",
+        "top": "5",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "6b6e7d2",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "eadbbc9",
+      "isInner": false,
+      "settings": {
+       "_column_size": 25,
+       "_inline_size": 14.994,
+       "pa_condition_repeater": [
+        {
+         "_id": "94a734c",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "7ca4ce9",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "5215715",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "33"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c95a972",
+        "settings": {
+         "align": "center",
+         "header_size": "h3",
+         "pa_condition_repeater": [
+          {
+           "_id": "f1ba406",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "title": "Další výlety z oblasti Niederösterreich, kde můžete najít zajímavá místa k výletům.",
+         "typography_font_size": {
+          "size": 22,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_tablet": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_weight": "600",
+         "typography_line_height": {
+          "size": 1.5,
+          "sizes": [],
+          "unit": "em"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "0cb4439",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "e7bebe8",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "563f325",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "30",
+      "isLinked": true,
+      "left": 0,
+      "right": 0,
+      "top": "30",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "d7ea2d8",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65fe129",
+        "settings": {
+         "image": {
+          "alt": "kostel",
+          "id": 9144,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "8175961",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1ca35e7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "54320ff",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "65d7a2a",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "image": {
+          "alt": "pruhled",
+          "id": 9118,
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/09/vystrizek-vylet-1.jpg"
+         },
+         "link": {
+          "custom_attributes": "",
+          "is_external": "",
+          "nofollow": "",
+          "url": "https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/"
+         },
+         "link_to": "custom",
+         "pa_condition_repeater": [
+          {
+           "_id": "0eaad66",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ]
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c403651",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ed764cf",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "96b2adc",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "b269a5e",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ],
+     "structure": "20"
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "de18797",
+        "settings": {
+         "pa_condition_repeater": [
+          {
+           "_id": "05b2a6c",
+           "pa_condition_browser": "chrome",
+           "pa_condition_date": "2022/09/17",
+           "pa_condition_date_range": "2022/09/17",
+           "pa_condition_day": [
+            "sunday"
+           ],
+           "pa_condition_device": "desktop",
+           "pa_condition_ip_location": [],
+           "pa_condition_key": "browser",
+           "pa_condition_lang": [],
+           "pa_condition_login_status": "logged",
+           "pa_condition_operating_system": [
+            "windows"
+           ],
+           "pa_condition_operator": "is",
+           "pa_condition_page": [],
+           "pa_condition_post": [],
+           "pa_condition_post_type": [],
+           "pa_condition_return_visitor": "return",
+           "pa_condition_static_page": "home",
+           "pa_condition_time_range": "",
+           "pa_condition_timezone": "server",
+           "pa_condition_user_role": [],
+           "pa_condition_valtime_range": ""
+          }
+         ],
+         "space": {
+          "size": 30,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "spacer"
+       }
+      ],
+      "id": "db44a22",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "pa_condition_repeater": [
+        {
+         "_id": "ba01206",
+         "pa_condition_browser": "chrome",
+         "pa_condition_date": "2022/09/17",
+         "pa_condition_date_range": "2022/09/17",
+         "pa_condition_day": [
+          "sunday"
+         ],
+         "pa_condition_device": "desktop",
+         "pa_condition_ip_location": [],
+         "pa_condition_key": "browser",
+         "pa_condition_lang": [],
+         "pa_condition_login_status": "logged",
+         "pa_condition_operating_system": [
+          "windows"
+         ],
+         "pa_condition_operator": "is",
+         "pa_condition_page": [],
+         "pa_condition_post": [],
+         "pa_condition_post_type": [],
+         "pa_condition_return_visitor": "return",
+         "pa_condition_static_page": "home",
+         "pa_condition_time_range": "",
+         "pa_condition_timezone": "server",
+         "pa_condition_user_role": [],
+         "pa_condition_valtime_range": ""
+        }
+       ]
+      }
+     }
+    ],
+    "id": "9e9d1c4",
+    "isInner": false,
+    "settings": {
+     "pa_condition_repeater": [
+      {
+       "_id": "5395c76",
+       "pa_condition_browser": "chrome",
+       "pa_condition_date": "2022/09/17",
+       "pa_condition_date_range": "2022/09/17",
+       "pa_condition_day": [
+        "sunday"
+       ],
+       "pa_condition_device": "desktop",
+       "pa_condition_ip_location": [],
+       "pa_condition_key": "browser",
+       "pa_condition_lang": [],
+       "pa_condition_login_status": "logged",
+       "pa_condition_operating_system": [
+        "windows"
+       ],
+       "pa_condition_operator": "is",
+       "pa_condition_page": [],
+       "pa_condition_post": [],
+       "pa_condition_post_type": [],
+       "pa_condition_return_visitor": "return",
+       "pa_condition_static_page": "home",
+       "pa_condition_time_range": "",
+       "pa_condition_timezone": "server",
+       "pa_condition_user_role": [],
+       "pa_condition_valtime_range": ""
+      }
+     ]
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "wp-post",
+  "_thumbnail_id": "10490",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_focuskw": "Skulpturenweg Paudorf Niederösterreich. Stezka dřevěných soch.",
+  "_yoast_wpseo_metadesc": "Stezka dřevěných soch-Skulpturenweg je tip na rodinný výlet v Rakousku, v oblasti Wachau. Představuje spojení fyzického a duševního prožitku."
+ },
+ "modified": "2022-09-17 13:29:50",
+ "obsah_wordpress": "<p>Pěší turistika.</p><p style=\"text-align: center;\"><strong>Umění v přírodě – optimální kombinace fyzického a duševního požitku.</strong></p><p style=\"text-align: center;\"><strong>Stezka soch je idylická, vycházková cesta z Paudorfu do Höbenbachu, na níž mohou pěší a cyklisté obdivovat působivé dřevěné sochy. </strong></p><p style=\"text-align: center;\"><strong>Byla otevřena v dubnu 2014<br /></strong><strong>ve městě Paudorf, Niederösterreich - oblast Wachau.</strong></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"442\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-768x442.jpg\" alt=\"mapka trasy\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-768x442.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-300x173.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf-1024x590.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/trasa-cesty-viden-paudorf.jpg 1231w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Obtížnost trasy – snadná, lehká, vhodná i pro malé děti a kočárky. \nDélka stezky je zhruba 2,5 km,1 hod cesty. Pokud však chcete výlet pojmout jako okružní trasu počítejte s délkou cca 7 km a přibližně 2,5 hod.</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"371\" height=\"705\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja2-S-v.jpg\" alt=\"dřevěná socha\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja2-S-v.jpg 371w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja2-S-v-158x300.jpg 158w\" sizes=\"(max-width: 371px) 100vw, 371px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Každému, kdo navštíví tuto oblast bych doporučila tuto stezku plnou dřevěných soch projít, protože je to příjemná procházka s estetickým zážitkem.</p><p>Důvodem, proč je stezka umístěna ve městě Paudor je „International Wood Sculptors' Symposium“, které bylo zahájeno v roce 1997. Do roku 2012 se konala již 3 sympozia a zhotovené sochy byly po skončení každé akce rozestavěny podél turistické stezky mezi Paudorfem a Höbenbachem.  </p>\t\t\n\t\t\t<h4>Tak vznikla sochařská stezka - Skulpturenweg.</h4>\t\t\n\t\t<p>Umělecká díla tak zůstávají v místě a zkrášlují panoráma města.</p><p>Nejlepší na tom je, že vše, co na tomto místě vzniklo, se rodilo ze skutečné vášně – z hluboce pociťované touhy přivést na svět něco přátelského městu, lidem i přírodě a zároveň něco, co zkrášluje náš každodenní život, říkají o této stezce místní zastupitelé.</p>\t\t\n\t\t\t<h3>Tuto prohlídku jsme naplánovali jako okružní túru trvající něco málo přes 2 hodiny a procházející přes Paudorfer Skulpturenweg, Gegenkreuz a Hellerhof.  </h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/socha4-S-v-pj90ohqww7obimhui3t3yn4mmjg3t98i1nq2dlxt2c.jpg\" title=\"socha4- S-v\" alt=\"drevene sochy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/Skulpturunwanderweg-Pandorf-S-v-pj90npjr76lpubmt2rmavu8sszb3ec4jxs5hzn0ack.jpg\" title=\"Skulpturunwanderweg Pandorf-S-v\" alt=\"drevene sochy\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://sblankouzahranice.eu/wp-content/uploads/elementor/thumbs/socha3-S-v-pj90p58vn2khkvjpovys6z75h68a5otsgw17diyyqs.jpg\" title=\"socha3-S-v\" alt=\"Skulpturwanderweg\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Trasa této okružní procházky:</h4>\t\t\n\t\t<ul><li>Výlet začíná na náměstí v Paudorfu. Z náměstí jdete podél Höbenbachu po stezce soch, kde se představují sochy z let 2002, 2007 a 2012.</li><li>Pokračujete přes Eggendorf do Höbenbachu. Cesta tam končí a vy odbočíte vpravo do Meidlinger Straße.</li><li>Na křižovatce u kříže pokračujte pár metrů rovně, pak odbočte doprava a nejprve projdete kolem sadů.</li><li>Poté se dostanete do lesa, který patří opatství Göttweig. Před plotem lesní cesta odbočuje vpravo, ale pro okružní túru a cestu zpět na parkoviště v Paudorfu musíte odbočit vlevo do lesa.</li><li>Krátce za koncem plotu přijdete na širší cestu, kde odbočíte ostře vlevo. To vás pak vyvede zpět z lesa na cestu ke hřbitovu v Hellerhofu.</li><li>Přes Hellerhofweg se vracíte zpět do Höbenbachu, ale krátce před tím odbočíte na cestu vlevo, kterou jste šli již na začátku cesty a vrátíte se po ní zpět na náměstí v Paudorfu.</li></ul>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"356\" height=\"734\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-5-S-v.jpg\" alt=\"Skulpturwanderweg\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-5-S-v.jpg 356w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-5-S-v-146x300.jpg 146w\" sizes=\"(max-width: 356px) 100vw, 356px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"384\" height=\"682\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja-S-v.jpg\" alt=\"drevene sochy\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja-S-v.jpg 384w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-a-ja-S-v-169x300.jpg 169w\" sizes=\"(max-width: 384px) 100vw, 384px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"356\" height=\"734\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-2-S-v.jpg\" alt=\"drevene sochy\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-2-S-v.jpg 356w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/socha-2-S-v-146x300.jpg 146w\" sizes=\"(max-width: 356px) 100vw, 356px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h3>Při procházce touto trasou můžete obdivovat nejen dřevěné sochy, ale i okolní přírodu.</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Krajina-v-lednu-2022-S-s.jpg\" alt=\"západ slunce\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Krajina-v-lednu-2022-S-s.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/Krajina-v-lednu-2022-S-s-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Krajina v lednu 2022</p>\t\t\n\t\t\t<h3>Ještě pár tipů a turistických zajímavostí jako bonus:</h3>\t\t\n\t\t<p style=\"text-align: center;\">Z této stezky dřevěných soch se dá <strong>odbočkou po Jakobsweg</strong>, jedné z mnoha, nám již známých, Österreichiser Jakobsweg dojít příjemnou procházkou trvající 1 hod <strong>až k opatství Göttweig</strong> (cca 3 km).</p><p style=\"text-align: center;\">Více o tomto místě v mém dalším příspěvku <a href=\"https://sblankouzahranice.eu/stift-gottweig/\" rel=\"noopener\">ZDE.</a></p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"734\" height=\"356\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/i-zde-Jakobsweg-S-s.jpg\" alt=\"cedule Jakobsweg\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/i-zde-Jakobsweg-S-s.jpg 734w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/i-zde-Jakobsweg-S-s-300x146.jpg 300w\" sizes=\"(max-width: 734px) 100vw, 734px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"599\" height=\"327\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Jakobsweg-Jerusalem-way-S-s.jpg\" alt=\"Jakobsweg cedule\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/01/Jakobsweg-Jerusalem-way-S-s.jpg 599w, https://sblankouzahranice.eu/wp-content/uploads/2022/01/Jakobsweg-Jerusalem-way-S-s-300x164.jpg 300w\" sizes=\"(max-width: 599px) 100vw, 599px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p style=\"text-align: center;\">Kousek od <strong>opatství Göttweig</strong> pak začíná dobrodružná stezka na místo zcela unikátní a zajímavé.<br /><strong>Mammutbäume, jedinečné sekvoje.</strong></p><p style=\"text-align: center;\">Více o tomto místě v mém dalším příspěvku <a href=\"https://sblankouzahranice.eu/mammutbaume-jedinecne-sekvoje/\" rel=\"noopener\">ZDE.</a></p>\t\t\n\t\t<p style=\"text-align: center;\"><strong>Líbil se ti tento výlet?<br />Pokud chceš, aby ti žádný další výlet neutekl, přihlas se zde:</strong></p>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/v1z3u3\" target=\"_blank\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tMám zájem\n\t\t\t\t\t</a>\n\t\t\t<h3>Další výlety z oblasti Niederösterreich, kde můžete najít zajímavá místa k výletům.</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/stezkou-via-sacra-rundwanderweg/\">\n\t\t\t\t\t\t\t<img width=\"451\" height=\"566\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg\" alt=\"Nahled.obrazek vylety kostely\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1.jpg 451w, https://sblankouzahranice.eu/wp-content/uploads/2021/06/vystrizek-vylet-1-239x300.jpg 239w\" sizes=\"(max-width: 451px) 100vw, 451px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://sblankouzahranice.eu/co-se-skryva-za-pruhledem-thunberger-stausee/\">\n\t\t\t\t\t\t\t<img width=\"450\" height=\"540\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/09/vystrizek-vylet-1.jpg\" alt=\"Nahled.obrazek vylety Stausee\" loading=\"lazy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/09/vystrizek-vylet-1.jpg 450w, https://sblankouzahranice.eu/wp-content/uploads/2021/09/vystrizek-vylet-1-250x300.jpg 250w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t</a>",
+ "parent": 0,
+ "slug": "skulpturenweg-stezka-drevenych-soch",
+ "title": "Skulpturenweg-Stezka dřevěných soch",
+ "type": "post"
+}

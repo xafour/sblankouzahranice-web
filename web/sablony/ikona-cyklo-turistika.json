@@ -1,0 +1,222 @@
+{
+ "ID": 11367,
+ "categories": [],
+ "date": "2022-03-22 20:43:07",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/?elementor_library=ikona-cyklo-turistika",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3bb009e",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-60",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "29",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-9",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "pa_condition_repeater": [
+          {
+           "_id": "6925eb9"
+          }
+         ],
+         "primary_color": "#0A0A0A",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-bicycle"
+         },
+         "size": {
+          "size": 40,
+          "sizes": [],
+          "unit": "px"
+         },
+         "size_mobile": {
+          "size": 36,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon"
+       }
+      ],
+      "id": "23f3dd32",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 15,
+       "_inline_size_mobile": 15,
+       "_inline_size_tablet": 15,
+       "margin_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       },
+       "pa_condition_repeater": [
+        {
+         "_id": "1355304"
+        }
+       ],
+       "padding_tablet": {
+        "bottom": "0",
+        "isLinked": false,
+        "left": "0",
+        "right": "0",
+        "top": "0",
+        "unit": "px"
+       }
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "29912286",
+        "settings": {
+         "_margin": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-41",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_margin_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "46",
+          "right": "0",
+          "top": "-10",
+          "unit": "px"
+         },
+         "_margin_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "-7",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_mobile": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "_padding_tablet": {
+          "bottom": "0",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "editor": "<p>Cyklo-turistika.</p>",
+         "pa_condition_repeater": [
+          {
+           "_id": "acf55c1"
+          }
+         ],
+         "typography_font_size": {
+          "size": 20,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_font_size_mobile": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "typography_typography": "custom"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "46202ba6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 85,
+       "_inline_size_mobile": 80,
+       "pa_condition_repeater": [
+        {
+         "_id": "bc0df27"
+        }
+       ]
+      }
+     }
+    ],
+    "id": "2a5e813a",
+    "isInner": false,
+    "settings": {
+     "margin": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": 0,
+      "right": 0,
+      "top": "-12",
+      "unit": "px"
+     },
+     "pa_condition_repeater": [
+      {
+       "_id": "955ee81"
+      }
+     ],
+     "structure": "20"
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "eael_ext_toc_title": "Table of Contents"
+  },
+  "_elementor_template_type": "section",
+  "_wp_page_template": "default"
+ },
+ "modified": "2022-03-22 20:43:07",
+ "obsah_wordpress": "<p>Cyklo-turistika.</p>",
+ "parent": 0,
+ "slug": "ikona-cyklo-turistika",
+ "title": "IKONA cyklo-turistika",
+ "type": "elementor_library"
+}

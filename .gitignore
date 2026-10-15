@@ -1,4 +1,7 @@
-# velké a citlivé soubory mimo git
 *.wpress
 obrazky-prace/
 *.zip
+__pycache__/
+# interní data Blanky – nedávat do veřejného repa
+navstevnost-*.csv
+zaloha-*.html
