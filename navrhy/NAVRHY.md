@@ -1,0 +1,115 @@
+# Co dalšího jde na webu zlepšit – návrhy pro Blanku
+
+*Měřeno 15. 10. 2026. Živý web sblankouzahranice.eu jsem jen četl, všechny úpravy jsou na sandboxu.*
+
+U každého bodu je napsané, **co to přinese**, **kolik to dá práce** a jestli je to **už vyzkoušené na sandboxu**.
+Stačí Claudovi napsat třeba *„bod 2 ano, bod 5 ne“*.
+
+---
+
+## Varianty vzhledu – vyberte si
+
+Stránka „Vídeň – individuální cestovní podpora“ ve třech barevných variantách. Obsah je stejný, liší se jen barvy a písmo nadpisů.
+
+| | A – „Lesní“ (současný návrh) | B – „Teplá“ | C – „Moderní“ |
+|---|---|---|---|
+| Barvy | tmavě zelená + olivová | tmavě zelená + terakota | svěží zelená + medová |
+| Nadpisy | patkové písmo Lora (elegantní, „knižní“) | Lora | bezpatkové Source Sans 3 (čisté, moderní) |
+| Karty a fotky | zaoblené, se stínem | zaoblené, se stínem | hranatější, s tenkým rámečkem |
+| Odkaz | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-novy-design/) | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-varianta-b/) | [otevřít](https://sandbox.xafour.eu/viden-cestovni-podpora-varianta-c/) |
+
+| A – Lesní | B – Teplá | C – Moderní |
+|---|---|---|
+| ![A](obrazky/viden-novy-design-1280.jpg) | ![B](obrazky/viden-varianta-b-1280.jpg) | ![C](obrazky/viden-varianta-c-1280.jpg) |
+| ![A mobil](obrazky/viden-novy-design-390.jpg) | ![B mobil](obrazky/viden-varianta-b-390.jpg) | ![C mobil](obrazky/viden-varianta-c-390.jpg) |
+
+Jde to i kombinovat, třeba barvy B s nadpisy C. Vybraná varianta se pak použije pro všechny stránky.
+
+---
+
+## 1. Rychlost: obrázky ve formátu WebP ✅ *hotovo na sandboxu*
+
+**Problém:** Fotky už byly převedené do úsporného formátu WebP, ale návštěvníci je nedostávali. Cache a CDN si uložily verzi stránky bez WebP a obrázky na pozadí sekcí (úvodní fotky) se nepřeváděly vůbec.
+Úvodní obrázek stránky Vídeň – cestovní podpora měl **1,1 MB**, ve WebP má **140 kB**.
+
+**Řešení:** malý doplněk [`wp-content/mu-plugins/sbz-webp.php`](../wp-content/mu-plugins/sbz-webp.php). Kde je k dispozici WebP verze obrázku, pošle se ta. Doplnil jsem i chybějící WebP verze zmenšenin fotek, které vytváří Elementor.
+
+**Výsledek (měření Google Lighthouse, mobil):**
+
+| Stránka | Před | Po |
+|---|---|---|
+| Úvodní stránka – velikost | 2,5 MB | **0,95 MB** |
+| Úvodní stránka – skóre rychlosti | 68 | **84** |
+| Úvodní stránka – hlavní obsah zobrazen za | 7,8 s | **3,2 s** |
+| Vídeň – cestovní podpora – velikost | 2,3 MB | **1,0 MB** |
+| Vídeň – cestovní podpora – hlavní obsah zobrazen za | 13,3 s | **5,2 s** |
+
+Pro srovnání živý web dnes: úvodní stránka 2,7 MB, hlavní obsah za 5,2 s, stránka Vídeň – cestovní podpora 15,1 s.
+
+**Vrácení:** smazat jeden soubor. Velmi staré prohlížeče bez podpory WebP (méně než 1 % návštěv) by obrázky neviděly. Šlo by doplnit záložní řešení.
+
+## 2. Rychlost: přestat načítat zbytečná písma a skripty — *malá práce*
+
+Stránka se začne vykreslovat až po stažení několika souborů, které nepotřebuje:
+- písmo **Open Sans** z cizího serveru fonts.bunny.net (zdržení asi 0,8 s), dál písmo **Roboto** a tři sady ikon Font Awesome,
+- plugin **Google Language Translator** (styly a skript na každé stránce) – nahradí ho vícejazyčnost, viz bod 6,
+- skripty **Elementor Pro** (asi 90 kB, většina nevyužitá) – odpadnou, až po skončení licence přejdou stránky na nový design.
+
+**Přínos:** asi o 1 s rychlejší první zobrazení na mobilu.
+
+## 3. Velké PNG obrázky převést na fotky (JPG) — *malá práce, automaticky*
+
+Některé fotky jsou uložené jako PNG, což je formát pro grafiku. Fotka v něm má několikanásobnou velikost. Příklady:
+- `Voucher-na-lesni-mysl.png` – 1,1 MB (stránky Regenerační procházky, Přírodou k sobě),
+- `vylet-Heilingenkreuz.png` – 1,1 MB, `Grafika-na-web.png` – 1 MB (Průvodce Vídeň – zahrady a parky),
+- `Dojdi-si-pro-zivot.png`, `dekorace-unor-nahled.png` – 0,85 MB.
+
+WebP z bodu 1 tohle z velké části řeší. Zbývá ale **originál**, který se stahuje při kliknutí na fotku a který si bere Google.
+
+## 4. SEO: drobnosti, které pomohou ve vyhledávání — *malá práce*
+
+Kontrola všech 147 stránek ze sitemapy:
+
+| Zjištění | Kolik | Proč to vadí |
+|---|---|---|
+| Stránky **bez hlavního nadpisu (H1)** | 48 | Google podle H1 pozná, o čem stránka je. Na mnoha stránkách je místo nadpisu obrázek s textem. |
+| **Obrázky bez popisku (alt)** | 102 obrázků na 33 stránkách | Google obrázky „nečte“, popisek mu řekne, co na nich je. Pomáhá to i nevidomým. |
+| Stránky **bez popisu pro Google** | 10 (mj. Nabídka pro kolektivy, Vídeň adventní, Obchodní podmínky) | Google si pak vybere náhodný kus textu. |
+| Stránky **Test** a **Ukázková stránka** jsou v Googlu | 2 | Stránka Test by ve vyhledávání být neměla. Ochrana osobních údajů má adresu `/sample-page/`, šlo by ji změnit na `/ochrana-osobnich-udaju/` s přesměrováním. |
+| Titulek úvodní stránky | „s Blankou za hranice - do Rakouska / do přírody“ | Chybí v něm, co nabízíte. Návrh: *„Vídeň s průvodkyní Češkou – výlety, e-průvodci a cestovní podpora \| s Blankou za hranice“*. |
+| Odkazy na `www.` a `http://` verzi webu | na 6 stránkách | Každý takový odkaz prochází přesměrováním navíc. |
+| Nefunkční odkaz | `http://www.test.sblankouzahranice.eu/vylety` | Vede na neexistující adresu. |
+
+## 5. Cache na živém webu — *hotovo na sandboxu, čeká na přenos*
+
+Živý web dnes odpovídá průměrně za **2,4 s** (měřeno na 147 stránkách). Sandbox s cache odpovídá za 0,07–0,3 s.
+Na živý web se přenese spolu s redesignem.
+
+## 6. Vícejazyčnost (DE / SK) — *čeká na vaše rozhodnutí*
+
+Současný Google Language Translator překládá strojově za chodu. Google takové překlady nevidí a kvalita je slabá.
+- **TranslatePress** (doporučuji): překládá se přímo na stránce, kterou člověk vidí. Strojový návrh se dá ručně opravit. Každý jazyk má vlastní adresu (`/de/…`), takže ho najde i Google. Zdarma 1 další jazyk, placená verze asi 99 € za rok.
+- **Polylang**: zdarma, ale každá stránka se v Elementoru dělá znovu jako samostatná kopie.
+
+Navrhuji začít jen stránkami služeb v němčině, ne celým blogem.
+
+## 7. Instagram feed — *čeká na rozhodnutí*
+
+Plugin Smash Balloon načítá fotky z Instagramu a stránku tím zpomaluje (na kterých stránkách a o kolik, změřím podle potřeby). Alternativa je statický odkaz „Sledujte mě na Instagramu“ s několika vybranými fotkami. Rychlejší a bez propojení účtu.
+
+## 8. Hlavička a patička v novém designu — *střední práce*
+
+Přijde na řadu, až vyberete variantu vzhledu. Teď mají hlavička a patička ještě původní vzhled.
+
+## 9. Formuláře bez Elementoru Pro — *střední práce, do března 2027*
+
+Licence Elementor Pro končí 18. 3. 2027. Kontaktní formuláře je potřeba převést (WPForms je nainstalovaný, nejdřív otestovat povinná pole na sandboxu) a pohyblivé nadpisy nahradit novým zvýrazněním. To už je hotové na stránkách v novém designu.
+
+---
+
+### Jak se tyto návrhy dělaly
+
+Všechno je zaznamenané ve větvi `navrhy/optimalizace`:
+- kontrola webu: [`tools/audit_web.py`](../tools/audit_web.py)
+- WebP doplněk: [`wp-content/mu-plugins/sbz-webp.php`](../wp-content/mu-plugins/sbz-webp.php)
+- varianty barev: konec souboru [`design/sbz.css`](../design/sbz.css)
