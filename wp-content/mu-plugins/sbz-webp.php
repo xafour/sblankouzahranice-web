@@ -4,7 +4,7 @@
  * Description: Kde vedle obrázku existuje soubor .webp (obrazek.jpg.webp), pošle návštěvníkovi rovnou WebP – v HTML i v CSS Elementoru (obrázky na pozadí sekcí).
  *              Řeší dvě slabiny Cache Enableru: první (necachovaná) odpověď je bez WebP a CDN si ji podrží; pozadí v CSS souborech Elementoru se nepřevádí vůbec.
  *              Vrácení: smazat tento soubor a v Elementoru „Regenerovat soubory a data“.
- * Version: 1.0
+ * Version: 1.1 – nově nahrané fotky (JPG/PNG) se samy převedou do WebP, při smazání se WebP smaže taky
  */
 
 defined( 'ABSPATH' ) || exit;
@@ -54,4 +54,30 @@ add_filter( 'elementor/files/css/property', function ( $value ) {
 		$value['url'] = sbz_webp_url( $value['url'] );
 	}
 	return $value;
+} );
+
+// Nově nahrané obrázky: vedle originálu a každé zmenšeniny vytvoří obrazek.jpg.webp (kvalita 80)
+function sbz_webp_vytvor( $soubor ) {
+	if ( ! preg_match( '#\.(jpe?g|png)$#i', $soubor ) || ! is_readable( $soubor ) || file_exists( $soubor . '.webp' ) ) return;
+	$ed = wp_get_image_editor( $soubor );
+	if ( is_wp_error( $ed ) ) return;
+	$ed->set_quality( 80 );
+	$res = $ed->save( $soubor . '.webp', 'image/webp' );
+	// WebP větší než originál (malé grafiky) nemá smysl posílat
+	if ( ! is_wp_error( $res ) && filesize( $soubor . '.webp' ) >= filesize( $soubor ) ) @unlink( $soubor . '.webp' );
+}
+function sbz_webp_soubory( $meta, $id ) {
+	$hlavni = get_attached_file( $id );
+	if ( ! $hlavni ) return array();
+	$out = array( $hlavni ); $dir = dirname( $hlavni );
+	if ( ! empty( $meta['original_image'] ) ) $out[] = $dir . '/' . $meta['original_image'];
+	foreach ( (array) ( $meta['sizes'] ?? array() ) as $s ) if ( ! empty( $s['file'] ) ) $out[] = $dir . '/' . $s['file'];
+	return array_unique( $out );
+}
+add_filter( 'wp_generate_attachment_metadata', function ( $meta, $id ) {
+	foreach ( sbz_webp_soubory( $meta, $id ) as $f ) sbz_webp_vytvor( $f );
+	return $meta;
+}, 20, 2 );
+add_action( 'delete_attachment', function ( $id ) {
+	foreach ( sbz_webp_soubory( wp_get_attachment_metadata( $id ), $id ) as $f ) if ( file_exists( $f . '.webp' ) ) @unlink( $f . '.webp' );
 } );

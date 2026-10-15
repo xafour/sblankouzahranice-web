@@ -11,7 +11,7 @@ Skoro všude už hlavní nadpis na stránce **je**, jen je nastavený jako H2 ne
 3. Vlevo na kartě **Obsah** najdete pole **Značka HTML** (HTML Tag). Změňte **H2 → H1**.
 4. **Aktualizovat.** Vzhled se nezmění, rozdíl uvidí jen Google.
 
-Na každé stránce má být **právě jeden** H1. Měl by říkat, o čem stránka je, ideálně slovy, která lidé hledají („Vídeň“, „průvodce“, „cestovní podpora“…).
+Na každé stránce má být **právě jeden** H1. Měl by říkat, o čem stránka je, ideálně slovy, která lidé hledají („Vídeň“, „cestovní podpora“, „výlety“…).
 
 Řazeno podle důležitosti: nejdřív placené služby.
 

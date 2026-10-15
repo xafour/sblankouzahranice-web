@@ -130,15 +130,12 @@ Kontrola všech 147 stránek ze sitemapy:
 | Odkazy na `www.` a `http://` verzi webu | na 6 stránkách | Každý takový odkaz prochází přesměrováním navíc. |
 | Nefunkční odkaz | `http://www.test.sblankouzahranice.eu/vylety` | Vede na neexistující adresu. |
 
-### Doporučený titulek a popis úvodní stránky
+### Titulek a popis úvodní stránky
 
-Google ukáže asi 60 znaků titulku, proto je na začátku to, co lidé hledají.
-
-- **SEO titulek (doporučuji):** `Vídeň a Rakousko s českou průvodkyní | s Blankou za hranice` (58 znaků)
-- Kratší varianta: `Vídeň s českou průvodkyní | s Blankou za hranice` (48 znaků)
-- **Popis pro Google (meta popis):** `Žiju ve Vídni přes 10 let a pomůžu vám ji poznat bez stresu: cestovní podpora na míru, e-průvodci do kapsy, výlety a pobyty v Rakousku i v přírodě.` (148 znaků)
-
-Kam to napsat: Stránky → Domů → Upravit (WordPress, ne Elementor) → dole box **Yoast SEO** → **SEO titulek** a **Meta popis**.
+~~Původní návrh se slovem „průvodkyně“ je stažený.~~ Blanka není certifikovaná průvodkyně a má živnost na **cestovní podporu**.
+Na webu se proto **nesmí** objevit „průvodkyně“, „průvodce“ (jako osoba) ani „průvodcování“. Povolené je „on-line průvodkyně“
+a označení **„Vaše podpora a pomoc ve Vídni“**. Titulek a popis úvodní stránky napíše Blanka sama.
+Pole SEO titulek a Meta popis jsou i v bezplatné verzi Yoast SEO.
 
 ### Jak skrýt stránku Test z Googlu (můžete hned i na živém webu)
 
