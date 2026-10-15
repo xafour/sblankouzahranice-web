@@ -13,7 +13,7 @@ add_action( 'wp_loaded', function () {
 	$r['kit_saved'] = $E->documents->get( $kit_id, false )->save( array( 'settings' => $s ) );
 	$css = preg_replace( '~/\* ===== BEGIN sbz design system.*?===== END sbz design system ===== \*/\s*~s', '', (string) wp_get_custom_css() );
 	wp_update_custom_css_post( trim( $css ) );
-	foreach ( array( 'viden-cestovni-podpora-novy-design', 'den-ve-vidni-novy-design', 'viden-cestovni-podpora-varianta-b', 'viden-cestovni-podpora-varianta-c' ) as $slug ) { $p = get_page_by_path( $slug, OBJECT, 'page' ); $r['page_trashed'][ $slug ] = $p ? (bool) wp_trash_post( $p->ID ) : 'n/a'; }
+	foreach ( array( 'viden-cestovni-podpora-novy-design', 'den-ve-vidni-novy-design', 'viden-cestovni-podpora-varianta-b', 'viden-cestovni-podpora-varianta-c', 'viden-cestovni-podpora-uvod-broskev', 'viden-cestovni-podpora-uvod-oliva', 'viden-cestovni-podpora-uvod-karta', 'viden-cestovni-podpora-uvod-zelena' ) as $slug ) { $p = get_page_by_path( $slug, OBJECT, 'page' ); $r['page_trashed'][ $slug ] = $p ? (bool) wp_trash_post( $p->ID ) : 'n/a'; }
 	$E->files_manager->clear_cache();
 	if ( class_exists( 'Cache_Enabler' ) ) Cache_Enabler::clear_complete_cache();
 	echo wp_json_encode( $r ); exit;
