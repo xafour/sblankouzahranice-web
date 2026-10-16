@@ -21,7 +21,7 @@
 | 7 Instagram | ✅ rozbitý kód v bočním panelu nahrazen odkazem na Instagram, plugin vypnutý | nic |
 | 8 Hlavička a patička | paleta 1 Louka a broskev (Blanka 16. 10.), další krok: nová hlavička a patička bez Elementor Pro | nic |
 | 9 Formuláře bez Elementor Pro | odloženo do roku 2027 | nic |
-| Vzhled (Blanka 16. 10.) | ✅ úvod nižší (~450 px jako původní web), fotka se světlým závojem, podbarvené a větší jen nadtitulek a popis (tmavý panel Blanka nechce), nadtitulky 14 → 18 px | podívat se |
+| Vzhled (Blanka 16. 10.) | ✅ úvod nižší (~450 px jako původní web), fotka se světlým závojem, nadtitulek a popis bez podkladu, větší, tučné, tmavé se světlou září (tmavý panel ani podbarvení Blanka nechce), nadtitulky 14 → 18 px | podívat se |
 | Texty Den ve Vídni + Vídeň podpora | dokument [TEXTY-ke-schvaleni.docx](TEXTY-ke-schvaleni.docx) | vyplnit |
 
 U každého bodu je napsané, **co to přinese**, **kolik to dá práce** a jestli je to **už vyzkoušené na sandboxu**.

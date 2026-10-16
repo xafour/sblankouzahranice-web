@@ -52,13 +52,13 @@
 .sbz-uvod-panel p.elementor-heading-title{font-size:18px!important}.sbz-uvod-panel h1.elementor-heading-title{font-size:26px!important}
 .sbz-uvod-panel .elementor-widget-text-editor,.sbz-uvod-panel .elementor-widget-text-editor p{font-size:19px!important}
 .sbz-uvod-panel .sbz-btn .elementor-button{padding:12px 18px!important}}
-/* Úvod „krem“ (Blanka 16. 10.): fotka zůstává vidět, podbarvené jsou jen dvě hlavní věty (nadtitulek a popis), větší písmo */
-.sbz-uvod-zvyraz .elementor-heading-title,.sbz-uvod-zvyraz.elementor-widget-text-editor p{display:inline;background:rgba(20,90,56,.9);color:#fff!important;text-shadow:none!important;padding:.18em .55em;border-radius:6px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
-.sbz-uvod-zvyraz .elementor-heading-title{font-size:22px!important;letter-spacing:1px!important;line-height:1.9!important}
-.sbz-uvod-zvyraz.elementor-widget-text-editor,.sbz-uvod-zvyraz.elementor-widget-text-editor p{font-size:23px!important;line-height:1.9!important;font-weight:500;text-shadow:none!important}
-.sbz-uvod-krem .elementor-widget-text-editor.sbz-uvod-zvyraz{margin-bottom:12px}
+/* Úvod „krem“ (Blanka 16. 10.): fotka vidět, bez podkladu pod písmem (tmavé podbarvení Blanka nechce).
+   Dvě hlavní věty (nadtitulek a popis) větší, tučnější a téměř černé/tmavě zelené se silnou světlou září kolem písmen */
+.sbz-uvod-zvyraz .elementor-heading-title{color:#0F4A2D!important;font-size:22px!important;font-weight:800!important;letter-spacing:1px!important}
+.sbz-uvod-zvyraz.elementor-widget-text-editor,.sbz-uvod-zvyraz.elementor-widget-text-editor p{color:#14201A!important;font-size:24px!important;line-height:1.45!important;font-weight:600!important}
+.sbz-uvod-zvyraz .elementor-heading-title,.sbz-uvod-zvyraz.elementor-widget-text-editor p{text-shadow:0 0 2px #fff,0 0 6px rgba(255,255,255,.95),0 0 14px rgba(251,247,240,.95),0 0 28px rgba(251,247,240,.9)!important}
 @media (max-width:767px){.sbz-uvod-zvyraz .elementor-heading-title{font-size:17px!important}
-.sbz-uvod-zvyraz.elementor-widget-text-editor,.sbz-uvod-zvyraz.elementor-widget-text-editor p{font-size:19px!important;line-height:1.85!important}}
+.sbz-uvod-zvyraz.elementor-widget-text-editor,.sbz-uvod-zvyraz.elementor-widget-text-editor p{font-size:19px!important}}
 /* Světlé závoje: tlačítka vedle sebe i na mobilu zarovnaná na střed */
 .sbz-uvod .elementor-widget-button{text-align:center}
 /* Tlačítka: po najetí myší se prohodí tmavě zelená a světle olivová */

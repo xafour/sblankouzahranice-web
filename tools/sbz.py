@@ -213,7 +213,7 @@ def hl(before, mark, after=""):
 #   "karta"   – fotka bez závoje, text v krémové kartě uprostřed
 #   "panel"   – světlý závoj + text v tmavě zeleném panelu (16. 10., Blanka NECHCE: panel zakrývá fotku)
 # Styl „krem“ (výchozí, Blanka 16. 10.): sekce nízká (bez pevné výšky), aby byl bez posouvání vidět i další text;
-#   nadtitulek a popis (hlavní sdělení) jsou větší a podbarvené tmavě zeleně přímo pod písmem (třída sbz-uvod-zvyraz), nadpis beze změny.
+#   nadtitulek a popis (hlavní sdělení) jsou větší, tučné a tmavé se světlou září, BEZ podkladu (třída sbz-uvod-zvyraz; tmavé podbarvení Blanka nechce).
 UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.42), "panel": ("sbz_krem", 0.42), "broskev": ("sbz_svetla", 0.70),
               "oliva": ("#E6EBC0", 0.74)}
 
