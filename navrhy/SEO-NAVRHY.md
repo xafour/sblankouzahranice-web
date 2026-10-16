@@ -224,7 +224,7 @@ Stránky: `/blog/`, `/fotogalerie-bonus/`, `/fotogalerie/`, `/jak-se-zije-za-hra
 
 ### [/vylety-v-rakousku/](https://sblankouzahranice.eu/vylety-v-rakousku/)
 
-**9× prázdný obrázek Elementoru.** Na stránce je 9 obrázků, do kterých nebyla vložena fotka, a zobrazuje se šedý zástupný obrázek. Popisek nepomůže. Prázdná místa je lepší smazat nebo do nich doplnit fotky.
+**9× neviditelný prázdný obrázek** v recenzích dole na stránce (widget Testimonial bez fotky). Na stránce není vidět (má velikost 0), opraveno v textu 16. 10. Nic není potřeba dělat; při předělání stránky se odstraní.
 
 ### [/workshopy-akce/](https://sblankouzahranice.eu/workshopy-akce/)
 
