@@ -1,0 +1,552 @@
+{
+ "radky": [
+  {
+   "nove": "Individuální cestovní podpora ve Vídni",
+   "puvodne": "Individuální cestovní podpora. Jak tato spolupráce probíhá?",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Vídeň bez starostí, na míru a s podporou za zády",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Domluvit 15 minut zdarma",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Objednat službu",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Chystáte se do Vídně?",
+   "puvodne": "Chystáte se DO VÍDNĚ?",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Nemáte čas trávit hodiny hledáním, kam se podívat?",
+   "puvodne": "NEMÁTE ČAS trávit hodiny hledáním kam se podívat?",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Nevíte si rady s plánováním cesty?",
+   "puvodne": "NEVÍTE SI RADY s plánováním cesty?",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Bojíte se, že se nedomluvíte?",
+   "puvodne": "Bojíte se, že SE NEDOMLUVÍTE?",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Nechte to na mě a využijte službu cestovní podpory, abyste si své dny ve Vídni opravdu užili.",
+   "puvodne": "Nechte to na mě a VYUŽIJTE SLUŽBU CESTOVNÍ PODPORY. …abyste si své dny ve Vídni opravdu užili!",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Služba na míru",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Nechte si ušít návštěvu Vídně na míru",
+   "puvodne": "Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomohu objevit skutečnou duši tohoto města a vyhnout se turistickým pastem.",
+   "puvodne": "Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let vám pomohu objevit skutečnou duši tohoto města a vyhnout se turistickým pastem.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Mé služby jsou navržené tak, abyste z Vídně získali maximum, ať už máte na návštěvu den nebo týden.",
+   "puvodne": "Mé služby jsou navrženy tak, abyste z Vídně získali maximum, ať už máte na návštěvu den nebo týden.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Zažijte Vídeň jinak",
+   "puvodne": "ZAŽIJTE VÍDEŇ JINAK",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Itineráře na míru",
+   "puvodne": "Itineráře na míru.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Plán cesty přesně podle vašich přání, tempa a délky pobytu.",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Organizační pomoc na místě",
+   "puvodne": "Organizační pomoc na místě.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Jízdenky, doprava, orientace ve městě – vyřešíme to spolu.",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Osobní doprovod ve Vídni",
+   "puvodne": "Osobní doprovod ve Vídni.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Procházka městem s příběhy, které v průvodcích nenajdete.",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Tahle nabídka je i pro vás",
+   "puvodne": "Tahle nabídka je i pro vás.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Pokud jedete do Vídně a nechcete bloudit a ztrácet čas.",
+   "puvodne": "Pokud jedete do Vídně a NECHCETE BLOUDIT A ZTRÁCET ČAS.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Pokud chcete ušetřit dlouhé minuty a hodiny hledání na internetu.",
+   "puvodne": "Pokud CHCETE UŠETŘIT DLOUHÉ MINUTY A HODINY HLEDÁNÍ NA INTERNETU.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Pokud budete Vídní projíždět a chcete svůj čas efektivně využít.",
+   "puvodne": "Pokud budete Vídní projížděť a CHCETE SVŮJ ČAS EFEKTIVNĚ VYUŽÍT.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Pokud máte jasnou představu a nevíte, kde přesně hledat.",
+   "puvodne": "Pokud MÁTE JASNOU PŘEDSTAVU A NEVÍTE, KDE PŘESNĚ HLEDAT.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Pokud by se vám hodil předem rámcový plán cesty.",
+   "puvodne": "Pokud BY SE VÁM HODIL PŘEDEM RÁMCOVÝ PLÁN CESTY.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Pokud chcete zažít město očima obyvatelky Vídně se skutečným životem, a ne jen prostřednictvím „suchých dat a letopočtů“.",
+   "puvodne": "Pokud chcete ZAŽÍT MĚSTO OČIMA OBYVATELKY VÍDNĚ se skutečným životem a ne jen prostřednictvím \"suchých dat a letopočtů\".",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Pokud jste si nejistí kvůli němčině a bojíte se, že se v Rakousku nedorozumíte.",
+   "puvodne": "Pokud JSTE SI NEJISTÍ KVŮLI NĚMČINĚ a bojíte se, že se v Rakousku nedorozumíte.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Nechte si připravit detailní plán cesty na míru nebo využijte podporu na místě",
+   "puvodne": "NECHTE SI PŘIPRAVIT DETAILNÍ PLÁN VAŠÍ CESTY NA MÍRU NEBO VYUŽIJTE PODPORU NA MÍSTĚ!",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Dejme si 15minutovku zdarma a řekněte mi své představy.",
+   "puvodne": "Dejme si 15 minutovku ZDARMA a řeknete mi své představy.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Pošlete mi telefon, ozvu se vám",
+   "puvodne": "Pošlete mi telefon a já se vám obratem ozvu",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Nebuďte zaskočeni, volat vám bude rakouské číslo.",
+   "puvodne": "Pozn. Nebuďte zaskočeni, volat vám bude rakouské číslo.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Ekonomičtější varianta",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Neshodneme se v termínu nebo chcete ušetřit?",
+   "puvodne": "Neshodneme se v požadovaném termínu nebo chcete zvolit ekonomičtější variantu?",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Pak se vám bude hodit on-line Průvodce do kapsy – stejná trasa, kterou chodím s klienty při osobním doprovodu.",
+   "puvodne": "Pak se vám bude hodit on-line PRŮVODCE DO KAPSY. Stejná trasa, kterou chodím s klienty při osobním doprovodu.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Trasa širším centrem Vídně s popisem památek a mapkou ke stažení do mobilu. Vede vás jasně, klidně a bez zbytečného zdržování. Nebloudíte, nehledáte a máte jistotu, že jdete správně. Roky prověřená trasa a spokojení klienti.",
+   "puvodne": "Trasa širším centrem Vídně s popisem památek a mapkou ke stažení do mobilu. e-Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování. Nebloudíte, nehledáte. Získáte jistotu, že jdete správně a neztrácíte čas.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Váš bod jistoty při objevování Vídně – klidný den za 40 € / 980 Kč.",
+   "puvodne": "Váš bod jistoty při objevování Vídně- klidný den za 40 Euro/980 CZK.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Vyzkouším Průvodce do kapsy",
+   "puvodne": "Vyzkouším Průvodce do kapsy.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Více o průvodci",
+   "puvodne": "Více o mne si můžete přečíst",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Proč využít cestovní podporu nebo Průvodce do kapsy",
+   "puvodne": "Proč využít možnosti cestovní podpory nebo on-line Průvodce do kapsy.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Ušetříte čas hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat.",
+   "puvodne": "UŠETŘÍTE ČAS hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Neztratíte se ve výběru a pořizování nejvýhodnějších jízdenek městské dopravy.",
+   "puvodne": "NEZTRATÍTE SE VE VÝBĚRU a pořizování nejvýhodnějších jízdenek městské dopravy.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Snadno se zorientujete v dopravě a zjistíte, jak nejlépe z místa A do místa B.",
+   "puvodne": "SNADNO SE ZORIENTUJETE V DOPRAVĚ a zjistíte, jak nejlépe z místa A do místa B.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Během jednoho odpoledne projdete kolem nejznámějších turistických cílů Vídně.",
+   "puvodne": "BĚHEM JEDNOHO ODPOLEDNE PROJDETE kolem nejznámějších turistických cílů Vídně.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Lehce najdete legendární Hotel Sacher, kde si v kavárně vychutnáte pravou vídeňskou kávu a Sacher dort.",
+   "puvodne": "LEHCE NAJDETE LEGENDÁRNÍ HOTEL SACHER, kde si v kavárně můžete vychutnat zážitek a vůni pravé Vídeňské kávy a Sacher dortu.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Dozvíte se něco praktického z běžného života ve Vídni a poznáte Rakousko autentičtěji.",
+   "puvodne": "DOZVÍTE SE NĚCO PRAKTICKÉHO Z BĚŽNÉHO ŽIVOTA VE VÍDNI a poznáte tak Rakousko lépe a autentičtěji.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Užijete si své dny naplno, protože budete mít ve Vídni pomoc a podporu za zády.",
+   "puvodne": "UŽIJETE SI SVÉ DNY NAPLNO, protože budete mít ve Vídni pomoc a podporu za zády.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Hofburg",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Karlskirche",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Státní opera",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Tak to se hodí, chci cestovní podporu",
+   "puvodne": "Tak to se hodí, chci cestovní podporu.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Individuální cestovní podpora",
+   "puvodne": "Individuální cestovní podpora. Jak tato spolupráce probíhá?",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Jak spolupráce probíhá?",
+   "puvodne": "Individuální cestovní podpora. Jak tato spolupráce probíhá?",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Při prvním kontaktu e-mailem či telefonem si ujasníme vaše přání, představy a potřeby.",
+   "puvodne": "Při prvním kontaktu v e-mailu či telefonu si ujasníme vaše přání, představy a potřeby .",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Na základě těchto informací zpracuji nabídku do konkrétní objednávky včetně cenové kalkulace a zašlu vám ji k odsouhlasení.",
+   "puvodne": "Na základě těchto informací zpracuji nabídku do konkrétní objednávky, včetně cenové kalkulace a zašlu vám k odsouhlasení.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Po vašem potvrzení začnu na objednávce nebo itineráři pracovat detailně.",
+   "puvodne": "Po vašem potvrzení objednávky začnu pracovat na vaší objednávce nebo itineráři detailně.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Podle potvrzeného harmonogramu vám zašlu finální verzi itineráře či služby.",
+   "puvodne": "Následně, dle potvrzeného harmonogramu, vám zašlu vypracovanou finální verzi vašeho itineráře či služby.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Většinou klientům předem zašlu nebo při příjezdu předám malý dárek navíc – vždy něco, co pomůže při výletu do Vídně.",
+   "puvodne": "Většinou ještě zasílám klientům předem, nebo předávám při příjezdu, nějaký dárek, jako bonus navíc, za objednané služby - vždy něco, co může být praktickým pomocníkem při vašem výletu do Vídně.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Pak už se na vás těší Vídeň i já.",
+   "puvodne": "Pak už se na vás těší Vídeň i já dle termínu vašeho příjezdu a rozsahu domluvených služeb.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Platba",
+   "puvodne": "PLATBA probíhá ve dvou částech:",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Platba probíhá ve dvou částech:",
+   "puvodne": "PLATBA probíhá ve dvou částech:",
+   "jen_pismena": true
+  },
+  {
+   "nove": "a) záloha 50 % po potvrzení prvotní objednávky,b) doplatek 50 % po zaslání finální verze itineráře nebo několik dní před vaším příjezdem do Vídně. Termín splatnosti je vždy součástí objednávky.",
+   "puvodne": "a) záloha ve výši 50% po potvrzení prvotní objednávky b) doplatek zbylých 50% buď po zaslání finální verze itineráře nebo několik dní před vaším příjezdem do Vídně (dle časových možností od data prvního kontaktu do příjezdu). Termín splatnosti je vždy součástí objednávky.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Co služba nezahrnuje",
+   "puvodne": "Co služba cestovní podpory nezahrnuje?",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Součástí služby není provádění jakýchkoliv rezervací. Rezervace ubytování, dopravy a podobně si provádíte sami na základě doporučených podkladů nebo podle vlastního výběru.",
+   "puvodne": "Součástí služby není provádění jakýchkoliv rezervací! Všechny rezervace ubytování, dopravy a podobně si provádíte sami na základě doporučených a dodaných podkladů nebo dle vlastního výběru.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Co služba cestovní podpory zahrnuje",
+   "puvodne": "Trochu více o tom, co služba cestovní podpory zahrnuje?",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Doporučení a výběr nejvýhodnějších jízdenek pro městskou dopravu a váš pobyt ve Vídni.",
+   "puvodne": "Doporučení a výběr nejvýhodnějších jízdenek a tiketů pro městskou dopravu a váš pobyt ve Vídni.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Itinerář na příslušný počet dní včetně trasy prohlídky městem, případně i s mapkou ke stažení do mobilu.",
+   "puvodne": "Vypracování itineráře na příslušný počet dní včetně trasy prohlídky městem, možno i včetně mapky ke stažení do mobilu.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Základní informace o místech a památkách na vaší trase.",
+   "puvodne": "Základní informace o místech a památkách, které jsou na vaší trase k vidění, zastavení či návštěvě.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Doporučení výhodného ubytování – cenou nebo polohou – podle vašich přání.",
+   "puvodne": "Doporučení a návrhy pro výhodné ubytování, buď cennově nebo vhodnou polohou výhodné, na základě vámi objednaných služeb a vašich přání.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Na přání osobní vyzvednutí na nádraží a pomoc s prvotní orientací ve městě.",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Na přání osobní doprovod po městě nebo na vybrané památky ve Vídni a okolí – půldenní, celodenní i vícedenní program.",
+   "puvodne": "Služba může zahrnovat i můj osobní doprovod po městě nebo na vybrané památky ve Vídni a v okolí Vídně, dle objednaného rozsahu. V takovém případě zajistím organizaci na půldenní, celodenní i vícedenní program.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Podpora nemusí být po celou dobu pobytu. Často stačí 1–2 dny pro základní nebo hlubší orientaci.",
+   "puvodne": "Podpora nemusí (a většinou ani není) po celou dobu pobytu. Často stačí 1-2 dny pro základní nebo hlubší orientaci.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Přečtěte si reference od mých klientů",
+   "puvodne": "Přečtěte si reference a zpětné vazby od mých klientů.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Moc bych Vám chtěla za Vaši službu poděkovat. Díky Vám jsem ušetřila spoustu času stráveného na internetu hledáním potřebných věcí o Vídni, ať už se jedná o dopravu, památky atd. Byla s Vámi velmi dobrá spolupráce. Komunikace byla naprosto bezproblémová, navržené změny jste ochotně a rychle doplnila do itineráře a z vlastní iniciativy doporučila změny s ohledem na počasí. Díky Vaší podpoře přímo na nádraží byl náš příjezd do Vídně klidnější a pohodovější.Itineráři nemám vůbec nic co vytknout. Byl velice dobře vypracovaný a mapka centra, která se dala spustit v navigaci, byla velmi, velmi užitečná. Bez ní bychom v centru Vídně bloudili a určitě se někde ztratili. Trasa se dala za jeden den v pohodě ujít, ale bylo to celkem náročné. Z vlastní nabyté zkušenosti bych pro ty, co jsou ve Vídni úplně poprvé, volila tuto procházku určitě s Vaší podporou. Pobyt ve Vídni jsme si velmi užili. Jana Slováková s rodinou Zdravím Blani.Tvoje práce pro nás byla skvělá. Moc si toho vážíme. Určitě nám to hodně ušetřilo čas a ulehčilo pobyt. Rády doporučíme svým známým. Překvapilo nás, že je vůbec něco takového možné. Skvělý nápad! Určitě rády využijeme tvé služby i později. Třeba před Vánoci, kdy je vše krásně vyzdobené nejen ve Vídni, jak jsi nám ukázala. Díky! Věra a Stáňa sestry Ještě jednou děkujeme za pomoc, přípravu a hezký čas strávený s Vámi.Návštěva \"světelné zahrady\" byl skutečně skvělý nápad. Bylo to moc fajn. Zkrátka užily jsme si Vídeň tak, jak jsme si to představovaly a to i díky Vám.Ještě jednou díky a krásné vánoce. Jana,Naďa a Eva 2 sestry s maminkou Milá Blanko, moc děkujeme za krásně strávený den s Vámi. Bezvadně připravený itinerář, praktické rady a doporučení přispěly k tomu, že jsme si dny ve Vídni bezvadně užili. Těšíme na Vaše další náměty na výlety i v okolí Vídně. (Jarmila).Díky za praktické rady a doporučení, velice nám pomohly v orientaci ve Vídni, též jízdenka na celou dobu pobytu je skvělou volbou. (Markéta).Výlet byl super, užily jsme si Vídeň v klidu a pohodě. Určitě se sem zase vrátíme. Tento typ výletu (s cestovní podporou) mohu jen doporučit. (Ivana). Jarmila, Markéta, Ivana +1 Parta 4 skvělých žen Aho Blani, včera jsme v pořádku dorazily domů. Moc děkuji za všechno. Krásně jsi nám připravila program, moc jsme si to užily. Martina Váchová Zakladatelka projektu Podnikavé ženy z Vysočiny Děkujeme za vaše průvodcovské služby ve Vídni, moc nám to usnadnilo a zpříjemnilo letní návštěvu Vídně. Bylo to pro nás přínosné a moc jsme si to užili. Reneta Šebelová s dcerou Děkujeme Blance za krásnou dvoudenní prohlídku Vídně. Počasí s teplotami přes 38°C nás všechny strašilo, ale Blanka nám všem zkušeně dala challenge s prohlídkou Vídně už od \"brzkého\" rána a tak se z horkého dne mezi všemi těmi krásami Vídně stal velmi příjemný den. Kdo brzo chodí, nestojí v Café Sacher frontu na tu jejich dobrotu. Zajímavostí, dobrých rad a nevšedních pohledů na Vídeň od Blanky uslyšíte opravdu hodně. Pomůže vám s lístky, metrem, rozumnou trasou a počká na vás před Schönbrunnem, aby vás doprovodila za další zajímavosti Vídně. Ještě jednou děkujeme a doporučujeme. Rodina Trefancova červen 2026 Moc děkuju za itinerář na náš výlet, bylo to tak jak jsem si představoval. Měl jsem mustr, co a jak, a to bylo super! Skvělá a rychlá služba. Karel Koutek a skupina cyklistů Děkujeme paní Blance za službu cestovní podpory. Ve Vídni jsme byli poprvé a paní Blanka nám vypracovala itinerář, díky kterému jsme navštívili podstatnou část těch nejkrásnějších památek. Její služba nám ušetřila mnoho času, který bychom museli strávit přípravou programu. Navíc nám dala rady a tipy, jak se po Vídni dopravovat, což nám následně usnadnilo samostatné cestování a orientaci v této metroli. Nadto je paní velmi milá a procházka s jejím doprovodem historickým centrem města byla příjemným zpestřením programu. Její službu mohu všem doporučit. Kamila Chrbjatova s rodinou Děkujeme za krásně sestavený program prohlídky centra Vídně s ohledem na mé omezené schopnosti chůze a se zakomponováním návštěvy dvou nejznámějších kaváren a restaurace s original Wiener Schnitzel. Zvláštní dík pak za pomoc v nouzi s odtahem vozidla a organizací výměny pneu, což se zprvu zdálo být těžko řešitelné. Moc děkujeme a doporučujeme službu dál. pan Hermann s přítelkyní únor 2026 Děkujeme za spolupráci. Se spoluprací jsme byli velmi spokojeni. Služba cestovní podpory nám podstatně usnadnila sestavení plánu programu, sama bych to vzhledem k časovému vytížení nedala dohromady.Vaši službu bych doporučila a také doporučím dalším školám a známým, pokud bude někdo chtít navštívit Vídeň:-) Pavla Petrová Gymnázium Thomase Manna Dobrý den Blani.Museli jsme se sestrou konstatovat, že jste se nám opravdu velmi zamlouvala a moc děkujeme. Váš přístup, který je lidský a i pro ty naše patnáctileté holky srozumitelný, věřím, že vaše zajímavé a netradiční příběhy je upoutaly. Určitě jsme si odnesly nádherný zážitek z Vídně. Jak procházku s vámi ve středu, tak i potom doporučený program na druhý den. Byly jsme vážně moc spokojené a určitě vás doporučíme dále. Pavla Šimičová se sestrou a dcerami Paní Blanku rozhodně doporučujeme. Je to Češka žijící ve Vídni a má krásné a zajímavé příběhy ke každé budově i místu, které jsme navštívili. Procházka po Vídni byla opravdu moc příjemná. Strávili jsme spolu čtyři hodiny, během kterých jsme prošli mnoho krásných míst a udelali si i malou zastávku na kávu. Byli jsme tam i s naším desetiletým synem a paní průvodkyně tomu skvěle přizpůsobila celou prohlídku, takže to bavilo i jeho. Byla velmi milá, ochotná a bylo vidět, že svou práci dělá s nadšením. Jeste jednou moc děkujeme za krásný zážitek a určitě můžeme jen doporučit. rodina Koutkova únor 2026",
+   "puvodne": "Moc bych Vám chtěla za Vaši službu poděkovat. Díky Vám jsem ušetřila spoustu času stráveného na internetu hledáním potřebných věcí o Vídni, ať už se jedná o dopravu, památky atd. Byla s Vámi velmi dobrá spolupráce. Komunikace byla naprosto bezproblémová, navržené změny jste ochotně a rychle doplnila do itineráře a z vlastní iniciativy doporučila změny s ohledem na počasí. Díky Vaší podpoře přímo na nádraží byl náš příjezd do Vídně klidnější a pohodovější. Itineráři nemám vůbec nic co vytknout. Byl velice dobře vypracovaný a mapka centra, která se dala spustit v navigaci, byla velmi, velmi užitečná. Bez ní bychom v centru Vídně bloudili a určitě se někde ztratili. Trasa se dala za jeden den v pohodě ujít, ale bylo to celkem náročné. Z vlastní nabyté zkušenosti bych pro ty, co jsou ve Vídni úplně poprvé, volila tuto procházku určitě s Vaší podporou. Pobyt ve Vídni jsme si velmi užili. Jana Slováková s rodinou Moc děkuju za itinerář na náš výlet, bylo to tak jak jsem si představoval. Měl jsem mustr, co a jak, a to bylo super! Skvělá a rychlá služba. Karel Koutek a skupina cyklistů Zdravím Blani. Tvoje práce pro nás byla skvělá. Moc si toho vážíme. Určitě nám to hodně ušetřilo čas a ulehčilo pobyt. Rády doporučíme svým známým. Překvapilo nás, že je vůbec něco takového možné. Skvělý nápad! Určitě rády využijeme tvé služby i později. Třeba před Vánoci, kdy je vše krásně vyzdobené nejen ve Vídni, jak jsi nám ukázala. Díky! Věra a Stáňa sestry Děkujeme paní Blance za službu cestovní podpory. Ve Vídni jsme byli poprvé a paní Blanka nám vypracovala itinerář, díky kterému jsme navštívili podstatnou část těch nejkrásnějších památek. Její služba nám ušetřila mnoho času, který bychom museli strávit přípravou programu. Navíc nám dala rady a tipy, jak se po Vídni dopravovat, což nám následně usnadnilo samostatné cestování a orientaci v této metroli. Nadto je paní velmi milá a procházka s jejím doprovodem historickým centrem města byla příjemným zpestřením programu. Její službu mohu všem doporučit. Kamila Chrbjatova s rodinou Ještě jednou děkujeme za pomoc, přípravu a hezký čas strávený s Vámi. Návštěva \"světelné zahrady\" byl skutečně skvělý nápad. Bylo to moc fajn. Zkrátka užily jsme si Vídeň tak, jak jsme si to představovaly a to i díky Vám. Ještě jednou díky a krásné vánoce. Jana,Naďa a Eva 2 sestry s maminkou Děkujeme za krásně sestavený program prohlídky centra Vídně s ohledem na mé omezené schopnosti chůze a se zakomponováním návštěvy dvou nejznámějších kaváren a restaurace s original Wiener Schnitzel. Zvláštní dík pak za pomoc v nouzi s odtahem vozidla a organizací výměny pneu, což se zprvu zdálo být těžko řešitelné. Moc děkujeme a doporučujeme službu dál. pan Hermann s přítelkyní únor 2026 Zde může být i vaše recenze. Chystáte se na návštěvu Vídně a chcete svůj pobyt prožít bez stresu a starostí tak, abyste si své dny v metropoli Rakouska užili naplno? Neváhejte a napište mi, program na míru mám i pro vás. Klient návštěvník z ČR Milá Blanko, moc děkujeme za krásně strávený den s Vámi. Bezvadně připravený itinerář, praktické rady a doporučení přispěly k tomu, že jsme si dny ve Vídni bezvadně užili. Těšíme na Vaše další náměty na výlety i v okolí Vídně. (Jarmila). Díky za praktické rady a doporučení, velice nám pomohly v orientaci ve Vídni, též jízdenka na celou dobu pobytu je skvělou volbou. (Markéta). Výlet byl super, užily jsme si Vídeň v klidu a pohodě. Určitě se sem zase vrátíme. Tento typ výletu (s cestovní podporou) mohu jen doporučit. (Ivana). Jarmila, Markéta, Ivana +1 Parta 4 skvělých žen Děkujeme za spolupráci. Se spoluprací jsme byli velmi spokojeni. Služba cestovní podpory nám podstatně usnadnila sestavení plánu programu, sama bych to vzhledem k časovému vytížení nedala dohromady. Vaši službu bych doporučila a také doporučím dalším školám a známým, pokud bude někdo chtít navštívit Vídeň:-) Pavla Petrová Gymnázium Thomase Manna Aho Blani, včera jsme v pořádku dorazily domů. Moc děkuji za všechno. Krásně jsi nám připravila program, moc jsme si to užily. Martina Váchová Zakladatelka projektu Podnikavé ženy z Vysočiny Dobrý den Blani. Museli jsme se sestrou konstatovat, že jste se nám opravdu velmi zamlouvala a moc děkujeme. Váš přístup, který je lidský a i pro ty naše patnáctileté holky srozumitelný, věřím, že vaše zajímavé a netradiční příběhy je upoutaly. Určitě jsme si odnesly nádherný zážitek z Vídně. Jak procházku s vámi ve středu, tak i potom doporučený program na druhý den. Byly jsme vážně moc spokojené a určitě vás doporučíme dále. Pavla Šimičová se sestrou a dcerami Děkujeme za vaše průvodcovské služby ve Vídni, moc nám to usnadnilo a zpříjemnilo letní návštěvu Vídně. Bylo to pro nás přínosné a moc jsme si to užili. Reneta Šebelová s dcerou Paní Blanku rozhodně doporučujeme. Je to Češka žijící ve Vídni a má krásné a zajímavé příběhy ke každé budově i místu, které jsme navštívili. Procházka po Vídni byla opravdu moc příjemná. Strávili jsme spolu čtyři hodiny, během kterých jsme prošli mnoho krásných míst a udelali si i malou zastávku na kávu. Byli jsme tam i s naším desetiletým synem a paní průvodkyně tomu skvěle přizpůsobila celou prohlídku, takže to bavilo i jeho. Byla velmi milá, ochotná a bylo vidět, že svou práci dělá s nadšením. Jeste jednou moc děkujeme za krásný zážitek a určitě můžeme jen doporučit. rodina Koutkova únor 2026 Děkujeme Blance za krásnou dvoudenní prohlídku Vídně. Počasí s teplotami přes 38°C nás všechny strašilo, ale Blanka nám všem zkušeně dala challenge s prohlídkou Vídně už od \"brzkého\" rána a tak se z horkého dne mezi všemi těmi krásami Vídně stal velmi příjemný den. Kdo brzo chodí, nestojí v Café Sacher frontu na tu jejich dobrotu. Zajímavostí, dobrých rad a nevšedních pohledů na Vídeň od Blanky uslyšíte opravdu hodně. Pomůže vám s lístky, metrem, rozumnou trasou a počká na vás před Schönbrunnem, aby vás doprovodila za další zajímavosti Vídně. Ještě jednou děkujeme a doporučujeme. Rodina Trefancova červen 2026",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Zde může být i vaše recenze. Chystáte se do Vídně a chcete pobyt prožít bez stresu a starostí? Napište mi – program na míru mám i pro vás.",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Napsat Blance",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Kdo vám bude oporou ve Vídni",
+   "puvodne": "Kdo vám bude oporou a organizační pomocí ve Vídni.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni. Z Prahy do Vídně jsem se přestěhovala ve věku 50 let. Byl to velký skok do neznáma, a tak mám stále v živé paměti, jak se člověk v novém prostředí nesnadno orientuje.",
+   "puvodne": "Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni. Z Prahy do Vídně jsem přestěhovala ve věku 50 let. Byl to velký skok do neznáma a tak mám stále v živé paměti, jak se člověk v novém prostředí nesnadno orientuje.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Rakousko jsem začala objevovat především prostřednictvím výletů do přírody a postupně se seznamovala se životem ve Vídni. V roce 2020 vznikl můj projekt „s Blankou za hranice“, ve kterém pomáhám krajanům s poznáváním Vídně a Rakouska. Jsem milovnice přírody a všeho opravdového.",
+   "puvodne": "Rakousko jsem začala objevovat především prostřednictvím výletů do přírody a postupně se seznamovala s životem ve Vídni. V roce 2020 vznikl můj projekt „s Blankou za hranice“ ve kterém pomáhám krajanům s poznáváním Vídně a Rakouska. Jsem milovnice přírody a všeho opravdového.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Více o mně si můžete přečíst",
+   "puvodne": "Více o mne si můžete přečíst",
+   "jen_pismena": false
+  },
+  {
+   "nove": "na stránce Kdo je Blanka",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": ", rozhovor v rádiu ORF si můžete",
+   "puvodne": "Rozhovor v rádiu ORF můžete poslechnout",
+   "jen_pismena": false
+  },
+  {
+   "nove": "poslechnout zde",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Poslat zprávu",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Co můžete ve Vídni vidět a navštívit",
+   "puvodne": "Co můžete ve Vídni vidět a navštívit.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.",
+   "puvodne": "Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Typický vídeňský fiakr",
+   "puvodne": "Typický videňský fiakr",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Zámek Belvedere",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Zámek Schönbrunn",
+   "puvodne": "zámek Schönbrunn",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Hotel Sacher",
+   "puvodne": "LEHCE NAJDETE LEGENDÁRNÍ HOTEL SACHER, kde si v kavárně můžete vychutnat zážitek a vůni pravé Vídeňské kávy a Sacher dortu.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Originál Sacher dort",
+   "puvodne": "Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "A to není zdaleka vše",
+   "puvodne": "A to není zdaleka vše.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Bonus = dárek pro každého klienta",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Pro každého klienta, který si objedná jakoukoliv formu služby cestovní podpory, je připraven bonus navíc, který vám ušetří další náklady. Se službou cestovní podpory ušetříte nejen peníze, ale i čas a nervy.",
+   "puvodne": "Pro každého klienta, který si objedná jakoukoliv formu služby CESTOVNÍ PODPORY je připraven BONUS navíc, který vám ušetří další náklady. Se službou cestovní podpory ušetříte nejen peníze, ale i čas a své nervy.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Bonus má podobu slevy na jednu akci během pobytu. Vybrat si můžete z deseti zajímavých atrakcí pro děti i dospělé, návštěv typických restaurací nebo vstupů na zajímavá turistická místa v metropoli Rakouska.",
+   "puvodne": "BONUS = DÁREK v podobě slevy na jednu akci během pobytu. Vybrat si můžete z deseti zajímavých atrakcí pro děti i dospělé, návštěv typických restaurací nebo vstupů na zajímavá turistická místa v metropoli Rakouska.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Seznam bonusů",
+   "puvodne": "Seznam bonusů ZDE",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Pro firmy, školy a spolky",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Nabídku připravím i pro skupiny",
+   "puvodne": "Nabídku mohu připravit i pro skupiny a větší počty osob.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Na základě služby cestovní podpory mohu stejně nebo podobně připravit výlety a pobyty ve Vídni a okolí i pro vaši organizaci. Některé věci budete mít zajištěné a nemusíte se o ně starat, něco si zařídíte sami.",
+   "puvodne": "Na základě nabídky služby CESTOVNÍ PODPORY mohu stejně nebo podobně připravit výlety a pobyty ve Vídni a v okolí Vídně i pro vás. V takovém případě budete mít některé věci zajištěné a nemusíte se o ně starat, něco si budete zařizovat sami.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Dopravu do Vídně a zpět a rezervaci ubytování je nutné provést samostatně – dostanete tipy na vlakovou a autobusovou dopravu a na různé typy ubytování podle vašeho zadání. Organizační pomoc na místě po příjezdu v rozsahu objednávky je zajištěna.",
+   "puvodne": "Doprava do Vídně a zpět a rezervaci ubytování je nutné si provést samostatně. Dostanete typ na vlakovou a autobusovou dopravu různých dopravců a na různé typy ubytování dle vašeho zadání a je na vás, co si vyberete. Organizační pomoc na místě ve Vídni a okolí po příjezdu v rozsahu dle objednávky je zajištěna.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Další služby, jako doprovod na celodenní výlety v okolí Vídně (zámek, lázeňské město…) nebo rezervace vstupenek, jsou na domluvě. Program je možné jakkoliv upravovat. Cena se odvíjí od rozsahu služeb, počtu hodin a počtu účastníků.",
+   "puvodne": "Další služby jako doprovod na celodenní fakultativní výlety v okolí Vídně (zámek, lázeňské město…), rezervace vstupenek a doprovod je na domluvě dle potvrzené objednávky. Program je možné jakkoliv upravovat.",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Chci nabídku pro skupinu",
+   "puvodne": "",
+   "jen_pismena": false
+  },
+  {
+   "nove": "Doprovázela jsem takto již",
+   "puvodne": "Doprovázela jsem takto již:",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Skupinu podnikatelek Ženy z Vysočiny.",
+   "puvodne": "> skupinu podnikatelek Ženy z Vysočiny.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "30 studentů Česko-německého gymnázia z Prahy.",
+   "puvodne": "> 30 studentů Česko-německého gymnázia z Prahy.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Spolek 50 seniorů z Poděbrad.",
+   "puvodne": "> Spolek 50 seniorů z Poděbrad.",
+   "jen_pismena": true
+  },
+  {
+   "nove": "Firmu z Moravy v čele s jejím majitelem a ředitelem.",
+   "puvodne": "> Firmu z Moravy v čele s jejím majitelem a ředitelem.",
+   "jen_pismena": true
+  }
+ ],
+ "vypustene": [
+  "Vídeň vlastním tempem s pocitem podpory za zády - to je e-Průvodce do kapsy.",
+  "Služba může zahrnovat i moji osobní přítomnost a vyzvednutí na nádraží po příjezdu a pomoc s prvotní orientací ve městě v rozsahu dle domluvy a objednávky.",
+  "Dnes už si užívám života ve Vídni a ráda pomůžu i vám poznat Vídeň jinak.",
+  "Máte-li jakýkoliv dotaz k možné spolupráci, kontaktujte mě.",
+  "Pošlete mi zprávu a kontakt na vás.",
+  "Objednejte si službu dle vašeho výběru.",
+  "Hodila by se vám tato pomoci i pro vaši organizaci?",
+  "Cena se odvíjí od rozsahu služeb, počtu hodin mé služby a počtu účastníků. Pro individuální nabídku mě kontaktujte",
+  "Ráda vyslechnu vaše přání a vytvořím vám nabídku na míru.",
+  "Pošlete mi váš kontakt a nebo mi napište vaši představu",
+  "na e-mail: blanka@sblankouzahranice.eu"
+ ]
+}
