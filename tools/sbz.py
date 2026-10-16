@@ -61,7 +61,9 @@ def load(*snapshot_names, prefix):
 
 
 def img(path):
-    return {"id": images[path], "url": UP + path, "size": "", "alt": "", "source": "library"}
+    # snapshoty jsou z doby před převodem PNG → JPG (bod 3), ID přílohy zůstalo stejné
+    id_ = images.get(path) or images.get(path.rsplit(".", 1)[0] + ".png")
+    return {"id": id_, "url": UP + path, "size": "", "alt": "", "source": "library"}
 
 
 def clean_html(s):
@@ -209,11 +211,13 @@ def hl(before, mark, after=""):
 #   "broskev" – závoj ve světlé doplňkové barvě, zelený text
 #   "oliva"   – světle olivový závoj (jako lišta cookies / dnešní web), zelený text
 #   "karta"   – fotka bez závoje, text v krémové kartě uprostřed
-UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.42), "broskev": ("sbz_svetla", 0.70),
+#   "panel"   – světlý krémový závoj (jako „krem“) + text v tmavě zeleném poloprůhledném panelu, bílé písmo (Blanka 16. 10.:
+#               fotka a závoj OK, ale hlavní sdělení musí být kontrastní a větší; sekce nízká, aby byl bez posouvání vidět i další text)
+UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.42), "panel": ("sbz_krem", 0.42), "broskev": ("sbz_svetla", 0.70),
               "oliva": ("#E6EBC0", 0.74)}
 
 
-def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="krem", vyska=560):
+def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="panel", vyska=560):
     """tlacitka = [(text, url), ...] – první je hlavní, druhé obrysové."""
     if styl == "pulka":
         # Fotka jako obrázek (ne pozadí): neořízne se, nezvětšuje se nad svou velikost, a proto zůstane ostrá.
@@ -245,6 +249,12 @@ def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="krem", vyska=5
             extra["background_overlay_color"] = barva
         else:
             extra["__globals__"] = {"background_overlay_color": g("colors", barva)}
+    if styl == "panel":
+        # bez pevné výšky: sekce je jen tak vysoká, jak potřebuje panel s textem
+        for k in ("height", "custom_height", "custom_height_mobile"):
+            extra.pop(k)
+        return section([column(w, align="center", css="sbz-uvod-panel")], pad=32, pad_m=14, width=860,
+                       extra=extra, valign="middle")
     col = column(w, align="center", css="sbz-uvod-karta" if styl == "karta" else "")
     return section([col], pad=120 if styl != "karta" else 96, pad_m=72 if styl != "karta" else 40,
                    width=1140 if styl != "karta" else 800, extra=extra, valign="middle")

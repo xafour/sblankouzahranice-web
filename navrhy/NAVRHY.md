@@ -9,18 +9,20 @@
 | Bod | Stav na sandboxu | Co je potřeba od Blanky |
 |---|---|---|
 | 1 Fotky ve WebP | ✅ hotovo, nové fotky se převádějí samy při nahrání | nic |
-| 2 Rychlost / Google Language Translator | čeká na rozhodnutí o němčině (bod 6) | rozhodnout |
+| 2 Rychlost / Google Language Translator | ✅ vypnut (16. 10.), položka „Language“ odebrána z menu (záloha v option `sbz_glt_menu_zaloha`) | nic |
 | 3 PNG → JPG | ✅ 269 obrázků převedeno (originály ~85 % menší) | nic |
 | 4 H1 nadpisy | ✅ 44 stránek | nic |
 | 4 odkazy www/http a test.subdoména | ✅ opraveno (8 stránek a šablon) | nic |
 | 4 Ochrana osobních údajů | ✅ adresa `/ochrana-osobnich-udaju/`, stará přesměrovaná, skrytá z Googlu | nic |
-| 4 titulky, popisy, alt texty | ✅ podle Blančina dokumentu (16. 10.): 9 titulků, 14 popisů, 57 fotek, 7 stránek skrytých; data v `tools/seo/schvaleno.json` | ověřit popisek fotky media-ORF; Mustr stránky nesmazán |
-| 4 titulek úvodní stránky | – | napíše Blanka (bez slova „průvodkyně“) |
+| 4 titulky, popisy, alt texty | ✅ podle Blančina dokumentu (16. 10.): 9 titulků, 14 popisů, 57 fotek, 7 stránek skrytých, Mustr v koši; data v `tools/seo/schvaleno.json` | nic |
+| 4 titulek úvodní stránky | ✅ „Vídeň a Rakousko: cestovní podpora \| s Blankou za hranice“ + popis (Blanka 16. 10.) | nic |
 | 5 Cache | ✅ | nic |
-| 6 Němčina | ukázka: https://sandbox.xafour.eu/de/den-ve-vidni-novy-design/, popis v [NEMCINA.md](NEMCINA.md) | podívat se a rozhodnout |
+| 6 Němčina | ✅ ano, jen prodejní stránky (TranslatePress). Služba = „Reisebetreuung“, produkt = „Online-Reiseführer für die Hosentasche“. Ukázka https://sandbox.xafour.eu/de/den-ve-vidni-novy-design/ | seznam stránek k překladu; pak přepínač CZ \| DE v menu |
 | 7 Instagram | ✅ rozbitý kód v bočním panelu nahrazen odkazem na Instagram, plugin vypnutý | nic |
-| 8 Hlavička a patička | po výběru palety, bez Elementor Pro | vybrat paletu |
+| 8 Hlavička a patička | paleta 1 Louka a broskev (Blanka 16. 10.), další krok: nová hlavička a patička bez Elementor Pro | nic |
 | 9 Formuláře bez Elementor Pro | odloženo do roku 2027 | nic |
+| Vzhled (Blanka 16. 10.) | ✅ úvod nižší (~450 px jako původní web), text v tmavě zeleném panelu s bílým písmem a většími větami, nadtitulky 14 → 18 px | podívat se |
+| Texty Den ve Vídni + Vídeň podpora | dokument [TEXTY-ke-schvaleni.docx](TEXTY-ke-schvaleni.docx) | vyplnit |
 
 U každého bodu je napsané, **co to přinese**, **kolik to dá práce** a jestli je to **už vyzkoušené na sandboxu**.
 Stačí Claudovi napsat třeba *„bod 2 ano, bod 5 ne“*.

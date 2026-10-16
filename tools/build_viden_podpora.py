@@ -16,7 +16,7 @@ import sbz  # noqa: E402
 load("post-19575.json", prefix="sbz-viden")
 testimonials = sbz.testimonials
 
-UVOD = os.environ.get("SBZ_UVOD", "krem")  # styl úvodní fotky, viz sbz.hero
+UVOD = os.environ.get("SBZ_UVOD", "panel")  # styl úvodní fotky, viz sbz.hero
 
 # ---------- stránka ----------
 P = []
@@ -25,12 +25,13 @@ P = []
 P.append(hero("Individuální cestovní podpora ve Vídni", "Vídeň bez starostí, na míru a s podporou za zády",
               "<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>",
               [("Domluvit 15 minut zdarma", TELEFON), ("Objednat službu", OBJEDNAT_PODPORU)],
-              "2024/09/Zahlavi-individ.podpora2.png", UVOD, 560))
+              "2024/09/Zahlavi-individ.podpora2.jpg", UVOD, 560))
 
 # 2) Chystáte se do Vídně?
 P.append(section([column([
     heading("Chystáte se do Vídně?", "h2", align="center"),
-])], bg="sbz_krem", pad=72, pad_m=48, extra={"padding": {"unit": "px", "top": "72", "right": "24", "bottom": "16", "left": "24", "isLinked": False}}))
+])], bg="sbz_krem", pad=72, pad_m=48, extra={"padding": {"unit": "px", "top": "44", "right": "24", "bottom": "16", "left": "24", "isLinked": False},
+                                              "padding_mobile": {"unit": "px", "top": "32", "right": "16", "bottom": "12", "left": "16", "isLinked": False}}))
 P.append(section([
     column([icon_box("fas fa-hourglass-half", "Nemáte čas trávit hodiny hledáním, kam se podívat?")], 33.333),
     column([icon_box("fas fa-route", "Nevíte si rady s plánováním cesty?")], 33.333),

@@ -1,22 +1,119 @@
 {
-  "_poznamka": "Nové globální barvy a písma. Přidávají se do Elementor kitu VEDLE stávajících (stávající stránky se nemění). Prefix id 'sbz'. Od 15. 10.: dvě světlé barvy (světle olivová + doplňková světlá) na pozadí sekcí, dvě tmavé (tmavě zelená + doplňková tmavá) jen na zvýraznění. Doplňkové barvy zde = paleta 1 „Louka a broskev“; palety 2 a 3 jsou v design/sbz.css jen pro zkušební stránky.",
-  "colors": [
-    {"_id": "sbz_zelena", "title": "Nový – Tmavě zelená (tlačítka, nadpisy)",        "color": "#145A38"},
-    {"_id": "sbz_oliva",  "title": "Nový – Doplňková tmavá (jen drobné zvýraznění)", "color": "#A8653F"},
-    {"_id": "sbz_louka",  "title": "Nový – Světle olivová (pozadí sekcí)",           "color": "#DEE5A3"},
-    {"_id": "sbz_svetla", "title": "Nový – Doplňková světlá (pozadí sekcí)",         "color": "#F5E1CF"},
-    {"_id": "sbz_krem",   "title": "Nový – Krémové pozadí",                          "color": "#FBF7F0"},
-    {"_id": "sbz_text",   "title": "Nový – Text",                                    "color": "#1F2A22"},
-    {"_id": "sbz_seda",   "title": "Nový – Šedá (popisky)",                          "color": "#6E655E"},
-    {"_id": "sbz_bila",   "title": "Nový – Bílá",                                    "color": "#FFFFFF"}
-  ],
-  "typography": [
-    {"_id": "sbz_h1", "title": "Nový – Nadpis 1", "family": "Lora", "weight": "600", "size": 44, "size_tablet": 38, "size_mobile": 30, "lh": 1.2},
-    {"_id": "sbz_h2", "title": "Nový – Nadpis 2", "family": "Lora", "weight": "600", "size": 32, "size_tablet": 28, "size_mobile": 24, "lh": 1.25},
-    {"_id": "sbz_h3", "title": "Nový – Nadpis 3", "family": "Lora", "weight": "600", "size": 22, "size_tablet": 21, "size_mobile": 20, "lh": 1.3},
-    {"_id": "sbz_text", "title": "Nový – Text", "family": "Source Sans 3", "weight": "400", "size": 18, "size_tablet": 18, "size_mobile": 17, "lh": 1.6},
-    {"_id": "sbz_maly", "title": "Nový – Drobný text", "family": "Source Sans 3", "weight": "400", "size": 15, "size_tablet": 15, "size_mobile": 15, "lh": 1.5},
-    {"_id": "sbz_tlacitko", "title": "Nový – Tlačítko / zvýraznění", "family": "Source Sans 3", "weight": "600", "size": 17, "size_tablet": 17, "size_mobile": 16, "lh": 1.3},
-    {"_id": "sbz_nadtitulek", "title": "Nový – Nadtitulek", "family": "Source Sans 3", "weight": "600", "size": 14, "size_tablet": 14, "size_mobile": 13, "lh": 1.4, "transform": "uppercase", "letter_spacing": 1.5}
-  ]
+ "_poznamka": "Nové globální barvy a písma. Přidávají se do Elementor kitu VEDLE stávajících (stávající stránky se nemění). Prefix id 'sbz'. Od 15. 10.: dvě světlé barvy (světle olivová + doplňková světlá) na pozadí sekcí, dvě tmavé (tmavě zelená + doplňková tmavá) jen na zvýraznění. Doplňkové barvy zde = paleta 1 „Louka a broskev“; palety 2 a 3 jsou v design/sbz.css jen pro zkušební stránky. 16. 10.: nadtitulky větší (14 → 18 px) podle Blanky.",
+ "colors": [
+  {
+   "_id": "sbz_zelena",
+   "title": "Nový – Tmavě zelená (tlačítka, nadpisy)",
+   "color": "#145A38"
+  },
+  {
+   "_id": "sbz_oliva",
+   "title": "Nový – Doplňková tmavá (jen drobné zvýraznění)",
+   "color": "#A8653F"
+  },
+  {
+   "_id": "sbz_louka",
+   "title": "Nový – Světle olivová (pozadí sekcí)",
+   "color": "#DEE5A3"
+  },
+  {
+   "_id": "sbz_svetla",
+   "title": "Nový – Doplňková světlá (pozadí sekcí)",
+   "color": "#F5E1CF"
+  },
+  {
+   "_id": "sbz_krem",
+   "title": "Nový – Krémové pozadí",
+   "color": "#FBF7F0"
+  },
+  {
+   "_id": "sbz_text",
+   "title": "Nový – Text",
+   "color": "#1F2A22"
+  },
+  {
+   "_id": "sbz_seda",
+   "title": "Nový – Šedá (popisky)",
+   "color": "#6E655E"
+  },
+  {
+   "_id": "sbz_bila",
+   "title": "Nový – Bílá",
+   "color": "#FFFFFF"
+  }
+ ],
+ "typography": [
+  {
+   "_id": "sbz_h1",
+   "title": "Nový – Nadpis 1",
+   "family": "Lora",
+   "weight": "600",
+   "size": 44,
+   "size_tablet": 38,
+   "size_mobile": 30,
+   "lh": 1.2
+  },
+  {
+   "_id": "sbz_h2",
+   "title": "Nový – Nadpis 2",
+   "family": "Lora",
+   "weight": "600",
+   "size": 32,
+   "size_tablet": 28,
+   "size_mobile": 24,
+   "lh": 1.25
+  },
+  {
+   "_id": "sbz_h3",
+   "title": "Nový – Nadpis 3",
+   "family": "Lora",
+   "weight": "600",
+   "size": 22,
+   "size_tablet": 21,
+   "size_mobile": 20,
+   "lh": 1.3
+  },
+  {
+   "_id": "sbz_text",
+   "title": "Nový – Text",
+   "family": "Source Sans 3",
+   "weight": "400",
+   "size": 18,
+   "size_tablet": 18,
+   "size_mobile": 17,
+   "lh": 1.6
+  },
+  {
+   "_id": "sbz_maly",
+   "title": "Nový – Drobný text",
+   "family": "Source Sans 3",
+   "weight": "400",
+   "size": 15,
+   "size_tablet": 15,
+   "size_mobile": 15,
+   "lh": 1.5
+  },
+  {
+   "_id": "sbz_tlacitko",
+   "title": "Nový – Tlačítko / zvýraznění",
+   "family": "Source Sans 3",
+   "weight": "600",
+   "size": 17,
+   "size_tablet": 17,
+   "size_mobile": 16,
+   "lh": 1.3
+  },
+  {
+   "_id": "sbz_nadtitulek",
+   "title": "Nový – Nadtitulek",
+   "family": "Source Sans 3",
+   "weight": "700",
+   "size": 18,
+   "size_tablet": 18,
+   "size_mobile": 16,
+   "lh": 1.4,
+   "transform": "uppercase",
+   "letter_spacing": 1.2
+  }
+ ]
 }
