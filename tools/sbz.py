@@ -211,13 +211,14 @@ def hl(before, mark, after=""):
 #   "broskev" – závoj ve světlé doplňkové barvě, zelený text
 #   "oliva"   – světle olivový závoj (jako lišta cookies / dnešní web), zelený text
 #   "karta"   – fotka bez závoje, text v krémové kartě uprostřed
-#   "panel"   – světlý krémový závoj (jako „krem“) + text v tmavě zeleném poloprůhledném panelu, bílé písmo (Blanka 16. 10.:
-#               fotka a závoj OK, ale hlavní sdělení musí být kontrastní a větší; sekce nízká, aby byl bez posouvání vidět i další text)
+#   "panel"   – světlý závoj + text v tmavě zeleném panelu (16. 10., Blanka NECHCE: panel zakrývá fotku)
+# Styl „krem“ (výchozí, Blanka 16. 10.): sekce nízká (bez pevné výšky), aby byl bez posouvání vidět i další text;
+#   nadtitulek a popis (hlavní sdělení) jsou větší a podbarvené tmavě zeleně přímo pod písmem (třída sbz-uvod-zvyraz), nadpis beze změny.
 UVOD_ZAVOJ = {"zelena": ("sbz_zelena", 0.62), "krem": ("sbz_krem", 0.42), "panel": ("sbz_krem", 0.42), "broskev": ("sbz_svetla", 0.70),
               "oliva": ("#E6EBC0", 0.74)}
 
 
-def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="panel", vyska=560):
+def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="krem", vyska=560):
     """tlacitka = [(text, url), ...] – první je hlavní, druhé obrysové."""
     if styl == "pulka":
         # Fotka jako obrázek (ne pozadí): neořízne se, nezvětšuje se nad svou velikost, a proto zůstane ostrá.
@@ -249,6 +250,12 @@ def hero(nadtitulek, nadpis, popis_html, tlacitka, obrazek, styl="panel", vyska=
             extra["background_overlay_color"] = barva
         else:
             extra["__globals__"] = {"background_overlay_color": g("colors", barva)}
+    if styl == "krem":
+        for k in ("height", "custom_height", "custom_height_mobile"):
+            extra.pop(k)
+        w[0]["settings"]["_css_classes"] = "sbz-uvod-zvyraz"
+        w[2]["settings"]["_css_classes"] += " sbz-uvod-zvyraz"
+        return section([column(w, align="center")], pad=56, pad_m=32, width=1000, extra=extra, valign="middle")
     if styl == "panel":
         # bez pevné výšky: sekce je jen tak vysoká, jak potřebuje panel s textem
         for k in ("height", "custom_height", "custom_height_mobile"):

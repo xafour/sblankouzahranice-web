@@ -37,7 +37,7 @@ P = []
 P.append(hero("On-line průvodce do kapsy", "Den ve Vídni – váš průvodce do kapsy",
               "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
               [("Koupit průvodce", KOUPIT), ("Co průvodce obsahuje", "#obsah")],
-              "2026/02/Zahlavi-new.jpg", os.environ.get("SBZ_UVOD", "panel"), 540))
+              "2026/02/Zahlavi-new.jpg", os.environ.get("SBZ_UVOD", "krem"), 540))
 
 # 2) Co to je
 P.append(section([

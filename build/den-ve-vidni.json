@@ -7,23 +7,23 @@
    "layout": "boxed",
    "content_width": {
     "unit": "px",
-    "size": 860,
+    "size": 1000,
     "sizes": []
    },
    "gap": "extended",
    "padding": {
     "unit": "px",
-    "top": "32",
+    "top": "56",
     "right": "24",
-    "bottom": "32",
+    "bottom": "56",
     "left": "24",
     "isLinked": false
    },
    "padding_mobile": {
     "unit": "px",
-    "top": "14",
+    "top": "32",
     "right": "16",
-    "bottom": "14",
+    "bottom": "32",
     "left": "16",
     "isLinked": false
    },
@@ -42,7 +42,7 @@
    "background_position": "center center",
    "background_size": "cover",
    "background_repeat": "no-repeat",
-   "css_classes": "sbz-uvod sbz-uvod-panel",
+   "css_classes": "sbz-uvod sbz-uvod-krem",
    "background_overlay_background": "classic",
    "background_overlay_opacity": {
     "unit": "px",
@@ -58,7 +58,7 @@
     "settings": {
      "_column_size": 100,
      "_inline_size": null,
-     "css_classes": "sbz-uvod-panel",
+     "css_classes": "",
      "align": "center"
     },
     "elements": [
@@ -71,7 +71,7 @@
        "title": "On-line průvodce do kapsy",
        "header_size": "p",
        "align": "center",
-       "_css_classes": "",
+       "_css_classes": "sbz-uvod-zvyraz",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_nadtitulek",
         "title_color": "globals/colors?id=sbz_oliva"
@@ -102,7 +102,7 @@
       "settings": {
        "editor": "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>",
        "align": "center",
-       "_css_classes": "sbz-text",
+       "_css_classes": "sbz-text sbz-uvod-zvyraz",
        "__globals__": {
         "typography_typography": "globals/typography?id=sbz_text",
         "text_color": "globals/colors?id=sbz_text"
