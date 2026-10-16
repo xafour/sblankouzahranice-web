@@ -7,23 +7,23 @@
    "layout": "boxed",
    "content_width": {
     "unit": "px",
-    "size": 1140,
+    "size": 860,
     "sizes": []
    },
    "gap": "extended",
    "padding": {
     "unit": "px",
-    "top": "120",
+    "top": "32",
     "right": "24",
-    "bottom": "120",
+    "bottom": "32",
     "left": "24",
     "isLinked": false
    },
    "padding_mobile": {
     "unit": "px",
-    "top": "72",
+    "top": "14",
     "right": "16",
-    "bottom": "72",
+    "bottom": "14",
     "left": "16",
     "isLinked": false
    },
@@ -32,20 +32,9 @@
    },
    "background_background": "classic",
    "content_position": "middle",
-   "height": "min-height",
-   "custom_height": {
-    "unit": "px",
-    "size": 560,
-    "sizes": []
-   },
-   "custom_height_mobile": {
-    "unit": "px",
-    "size": 480,
-    "sizes": []
-   },
    "background_image": {
     "id": 21914,
-    "url": "https://sandbox.xafour.eu/wp-content/uploads/2024/09/Zahlavi-individ.podpora2.png",
+    "url": "https://sandbox.xafour.eu/wp-content/uploads/2024/09/Zahlavi-individ.podpora2.jpg",
     "size": "",
     "alt": "",
     "source": "library"
@@ -53,7 +42,7 @@
    "background_position": "center center",
    "background_size": "cover",
    "background_repeat": "no-repeat",
-   "css_classes": "sbz-uvod sbz-uvod-krem",
+   "css_classes": "sbz-uvod sbz-uvod-panel",
    "background_overlay_background": "classic",
    "background_overlay_opacity": {
     "unit": "px",
@@ -69,7 +58,7 @@
     "settings": {
      "_column_size": 100,
      "_inline_size": null,
-     "css_classes": "",
+     "css_classes": "sbz-uvod-panel",
      "align": "center"
     },
     "elements": [
@@ -258,7 +247,7 @@
    "gap": "extended",
    "padding": {
     "unit": "px",
-    "top": "72",
+    "top": "44",
     "right": "24",
     "bottom": "16",
     "left": "24",
@@ -266,9 +255,9 @@
    },
    "padding_mobile": {
     "unit": "px",
-    "top": "48",
+    "top": "32",
     "right": "16",
-    "bottom": "48",
+    "bottom": "12",
     "left": "16",
     "isLinked": false
    },
