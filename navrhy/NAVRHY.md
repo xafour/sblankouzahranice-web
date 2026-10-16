@@ -14,7 +14,7 @@
 | 4 H1 nadpisy | ✅ 44 stránek | nic |
 | 4 odkazy www/http a test.subdoména | ✅ opraveno (8 stránek a šablon) | nic |
 | 4 Ochrana osobních údajů | ✅ adresa `/ochrana-osobnich-udaju/`, stará přesměrovaná, skrytá z Googlu | nic |
-| 4 titulky, popisy, alt texty | návrhy v [SEO-NAVRHY.md](SEO-NAVRHY.md) | schválit / upravit |
+| 4 titulky, popisy, alt texty | ✅ podle Blančina dokumentu (16. 10.): 9 titulků, 14 popisů, 57 fotek, 7 stránek skrytých; data v `tools/seo/schvaleno.json` | ověřit popisek fotky media-ORF; Mustr stránky nesmazán |
 | 4 titulek úvodní stránky | – | napíše Blanka (bez slova „průvodkyně“) |
 | 5 Cache | ✅ | nic |
 | 6 Němčina | ukázka: https://sandbox.xafour.eu/de/den-ve-vidni-novy-design/, popis v [NEMCINA.md](NEMCINA.md) | podívat se a rozhodnout |
