@@ -25,7 +25,7 @@ P = []
 P.append(hero("Individuální cestovní podpora ve Vídni", "Vídeň bez starostí, na míru a s podporou za zády",
               "<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>",
               [("Domluvit 15 minut zdarma", TELEFON), ("Objednat službu", OBJEDNAT_PODPORU)],
-              "2024/09/Zahlavi-individ.podpora2.jpg", UVOD, 560))
+              "2026/10/zahlavi-cestovni-podpora-2026.jpg", UVOD, 560))
 
 # 2) Chystáte se do Vídně?
 P.append(section([column([

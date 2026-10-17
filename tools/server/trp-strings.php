@@ -15,7 +15,7 @@ add_action( 'wp_loaded', function () {
 	$f = WP_CONTENT_DIR . '/claude-trp.json'; $map = json_decode( (string) file_get_contents( $f ), true ); @unlink( $f );
 	$n = 0; $miss = array();
 	foreach ( (array) $map as $orig => $tr ) {
-		$id = $wpdb->get_var( $wpdb->prepare( "SELECT id FROM $t WHERE original = %s", $orig ) );
+		$id = $wpdb->get_var( $wpdb->prepare( "SELECT id FROM $t WHERE BINARY original = %s", $orig ) );
 		if ( ! $id ) {
 			// řetězce, které TranslatePress sám nezaregistruje (titulek, meta popisy, alt obrázků) – vložit rovnou
 			if ( ! empty( $_GET['add'] ) ) { $n += (int) $wpdb->insert( $t, array( 'original' => $orig, 'translated' => $tr, 'status' => 2, 'block_type' => 0 ) ); continue; }

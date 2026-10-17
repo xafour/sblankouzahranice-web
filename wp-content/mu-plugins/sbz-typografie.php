@@ -5,7 +5,7 @@
  *              Stejně se drží pohromadě číslo + jednotka (6 km, 40 €) a pomlčka nezačne nový řádek. Nadpisy mají vyrovnané řádky,
  *              odstavce nekončí jedním osamoceným slovem (CSS text-wrap). Platí pro celý web a všechny šířky obrazovky.
  *              Upravuje jen text mezi značkami HTML, ne skripty, styly, atributy ani formuláře. Vrácení: smazat tento soubor.
- * Version: 1.1 – i krátké předložky a spojky (do, nad, pod, že…); skripty se odkládají celé (Blanka 16. 10. 2026)
+ * Version: 1.2 – jen české stránky (na /de/ by pevné mezery vadily překladům TranslatePressu); 1.1 – i krátké předložky a spojky
  */
 
 defined( 'ABSPATH' ) || exit;
@@ -45,6 +45,8 @@ function sbz_typo_html( $html ) {
 add_action( 'template_redirect', function () {
 	if ( is_admin() || wp_doing_ajax() || is_feed() || ( defined( 'REST_REQUEST' ) && REST_REQUEST ) ) return;
 	if ( isset( $_GET['elementor-preview'] ) || isset( $_GET['sbz-bez-typo'] ) ) return;
+	global $TRP_LANGUAGE;
+	if ( ! empty( $TRP_LANGUAGE ) && $TRP_LANGUAGE !== 'cs_CZ' ) return; // česká pravidla jen pro češtinu
 	ob_start( 'sbz_typo_html' );
 }, 2 );
 

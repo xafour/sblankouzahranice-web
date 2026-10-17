@@ -29,7 +29,15 @@ def g(kind, id_):
 
 
 # ---------- obsah z původní stránky ----------
-images = {}
+# fotky nahrané až po snapshotech (velké úvodní fotky od Blanky, 17. 10. 2026)
+NOVE_FOTKY = {
+    "2026/10/zahlavi-bonusy-2026.jpg": 25153,
+    "2026/10/zahlavi-cestovni-podpora-2026.jpg": 25154,
+    "2026/10/zahlavi-den-ve-vidni-2026.jpg": 25155,
+    "2026/10/zahlavi-produkty-ke-stazeni-2026.jpg": 25156,
+    "2026/10/zahlavi-vidni-pesky-i-na-kole-2026.jpg": 25157,
+}
+images = dict(NOVE_FOTKY)
 testimonials = []
 
 
