@@ -6,7 +6,7 @@ Popis pro Google: s Blankou za hranice, přírodou k sobě. Workshopy, živé ak
 
 ## Workshopy a akce.
 
-[obrázek: Workshopy-a-akce.png]
+[obrázek: Workshopy-a-akce.jpg]
 
 ## Workshopy a pobyty pro relaxaci, poznávání přírody i sebe.
 

@@ -6,7 +6,7 @@ Popis pro Google: Objevte život v Rakousku i zajímavosti Vídně očima Češk
 
 ## Vydejte se s Blankou za hranice vlasti a denní rutiny.
 
-[obrázek: Blog-uprav.png]
+[obrázek: Blog-uprav.jpg]
 
 ## Články jsou inspirované životem v Rakousku a pobytem v přírodě.
 

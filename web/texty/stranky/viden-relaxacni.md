@@ -2,6 +2,8 @@
 
 Adresa: https://sblankouzahranice.eu/viden-relaxacni/
 
+Popis pro Google: Nabídka na třídenní relaxační pobyt ve Vídni.
+
 ## Poznávací a relaxační pobyt ve Vídni v malé skupince stejně naladěných lidí.
 
 ## Necestuj sám(a), přidej se k malé skupince cestovatelů.

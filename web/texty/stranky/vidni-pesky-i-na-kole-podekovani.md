@@ -4,7 +4,7 @@ Adresa: https://sblankouzahranice.eu/vidni-pesky-i-na-kole-podekovani/
 
 Popis pro Google: Vídní pěšky i na kole PŘÍRUČKA ZDARMA ke stažení na www.sblankouzahranice.eu. 3+3 tipy, jak si usnadnit poznávání Vídně pěšky i na kole.
 
-[obrázek: Vidni-pesky-i-na-kole-1-ZAHLAVI-krak.png]
+[obrázek: Vidni-pesky-i-na-kole-1-ZAHLAVI-krak.jpg]
 
 ## Děkuji vám za váš zájem o PRAKTICKOU PŘÍRUČKU - VÍDNÍ PĚŠKY I NA KOLE
 

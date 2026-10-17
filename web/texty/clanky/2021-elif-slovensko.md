@@ -21,7 +21,7 @@ Keď som prišla na Slovensko, mala som 24 rokov. Vždy som chcela cestovať po 
 - Co tě přivedlo za hranice- do nové země? Jaký byl důvod?
 To, čo ma sem priviedlo bol príbeh lásky. Prišla som za svojim priateľom, aby som bola s ním.
 
-[obrázek: ilustr.foto_.png]
+[obrázek: ilustr.foto_.jpg]
 
 - Měla jsi v nové zemi zázemí rodiny (rodiče, manžel, přítel…) nebo ses za hranice vlasti vydala sama?
 Ako som už spomenula, môj priateľ žil na Slovensku, on je Slovák. Takže som poznala iba jeho a ešte pár priateľov, s ktorými som sa zoznámila na Cypre.

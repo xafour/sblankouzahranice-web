@@ -6,7 +6,7 @@ Popis pro Google: Za hranice do Rakouska, na výlety, do přírody a mnohem víc
 
 ## Produkty ke stažení.
 
-[obrázek: Ke-stazeni-new2.png]
+[obrázek: Ke-stazeni-new2.jpg]
 
 e-Průvodci, Miniprůvodci, Příručky, Checklist, Tahák a další on-line produkty pro vás.
 
@@ -161,7 +161,7 @@ Faster
 
 ## Je tu něco, co vám s výukou pomůže. Včetně tří video ukázek.
 
-[obrázek: Kadence-str.-produkty.png]
+[obrázek: Kadence-str.-produkty.jpg]
 
 Nebaví vás biflování a nudné šprtání gramatiky?
 
@@ -188,7 +188,7 @@ Faster
 ## Je tu CHECKLIST
 spolu s praktickou přílohou-seznam věcí.
 
-[obrázek: 5-kadence-str.-ke-stazeni.png]
+[obrázek: 5-kadence-str.-ke-stazeni.jpg]
 
 Přemýšlíte před výletem co vzít a nemít těžký batoh.
 

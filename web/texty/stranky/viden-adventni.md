@@ -2,11 +2,13 @@
 
 Adresa: https://sblankouzahranice.eu/viden-adventni/
 
+Popis pro Google: Třídenní pobytové, poznávací a tématické výlety do Vídně v návaznosti na roční období.
+
 ## Třídenní poznávací pobyt ve Vídni v malé skupince stejně naladěných lidí.
 
 ## Necestuj sám(a), přidej se k malé skupince cestovatelů.
 
-[obrázek: VOUCHER-small.png]
+[obrázek: VOUCHER-small.jpg]
 
 ## 3 dny ve Vídni s prohlídkou historického centra města a tradičních vánočních trhů.
 

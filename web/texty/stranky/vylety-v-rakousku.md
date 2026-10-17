@@ -88,7 +88,7 @@ Současně je to oblast nejblíže Vídni, Brnu i Bratislavě a to jí dává v�
 
 ## Oblast Oberösterreich - Horní Rakousko
 
-[obrázek: Vylety-web-rozcestnik-2.png]
+[obrázek: Vylety-web-rozcestnik-2.jpg]
 
 Oblast na severu Rakouska je jedna z nejoblíbenější oblastí nabízející zážitek pěší turistiky ve vysokých horách a současně i kolem jezer. Turistické trasy vedoucí zelenými stráněmi Alp astezkami kolem modrých jezer, to je spojení, které je možné vychutnávat všemi smysly a nikdy nebudete mít dost. Najdeme zde známá místa jako Dachstein nebo Hallstatt, ale i méně známé oblasti, které stojí za to navštívit.
 
@@ -121,7 +121,7 @@ Co takhle strávit noc na zámku, rozmazlovat se ve wellness nebo třeba ochutna
 
 ## Vinařství a gastronomie
 
-[obrázek: 18-vinarstvi-a-gastronomie.png]
+[obrázek: 18-vinarstvi-a-gastronomie.jpg]
 
 Hektary vinic, tisíciletá stará vinařská kultura i typický název Heuriger-to je Rakousko.
 Kulinářské poklady i tradiční nabídka pokrmů rakouské kuchyně, stejně tak jako udržitelný způsob pěstování regionálních potravin, to vše je součástí této kategorie, která vám polechtá chuťové pohárky.
@@ -196,7 +196,7 @@ Cyklo-výlety ve Vídni i v okolí Vídně. Místa, kde jsme uskutečnili pěš�
 
 ## Výlety za hranicí Rakouska
 
-[obrázek: 21-za-hranice-rakouska.png]
+[obrázek: 21-za-hranice-rakouska.jpg]
 
 Tipy na zajímavá místa za hranicí Rakouska. Výlety u sousedů v Česku, Maďarsku, Německu apod. Inspirativní nabídka k poznávání nových míst i mimo Rakousko.
 Mnohé sousední země v okolí Rakouska mají společné propojení ať už historické nebo současné regionální.

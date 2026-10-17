@@ -6,7 +6,7 @@ Popis pro Google: Využijte podpory voňavých esencí přírody. Propojte se zn
 
 ## Přírodou ke zdraví a harmonii.
 
-[obrázek: Prirodou-ke-zdravi-e1712664577275.png]
+[obrázek: Prirodou-ke-zdravi-e1712664577275.jpg]
 
 Využijte esence přírody pro podporu těla, mysli i duše.
 
@@ -81,11 +81,11 @@ Dárkový balíček obsahuje:
 Napište si o vaši jedinečnou směs esenciálních olejů a využijte přírodní podpory.
 Popište mi svoji potřebu nebo jen uveďte e-mail a do zprávy případně i telefon a já se vám ozvu pro bližší domluvu.
 
-[obrázek: 6a.png]
+[obrázek: 6a.jpg]
 
-[obrázek: 8a.png]
+[obrázek: 8a.jpg]
 
-[obrázek: 7a.png]
+[obrázek: 7a.jpg]
 
 ## Na tuto cestu mě přivedla "odbočka" z výletů v přírodě po Rakousku v podobě vážného úrazu nohy a následně osobní zkušenost s působením esenciálních olejů na fyzické i psychické potíže.
 
@@ -187,7 +187,7 @@ Faster
 
 [obrázek: esenc.oleje-S.jpg]
 
-[obrázek: Prawtein-1new-S.png]
+[obrázek: Prawtein-1new-S.jpg]
 
 [obrázek: Elixir-zivota.jpg]
 
@@ -210,4 +210,4 @@ Chytni svoji příležitost
 
 TUDY
 
-[obrázek: upoutavka1-S.png]
+[obrázek: upoutavka1-S.jpg]

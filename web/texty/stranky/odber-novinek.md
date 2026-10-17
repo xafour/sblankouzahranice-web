@@ -8,7 +8,7 @@ Byla by škoda, nevyužít všech informací.
 
 ## Možná ani nevíš, že můj projekt má dvě části a hromadu zajímavých možností.
 
-[obrázek: str.404-2.png]
+[obrázek: str.404-2.jpg]
 
 ## Tlačítko níže tě přenese na hlavní stranu webu, a tam se už proklikáš dál.
 

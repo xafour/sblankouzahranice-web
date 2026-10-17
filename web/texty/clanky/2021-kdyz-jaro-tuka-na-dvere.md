@@ -72,7 +72,7 @@ A jsem v tom vytrvalá a zároveň trpělivá, protože vím že výsledek se do
 
 A pokud mi o tom budete chtít dát vědět, můžete mi napsat, ráda vám odpovím.
 
-[obrázek: dekuji.png]
+[obrázek: dekuji.jpg]
 
 Oddělovač
 

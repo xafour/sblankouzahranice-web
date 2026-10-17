@@ -11,11 +11,11 @@ A pak si vyberte dle svého vkusu.
 
 ## Příroda nám v tuto dobu nabízí spousta barev i plodů, a tak je možné na výrobu věnců využít opravdu cokoliv – větvičky s barevnými plody, kaštany, barevné listí a další.
 
-[obrázek: foto-cerven.plody_.png]
+[obrázek: foto-cerven.plody_.jpg]
 
-[obrázek: foto-kastany.png]
+[obrázek: foto-kastany.jpg]
 
-[obrázek: foto-rakytnik-S.png]
+[obrázek: foto-rakytnik-S.jpg]
 
 Já budu tvořit z větviček keřů, ale na závěr vám dám pro inspiraci i fotku loňského podzimního věnce z kaštanů.
 

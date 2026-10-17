@@ -2,11 +2,11 @@
 
 Adresa: https://sblankouzahranice.eu/do-rakouska/
 
-Popis pro Google: Vydejte se za hranice do Rakouska, objevovat zemi sousedů. S Blankou za hranice pro skvělé tipy na výlety do přírody a poznávat Vídeň jinak.
+Popis pro Google: Cestovní podpora ve Vídni a okolí to jsou programy a itineráře na míru pro jednotlivce, skupiny, firmy, školy… Získejte jasnou trasu, jistotu a klid při objevování Vídně a okolí.
 
 ## Začněte teď hned objevovat zajímavosti Vídně a Rakouska.
 
-[obrázek: do-Rakouska-e1712643121730.png]
+[obrázek: do-Rakouska-e1712643121730.jpg]
 
 Jsem Češka žijící ve Vídni, která vám s tím ráda pomůže.
 

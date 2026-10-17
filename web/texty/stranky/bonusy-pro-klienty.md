@@ -4,7 +4,7 @@ Adresa: https://sblankouzahranice.eu/bonusy-pro-klienty/
 
 Popis pro Google: Bonusy, výhody a slevy pro mé klienty. Získejte slevy na různé akce jako např. atrakce pro děti, návštěvy typických restaurací, vyhlídkové věže a mnoha dalších nabídek.
 
-[obrázek: FOTO-NA-www.-STRANKU-VYHOD.png]
+[obrázek: FOTO-NA-www.-STRANKU-VYHOD.jpg]
 
 ## Všichni, kdo si u mne objednají jakoukoliv formu CESTOVNÍ PODPORY mají možnost si vybrat BONUS navíc.
 

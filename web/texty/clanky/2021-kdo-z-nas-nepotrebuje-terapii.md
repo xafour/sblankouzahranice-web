@@ -23,9 +23,9 @@ Já tedy rozhodně ano!
 A věřím, že ji potřebuje každý z nás. No a pro mě je práce na zahradě vždy spolehlivý způsob, jak se rychle přesunout "z hlavy do srdce". Z myšlení k tvoření.
 Protože, když zaměstnáme ruce, vypínáme hlavu. To je již i vědecky potvrzené.
 
-[obrázek: terapie-zahradou-hlina.png]
+[obrázek: terapie-zahradou-hlina.jpg]
 
-[obrázek: truhlik-terapie-zahradou1.png]
+[obrázek: truhlik-terapie-zahradou1.jpg]
 
 A práce na zahradě mě osobně skutečně poskytuje ohromnou terapii, a hlavně moudrost a zkušenost, kterou pak mohu promítnout do celého svého života.
 

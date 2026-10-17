@@ -2,11 +2,11 @@
 
 Adresa: https://sblankouzahranice.eu/prirodou-k-sobe/
 
-Popis pro Google: Přírodou k sobě jsou "Regenerační procházky do přírody" s využitím konceptu Lesní mysli, Lesní terapie a Tai-chi.
+Popis pro Google: Regenerační procházky do přírody s prvky Lesní mysli, lesní terapie, Tai-chi a Qi-gongu. Zastavte se, nadechněte se a načerpejte sílu z přírody.
 
 ## Přírodou k sobě - sebepéče a seberozvoj v přírodě.
 
-[obrázek: Prirodou-k-sobe-e1712606238722.png]
+[obrázek: Prirodou-k-sobe-e1712606238722.jpg]
 
 Regenerační procházky do přírody s použitím prvků Lesní mysli, Lesní terapie, Tai-Chi a Qi-Gong.
 
@@ -78,7 +78,7 @@ Kromě příjemné procházky, zpomalení a odpočinku v přírodě si navíc do
 - posílení odolnosti a imunity organizmu
 - návody a tipy, jak se občas zastavit a zpomalit
 
-[obrázek: upoutavka1-S.png]
+[obrázek: upoutavka1-S.jpg]
 
 > Proč na regenerační procházku
 
@@ -167,6 +167,6 @@ Více o LESNÍ MYSLI zde
 
 ## Máte zájem o soukromou vedenou procházku právě u vás (minimální počet je 10 osob), kontaktujte mě prostřednictvím formuláře, ozvu se vám a určitě najdeme řešení.
 
-[obrázek: Voucher-na-lesni-mysl.png]
+[obrázek: Voucher-na-lesni-mysl.jpg]
 
 ## Těším se s vámi na viděnou v přírodě.

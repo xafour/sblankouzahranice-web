@@ -2,11 +2,11 @@
 
 Adresa: https://sblankouzahranice.eu/reference/
 
-Popis pro Google: Reference zákazníků se službami projektu "s Blankou za hranice". Cestovní podpora ve Vídni, workshopy, akce a další.
+Popis pro Google: Co říkají klienti o cestovní podpoře ve Vídni, výletech po Rakousku, pobytech, workshopech a produktech ke stažení. Skutečné zkušenosti.
 
 ## Reference zákazníků .
 
-[obrázek: Home-1.png]
+[obrázek: Home-1.jpg]
 
 ## Co o mých službách a produktech říkají klienti.
 

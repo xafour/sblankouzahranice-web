@@ -2,7 +2,7 @@
 
 Adresa: https://sblankouzahranice.eu/fotogalerie/
 
-Popis pro Google: Fotogalerie projektu s Blankou za hranice. Výlety po Rakousku, přírodou zpět k sobě a výroba dekorací do bytu z přírodních materiálů.
+Popis pro Google: Obrazová ochutnávka nabídky projektu s Blankou za hranice.
 
 ## FOTOGALERIE
 

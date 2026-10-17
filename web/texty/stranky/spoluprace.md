@@ -6,7 +6,7 @@ Popis pro Google: Jsem otevřena vzájemně přínosné spolupráci s jednotlivc
 
 ## Vzájemně přínosná podpora a spolupráce dává smysl.
 
-[obrázek: Spoluprace1.png]
+[obrázek: Spoluprace1.jpg]
 
 Pojďme spolupracovat. Síly i výhody se násobí a přináší efekt oběma stranám.
 

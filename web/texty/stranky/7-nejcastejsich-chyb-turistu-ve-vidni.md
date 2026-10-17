@@ -30,7 +30,7 @@ Po přestěhování do Vídně, před pár lety, jsem sama prošla všemi začá
 Dnes, po několika letech života ve Vídni a desítkách provedených návštěvníků, přesně vím, co je třeba připomínat a na co je dobré se předem připravit.
 Zjistila jsem, že 90% problémů, které návštěvníky překvapí pramení ze 7 základních chyb nebo neznalostí, kterým se dá snadno vyhnout. Tyto praktické tipy nyní sdílím s vámi.
 
-[obrázek: Minipruvodce-Mockup-3.png]
+[obrázek: Minipruvodce-Mockup-3.jpg]
 
 ## Praktická příručka, která vás nenechá tápat.
 
@@ -88,7 +88,7 @@ Oddělovač
 
 Oddělovač
 
-[obrázek: Brozura-na-stolku-S.png]
+[obrázek: Brozura-na-stolku-S.jpg]
 
 Tak si stáhněte "7 chyb turistů ve Vídni".
 

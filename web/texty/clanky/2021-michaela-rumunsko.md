@@ -25,12 +25,12 @@ Nečekat a prostě do toho vkročit naplno, bylo mé rozhodnutí, které rozběh
 "Věřila jsem tomu muži a vydala se do neznáma. Z čtyřdenního výletu se stala dohoda o novém a společném začátku".
 Po této krátké návštěvě přelétla jiskra a my se do sebe ještě víc „zakoukali“. Přítel se pro mě vrátil v září 2014 do Čech a takto vznikl náš společný život v cizině.
 
-[obrázek: letiste-odletam-upr..png]
+[obrázek: letiste-odletam-upr..jpg]
 
 - Tím jsi nám již dopředu odpověděla na další otázku. Neměla jsi tedy za hranicemi nikoho ze své rodiny a dá se říci, že ses tedy do nové země vydala sama?
 Ano, vydala jsem se sama za přítelem. Moje rodina tehdy s Anglií nebo dokonce s Rumunskem neměla nic společného. Rodiče mě dovedli na letiště a tam jsme se rozloučili. Takto začal ten čtyřdenní výlet, ale na úplný odjezd z vlasti mi později přijel pomoct přítel.
 
-[obrázek: michaela-v-Anglii.png]
+[obrázek: michaela-v-Anglii.jpg]
 
 - Uměla jsi jazyk země, do které jsi se stěhovala?
 Vykročila jsem sice prvně za mužem z Rumunska do Anglie, žila jsem s ním ve sdíleném domě s lidmi, kteří pocházeli z Rumunska, tak jako můj přítel. Mluvili jsme však společně anglicky. Přesněji řečeno, snažila jsem se mluvit anglicky. Učila jsem se tento jazyk na škole a také jako samouk, ale uměla jsem pouze základy této řeči.
@@ -42,7 +42,7 @@ Brala jsem mou tehdejší práci v prodejně s oblečením s cílem: “šetří
 Mám to štěstí, že zároveň pracuji z domova. Z dob studia si držím práci na počítači. Umožňuje mi to mobilitu a něco málo stabilně vydělávat přes internet.
 Musela jsem však na výdělcích přidat! Začala jsem pracovat na webových stránkách pro klienty. Učila jsem se a později získala zakázky. Vše se začalo rozjíždět a já konečně viděla svůj směr, který funguje i v cizině.
 
-[obrázek: foto-003-fishmys-misakankova-na-plazi-cestovani.png]
+[obrázek: foto-003-fishmys-misakankova-na-plazi-cestovani.jpg]
 
 - Je tady jedno "ale..."
 Samozřejmě to nebylo bez boje a překážek. Život je plný zkoušek, správných nebo špatných rozhodnutí. Ani já se krokům "vedle" nevyhnula. Tento internetový svět na sebe později začal nabalovat negativní emoce a uzavřený způsob života.
@@ -68,18 +68,18 @@ Na zemi, která mi otevřela oči k lásce a objevování, chci se soustředit n
 
 ## Nejdříve se na Rumunsko pojďme podívat z pohledu toho prvotního vstupu.
 
-[obrázek: michaela-u-globusu-v-zime.png]
+[obrázek: michaela-u-globusu-v-zime.jpg]
 
 Rumuni jsou opravdu pyšní na svou zemi a její historickou hodnotu.
 Všude mají rumunské vlajky, ať se člověk podívá doprava nebo doleva, vždy někde bude rumunská vlajka. Je to skoro až takové vizuální hlásání, že:
 "tady jsi v Rumunsku".
 
-[obrázek: foto-004-vlajka-rumunska-vecerni-pohled-S.png]
+[obrázek: foto-004-vlajka-rumunska-vecerni-pohled-S.jpg]
 
 Řekla bych, že Rumunsko je dost podobné naší Moravě, co se týká tradic, vinařství apod. Je tam hodně farem a sýrů. Je opravdu z čeho vybírat.
 Kdykoliv tam jsme, tak tyto pochutiny nebo krásný nádech tradičních písní, pro nás vždy zajistí rodina nebo supermarket 😊.
 
-[obrázek: foto-005-rumunsko-kostel-a-priroda-S.png]
+[obrázek: foto-005-rumunsko-kostel-a-priroda-S.jpg]
 
 Co se týká přírody, tak je to úžasně rozlehlá země s obrovskými lesy a nedotčenou přírodou.
 "U nás v Česku" máme také krásnou přírodu, oproti Rumunsku je ale vše hodně u sebe, takové v menším měřítku a svým způsobem na dosah ruky.
@@ -94,13 +94,13 @@ Nebudu se vyjadřovat k politice, protože tu máme každá země stavěnu tak, 
 Ohledně víry mám ale pocit, že s vírou je to v Česku takové všelijaké. Každý věříme něčemu jinému a nebo podle vlastní chuti stylovějšímu, modernějšímu nebo líbivějšímu.
 I já jsem z této fáze těžko přecházela. Můj partner toto vnímal jako opravdu velmi důležité a já dlouho nechápala proč? Dokud jsem nezačala poznávat tu vlastní chuť naděje a víry, tak jak ji chápou v Rumunsku.
 
-[obrázek: michaela-krest-a-k-bohu.png]
+[obrázek: michaela-krest-a-k-bohu.jpg]
 
 V Rumunsku je víra k Bohu, skrze Ježíše, opravdu velmi historicky silná a často zobrazena uvnitř architektury kostelů.
 To však záleží na stáří budovy.
 V této zemi jsou z většiny pravoslavní věřící, a proto na každém rohu najdete kostel.
 
-[obrázek: kostel-Rumunsko-S.png]
+[obrázek: kostel-Rumunsko-S.jpg]
 
 - Míšo, něco jsi už naznačila, ale co bylo tedy nakonec tou hlavní příčinou vrácení se do vlasti-do ČR?
 Život v cizině nám házel mnoho klacků do cesty, a proto jsme se nakonec přesunuli do Čech. Bylo to popravdě z větší části mé rozhodnutí, nedokázala jsem v cizině fungovat a hodně se trápila. Už tak jsem se neuměla pořádně adaptovat a stěhování z místa na místo bylo u nás každoroční tradicí.
@@ -113,7 +113,7 @@ Tímto stěhováním zpět nám také vzniklo více časového prostoru pro cest
 Rumuni jsou opravdu velmi pohostinní a na stole je vždy plno jídla.
 Výborné je mleté maso obalené v listu zelí nebo listu vinné révy, jsou to „sarmale“. Občas si dáme „miči“ (mititei), to je podobné jídlo jako čevabčiči. A nesmím zapomenout na rumunskou „plačintu“. Plačinta je těsto ve tvaru kulaté placky, která je plněná sýrem, špenátem, zelím nebo něčím sladkým.
 
-[obrázek: foto-006-fishmys-misakankova-rumunske-jidlo-S-orig.png]
+[obrázek: foto-006-fishmys-misakankova-rumunske-jidlo-S-orig.jpg]
 
 Poté bych určitě doporučila lidem Rumunsko procestovat, určitě jsou tam velmi zajímavá místa.
 Jedním ze zajímavých míst v Rumunsku je solný důl Salina Turda, starý přes dva tisíce let.
@@ -122,7 +122,7 @@ Toto místo je obrovské a na odlehlém místě. Uvnitř je slaný vzduch, kter�
 
 [obrázek: priroda.jpg]
 
-[obrázek: foto-009-fishmys-misakankova-kostel-s.png]
+[obrázek: foto-009-fishmys-misakankova-kostel-s.jpg]
 
 Chtěla bych zároveň ukázat i místo, kam se my stále vracíme.
 Klášter Florești je velmi důležitým místem našeho rumunského zázemí v Kluži (Cluj-Napoca).

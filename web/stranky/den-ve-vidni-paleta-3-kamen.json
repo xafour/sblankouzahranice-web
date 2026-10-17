@@ -1,0 +1,3139 @@
+{
+ "ID": 25088,
+ "categories": [],
+ "date": "2026-10-15 12:57:55",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/den-ve-vidni-paleta-3-kamen/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "13ec164",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "p",
+         "title": "On-line průvodce do kapsy"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "03591d8",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h1"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h1",
+         "title": "Den ve Vídni – váš průvodce do kapsy"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e49b5d5",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b6c9f15",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-primary",
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Koupit průvodce",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9e961d6",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_louka",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-secondary",
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "#obsah"
+         },
+         "size": "md",
+         "text": "Co průvodce obsahuje",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "948a03e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "align": "center",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "096c916",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_overlay_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "background_image": {
+      "alt": "",
+      "id": 24575,
+      "size": "",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Zahlavi-new.jpg"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_opacity": {
+      "size": 0.42,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_repeat": "no-repeat",
+     "background_size": "cover",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "css_classes": "sbz-uvod sbz-uvod-krem",
+     "custom_height": {
+      "size": 540,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height_mobile": {
+      "size": 480,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "height": "min-height",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "120",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "120",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "72",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "72",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fe630d5",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "p",
+         "title": "Váš bod jistoty při objevování Vídně"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "82322b0",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59eca07",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p><strong>Stejná trasa, kterou chodím s klienty, je nyní ve formě on-line produktu k okamžitému využití.</strong></p><p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomáhám poznat Vídeň snadněji a lehčeji – abyste ji poznali, a ne jen proběhli.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "98d6bc4",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "On-line průvodce do kapsy obsahuje"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6fdd6fd",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "efb6a1c",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Itinerář trasy s popisem památek a turistických cílů."
+          },
+          {
+           "_id": "0e01c04",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Mapu ke stažení do mobilu pro snadnější orientaci."
+          },
+          {
+           "_id": "3122bb2",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Praktickou přílohu: přehled jízdenek a ticketů na městskou dopravu ve Vídni."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ad25214",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Vše komplet v jednom produktu. Vídeň objevujete pohodlně, vlastním tempem, ale tak, jako byste měli po celé trase můj osobní doprovod s výkladem.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "24b4ed8",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-primary",
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Chci odzkoušenou trasu Vídní",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "07df106",
+      "isInner": false,
+      "settings": {
+       "_column_size": 58,
+       "_inline_size": 58,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9ff6f16",
+        "settings": {
+         "_css_classes": "sbz-obrazek",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 24790,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "c80b241",
+      "isInner": false,
+      "settings": {
+       "_column_size": 42,
+       "_inline_size": 42,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "07d316a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "464c6cd",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Možná to znáte i vy"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "22ecb7d",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Sice přesně víte, co všechno byste ve Vídni chtěli vidět, ale nemáte už tak přesnou představu, jak daleko od sebe památky jsou a jakou zvolit trasu nebo dopravu mezi jednotlivými cíli, abyste zbytečně neztráceli čas a nebloudili městem.</p><p>Zkušenost mi ukazuje, že scénář představ o návštěvě Vídně je mnohdy hodně podobný. <strong>Teď je tu nástroj, který mnohé otázky a nejasnosti vyřeší.</strong></p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "a986f31",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "f2fddf2",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_svetla"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 820,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d7c1339",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Průvodce je pro vás, pokud"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "410844d",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "22fb552",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Chcete jasně danou trasu širším centrem města a vidět nejdůležitější památky a cíle <strong>bez stresu a časových ztrát</strong>."
+          },
+          {
+           "_id": "bb46725",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Nepotřebujete osobní doprovod</strong> nebo nemáme společný volný termín."
+          },
+          {
+           "_id": "614be37",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Chcete mít <strong>jistotu, že jdete „správně“</strong>."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "c7f109c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 58,
+       "_inline_size": 58,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a40cf88",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Tohle není „jen“ PDF"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8d1c838",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Je to zkušenost a prověřená praxe. Pro vás pak: pohodlí, jistota, úspora času, žádný chaos a bod opory v kapse.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "1fa36a8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 42,
+       "_inline_size": 42,
+       "content_position": "middle",
+       "css_classes": "sbz-karta"
+      }
+     }
+    ],
+    "id": "fea800f",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4862071",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Co průvodce přesně obsahuje"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "b345f70",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "b6541dc",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_svetla"
+     },
+     "_element_id": "obsah",
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "16",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2ddf2fa",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "44cef31",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů."
+          },
+          {
+           "_id": "c6aa642",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Podrobný itinerář trasy</strong> s popisem všech památek po cestě."
+          },
+          {
+           "_id": "26e81bc",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Souvislosti, informace z historie a zajímavosti</strong>, které se mnozí turisté nedozví."
+          },
+          {
+           "_id": "6fddcb2",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>QR kód a odkaz ke stažení mapy do mobilu</strong> pro pohodlnou orientaci na trase."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "3837676",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1f9d632",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "6b9d871",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Přehlednou PDF verzi s fotografiemi</strong> připravenou k okamžitému použití."
+          },
+          {
+           "_id": "0fdc8ec",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026."
+          },
+          {
+           "_id": "8a042c9",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "62da84c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "9ba0cb7",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_svetla"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "16",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "df68af4",
+        "settings": {
+         "_css_classes": "sbz-foto-vysoka",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 24658,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4f36dff",
+      "isInner": false,
+      "settings": {
+       "_column_size": 40,
+       "_inline_size": 40,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7d78245",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Stejnou trasou jako moji klienti – jen sami, s itinerářem v kapse"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "22806bf",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Projdete si Vídeň stejnou trasou, kterou chodím s klienty při osobním doprovodu, tentokrát sami, ale s mým podrobným itinerářem v kapse.</p><p><strong>Přestaňte bloudit a začněte si metropoli užívat!</strong></p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8b18972",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-primary",
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Chci odzkoušenou trasu Vídní",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "220c3b4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 60,
+       "_inline_size": 60,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "6c5d7c7",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "68f1896",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Co vám průvodce přinese"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "866d8ff",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "7901819",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Získáte odzkoušenou trasu městem a nezabloudíte mezi památkami."
+          },
+          {
+           "_id": "43e4dd7",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Za jeden půlden uvidíte z Vídně to podstatné bez chaosu a zbytečného přejíždění."
+          },
+          {
+           "_id": "2bd93d0",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Ke každé památce na trase budete mít informace."
+          },
+          {
+           "_id": "d608be4",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Projdete si Vídeň v pohodě, vlastním tempem, a sami rozhodnete, kde se zdržíte a co navštívíte."
+          },
+          {
+           "_id": "caf372b",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Po celou dobu budete mít pocit, že vás vede někdo místní."
+          },
+          {
+           "_id": "a505c67",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Budete vědět, jaký typ jízdenky na MHD si vybrat (novinky pro rok 2026 jsou v příloze)."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "04a77c4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 58,
+       "_inline_size": 58,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3f9482f",
+        "settings": {
+         "_css_classes": "sbz-foto-vysoka",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 24669,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "002009e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 42,
+       "_inline_size": 42,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "de5ff2f",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6d0fdfd",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Jaký je rozdíl oproti osobnímu doprovodu?"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "2ac7efa",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "187accd",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b2e235a",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 24670,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/ja-u-Hundertwasserhaus-e1771793447643.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4ee17fc",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Osobní doprovod"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "60a3513",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Individuální trasa na míru, možnost se na cokoliv zeptat a společná konverzace o životě v Rakousku. Nasměrování a rady na další cíle.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ff91c0e",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_louka",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-secondary",
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/viden-cestovni-podpora/"
+         },
+         "size": "md",
+         "text": "Cestovní podpora na míru",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "b4739ec",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": "sbz-karta"
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "97b74ba",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 18650,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ce27660",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "On-line průvodce"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "75ab68e",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Stejná trasa, stejné informace, jen bez mé přítomnosti a možnosti se doptat. Jednodušší a dostupnější varianta se stejnou kvalitou obsahu.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "55bd8c6",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-primary",
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Koupit průvodce",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "e365c1a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": "sbz-karta"
+      }
+     }
+    ],
+    "id": "1de2047",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9817600",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Praktické informace"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cf14ba9",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "38a8a2b",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Délka trasy:</strong> cca 6 km."
+          },
+          {
+           "_id": "d313d09",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle."
+          },
+          {
+           "_id": "7e212fb",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů."
+          },
+          {
+           "_id": "7d8865c",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Stažení:</strong> ihned po zaplacení (PDF)."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "2901264",
+      "isInner": false,
+      "settings": {
+       "_column_size": 58,
+       "_inline_size": 58,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cf34ca6",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Stále, i po skončení zaváděcí ceny, najdete příjemnou cenu za komplexnost celého produktu.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6319d21",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-primary",
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Chci průvodce ihned",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "daf5328",
+      "isInner": false,
+      "settings": {
+       "_column_size": 42,
+       "_inline_size": 42,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "a628dd3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_louka"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "72",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "72",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ac77502",
+        "settings": {
+         "_css_classes": "sbz-foto-vysoka",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 24680,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "1957893",
+      "isInner": false,
+      "settings": {
+       "_column_size": 40,
+       "_inline_size": 40,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1427442",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Kdo pro vás trasu připravil"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "48572a7",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Kdo"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3785fe9",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Jmenuji se Blanka a ve Vídni žiji už několik let. Když jsem se v 50 letech přestěhovala z Prahy do Vídně, neuměla jsem ani slovo německy a každý den byl výzvou. Na začátku jsem se cítila podobně jako každý turista, který se ocitne v nové zemi, jejímž jazykem dobře nehovoří. Po pár letech ve Vídni vznikl můj projekt a nyní nabízím cestovní podporu – různé služby pro snadnější poznávání Vídně a okolí.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7486ace",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Co"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6334e2c",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>On-line průvodce (procházka Vídní) vznikl z osobní zkušenosti – z potřeby nabídnout vám rychlou a jednoduchou možnost osvědčené trasy, kterou se svými klienty procházím už roky, k okamžitému využití.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "96891a5",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Proč"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "846f5fa",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>V turistické sezoně se mi stalo, že se na mě obrátili klienti s poptávkou na stejný termín a já nemohla osobně vyhovět oběma. Nabídla jsem tedy projít trasu samostatně s předem připraveným itinerářem, podrobným popisem památek a mapkou do mobilu. Klient byl nadšený, a natolik spokojený, že se po roce do Vídně vrátil s celou rodinou a objednali si službu na míru.</p><p><strong>Tak vznikl tento on-line průvodce – ne jako prvoplánová nabídka, ale jako nabídka, kterou si vyžádala praxe.</strong></p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e98077d",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-btn sbz-btn-primary",
+         "align": "left",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Chci osvědčeného průvodce",
+         "text_padding": {
+          "bottom": "14",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "14",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "ca8e6ce",
+      "isInner": false,
+      "settings": {
+       "_column_size": 60,
+       "_inline_size": 60,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "e5d4612",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_svetla"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3968dbb",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Co na trase uvidíte"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "24c9b5f",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "f7a7620",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "ebce5b7",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 820,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "16",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "df9a013",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Burggarten",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17924,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "80bce57",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ec4cb53",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Typický vídeňský fiakr",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18277,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3e14fe8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d22ecba",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Obrazárna Albertina",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18280,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6d2ce24",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "7a8afe3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "14db036",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hotel Sacher",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24688,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bef4551",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "77c74f4",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Budova Secese",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24689,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "dcb3e7c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "11f22a5",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Vídeňská opera",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18276,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2f26b84",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "1da5f20",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5b6bf06",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hofburg",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24690,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "8303b00",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "121b678",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Karlskirche",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24692,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6638da7",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "96ca462",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hrobka Habsburků",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24693,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "9a725dc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "9e64e65",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d2506ed",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Místa, kudy budete procházet",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24694,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6709517",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "482dcc6",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Z procházky městem",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24695,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "95a72c0",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b731739",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Vídeň jinak – snadněji, plynule a chytře",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24696,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "32616c3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "ff4677a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "58625f7",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Fiakr u Albertiny",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 24698,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "0f21ddd",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "314d0cd",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Originál Sacher dort",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18138,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "a8331d8",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ffde584",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hofburg",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18008,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "b6df96a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "fcc04dd",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "ff2a45f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "4cd680d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "40",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "24",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a38bbb8",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "p",
+         "title": "Nový produkt od února 2026"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0f6251c",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Získejte jasnou trasu, jistotu a klid při objevování Vídně"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "91d0c32",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>První měsíc využilo zaváděcí cenu už několik mých sledovatelů. Cena je stále velmi příjemná v porovnání s osobním doprovodem, a přitom i v on-line verzi dostáváte kompletní informace, které poskytuji při osobním doprovodu městem.</p><p>Pokud plánujete návštěvu Vídně, můžete si trasu stáhnout dnes a využít ji kdykoliv později. Přístup obdržíte okamžitě po zaplacení.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "e5026bb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "f6f9c2a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 820,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c2537ed",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h3",
+         "title": "Objednat průvodce do kapsy"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "eb65b08",
+        "settings": {
+         "html": "<!-- www.SimpleShop.cz form#141712 start -->\r\n<div data-SimpleShopForm=\"AaExm\"><div>Prodejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.</div></div>\r\n<script>\r\n (function(i, s, o, g, r, a, m){\r\n  i[r] = i[r] || function(){\r\n   (i[r].q = i[r].q || []).push(arguments)\r\n  }, i[r].l = 1 * new Date();\r\n  a = s.createElement(o),\r\n  m = s.getElementsByTagName(o)[0];\r\n  a.async = 1;\r\n  a.src = g;\r\n  m.parentNode.insertBefore(a, m)\r\n })(window, document, \"script\", \"https://form.simpleshop.cz/prj/js/SimpleShopService.js\", \"sss\");\r\n sss(\"createForm\", \"AaExm\");\r\n</script>\r\n<!-- www.SimpleShop.cz form#141712 end -->",
+         "pa_condition_repeater": [],
+         "premium_tooltip_position": "top,bottom",
+         "premium_tooltip_text": "Hi, I'm a global tooltip."
+        },
+        "widgetType": "html"
+       }
+      ],
+      "id": "01c5a20",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": "sbz-karta"
+      }
+     }
+    ],
+    "id": "0a6e22c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "_element_id": "objednat",
+     "background_background": "classic",
+     "content_width": {
+      "size": 760,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "hide_title": "yes"
+  },
+  "_elementor_template_type": "wp-page",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_meta-robots-noindex": "1"
+ },
+ "modified": "2026-10-15 13:27:21",
+ "obsah_wordpress": "<p>On-line průvodce do kapsy</p>\t\t\t\t\n\t\t\t\t\t<h1>Den ve Vídni – váš průvodce do kapsy</h1>\t\t\t\t\n\t\t<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tKoupit průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"#obsah\">\n\t\t\t\t\t\t\t\t\tCo průvodce obsahuje\n\t\t\t\t\t</a>\n\t\t\t\t\t<p>Váš bod jistoty při objevování Vídně</p>\t\t\t\t\n\t\t\t\t\t<h2>Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování</h2>\t\t\t\t\n\t\t<p><strong>Stejná trasa, kterou chodím s klienty, je nyní ve formě on-line produktu k okamžitému využití.</strong></p><p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomáhám poznat Vídeň snadněji a lehčeji – abyste ji poznali, a ne jen proběhli.</p>\t\t\n\t\t\t\t\t<h3>On-line průvodce do kapsy obsahuje</h3>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tItinerář trasy s popisem památek a turistických cílů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMapu ke stažení do mobilu pro snadnější orientaci.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPraktickou přílohu: přehled jízdenek a ticketů na městskou dopravu ve Vídni.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Vše komplet v jednom produktu. Vídeň objevujete pohodlně, vlastním tempem, ale tak, jako byste měli po celé trase můj osobní doprovod s výkladem.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci odzkoušenou trasu Vídní\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"369\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg.webp\" alt=\"On-line Průvodce do kapsy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg 450w, https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo-300x246.jpg 300w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Možná to znáte i vy</h2>\t\t\t\t\n\t\t<p>Sice přesně víte, co všechno byste ve Vídni chtěli vidět, ale nemáte už tak přesnou představu, jak daleko od sebe památky jsou a jakou zvolit trasu nebo dopravu mezi jednotlivými cíli, abyste zbytečně neztráceli čas a nebloudili městem.</p><p>Zkušenost mi ukazuje, že scénář představ o návštěvě Vídně je mnohdy hodně podobný. <strong>Teď je tu nástroj, který mnohé otázky a nejasnosti vyřeší.</strong></p>\t\t\n\t\t\t\t\t<h2>Průvodce je pro vás, pokud</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChcete jasně danou trasu širším centrem města a vidět nejdůležitější památky a cíle <strong>bez stresu a časových ztrát</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Nepotřebujete osobní doprovod</strong> nebo nemáme společný volný termín.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChcete mít <strong>jistotu, že jdete „správně“</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t<h3>Tohle není „jen“ PDF</h3>\t\t\t\t\n\t\t<p>Je to zkušenost a prověřená praxe. Pro vás pak: pohodlí, jistota, úspora času, žádný chaos a bod opory v kapse.</p>\t\t\n\t\t\t\t\t<h2>Co průvodce přesně obsahuje</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Podrobný itinerář trasy</strong> s popisem všech památek po cestě.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Souvislosti, informace z historie a zajímavosti</strong>, které se mnozí turisté nedozví.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>QR kód a odkaz ke stažení mapy do mobilu</strong> pro pohodlnou orientaci na trase.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Přehlednou PDF verzi s fotografiemi</strong> připravenou k okamžitému použití.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"680\" height=\"706\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg 680w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male-289x300.jpg 289w\" sizes=\"(max-width: 680px) 100vw, 680px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Stejnou trasou jako moji klienti – jen sami, s itinerářem v kapse</h2>\t\t\t\t\n\t\t<p>Projdete si Vídeň stejnou trasou, kterou chodím s klienty při osobním doprovodu, tentokrát sami, ale s mým podrobným itinerářem v kapse.</p><p><strong>Přestaňte bloudit a začněte si metropoli užívat!</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci odzkoušenou trasu Vídní\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co vám průvodce přinese</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZískáte odzkoušenou trasu městem a nezabloudíte mezi památkami.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZa jeden půlden uvidíte z Vídně to podstatné bez chaosu a zbytečného přejíždění.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKe každé památce na trase budete mít informace.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tProjdete si Vídeň v pohodě, vlastním tempem, a sami rozhodnete, kde se zdržíte a co navštívíte.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPo celou dobu budete mít pocit, že vás vede někdo místní.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBudete vědět, jaký typ jízdenky na MHD si vybrat (novinky pro rok 2026 jsou v příloze).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-900x507.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354.jpg 1120w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Jaký je rozdíl oproti osobnímu doprovodu?</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"620\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/ja-u-Hundertwasserhaus-620x900.jpg.webp\" alt=\"Den ve Vidni\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Osobní doprovod</h3>\t\t\t\t\n\t\t<p>Individuální trasa na míru, možnost se na cokoliv zeptat a společná konverzace o životě v Rakousku. Nasměrování a rady na další cíle.</p>\t\t\n\t\t\t\t\t<a href=\"/viden-cestovni-podpora/\">\n\t\t\t\t\t\t\t\t\tCestovní podpora na míru\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"645\" height=\"611\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg.webp\" alt=\"průvoce Vídeň\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg 645w, https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2-300x284.jpg 300w\" sizes=\"(max-width: 645px) 100vw, 645px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>On-line průvodce</h3>\t\t\t\t\n\t\t<p>Stejná trasa, stejné informace, jen bez mé přítomnosti a možnosti se doptat. Jednodušší a dostupnější varianta se stejnou kvalitou obsahu.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tKoupit průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Praktické informace</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Délka trasy:</strong> cca 6 km.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Stažení:</strong> ihned po zaplacení (PDF).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Stále, i po skončení zaváděcí ceny, najdete příjemnou cenu za komplexnost celého produktu.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci průvodce ihned\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"539\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-539x900.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-539x900.jpg 539w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-180x300.jpg 180w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu.jpg 680w\" sizes=\"(max-width: 539px) 100vw, 539px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Kdo pro vás trasu připravil</h2>\t\t\t\t\n\t\t\t\t\t<h3>Kdo</h3>\t\t\t\t\n\t\t<p>Jmenuji se Blanka a ve Vídni žiji už několik let. Když jsem se v 50 letech přestěhovala z Prahy do Vídně, neuměla jsem ani slovo německy a každý den byl výzvou. Na začátku jsem se cítila podobně jako každý turista, který se ocitne v nové zemi, jejímž jazykem dobře nehovoří. Po pár letech ve Vídni vznikl můj projekt a nyní nabízím cestovní podporu – různé služby pro snadnější poznávání Vídně a okolí.</p>\t\t\n\t\t\t\t\t<h3>Co</h3>\t\t\t\t\n\t\t<p>On-line průvodce (procházka Vídní) vznikl z osobní zkušenosti – z potřeby nabídnout vám rychlou a jednoduchou možnost osvědčené trasy, kterou se svými klienty procházím už roky, k okamžitému využití.</p>\t\t\n\t\t\t\t\t<h3>Proč</h3>\t\t\t\t\n\t\t<p>V turistické sezoně se mi stalo, že se na mě obrátili klienti s poptávkou na stejný termín a já nemohla osobně vyhovět oběma. Nabídla jsem tedy projít trasu samostatně s předem připraveným itinerářem, podrobným popisem památek a mapkou do mobilu. Klient byl nadšený, a natolik spokojený, že se po roce do Vídně vrátil s celou rodinou a objednali si službu na míru.</p><p><strong>Tak vznikl tento on-line průvodce – ne jako prvoplánová nabídka, ale jako nabídka, kterou si vyžádala praxe.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci osvědčeného průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co na trase uvidíte</h2>\t\t\t\t\n\t\t<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"640\" height=\"409\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg 640w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1-300x192.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Burggarten</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"860\" height=\"484\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg.webp\" alt=\"Vidensky fiakr\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg 860w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-768x432.jpg 768w\" sizes=\"(max-width: 860px) 100vw, 860px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Typický vídeňský fiakr</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg.webp\" alt=\"Viden Albertina\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Obrazárna Albertina</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"523\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-900x523.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-900x523.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-300x174.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-768x446.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hotel Sacher</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"565\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-900x565.jpg.webp\" alt=\"Budova Secese\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-900x565.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-300x188.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-768x482.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Budova Secese</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"506\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg.webp\" alt=\"Viden noc\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-1536x864.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni.jpg 1600w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeňská opera</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"456\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-900x456.jpg.webp\" alt=\"Hofburg\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-900x456.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-300x152.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-768x389.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-900x507.jpg.webp\" alt=\"Karlskirche\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Karlskirche</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-900x507.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hrobka Habsburků</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-900x507.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Místa, kudy budete procházet</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"519\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-900x519.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-900x519.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-300x173.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-768x443.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Z procházky městem</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-900x507.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeň jinak – snadněji, plynule a chytře</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"629\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-900x629.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-900x629.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-300x210.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-768x537.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Fiakr u Albertiny</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"754\" height=\"635\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg.webp\" alt=\"Sachr - cesty do Vidne\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg 754w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2-300x253.jpg 300w\" sizes=\"(max-width: 754px) 100vw, 754px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Originál Sacher dort</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"713\" height=\"367\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg 713w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2-300x154.jpg 300w\" sizes=\"(max-width: 713px) 100vw, 713px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t<p>Nový produkt od února 2026</p>\t\t\t\t\n\t\t\t\t\t<h2>Získejte jasnou trasu, jistotu a klid při objevování Vídně</h2>\t\t\t\t\n\t\t<p>První měsíc využilo zaváděcí cenu už několik mých sledovatelů. Cena je stále velmi příjemná v porovnání s osobním doprovodem, a přitom i v on-line verzi dostáváte kompletní informace, které poskytuji při osobním doprovodu městem.</p><p>Pokud plánujete návštěvu Vídně, můžete si trasu stáhnout dnes a využít ji kdykoliv později. Přístup obdržíte okamžitě po zaplacení.</p>\t\t\n\t\t\t\t\t<h3>Objednat průvodce do kapsy</h3>\t\t\t\t\n\t\t\t\t\t<!-- www.SimpleShop.cz form#141712 start -->\nProdejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.\n<!-- www.SimpleShop.cz form#141712 end -->",
+ "parent": 0,
+ "slug": "den-ve-vidni-paleta-3-kamen",
+ "title": "Den ve Vídni (paleta 3 – Louka a kámen)",
+ "type": "page"
+}

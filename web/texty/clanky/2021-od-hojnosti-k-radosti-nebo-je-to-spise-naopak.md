@@ -14,7 +14,7 @@ No a já si při té příležitosti uvědomila, jak jsme my lidé už odmaličk
 ## Nechci tím vůbec popírat, že finanční stránka je v hmotném světě, kterého jsme součástí nutná!
 Chci se ale zamyslet nad pořadím dvou výše uvedených „životních stavů“ tj. hojnost a radost.
 
-[obrázek: od-radosti-finance-na-ruce1.png]
+[obrázek: od-radosti-finance-na-ruce1.jpg]
 
 Nastavení současné společnosti nám svými reklamami, nabádáním ke konzumu a všelijakou nabídkou služeb a zboží, které ve své podstatě k životu vlastně ani moc nepotřebujeme, plíživě podsouvá, že až budeme mít to...a ještě to...budeme šťastnější, náš život bude pohodlnější a budeme ve svém životě zažívat více radosti.
 A tak se od dětství připravujeme na to, že si máme zvolit povolání, které bude vynášet, že každá činnost má vést k nějakému zisku.
@@ -29,7 +29,7 @@ Protože co pro jednoho může být bohatství, je pro druhého chudoba.
 Bohatý člověk je ten, který má víc, než potřebuje. A schválně zdůrazňuji slovo POTŘEBUJE! Nezaměňujme ho prosím se slovem CHCE.
 Pokud je totiž cílem zisk, který nám má pomoci ke štěstí a radosti, je to od základu chybný model. Je to jen honba za cílem, bez užívání si tvoření, cesty, každého dne.
 
-[obrázek: od-radosti-finance-rostou.png]
+[obrázek: od-radosti-finance-rostou.jpg]
 
 A důsledkem toho je pak mnohdy to, že sice pracujeme v lukrativním oboru, dosáhli jsme kýženého postu či funkce, ale do práce chodíme bez radosti, unavení, vyhoření a těšíme se na těch pár volných dní, kdy do práce nemusíme.
 Na jednu stranu sice můžeme být „výkonní“, ale jsem 100% přesvědčena, že na naší práci to bude vidět. A co teprve na nás samých!
@@ -60,9 +60,9 @@ Více o tvorbě dekorací z cyklu ROKEM KROK ZA KROKEM
 
 Hojnost, nejenom materiální v podobě plodů, ale i hojnost v podobě zážitků při činnosti, která mě naplňuje, uspokojuje, baví a přináší mi radost do každého dne.
 
-[obrázek: od-radostiS-zeleninasalatkvetiny-hojnost.png]
+[obrázek: od-radostiS-zeleninasalatkvetiny-hojnost.jpg]
 
-[obrázek: od-radosti-ovoceorechychlebS.png]
+[obrázek: od-radosti-ovoceorechychlebS.jpg]
 
 Stejně tak jsem za poslední tři měsíce proseděla stovky hodin u PC u svých webových stránek, při psaní příspěvků a zpracovávání článků o výletech, při učením se „technikálií“ spojených s tvorbou webu, při hledání možností jak dál, lépe. Nepřineslo mi to zatím ještě ani 1,- Euro / Kč zisku. Přineslo mi to ale mnohé jiné poklady. Dokázala jsem si, že je možné vytvořit něco o čem sníte i když zpočátku ani nevíte jak, přináší mi to radost a naplnění každý den. Provokuje mě to k hledání dalších cest, přináší mi to zvláštní rozechvění a pocit „mravenčení“, kam se to bude vyvíjet.
 

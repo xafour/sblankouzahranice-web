@@ -36,7 +36,7 @@
   "version": "4.3.0"
  },
  {
-  "active": true,
+  "active": false,
   "file": "google-language-translator/google-language-translator.php",
   "name": "Google Language Translator",
   "version": "7.0.1"
@@ -78,10 +78,16 @@
   "version": "11.4.8"
  },
  {
-  "active": true,
+  "active": false,
   "file": "instagram-feed/instagram-feed.php",
   "name": "Smash Balloon Instagram Feed",
   "version": "6.13.1"
+ },
+ {
+  "active": true,
+  "file": "translatepress-multilingual/index.php",
+  "name": "TranslatePress - Multilingual",
+  "version": "3.3.8"
  },
  {
   "active": true,

@@ -20,7 +20,7 @@ a mnohem více...
 
 ## Přírodou zpátky k sobě
 
-[obrázek: prirodou-k-sobe2.png]
+[obrázek: prirodou-k-sobe2.jpg]
 
 Regenerační procházky do přírody s využitím finského konceptu LESNÍ MYSL i zkušeností z Tai-Chi a Qi-Gong.
 - Regenerace.
@@ -35,7 +35,7 @@ a mnohem více...
 
 ## Jak se žije za hranicí vlasti
 
-[obrázek: jak-se-zije-za-hranici2.png]
+[obrázek: jak-se-zije-za-hranici2.jpg]
 
 Autentické příběhy žen o začátcích v nové zemi. Proč se některé ze světa vracíme a jiné tam zůstáváme.
 - Anglie

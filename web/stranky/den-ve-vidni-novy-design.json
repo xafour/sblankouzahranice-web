@@ -18,10 +18,10 @@
         "id": "13ec164",
         "settings": {
          "__globals__": {
-          "title_color": "globals/colors?id=sbz_svetla",
+          "title_color": "globals/colors?id=sbz_oliva",
           "typography_typography": "globals/typography?id=sbz_nadtitulek"
          },
-         "_css_classes": "",
+         "_css_classes": "sbz-uvod-zvyraz",
          "align": "center",
          "header_size": "p",
          "title": "On-line průvodce do kapsy"
@@ -34,7 +34,7 @@
         "id": "03591d8",
         "settings": {
          "__globals__": {
-          "title_color": "globals/colors?id=sbz_bila",
+          "title_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_h1"
          },
          "_css_classes": "",
@@ -50,10 +50,10 @@
         "id": "e49b5d5",
         "settings": {
          "__globals__": {
-          "text_color": "globals/colors?id=sbz_bila",
+          "text_color": "globals/colors?id=sbz_text",
           "typography_typography": "globals/typography?id=sbz_text"
          },
-         "_css_classes": "sbz-text",
+         "_css_classes": "sbz-text sbz-uvod-zvyraz",
          "align": "center",
          "editor": "<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>"
         },
@@ -65,12 +65,15 @@
         "id": "b6c9f15",
         "settings": {
          "__globals__": {
-          "background_color": "globals/colors?id=sbz_svetla",
-          "button_background_hover_color": "globals/colors?id=sbz_bila",
-          "button_text_color": "globals/colors?id=sbz_zelena",
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
           "hover_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-primary",
          "_element_width": "auto",
          "_margin": {
           "bottom": "12",
@@ -81,12 +84,21 @@
           "unit": "px"
          },
          "align": "left",
+         "border_border": "solid",
          "border_radius": {
           "bottom": "8",
           "isLinked": true,
           "left": "8",
           "right": "8",
           "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
           "unit": "px"
          },
          "link": {
@@ -97,11 +109,11 @@
          "size": "md",
          "text": "Koupit průvodce",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -113,13 +125,15 @@
         "id": "9e961d6",
         "settings": {
          "__globals__": {
-          "border_color": "globals/colors?id=sbz_bila",
-          "button_background_hover_color": "globals/colors?id=sbz_bila",
-          "button_hover_border_color": "globals/colors?id=sbz_bila",
-          "button_text_color": "globals/colors?id=sbz_bila",
-          "hover_color": "globals/colors?id=sbz_zelena",
+          "background_color": "globals/colors?id=sbz_louka",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-secondary",
          "_element_width": "auto",
          "_margin": {
           "bottom": "12",
@@ -130,7 +144,6 @@
           "unit": "px"
          },
          "align": "left",
-         "background_color": "rgba(0,0,0,0)",
          "border_border": "solid",
          "border_radius": {
           "bottom": "8",
@@ -156,11 +169,11 @@
          "size": "md",
          "text": "Co průvodce obsahuje",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -181,7 +194,7 @@
     "isInner": false,
     "settings": {
      "__globals__": {
-      "background_overlay_color": "globals/colors?id=sbz_zelena"
+      "background_overlay_color": "globals/colors?id=sbz_krem"
      },
      "background_background": "classic",
      "background_image": {
@@ -193,7 +206,7 @@
      },
      "background_overlay_background": "classic",
      "background_overlay_opacity": {
-      "size": 0.62,
+      "size": 0.42,
       "sizes": [],
       "unit": "px"
      },
@@ -202,37 +215,27 @@
      "background_size": "cover",
      "content_position": "middle",
      "content_width": {
-      "size": 1140,
+      "size": 1000,
       "sizes": [],
       "unit": "px"
      },
-     "custom_height": {
-      "size": 540,
-      "sizes": [],
-      "unit": "px"
-     },
-     "custom_height_mobile": {
-      "size": 480,
-      "sizes": [],
-      "unit": "px"
-     },
+     "css_classes": "sbz-uvod sbz-uvod-krem",
      "gap": "extended",
-     "height": "min-height",
      "layout": "boxed",
      "padding": {
-      "bottom": "120",
+      "bottom": "56",
       "isLinked": false,
       "left": "24",
       "right": "24",
-      "top": "120",
+      "top": "56",
       "unit": "px"
      },
      "padding_mobile": {
-      "bottom": "72",
+      "bottom": "32",
       "isLinked": false,
       "left": "16",
       "right": "16",
-      "top": "72",
+      "top": "32",
       "unit": "px"
      }
     }
@@ -389,18 +392,30 @@
         "settings": {
          "__globals__": {
           "background_color": "globals/colors?id=sbz_zelena",
-          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
           "button_text_color": "globals/colors?id=sbz_bila",
-          "hover_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-primary",
          "align": "left",
+         "border_border": "solid",
          "border_radius": {
           "bottom": "8",
           "isLinked": true,
           "left": "8",
           "right": "8",
           "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
           "unit": "px"
          },
          "link": {
@@ -411,11 +426,11 @@
          "size": "md",
          "text": "Chci odzkoušenou trasu Vídní",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -514,7 +529,7 @@
          "_css_classes": "",
          "align": "center",
          "header_size": "h2",
-         "title": "Možná to <span class=\"sbz-hl\">znáte i vy</span>"
+         "title": "Možná to znáte i vy"
         },
         "widgetType": "heading"
        },
@@ -547,7 +562,7 @@
     "isInner": false,
     "settings": {
      "__globals__": {
-      "background_color": "globals/colors?id=sbz_krem"
+      "background_color": "globals/colors?id=sbz_svetla"
      },
      "background_background": "classic",
      "content_width": {
@@ -593,7 +608,7 @@
          "_css_classes": "",
          "align": "left",
          "header_size": "h2",
-         "title": "Průvodce je <span class=\"sbz-hl\">pro vás</span>, pokud"
+         "title": "Průvodce je pro vás, pokud"
         },
         "widgetType": "heading"
        },
@@ -764,7 +779,7 @@
          "_css_classes": "",
          "align": "left",
          "header_size": "h2",
-         "title": "Co průvodce <span class=\"sbz-hl\">přesně obsahuje</span>"
+         "title": "Co průvodce přesně obsahuje"
         },
         "widgetType": "heading"
        }
@@ -782,7 +797,7 @@
     "isInner": false,
     "settings": {
      "__globals__": {
-      "background_color": "globals/colors?id=sbz_krem"
+      "background_color": "globals/colors?id=sbz_svetla"
      },
      "_element_id": "obsah",
      "background_background": "classic",
@@ -973,7 +988,7 @@
     "isInner": false,
     "settings": {
      "__globals__": {
-      "background_color": "globals/colors?id=sbz_krem"
+      "background_color": "globals/colors?id=sbz_svetla"
      },
      "background_background": "classic",
      "content_width": {
@@ -1076,18 +1091,30 @@
         "settings": {
          "__globals__": {
           "background_color": "globals/colors?id=sbz_zelena",
-          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
           "button_text_color": "globals/colors?id=sbz_bila",
-          "hover_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-primary",
          "align": "left",
+         "border_border": "solid",
          "border_radius": {
           "bottom": "8",
           "isLinked": true,
           "left": "8",
           "right": "8",
           "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
           "unit": "px"
          },
          "link": {
@@ -1098,11 +1125,11 @@
          "size": "md",
          "text": "Chci odzkoušenou trasu Vídní",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -1170,7 +1197,7 @@
          "_css_classes": "",
          "align": "left",
          "header_size": "h2",
-         "title": "Co vám průvodce <span class=\"sbz-hl\">přinese</span>"
+         "title": "Co vám průvodce přinese"
         },
         "widgetType": "heading"
        },
@@ -1352,7 +1379,7 @@
          "_css_classes": "",
          "align": "center",
          "header_size": "h2",
-         "title": "Jaký je rozdíl oproti <span class=\"sbz-hl\">osobnímu doprovodu</span>?"
+         "title": "Jaký je rozdíl oproti osobnímu doprovodu?"
         },
         "widgetType": "heading"
        }
@@ -1459,6 +1486,7 @@
         "id": "ff91c0e",
         "settings": {
          "__globals__": {
+          "background_color": "globals/colors?id=sbz_louka",
           "border_color": "globals/colors?id=sbz_zelena",
           "button_background_hover_color": "globals/colors?id=sbz_zelena",
           "button_hover_border_color": "globals/colors?id=sbz_zelena",
@@ -1466,8 +1494,8 @@
           "hover_color": "globals/colors?id=sbz_bila",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-secondary",
          "align": "left",
-         "background_color": "rgba(0,0,0,0)",
          "border_border": "solid",
          "border_radius": {
           "bottom": "8",
@@ -1493,11 +1521,11 @@
          "size": "md",
          "text": "Cestovní podpora na míru",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -1571,18 +1599,30 @@
         "settings": {
          "__globals__": {
           "background_color": "globals/colors?id=sbz_zelena",
-          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
           "button_text_color": "globals/colors?id=sbz_bila",
-          "hover_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-primary",
          "align": "left",
+         "border_border": "solid",
          "border_radius": {
           "bottom": "8",
           "isLinked": true,
           "left": "8",
           "right": "8",
           "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
           "unit": "px"
          },
          "link": {
@@ -1593,11 +1633,11 @@
          "size": "md",
          "text": "Koupit průvodce",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -1657,7 +1697,7 @@
         "id": "9817600",
         "settings": {
          "__globals__": {
-          "title_color": "globals/colors?id=sbz_bila",
+          "title_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_h2"
          },
          "_css_classes": "",
@@ -1673,9 +1713,9 @@
         "id": "cf14ba9",
         "settings": {
          "__globals__": {
-          "icon_color": "globals/colors?id=sbz_svetla",
+          "icon_color": "globals/colors?id=sbz_oliva",
           "icon_typography_typography": "globals/typography?id=sbz_text",
-          "text_color": "globals/colors?id=sbz_bila"
+          "text_color": "globals/colors?id=sbz_text"
          },
          "icon_list": [
           {
@@ -1755,7 +1795,7 @@
         "id": "cf34ca6",
         "settings": {
          "__globals__": {
-          "text_color": "globals/colors?id=sbz_svetla",
+          "text_color": "globals/colors?id=sbz_text",
           "typography_typography": "globals/typography?id=sbz_text"
          },
          "_css_classes": "sbz-text",
@@ -1770,19 +1810,31 @@
         "id": "6319d21",
         "settings": {
          "__globals__": {
-          "background_color": "globals/colors?id=sbz_svetla",
-          "button_background_hover_color": "globals/colors?id=sbz_bila",
-          "button_text_color": "globals/colors?id=sbz_zelena",
+          "background_color": "globals/colors?id=sbz_zelena",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_bila",
           "hover_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-primary",
          "align": "left",
+         "border_border": "solid",
          "border_radius": {
           "bottom": "8",
           "isLinked": true,
           "left": "8",
           "right": "8",
           "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
           "unit": "px"
          },
          "link": {
@@ -1793,11 +1845,11 @@
          "size": "md",
          "text": "Chci průvodce ihned",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -1818,7 +1870,7 @@
     "isInner": false,
     "settings": {
      "__globals__": {
-      "background_color": "globals/colors?id=sbz_zelena"
+      "background_color": "globals/colors?id=sbz_louka"
      },
      "background_background": "classic",
      "content_position": "middle",
@@ -1895,7 +1947,7 @@
          "_css_classes": "",
          "align": "left",
          "header_size": "h2",
-         "title": "Kdo pro vás trasu <span class=\"sbz-hl\">připravil</span>"
+         "title": "Kdo pro vás trasu připravil"
         },
         "widgetType": "heading"
        },
@@ -1999,18 +2051,30 @@
         "settings": {
          "__globals__": {
           "background_color": "globals/colors?id=sbz_zelena",
-          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_louka",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
           "button_text_color": "globals/colors?id=sbz_bila",
-          "hover_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
           "typography_typography": "globals/typography?id=sbz_tlacitko"
          },
+         "_css_classes": "sbz-btn sbz-btn-primary",
          "align": "left",
+         "border_border": "solid",
          "border_radius": {
           "bottom": "8",
           "isLinked": true,
           "left": "8",
           "right": "8",
           "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
           "unit": "px"
          },
          "link": {
@@ -2021,11 +2085,11 @@
          "size": "md",
          "text": "Chci osvědčeného průvodce",
          "text_padding": {
-          "bottom": "15",
+          "bottom": "14",
           "isLinked": false,
           "left": "28",
           "right": "28",
-          "top": "15",
+          "top": "14",
           "unit": "px"
          }
         },
@@ -2045,7 +2109,7 @@
     "isInner": false,
     "settings": {
      "__globals__": {
-      "background_color": "globals/colors?id=sbz_krem"
+      "background_color": "globals/colors?id=sbz_svetla"
      },
      "background_background": "classic",
      "content_width": {
@@ -2091,7 +2155,7 @@
          "_css_classes": "",
          "align": "center",
          "header_size": "h2",
-         "title": "Co na trase <span class=\"sbz-hl\">uvidíte</span>"
+         "title": "Co na trase uvidíte"
         },
         "widgetType": "heading"
        },
@@ -2908,7 +2972,7 @@
          "_css_classes": "",
          "align": "center",
          "header_size": "h2",
-         "title": "Získejte jasnou trasu, <span class=\"sbz-hl\">jistotu a klid</span> při objevování Vídně"
+         "title": "Získejte jasnou trasu, jistotu a klid při objevování Vídně"
         },
         "widgetType": "heading"
        },
@@ -3055,8 +3119,8 @@
   "_wp_page_template": "default",
   "_yoast_wpseo_meta-robots-noindex": "1"
  },
- "modified": "2026-10-14 23:41:58",
- "obsah_wordpress": "<p>On-line průvodce do kapsy</p>\t\t\t\t\n\t\t\t\t\t<h1>Den ve Vídni – váš průvodce do kapsy</h1>\t\t\t\t\n\t\t<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tKoupit průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"#obsah\">\n\t\t\t\t\t\t\t\t\tCo průvodce obsahuje\n\t\t\t\t\t</a>\n\t\t\t\t\t<p>Váš bod jistoty při objevování Vídně</p>\t\t\t\t\n\t\t\t\t\t<h2>Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování</h2>\t\t\t\t\n\t\t<p><strong>Stejná trasa, kterou chodím s klienty, je nyní ve formě on-line produktu k okamžitému využití.</strong></p><p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomáhám poznat Vídeň snadněji a lehčeji – abyste ji poznali, a ne jen proběhli.</p>\t\t\n\t\t\t\t\t<h3>On-line průvodce do kapsy obsahuje</h3>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tItinerář trasy s popisem památek a turistických cílů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMapu ke stažení do mobilu pro snadnější orientaci.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPraktickou přílohu: přehled jízdenek a ticketů na městskou dopravu ve Vídni.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Vše komplet v jednom produktu. Vídeň objevujete pohodlně, vlastním tempem, ale tak, jako byste měli po celé trase můj osobní doprovod s výkladem.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci odzkoušenou trasu Vídní\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"369\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.png\" alt=\"On-line Průvodce do kapsy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.png 450w, https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo-300x246.png 300w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Možná to znáte i vy</h2>\t\t\t\t\n\t\t<p>Sice přesně víte, co všechno byste ve Vídni chtěli vidět, ale nemáte už tak přesnou představu, jak daleko od sebe památky jsou a jakou zvolit trasu nebo dopravu mezi jednotlivými cíli, abyste zbytečně neztráceli čas a nebloudili městem.</p><p>Zkušenost mi ukazuje, že scénář představ o návštěvě Vídně je mnohdy hodně podobný. <strong>Teď je tu nástroj, který mnohé otázky a nejasnosti vyřeší.</strong></p>\t\t\n\t\t\t\t\t<h2>Průvodce je pro vás, pokud</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChcete jasně danou trasu širším centrem města a vidět nejdůležitější památky a cíle <strong>bez stresu a časových ztrát</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Nepotřebujete osobní doprovod</strong> nebo nemáme společný volný termín.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChcete mít <strong>jistotu, že jdete „správně“</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t<h3>Tohle není „jen“ PDF</h3>\t\t\t\t\n\t\t<p>Je to zkušenost a prověřená praxe. Pro vás pak: pohodlí, jistota, úspora času, žádný chaos a bod opory v kapse.</p>\t\t\n\t\t\t\t\t<h2>Co průvodce přesně obsahuje</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Podrobný itinerář trasy</strong> s popisem všech památek po cestě.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Souvislosti, informace z historie a zajímavosti</strong>, které se mnozí turisté nedozví.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>QR kód a odkaz ke stažení mapy do mobilu</strong> pro pohodlnou orientaci na trase.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Přehlednou PDF verzi s fotografiemi</strong> připravenou k okamžitému použití.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"680\" height=\"706\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg 680w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male-289x300.jpg 289w\" sizes=\"(max-width: 680px) 100vw, 680px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Stejnou trasou jako moji klienti – jen sami, s itinerářem v kapse</h2>\t\t\t\t\n\t\t<p>Projdete si Vídeň stejnou trasou, kterou chodím s klienty při osobním doprovodu, tentokrát sami, ale s mým podrobným itinerářem v kapse.</p><p><strong>Přestaňte bloudit a začněte si metropoli užívat!</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci odzkoušenou trasu Vídní\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co vám průvodce přinese</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZískáte odzkoušenou trasu městem a nezabloudíte mezi památkami.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZa jeden půlden uvidíte z Vídně to podstatné bez chaosu a zbytečného přejíždění.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKe každé památce na trase budete mít informace.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tProjdete si Vídeň v pohodě, vlastním tempem, a sami rozhodnete, kde se zdržíte a co navštívíte.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPo celou dobu budete mít pocit, že vás vede někdo místní.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBudete vědět, jaký typ jízdenky na MHD si vybrat (novinky pro rok 2026 jsou v příloze).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-900x507.jpg\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354.jpg 1120w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Jaký je rozdíl oproti osobnímu doprovodu?</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"620\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/ja-u-Hundertwasserhaus-620x900.jpg\" alt=\"Den ve Vidni\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Osobní doprovod</h3>\t\t\t\t\n\t\t<p>Individuální trasa na míru, možnost se na cokoliv zeptat a společná konverzace o životě v Rakousku. Nasměrování a rady na další cíle.</p>\t\t\n\t\t\t\t\t<a href=\"/viden-cestovni-podpora/\">\n\t\t\t\t\t\t\t\t\tCestovní podpora na míru\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"645\" height=\"611\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg\" alt=\"průvoce Vídeň\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg 645w, https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2-300x284.jpg 300w\" sizes=\"(max-width: 645px) 100vw, 645px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>On-line průvodce</h3>\t\t\t\t\n\t\t<p>Stejná trasa, stejné informace, jen bez mé přítomnosti a možnosti se doptat. Jednodušší a dostupnější varianta se stejnou kvalitou obsahu.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tKoupit průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Praktické informace</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Délka trasy:</strong> cca 6 km.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Stažení:</strong> ihned po zaplacení (PDF).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Stále, i po skončení zaváděcí ceny, najdete příjemnou cenu za komplexnost celého produktu.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci průvodce ihned\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"539\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-539x900.jpg\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-539x900.jpg 539w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-180x300.jpg 180w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu.jpg 680w\" sizes=\"(max-width: 539px) 100vw, 539px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Kdo pro vás trasu připravil</h2>\t\t\t\t\n\t\t\t\t\t<h3>Kdo</h3>\t\t\t\t\n\t\t<p>Jmenuji se Blanka a ve Vídni žiji už několik let. Když jsem se v 50 letech přestěhovala z Prahy do Vídně, neuměla jsem ani slovo německy a každý den byl výzvou. Na začátku jsem se cítila podobně jako každý turista, který se ocitne v nové zemi, jejímž jazykem dobře nehovoří. Po pár letech ve Vídni vznikl můj projekt a nyní nabízím cestovní podporu – různé služby pro snadnější poznávání Vídně a okolí.</p>\t\t\n\t\t\t\t\t<h3>Co</h3>\t\t\t\t\n\t\t<p>On-line průvodce (procházka Vídní) vznikl z osobní zkušenosti – z potřeby nabídnout vám rychlou a jednoduchou možnost osvědčené trasy, kterou se svými klienty procházím už roky, k okamžitému využití.</p>\t\t\n\t\t\t\t\t<h3>Proč</h3>\t\t\t\t\n\t\t<p>V turistické sezoně se mi stalo, že se na mě obrátili klienti s poptávkou na stejný termín a já nemohla osobně vyhovět oběma. Nabídla jsem tedy projít trasu samostatně s předem připraveným itinerářem, podrobným popisem památek a mapkou do mobilu. Klient byl nadšený, a natolik spokojený, že se po roce do Vídně vrátil s celou rodinou a objednali si službu na míru.</p><p><strong>Tak vznikl tento on-line průvodce – ne jako prvoplánová nabídka, ale jako nabídka, kterou si vyžádala praxe.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci osvědčeného průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co na trase uvidíte</h2>\t\t\t\t\n\t\t<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"640\" height=\"409\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg 640w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1-300x192.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Burggarten</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"860\" height=\"484\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg\" alt=\"Vidensky fiakr\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg 860w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-768x432.jpg 768w\" sizes=\"(max-width: 860px) 100vw, 860px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Typický vídeňský fiakr</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg\" alt=\"Viden Albertina\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Obrazárna Albertina</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"523\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-900x523.jpg\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-900x523.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-300x174.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-768x446.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hotel Sacher</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"565\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-900x565.jpg\" alt=\"Budova Secese\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-900x565.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-300x188.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-768x482.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Budova Secese</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"506\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg\" alt=\"Viden noc\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-1536x864.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni.jpg 1600w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeňská opera</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"456\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-900x456.jpg\" alt=\"Hofburg\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-900x456.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-300x152.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-768x389.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-900x507.jpg\" alt=\"Karlskirche\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Karlskirche</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-900x507.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hrobka Habsburků</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-900x507.jpg\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Místa, kudy budete procházet</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"519\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-900x519.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-900x519.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-300x173.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-768x443.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Z procházky městem</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-900x507.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeň jinak – snadněji, plynule a chytře</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"629\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-900x629.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-900x629.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-300x210.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-768x537.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Fiakr u Albertiny</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"754\" height=\"635\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg\" alt=\"Sachr - cesty do Vidne\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg 754w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2-300x253.jpg 300w\" sizes=\"(max-width: 754px) 100vw, 754px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Originál Sacher dort</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"713\" height=\"367\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg 713w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2-300x154.jpg 300w\" sizes=\"(max-width: 713px) 100vw, 713px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t<p>Nový produkt od února 2026</p>\t\t\t\t\n\t\t\t\t\t<h2>Získejte jasnou trasu, jistotu a klid při objevování Vídně</h2>\t\t\t\t\n\t\t<p>První měsíc využilo zaváděcí cenu už několik mých sledovatelů. Cena je stále velmi příjemná v porovnání s osobním doprovodem, a přitom i v on-line verzi dostáváte kompletní informace, které poskytuji při osobním doprovodu městem.</p><p>Pokud plánujete návštěvu Vídně, můžete si trasu stáhnout dnes a využít ji kdykoliv později. Přístup obdržíte okamžitě po zaplacení.</p>\t\t\n\t\t\t\t\t<h3>Objednat průvodce do kapsy</h3>\t\t\t\t\n\t\t\t\t\t<!-- www.SimpleShop.cz form#141712 start -->\nProdejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.\n<!-- www.SimpleShop.cz form#141712 end -->",
+ "modified": "2026-10-16 14:59:37",
+ "obsah_wordpress": "<p>On-line průvodce do kapsy</p>\t\t\t\t\n\t\t\t\t\t<h1>Den ve Vídni – váš průvodce do kapsy</h1>\t\t\t\t\n\t\t<p>Vídeň vlastním tempem, s pocitem podpory za zády. Nebloudíte, nehledáte a máte jistotu, že jdete správně a neztrácíte čas.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tKoupit průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"#obsah\">\n\t\t\t\t\t\t\t\t\tCo průvodce obsahuje\n\t\t\t\t\t</a>\n\t\t\t\t\t<p>Váš bod jistoty při objevování Vídně</p>\t\t\t\t\n\t\t\t\t\t<h2>Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování</h2>\t\t\t\t\n\t\t<p><strong>Stejná trasa, kterou chodím s klienty, je nyní ve formě on-line produktu k okamžitému využití.</strong></p><p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomáhám poznat Vídeň snadněji a lehčeji – abyste ji poznali, a ne jen proběhli.</p>\t\t\n\t\t\t\t\t<h3>On-line průvodce do kapsy obsahuje</h3>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tItinerář trasy s popisem památek a turistických cílů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tMapu ke stažení do mobilu pro snadnější orientaci.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPraktickou přílohu: přehled jízdenek a ticketů na městskou dopravu ve Vídni.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Vše komplet v jednom produktu. Vídeň objevujete pohodlně, vlastním tempem, ale tak, jako byste měli po celé trase můj osobní doprovod s výkladem.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci odzkoušenou trasu Vídní\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"369\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg.webp\" alt=\"On-line Průvodce do kapsy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg 450w, https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo-300x246.jpg 300w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Možná to znáte i vy</h2>\t\t\t\t\n\t\t<p>Sice přesně víte, co všechno byste ve Vídni chtěli vidět, ale nemáte už tak přesnou představu, jak daleko od sebe památky jsou a jakou zvolit trasu nebo dopravu mezi jednotlivými cíli, abyste zbytečně neztráceli čas a nebloudili městem.</p><p>Zkušenost mi ukazuje, že scénář představ o návštěvě Vídně je mnohdy hodně podobný. <strong>Teď je tu nástroj, který mnohé otázky a nejasnosti vyřeší.</strong></p>\t\t\n\t\t\t\t\t<h2>Průvodce je pro vás, pokud</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChcete jasně danou trasu širším centrem města a vidět nejdůležitější památky a cíle <strong>bez stresu a časových ztrát</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Nepotřebujete osobní doprovod</strong> nebo nemáme společný volný termín.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tChcete mít <strong>jistotu, že jdete „správně“</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t<h3>Tohle není „jen“ PDF</h3>\t\t\t\t\n\t\t<p>Je to zkušenost a prověřená praxe. Pro vás pak: pohodlí, jistota, úspora času, žádný chaos a bod opory v kapse.</p>\t\t\n\t\t\t\t\t<h2>Co průvodce přesně obsahuje</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Pěší trasu dlouhou 6 km širším centrem Vídně</strong>, na které uvidíte minimálně 10 nejdůležitějších památek a cílů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Podrobný itinerář trasy</strong> s popisem všech památek po cestě.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Souvislosti, informace z historie a zajímavosti</strong>, které se mnozí turisté nedozví.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>QR kód a odkaz ke stažení mapy do mobilu</strong> pro pohodlnou orientaci na trase.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Přehlednou PDF verzi s fotografiemi</strong> připravenou k okamžitému použití.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Přílohu: přehled jízdenek a ticketů</strong> na městskou dopravu ve Vídni včetně novinek platných od ledna 2026.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Trasu, kterou zvládnou dospělí i děti</strong> v každém ročním období – osobně odzkoušeno.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"680\" height=\"706\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male.jpg 680w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/foto-moje-male-289x300.jpg 289w\" sizes=\"(max-width: 680px) 100vw, 680px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Stejnou trasou jako moji klienti – jen sami, s itinerářem v kapse</h2>\t\t\t\t\n\t\t<p>Projdete si Vídeň stejnou trasou, kterou chodím s klienty při osobním doprovodu, tentokrát sami, ale s mým podrobným itinerářem v kapse.</p><p><strong>Přestaňte bloudit a začněte si metropoli užívat!</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci odzkoušenou trasu Vídní\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co vám průvodce přinese</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZískáte odzkoušenou trasu městem a nezabloudíte mezi památkami.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZa jeden půlden uvidíte z Vídně to podstatné bez chaosu a zbytečného přejíždění.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tKe každé památce na trase budete mít informace.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tProjdete si Vídeň v pohodě, vlastním tempem, a sami rozhodnete, kde se zdržíte a co navštívíte.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPo celou dobu budete mít pocit, že vás vede někdo místní.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBudete vědět, jaký typ jízdenky na MHD si vybrat (novinky pro rok 2026 jsou v příloze).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-900x507.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/20251015_164354.jpg 1120w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Jaký je rozdíl oproti osobnímu doprovodu?</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"620\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/ja-u-Hundertwasserhaus-620x900.jpg.webp\" alt=\"Den ve Vidni\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>Osobní doprovod</h3>\t\t\t\t\n\t\t<p>Individuální trasa na míru, možnost se na cokoliv zeptat a společná konverzace o životě v Rakousku. Nasměrování a rady na další cíle.</p>\t\t\n\t\t\t\t\t<a href=\"/viden-cestovni-podpora/\">\n\t\t\t\t\t\t\t\t\tCestovní podpora na míru\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"645\" height=\"611\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg.webp\" alt=\"průvoce Vídeň\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg 645w, https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2-300x284.jpg 300w\" sizes=\"(max-width: 645px) 100vw, 645px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h3>On-line průvodce</h3>\t\t\t\t\n\t\t<p>Stejná trasa, stejné informace, jen bez mé přítomnosti a možnosti se doptat. Jednodušší a dostupnější varianta se stejnou kvalitou obsahu.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tKoupit průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Praktické informace</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Délka trasy:</strong> cca 6 km.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Časová náročnost:</strong> 3–4 hodiny podle tempa, s návštěvou památek déle.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Start:</strong> Karlsplatz – 3 linky metra a zastávky několika linek tramvají i autobusů.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Stažení:</strong> ihned po zaplacení (PDF).\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t<p>Stále, i po skončení zaváděcí ceny, najdete příjemnou cenu za komplexnost celého produktu.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci průvodce ihned\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"539\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-539x900.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-539x900.jpg 539w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu-180x300.jpg 180w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Ja-u-Parlamentu.jpg 680w\" sizes=\"(max-width: 539px) 100vw, 539px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Kdo pro vás trasu připravil</h2>\t\t\t\t\n\t\t\t\t\t<h3>Kdo</h3>\t\t\t\t\n\t\t<p>Jmenuji se Blanka a ve Vídni žiji už několik let. Když jsem se v 50 letech přestěhovala z Prahy do Vídně, neuměla jsem ani slovo německy a každý den byl výzvou. Na začátku jsem se cítila podobně jako každý turista, který se ocitne v nové zemi, jejímž jazykem dobře nehovoří. Po pár letech ve Vídni vznikl můj projekt a nyní nabízím cestovní podporu – různé služby pro snadnější poznávání Vídně a okolí.</p>\t\t\n\t\t\t\t\t<h3>Co</h3>\t\t\t\t\n\t\t<p>On-line průvodce (procházka Vídní) vznikl z osobní zkušenosti – z potřeby nabídnout vám rychlou a jednoduchou možnost osvědčené trasy, kterou se svými klienty procházím už roky, k okamžitému využití.</p>\t\t\n\t\t\t\t\t<h3>Proč</h3>\t\t\t\t\n\t\t<p>V turistické sezoně se mi stalo, že se na mě obrátili klienti s poptávkou na stejný termín a já nemohla osobně vyhovět oběma. Nabídla jsem tedy projít trasu samostatně s předem připraveným itinerářem, podrobným popisem památek a mapkou do mobilu. Klient byl nadšený, a natolik spokojený, že se po roce do Vídně vrátil s celou rodinou a objednali si službu na míru.</p><p><strong>Tak vznikl tento on-line průvodce – ne jako prvoplánová nabídka, ale jako nabídka, kterou si vyžádala praxe.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tChci osvědčeného průvodce\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co na trase uvidíte</h2>\t\t\t\t\n\t\t<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"640\" height=\"409\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg.webp\" alt=\"Burggarten\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg 640w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1-300x192.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Burggarten</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"860\" height=\"484\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg.webp\" alt=\"Vidensky fiakr\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg 860w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-768x432.jpg 768w\" sizes=\"(max-width: 860px) 100vw, 860px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Typický vídeňský fiakr</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg.webp\" alt=\"Viden Albertina\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Obrazárna Albertina</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"523\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-900x523.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-900x523.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-300x174.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher-768x446.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hotel-Sacher.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hotel Sacher</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"565\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-900x565.jpg.webp\" alt=\"Budova Secese\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-900x565.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-300x188.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese-768x482.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Budova-Secese.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Budova Secese</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"506\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg.webp\" alt=\"Viden noc\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-1536x864.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni.jpg 1600w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeňská opera</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"456\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-900x456.jpg.webp\" alt=\"Hofburg\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-900x456.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-300x152.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2-768x389.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Hofburg-2.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-900x507.jpg.webp\" alt=\"Karlskirche\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Karlskirche.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Karlskirche</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-900x507.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Kapucingrot.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hrobka Habsburků</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-900x507.jpg.webp\" alt=\"Den ve Vidni\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Znama-nakupni-trida.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Místa, kudy budete procházet</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"519\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-900x519.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-900x519.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-300x173.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny-768x443.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/U-Albertiny.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Z procházky městem</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"507\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-900x507.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-900x507.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky-768x433.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Opera-z-vysky.jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeň jinak – snadněji, plynule a chytře</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"629\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-900x629.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-900x629.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-300x210.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina-768x537.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2026/02/Fiakr-u-Albertina.jpg 1100w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Fiakr u Albertiny</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"754\" height=\"635\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg.webp\" alt=\"Sachr - cesty do Vidne\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg 754w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2-300x253.jpg 300w\" sizes=\"(max-width: 754px) 100vw, 754px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Originál Sacher dort</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"713\" height=\"367\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg 713w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2-300x154.jpg 300w\" sizes=\"(max-width: 713px) 100vw, 713px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t<p>Nový produkt od února 2026</p>\t\t\t\t\n\t\t\t\t\t<h2>Získejte jasnou trasu, jistotu a klid při objevování Vídně</h2>\t\t\t\t\n\t\t<p>První měsíc využilo zaváděcí cenu už několik mých sledovatelů. Cena je stále velmi příjemná v porovnání s osobním doprovodem, a přitom i v on-line verzi dostáváte kompletní informace, které poskytuji při osobním doprovodu městem.</p><p>Pokud plánujete návštěvu Vídně, můžete si trasu stáhnout dnes a využít ji kdykoliv později. Přístup obdržíte okamžitě po zaplacení.</p>\t\t\n\t\t\t\t\t<h3>Objednat průvodce do kapsy</h3>\t\t\t\t\n\t\t\t\t\t<!-- www.SimpleShop.cz form#141712 start -->\nProdejní formulář je vytvořen v systému <a href=\"https://www.simpleshop.cz/?utm_source=simpleshop&utm_medium=form&utm_campaign=66797\" target=\"_blank\">SimpleShop.cz</a>.\n<!-- www.SimpleShop.cz form#141712 end -->",
  "parent": 0,
  "slug": "den-ve-vidni-novy-design",
  "title": "Den ve Vídni – váš průvodce do kapsy (nový design)",

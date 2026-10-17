@@ -42,6 +42,7 @@
           "unit": "px"
          },
          "align": "center",
+         "header_size": "h1",
          "pa_condition_repeater": [],
          "premium_tooltip_position": "top,bottom",
          "premium_tooltip_text": "Hi, I'm a global tooltip.",
@@ -105,7 +106,7 @@
           "id": 21390,
           "size": "",
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464.jpg"
          },
          "pa_condition_repeater": [],
          "premium_tooltip_position": "top,bottom",
@@ -1682,7 +1683,7 @@
           "alt": "lednova dekorace",
           "id": 11516,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -1781,7 +1782,7 @@
           "alt": "unorova dekorace",
           "id": 11517,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -1872,7 +1873,7 @@
           "alt": "Březnová dekorace do bytu",
           "id": 3488,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -1963,7 +1964,7 @@
           "alt": "dubnova dekorace",
           "id": 11518,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2079,7 +2080,7 @@
           "alt": "kvetnova dekorace",
           "id": 11519,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2170,7 +2171,7 @@
           "alt": "červnova dekorace",
           "id": 11520,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2261,7 +2262,7 @@
           "alt": "kaminky dekorace",
           "id": 11521,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2352,7 +2353,7 @@
           "alt": "srpnova dekorace",
           "id": 11523,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2460,7 +2461,7 @@
           "alt": "zarijova dekorace",
           "id": 11524,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2552,7 +2553,7 @@
           "alt": "dusickova dekorace",
           "id": 11525,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2644,7 +2645,7 @@
           "alt": "adventni dekorace",
           "id": 11526,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -2735,7 +2736,7 @@
           "alt": "vánoční dekorace",
           "id": 11527,
           "source": "library",
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2.jpg"
          },
          "image_size": "medium",
          "pa_condition_repeater": [
@@ -3762,7 +3763,7 @@
   "_yoast_wpseo_metadesc": "Přeneste si kousek přírody i do svých domovů a vyrobte si každý měsíc po celý rok dekorace do bytu z přírodních materiálů."
  },
  "modified": "2024-04-09 19:29:48",
- "obsah_wordpress": "<h2>Rokem krok za krokem.</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"343\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-900x343.png\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-900x343.png 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-300x114.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-768x292.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-1536x585.png 1536w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464.png 1571w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Vytvořte si jednoduché dekorace do bytu.</h4>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tObdržíte 12 tipů a video-návodů na 12 měsíců roku.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVytvoříte si dekorace do bytu z přírodních materiálů inspirované ročním obdobím.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPropojíte se s rytmem a řádem přírody.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tProjdete rokem vědoměji a pomaleji a uvědomíte si koloběh roku.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPravidelnost cyklů z přírody tak prožijete i v běžných dnech.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZrecyklujete věci z domácnosti, které byste jinak vyhodili.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tTvořit můžete společně s dětmi, protože výroba je velmi snadná a nezabere mnoho času.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<h5>Abyste viděli, že to nebude nudné tvoření,  podívejte se na ukázku, jak veselo bylo u nás při natáčení video-návodů.</h5>\t\t\n\t\thttps://youtu.be/Y8-3JTAKhEw\t\t\n\t\t\t<h2>Pokud vás to láká, vyplňte formulář níže a můžete se hned pustit do tvoření podle návodů s popisky a video-ukázkami.</h2>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/j9u1q9\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tChci návody a videa na celý rok\n\t\t\t\t\t</a>\n\t\t\t<h3>A na co se můžete těšit a co si můžete během roku vyrobit:</h3>\t\t\n\t\t\t<h3>LE(D)NOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"159\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova-300x159.png\" alt=\"lednova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova-300x159.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova.png 576w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Lednová-ledová dekorace z období, kdy je v přírodě vše pod sněhem, tak se i u vás doma objeví ledová kráska.</p>\t\t\n\t\t\t<h3>ÚNOROVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace-300x158.png\" alt=\"unorova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Příroda se probouzí a my si zároveň s ní nadělíme první výhonky živých vitamínů na probuzení našeho těla.</p>\t\t\n\t\t\t<h3>BŘEZNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"157\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled-300x157.png\" alt=\"Březnová dekorace do bytu\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled-300x157.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled-768x402.png 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled.png 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Přichází velikonoce, klubou se kuřátka a my využijeme skořápky na velikonoční dekoraci.</p>\t\t\n\t\t\t<h3>DUBNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace-300x158.png\" alt=\"dubnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Duben, to je i apríl a tak zapátráme doma, spojíme úklid s tvořením a je tady praktická dekorace.</p>\t\t\n\t\t\t<h3>KVĚTNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace-300x158.png\" alt=\"kvetnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Květen nás už tahá ven do přírody a tak si můžeme přinést materiál na výrobu. </p>\t\t\n\t\t\t<h3>ČERVNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace-300x158.png\" alt=\"červnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Červen to je taková kombinace 2v1 recyklace a tvorba. Praktické, estetické a celoroční.</p>\t\t\n\t\t\t<h3>ČERVENCOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more-300x158.png\" alt=\"kaminky dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Prázdniny, to jsou výlety k moři, do hor a s tím i příležitost přivézt krásné kamínky.</p>\t\t\n\t\t\t<h3>SRPNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace-300x158.png\" alt=\"srpnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Závěr prázdnin a vzpomínky na zážitky z výletů. Materiál na výrobu máme z minulého měsíce.</p>\t\t\n\t\t\t<h3>ZÁŘIJOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace-300x158.png\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Rozhlédneme se kolem sebe v přírodě nebo na zahrádce a materiál na podzimní dekoraci je tu.</p>\t\t\n\t\t\t<h3>ŘÍJNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2-300x158.png\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2.png 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Barevný podzimní měsíc bohatý na plody přírody nám poslouží při výrobě víceúčelové dekorace.</p>\t\t\n\t\t\t<h3>LISTOPADOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2-300x158.png\" alt=\"adventni dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2-300x158.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2.png 560w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Netradiční adventní dekorace nám pomůže naladit se na vánoční období.</p>\t\t\n\t\t\t<h3>PROSINCOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"148\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2-300x148.png\" alt=\"vánoční dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2-300x148.png 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2.png 597w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Konec roku, období bilancování a spřádání snů a tužeb - to vše nám umožní poslední dekorace roku.</p>\t\t\n\t\t\t<h2>Co na tipy říkají .....</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"471\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-1024x536.jpg\" alt=\"recenze na dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-1024x536.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-300x157.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-768x402.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim..jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />",
+ "obsah_wordpress": "<h2>Rokem krok za krokem.</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"343\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-900x343.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-900x343.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-300x114.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-768x292.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464-1536x585.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2024/04/Dekorace-1-e1712689682464.jpg 1571w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h4>Vytvořte si jednoduché dekorace do bytu.</h4>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tObdržíte 12 tipů a video-návodů na 12 měsíců roku.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tVytvoříte si dekorace do bytu z přírodních materiálů inspirované ročním obdobím.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPropojíte se s rytmem a řádem přírody.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tProjdete rokem vědoměji a pomaleji a uvědomíte si koloběh roku.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPravidelnost cyklů z přírody tak prožijete i v běžných dnech.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZrecyklujete věci z domácnosti, které byste jinak vyhodili.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tTvořit můžete společně s dětmi, protože výroba je velmi snadná a nezabere mnoho času.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<h5>Abyste viděli, že to nebude nudné tvoření,  podívejte se na ukázku, jak veselo bylo u nás při natáčení video-návodů.</h5>\t\t\n\t\thttps://youtu.be/Y8-3JTAKhEw\t\t\n\t\t\t<h2>Pokud vás to láká, vyplňte formulář níže a můžete se hned pustit do tvoření podle návodů s popisky a video-ukázkami.</h2>\t\t\n\t\t\t<a href=\"https://landing.mailerlite.com/webforms/landing/j9u1q9\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tChci návody a videa na celý rok\n\t\t\t\t\t</a>\n\t\t\t<h3>A na co se můžete těšit a co si můžete během roku vyrobit:</h3>\t\t\n\t\t\t<h3>LE(D)NOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"159\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova-300x159.jpg\" alt=\"lednova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova-300x159.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/12-lednova.jpg 576w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Lednová-ledová dekorace z období, kdy je v přírodě vše pod sněhem, tak se i u vás doma objeví ledová kráska.</p>\t\t\n\t\t\t<h3>ÚNOROVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace-300x158.jpg\" alt=\"unorova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/10-unorova-dekorace.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Příroda se probouzí a my si zároveň s ní nadělíme první výhonky živých vitamínů na probuzení našeho těla.</p>\t\t\n\t\t\t<h3>BŘEZNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"157\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled-300x157.jpg\" alt=\"Březnová dekorace do bytu\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled-300x157.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled-768x402.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2021/03/Breznova-dekorace-nahled.jpg 900w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Přichází velikonoce, klubou se kuřátka a my využijeme skořápky na velikonoční dekoraci.</p>\t\t\n\t\t\t<h3>DUBNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace-300x158.jpg\" alt=\"dubnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-dubnova-dekorace.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Duben, to je i apríl a tak zapátráme doma, spojíme úklid s tvořením a je tady praktická dekorace.</p>\t\t\n\t\t\t<h3>KVĚTNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace-300x158.jpg\" alt=\"kvetnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/3-kvetnova-dekorace.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Květen nás už tahá ven do přírody a tak si můžeme přinést materiál na výrobu. </p>\t\t\n\t\t\t<h3>ČERVNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace-300x158.jpg\" alt=\"červnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/8-sukulenty-dekorace.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Červen to je taková kombinace 2v1 recyklace a tvorba. Praktické, estetické a celoroční.</p>\t\t\n\t\t\t<h3>ČERVENCOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more-300x158.jpg\" alt=\"kaminky dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/11-kaminky-od-more.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Prázdniny, to jsou výlety k moři, do hor a s tím i příležitost přivézt krásné kamínky.</p>\t\t\n\t\t\t<h3>SRPNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace-300x158.jpg\" alt=\"srpnova dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/4-srpnova-dekorace.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Závěr prázdnin a vzpomínky na zážitky z výletů. Materiál na výrobu máme z minulého měsíce.</p>\t\t\n\t\t\t<h3>ZÁŘIJOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace-300x158.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/5-podzimni-venecky-dekorace.jpg 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Rozhlédneme se kolem sebe v přírodě nebo na zahrádce a materiál na podzimní dekoraci je tu.</p>\t\t\n\t\t\t<h3>ŘÍJNOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2-300x158.jpg\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/6-dusickova-dekorace2.jpg 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Barevný podzimní měsíc bohatý na plody přírody nám poslouží při výrobě víceúčelové dekorace.</p>\t\t\n\t\t\t<h3>LISTOPADOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"158\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2-300x158.jpg\" alt=\"adventni dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2-300x158.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/7-adventni-dekorace2.jpg 560w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Netradiční adventní dekorace nám pomůže naladit se na vánoční období.</p>\t\t\n\t\t\t<h3>PROSINCOVÁ DEKORACE</h3>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"148\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2-300x148.jpg\" alt=\"vánoční dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2-300x148.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/9-vanocni-dekorace2.jpg 597w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t<p>Konec roku, období bilancování a spřádání snů a tužeb - to vše nám umožní poslední dekorace roku.</p>\t\t\n\t\t\t<h2>Co na tipy říkají .....</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"471\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-1024x536.jpg\" alt=\"recenze na dekorace\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-1024x536.jpg 1024w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-300x157.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim.-768x402.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2022/04/2-Foto-na-web-komprim..jpg 1200w\" sizes=\"(max-width: 900px) 100vw, 900px\" />",
  "parent": 0,
  "slug": "dekorace-rokem-krok-za-krokem",
  "title": "Dekorace do bytu-Rokem krok za krokem",

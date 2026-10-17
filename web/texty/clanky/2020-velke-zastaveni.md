@@ -14,7 +14,7 @@ Každá z nich žije v jiném státě akaždá má zcela jiné výchozí životn
 
 Pokud se i ty chceš nebo potřebuješ učit německy, něco pro tebe mám.
 
-[obrázek: Kadence-str.-produkty.png]
+[obrázek: Kadence-str.-produkty.jpg]
 
 ## zpět k našim ženám a k tématu příspěvku:
 
@@ -24,9 +24,9 @@ blízko státní hranice s ČR.
 Má rodinu (muže, syna a maminku) v jednom domě.
 Vlastní velké hospodářství, vlastně je to takový rozsáhlý statek s penzionem, mnoha poly a také s mnoha zvířaty.
 
-[obrázek: pat-zastaveni.png]
+[obrázek: pat-zastaveni.jpg]
 
-[obrázek: muzika2.png]
+[obrázek: muzika2.jpg]
 
 Ta druhá (říkejme ji Conny), žije v Rakousku, ale není původem z Rakouska.
 Rodinu má různě po světě - maminku v Německu a dceru ve Skotsku.

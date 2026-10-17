@@ -39,7 +39,7 @@ Se zázemím v Anglii mi pomohl tu brácha, tu přítel a taky moje povaha.
 Já si vždycky najdu lidi, kteří jsou na stejné vlně, ať už jsem kdekoliv.
 Já jsem se nikdy nebála, že budu někde sama, že někam nebudu patřit atd. Tohle v mojí hlavě nebylo a možná i právě proto jsem za hranicemi zakořenila tak rychle.
 
-[obrázek: community.png]
+[obrázek: community.jpg]
 
 - Stýská se ti po tvé vlasti nebo sis našla v nové zemi přátelé, kamarády a považuješ novou zemi již za svůj domov?
 Stýská se mi po rodičích a to moc! Ale domov mám teď v Anglii, cítím se tam zkrátka velmi dobře. Našla jsem si v novém místě skvělou partu kamarádů a každý den potkávám další super lidi.

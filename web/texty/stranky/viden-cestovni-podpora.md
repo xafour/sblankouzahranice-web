@@ -342,7 +342,7 @@ můžete ve Vídni vidět
 
 ## Pro každého klienta, který si objedná jakoukoliv formu služby CESTOVNÍ PODPORY je připraven BONUS navíc, který vám ušetří další náklady. Se službou cestovní podpory ušetříte nejen peníze, ale i čas a své nervy.
 
-[obrázek: Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.png]
+[obrázek: Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.jpg]
 
 ## BONUS = DÁREK
 

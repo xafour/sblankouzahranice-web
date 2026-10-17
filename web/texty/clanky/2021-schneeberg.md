@@ -103,7 +103,7 @@ Pokud chcete mít vždy jistotu, že si svůj výlet opravdu užijete, můžete 
 Do tohoto CHECKLISTU jsem pro vás „zabalila“ své několikaleté zkušenosti s výletováním v Rakousku a rakouských horách.
 Kromě jedné vrstvy oblečení navíc, zde dostanete ještě dalších 9 tipů, a také speciální přílohu: váš osobní seznam věcí.
 
-[obrázek: e-bookzdarmamuj2-3.png]
+[obrázek: e-bookzdarmamuj2-3.jpg]
 
 Ještě dva tipy jako bonus navíc:
 - Na webové stránce lokálky Schneebergbahn si už doma můžete rezervovat, zakoupit a vytisknout lístky pro jízdu nahoru a dolů, v časech, které vám nejvíce vyhovují.

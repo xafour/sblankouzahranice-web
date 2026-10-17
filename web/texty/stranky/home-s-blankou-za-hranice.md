@@ -2,11 +2,11 @@
 
 Adresa: https://sblankouzahranice.eu/
 
-Popis pro Google: S Blankou za hranice do Rakouska, nejen na výlety do přírody. Poznejte rakouskou přírodu i život v zahraničí. Skrze přírodu zpátky k sobě.
+Popis pro Google: Získejte jasnou trasu, jistotu a klid při objevování Vídně a Rakouska. Cestovní podpora, itineráře na míru, on-line průvodci a tipy na výlety.
 
 ## Poznejte Vídeň a Rakousko. Objevte moudrost přírody.
 
-[obrázek: Home-1.png]
+[obrázek: Home-1.jpg]
 
 Vaše cestovní podpora ve Vídni a okolí. On-line průvodkyně Rakouskem.
 Autorka projektu Přírodou k sobě.
@@ -57,7 +57,7 @@ Váš bod jistoty při objevování Vídně.
 
 ## Individuální cestovní podpora ve Vídni
 
-[obrázek: viden-s-podporou-S.png]
+[obrázek: viden-s-podporou-S.jpg]
 
 Itineráře, programy na míru a osobní doprovod městem.
 - Více než jen rady a tipy, které vám ušetří čas a peníz.
@@ -84,7 +84,7 @@ Ve Vídni s programem a podporou pro skupiny.
 
 ## Praktický průvodce do kapsy. Den ve Vídni.
 
-[obrázek: Pruvodce-do-kapsy.png]
+[obrázek: Pruvodce-do-kapsy.jpg]
 
 Vídeň vlastním tempem.
 S pocitem podpory za zády.
@@ -112,7 +112,7 @@ Objevte radost z tvoření.
 
 ## Přírodou k sobě
 
-[obrázek: prirodou-k-sobe2.png]
+[obrázek: prirodou-k-sobe2.jpg]
 
 Regenerační procházky v přírodě
 inspirované konceptem Lesní mysl, Lesní terapie, s využitím zkušeností z Tai-Chi a Qi-Gongu.
@@ -163,7 +163,7 @@ a ještě více...
 
 ## Produkty ke stažení
 
-[obrázek: e-book.png]
+[obrázek: e-book.jpg]
 
 Praktické e-Průvodce Vídní.
 - Průvodce do kapsy - trasa centrem Vídně s popisem památek a mapkou ke stažení.
@@ -177,7 +177,7 @@ Spousta DÁRKŮ zDARma.
 
 ## Kam v Rakousku? Tipy na výlety
 
-[obrázek: 3.png]
+[obrázek: 3.jpg]
 
 Příroda, zajímavá místa i historie.
 - Více než 10 let cestování a života v Rakousku.
@@ -192,7 +192,7 @@ a mnohem více...
 
 ## Blog ze života
 
-[obrázek: blog-2.png]
+[obrázek: blog-2.jpg]
 
 Zamyšlení, postřehy a zkušenosti ze života (nejen) v Rakousku a v přírodě.
 Vydejte se:
@@ -205,7 +205,7 @@ a ještě něco navíc...
 
 ## Jak se žije v zahraničí
 
-[obrázek: jak-se-zije-za-hranici2.png]
+[obrázek: jak-se-zije-za-hranici2.jpg]
 
 Příběhy žen, které se vydaly na zkušenou do světa.
 - Švýcarsko
@@ -227,7 +227,7 @@ Nejprve to byly krátké popisy výletů po ohromujících místech Rakouska pro
 
 ## Více o mém projektu a workshopech v přírodě.
 
-[obrázek: Na-web-radio-ORF-2.png]
+[obrázek: Na-web-radio-ORF-2.jpg]
 
 Rozhovor v rádiu ORF
 listopad 2024
@@ -244,6 +244,6 @@ Jsem žena, která vstoupila do druhé poloviny života krokem do neznáma-vykro
 
 Oddělovač
 
-[obrázek: Reference-sluzeb.png]
+[obrázek: Reference-sluzeb.jpg]
 
 Přečtěte si, co o mých službách a produktech říkají zákazníci a klienti.

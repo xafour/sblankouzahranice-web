@@ -40,7 +40,7 @@ Díky této publikaci poznáte Vídeň tam, kde ukazuje svoji nejjemnější tv�
 
 Objednat PRŮVODCE
 
-[obrázek: Vystrizek-obalky-maly.png]
+[obrázek: Vystrizek-obalky-maly.jpg]
 
 [obrázek: 20230630_111417.jpg]
 
@@ -64,7 +64,7 @@ Stačí udělat pár kroků stranou a město se úplně změní.
 
 Projděte parky, zelená zákoutí a skrytá tajemství pro klidnější poznávání metropole Rakouska.
 
-[obrázek: Nahledovy-obrazek.png]
+[obrázek: Nahledovy-obrazek.jpg]
 
 ## S tímto PRAKTICKÝM PRŮVODCEM:
 
@@ -80,7 +80,7 @@ Najdete tipy na občerstvení a příjemné posezení přímo v zeleni.
 
 Chci PRŮVODCE zahradami a parky Vídně
 
-[obrázek: Grafika-na-web.png]
+[obrázek: Grafika-na-web.jpg]
 
 ## Objevujte Vídeň a užívejte si své dny naplno.
 
@@ -202,6 +202,6 @@ kteří přijíždějí do Vídně zpomalit.
 
 Objednat PRŮVODCE
 
-[obrázek: Vystrizek.png]
+[obrázek: Vystrizek.jpg]
 
 ## Pokud si město nechcete pouze oběhnout, ale v klidu užít, objevte parky a zahrady Vídně.

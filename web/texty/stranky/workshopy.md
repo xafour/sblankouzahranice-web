@@ -6,7 +6,7 @@ Popis pro Google: s Blankou za hranice, přírodou k sobě. Workshopy, živé ak
 
 ## Workshopy. Živá setkání.
 
-[obrázek: Workshopy-1-e1712642807130.png]
+[obrázek: Workshopy-1-e1712642807130.jpg]
 
 ## Off-line živá setkání v malých skupinkách.
 

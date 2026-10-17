@@ -60,6 +60,7 @@
         "id": "dd50d1f",
         "settings": {
          "align": "center",
+         "header_size": "h1",
          "pa_condition_repeater": [],
          "premium_tooltip_position": "top,bottom",
          "premium_tooltip_text": "Hi, I'm a global tooltip.",

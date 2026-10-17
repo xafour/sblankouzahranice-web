@@ -6,4 +6,4 @@ Hledáte ubytování v Rakousku?
 
 Travelking
 
-[obrázek: Traveling-dolni-panel2.png]
+[obrázek: Traveling-dolni-panel2.jpg]

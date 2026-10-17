@@ -24,7 +24,7 @@ A tak jsem stále dál seděla v kanceláři a oknem se dívala ven, tam, kde js
 
 ## Jak by ses rozhodovala, kdybys věděla, kolik dní života ti zbývá?
 
-[obrázek: cas-kolik.png]
+[obrázek: cas-kolik.jpg]
 
 A tak jak to bývá u nás mnohých, stále jsem se těšila a stále si dál v hlavě plánovala:
 - až doplatím hypotéku...

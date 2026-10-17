@@ -42,6 +42,7 @@
           "unit": "px"
          },
          "align": "center",
+         "header_size": "h1",
          "pa_condition_repeater": [],
          "premium_tooltip_position": "top,bottom",
          "premium_tooltip_text": "Hi, I'm a global tooltip.",
@@ -755,7 +756,7 @@
          },
          "image": {
           "id": 3153,
-          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-kontakt.png"
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2021/03/mapka-kontakt.jpg"
          },
          "image_custom_dimension": {
           "height": "400",

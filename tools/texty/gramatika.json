@@ -1,0 +1,4948 @@
+{
+ "opravy": [
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "rady a tipy, které vám ušetří čas a peníz.",
+   "opraveno": "rady a tipy, které vám ušetří čas a peníze.",
+   "duvod": "Překlep: peníze.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "Nebloudíte, nehledáte....získáte jistotu",
+   "opraveno": "Nebloudíte, nehledáte… získáte jistotu",
+   "duvod": "Výpustka má tři tečky (…), za ní mezera.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "## a nebo....",
+   "opraveno": "## a nebo…",
+   "duvod": "Výpustka má tři tečky, ne čtyři.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "Video-návody na výrobu dekorací do bytu",
+   "opraveno": "Videonávody na výrobu dekorací do bytu",
+   "duvod": "Složenina s „video-“ se píše dohromady.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "\"Rokem krok za krokem\".",
+   "opraveno": "„Rokem krok za krokem“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "- Průvodce do kapsy - trasa centrem Vídně",
+   "opraveno": "- Průvodce do kapsy – trasa centrem Vídně",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "- Vídní pěšky i na kole - praktická příručka.",
+   "opraveno": "- Vídní pěšky i na kole – praktická příručka.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "- Více než 2000 hod v přírodě.",
+   "opraveno": "- Více než 2000 hod. v přírodě.",
+   "duvod": "Zkratka „hod.“ se píše s tečkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "- Pěší turistika i cyklo-turistika.",
+   "opraveno": "- Pěší turistika i cykloturistika.",
+   "duvod": "Složenina se píše dohromady.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "Žena, partnerka, lektorka..",
+   "opraveno": "Žena, partnerka, lektorka…",
+   "duvod": "Dvě tečky – buď jedna tečka, nebo výpustka (…).",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "Více o mne zde",
+   "opraveno": "Více o mně zde",
+   "duvod": "Po předložce „o“ (6. pád) je „mně“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "krokem do neznáma-vykročila jsem se za hranice vlasti",
+   "opraveno": "krokem do neznáma – vykročila jsem za hranice vlasti",
+   "duvod": "Pomlčka s mezerami místo spojovníku; „vykročit“ není zvratné, „se“ je navíc.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "# Vídeň - individuální cestovní podpora",
+   "opraveno": "# Vídeň – individuální cestovní podpora",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "NEMÁTE ČAS trávit hodiny hledáním kam se podívat?",
+   "opraveno": "NEMÁTE ČAS trávit hodiny hledáním, kam se podívat?",
+   "duvod": "Čárka před vedlejší větou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Jako Češka, žijící ve Vídni už 10 let vám pomohu",
+   "opraveno": "Jako Češka žijící ve Vídni už 10 let vám pomohu",
+   "duvod": "Vložený přívlastek musí být oddělen čárkami z obou stran, nebo vůbec (zde stačí bez čárky; případně „Jako Češka, žijící ve Vídni už 10 let, vám pomohu“).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Pokud budete Vídní projížděť a CHCETE SVŮJ ČAS",
+   "opraveno": "Pokud budete Vídní projíždět a CHCETE SVŮJ ČAS",
+   "duvod": "Překlep: projíždět.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "prostřednictvím \"suchých dat a letopočtů\".",
+   "opraveno": "prostřednictvím „suchých dat a letopočtů“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Dejme si 15 minutovku ZDARMA",
+   "opraveno": "Dejme si 15minutovku ZDARMA",
+   "duvod": "Složené slovo s číslicí se píše dohromady (15minutovka).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "s pocitem podpory za zády - to je e-Průvodce do kapsy.",
+   "opraveno": "s pocitem podpory za zády – to je e-Průvodce do kapsy.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Váš bod jistoty při objevování Vídně- klidný den",
+   "opraveno": "Váš bod jistoty při objevování Vídně – klidný den",
+   "duvod": "Pomlčka s mezerami z obou stran.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "vůni pravé Vídeňské kávy a Sacher dortu.",
+   "opraveno": "vůni pravé vídeňské kávy a Sacher dortu.",
+   "duvod": "Přídavné jméno „vídeňský“ se píše s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "vaše přání, představy a potřeby .",
+   "opraveno": "vaše přání, představy a potřeby.",
+   "duvod": "Mezera před tečkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "jako bonus navíc, za objednané služby - vždy něco, co může",
+   "opraveno": "jako bonus navíc, za objednané služby – vždy něco, co může",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "a) záloha ve výši 50% po potvrzení prvotní objednávky",
+   "opraveno": "a) záloha ve výši 50 % po potvrzení prvotní objednávky",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "b) doplatek zbylých 50% buď po zaslání finální verze itineráře nebo několik dní",
+   "opraveno": "b) doplatek zbylých 50 % buď po zaslání finální verze itineráře, nebo několik dní",
+   "duvod": "Mezera před %; čárka ve spojce „buď…, nebo“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "buď cennově nebo vhodnou polohou výhodné",
+   "opraveno": "buď cenově, nebo vhodnou polohou výhodné",
+   "duvod": "Překlep „cenově“; čárka ve spojce „buď…, nebo“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Často stačí 1-2 dny pro základní nebo hlubší orientaci.",
+   "opraveno": "Často stačí 1–2 dny pro základní nebo hlubší orientaci.",
+   "duvod": "Rozsah se píše s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "bylo to tak jak jsem si představoval.",
+   "opraveno": "bylo to tak, jak jsem si představoval.",
+   "duvod": "Čárka před vedlejší větou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Zdravím Blani.",
+   "opraveno": "Zdravím, Blani.",
+   "duvod": "Oslovení se odděluje čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "orientaci v této metroli.",
+   "opraveno": "orientaci v této metropoli.",
+   "duvod": "Překlep: metropoli.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Návštěva \"světelné zahrady\" byl skutečně skvělý nápad.",
+   "opraveno": "Návštěva „světelné zahrady“ byla skutečně skvělý nápad.",
+   "duvod": "Shoda podmětu „návštěva“ s přísudkem (byla); české uvozovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "jak jsme si to představovaly a to i díky Vám.",
+   "opraveno": "jak jsme si to představovaly, a to i díky Vám.",
+   "duvod": "Před „a to“ se píše čárka.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Ještě jednou díky a krásné vánoce.",
+   "opraveno": "Ještě jednou díky a krásné Vánoce.",
+   "duvod": "Svátek Vánoce s velkým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Jana,Naďa a Eva",
+   "opraveno": "Jana, Naďa a Eva",
+   "duvod": "Chybějící mezera za čárkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "bezvadně užili. Těšíme na Vaše další náměty",
+   "opraveno": "bezvadně užili. Těšíme se na Vaše další náměty",
+   "duvod": "Chybí zvratné „se“ (těšit se).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Aho Blani, včera jsme v pořádku dorazily domů.",
+   "opraveno": "Aho, Blani, včera jsme v pořádku dorazily domů.",
+   "duvod": "Oslovení se odděluje čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Dobrý den Blani.",
+   "opraveno": "Dobrý den, Blani.",
+   "duvod": "Oslovení se odděluje čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "a udelali si i malou zastávku na kávu.",
+   "opraveno": "a udělali si i malou zastávku na kávu.",
+   "duvod": "Překlep: udělali.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Jeste jednou moc děkujeme za krásný zážitek",
+   "opraveno": "Ještě jednou moc děkujeme za krásný zážitek",
+   "duvod": "Chybí diakritika: ještě.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Počasí s teplotami přes 38°C nás všechny strašilo",
+   "opraveno": "Počasí s teplotami přes 38 °C nás všechny strašilo",
+   "duvod": "Mezi číslem a °C se píše mezera.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "už od \"brzkého\" rána a tak se z horkého dne",
+   "opraveno": "už od „brzkého“ rána, a tak se z horkého dne",
+   "duvod": "České uvozovky; před „a tak“ se píše čárka.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Z Prahy do Vídně jsem přestěhovala ve věku 50 let. Byl to velký skok do neznáma a tak mám",
+   "opraveno": "Z Prahy do Vídně jsem se přestěhovala ve věku 50 let. Byl to velký skok do neznáma, a tak mám",
+   "duvod": "Chybí zvratné „se“ (přestěhovat se); před „a tak“ se píše čárka.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "projekt „s Blankou za hranice“ ve kterém pomáhám krajanům",
+   "opraveno": "projekt „s Blankou za hranice“, ve kterém pomáhám krajanům",
+   "duvod": "Čárka před vedlejší větou vztažnou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "- Více o mne si můžete přečíst ZDE.",
+   "opraveno": "- Více o mně si můžete přečíst ZDE.",
+   "duvod": "Po předložce „o“ (6. pád) je „mně“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "## Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.",
+   "opraveno": "## Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.",
+   "duvod": "Přídavné jméno „vídeňský“ s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "jakoukoliv formu služby CESTOVNÍ PODPORY je připraven BONUS navíc, který vám ušetří",
+   "opraveno": "jakoukoliv formu služby CESTOVNÍ PODPORY, je připraven BONUS navíc, který vám ušetří",
+   "duvod": "Čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "## Hodila by se vám tato pomoci i pro vaši organizaci?",
+   "opraveno": "## Hodila by se vám tato pomoc i pro vaši organizaci?",
+   "duvod": "Překlep: pomoc.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Dostanete typ na vlakovou a autobusovou dopravu",
+   "opraveno": "Dostanete tip na vlakovou a autobusovou dopravu",
+   "duvod": "Záměna tip (rada) × typ (druh).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "a nechte si svůj pobyt připravit od Češky, žíjicí ve Vídni.",
+   "opraveno": "a nechte si svůj pobyt připravit od Češky, žijící ve Vídni.",
+   "duvod": "Překlep: žijící.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "- Pro 5-30 členné kolektivy, kamarády či přátelé, kteří",
+   "opraveno": "- Pro 5–30členné kolektivy, kamarády či přátele, kteří",
+   "duvod": "Složené přídavné jméno s číslicí dohromady, rozsah s pomlčkou; 4. pád „přátele“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "koho zajímá více, než jen projít kolem památek",
+   "opraveno": "koho zajímá více než jen projít kolem památek",
+   "duvod": "Při srovnání bez slovesa ve větě se před „než“ čárka nepíše.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Aho Blani, včera jsme v pořádku dorazily domů.",
+   "opraveno": "Aho, Blani, včera jsme v pořádku dorazily domů.",
+   "duvod": "Oslovení se odděluje čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "bezvadně užili. Těšíme na Vaše další náměty",
+   "opraveno": "bezvadně užili. Těšíme se na Vaše další náměty",
+   "duvod": "Chybí zvratné „se“ (těšit se).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "bylo to tak jak jsem si představoval.",
+   "opraveno": "bylo to tak, jak jsem si představoval.",
+   "duvod": "Čárka před vedlejší větou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "úžasná paní Blanka-služba Cestovní podpory.",
+   "opraveno": "úžasná paní Blanka – služba cestovní podpory.",
+   "duvod": "Pomlčka s mezerami místo spojovníku; „cestovní“ uprostřed věty malým písmenem.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Děkujeme za Vaši péči o naší divokou skupinu. Myslim, že",
+   "opraveno": "Děkujeme za Vaši péči o naši divokou skupinu. Myslím, že",
+   "duvod": "4. pád „naši“ (péče o koho, co); překlep „myslím“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "ing.Luděk Novák",
+   "opraveno": "Ing. Luděk Novák",
+   "duvod": "Titul s velkým písmenem a mezerou za tečkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "připravit program či itinerář na který nezapomenete.",
+   "opraveno": "připravit program či itinerář, na který nezapomenete.",
+   "duvod": "Čárka před vedlejší větou vztažnou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Jaro - Vídeňské zahrady.",
+   "opraveno": "Jaro – Vídeňské zahrady.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 1.den: prohlídka centra Vídně s velikonočními trhy.",
+   "opraveno": "> 1. den: prohlídka centra Vídně s velikonočními trhy.",
+   "duvod": "Za tečkou řadové číslovky mezera (platí pro všechna „1.den/2.den/3.den/4.den“ na stránce, včetně nadpisů).",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 2.den: zámek Schönbrunn nebo Belveder/volný program.",
+   "opraveno": "> 2. den: zámek Schönbrunn nebo Belveder/volný program.",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 3.den: parky a zahrady Vídně.",
+   "opraveno": "> 3. den: parky a zahrady Vídně.",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Léto - Dotek exotiky a chuť karibiku.",
+   "opraveno": "Léto – Dotek exotiky a chuť Karibiku.",
+   "duvod": "Pomlčka místo spojovníku; Karibik je vlastní jméno.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 1.den: prohlídka centra Vídně s večerní návštěvou vyhlídkového baru.",
+   "opraveno": "> 1. den: prohlídka centra Vídně s večerní návštěvou vyhlídkového baru.",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 2.den: Hundertwasserhaus a po Hundertwasserpromenádě",
+   "opraveno": "> 2. den: Hundertwasserhaus a po Hundertwasserpromenádě",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 3.den: návštěva pláží kolem Dunaje",
+   "opraveno": "> 3. den: návštěva pláží kolem Dunaje",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Podzim - putování vinicemi.",
+   "opraveno": "Podzim – putování vinicemi.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 1.den: prohlídka centra Vídně s návštěvou trhu Naschmarkt.",
+   "opraveno": "> 1. den: prohlídka centra Vídně s návštěvou trhu Naschmarkt.",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 2.den: Weinwandertag - speciální akce s putováním po vinicích.",
+   "opraveno": "> 2. den: Weinwandertag – speciální akce s putováním po vinicích.",
+   "duvod": "Mezera za tečkou řadové číslovky; pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 3.den: oddychový - kultura či kulinářské zážitky.",
+   "opraveno": "> 3. den: oddychový – kultura či kulinářské zážitky.",
+   "duvod": "Mezera za tečkou řadové číslovky; pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Zima - Adventní Vídeň.",
+   "opraveno": "Zima – Adventní Vídeň.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 1.den: prohlídka centra Vídně s vánočními trhy.",
+   "opraveno": "> 1. den: prohlídka centra Vídně s vánočními trhy.",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 2.den: zámek Schönbrunn s vánočními trhy.",
+   "opraveno": "> 2. den: zámek Schönbrunn s vánočními trhy.",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> 3.den: Magická světelná zahrada zámku Laxenburg",
+   "opraveno": "> 3. den: Magická světelná zahrada zámku Laxenburg",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "3-4 denní pobyt ve Vídni s maximálním využitím",
+   "opraveno": "3–4denní pobyt ve Vídni s maximálním využitím",
+   "duvod": "Složené přídavné jméno s číslicí dohromady, rozsah s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "- Nebudete bloudit a hledat jak nejlépe z místa A do místa B.",
+   "opraveno": "- Nebudete bloudit a hledat, jak nejlépe z místa A do místa B.",
+   "duvod": "Čárka před vedlejší větou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "vůni pravé Vídeňské kávy a originální Sacher dort.",
+   "opraveno": "vůni pravé vídeňské kávy a originální Sacher dort.",
+   "duvod": "Přídavné jméno „vídeňský“ s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "v rámci komentované cca 3 hodinové procházky.",
+   "opraveno": "v rámci komentované cca 3hodinové procházky.",
+   "duvod": "Složené přídavné jméno s číslicí se píše dohromady.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "## 1.den",
+   "opraveno": "## 1. den",
+   "duvod": "Mezera za tečkou řadové číslovky (stejně „## 2.den“, „## 3.den“, „## 4.den“).",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "## 2.den",
+   "opraveno": "## 2. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "## 3.den",
+   "opraveno": "## 3. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "## 4.den",
+   "opraveno": "## 4. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> Rady a pomoc kam uložit zavazadla do doby, než se přesunete na hotel nebo pomoc s check-inn v ubytování.",
+   "opraveno": "> Rady a pomoc, kam uložit zavazadla do doby, než se přesunete na hotel, nebo pomoc s check-inem v ubytování.",
+   "duvod": "Čárky kolem vedlejších vět; „check-in“ (překlep check-inn).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "po vlastní ose nebo společně-dle jednotlivých programů.",
+   "opraveno": "po vlastní ose nebo společně – dle jednotlivých programů.",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "buď každý sám nebo společně, jak se skupina dohodne.",
+   "opraveno": "buď každý sám, nebo společně, jak se skupina dohodne.",
+   "duvod": "Čárka ve spojce „buď…, nebo“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "je předem odsouhlasem zadavatelem služby.",
+   "opraveno": "je předem odsouhlasen zadavatelem služby.",
+   "duvod": "Překlep: odsouhlasen.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "na základě vašeho rozhodnutí, si pobyt ve Vídni prodloužit.",
+   "opraveno": "na základě vašeho rozhodnutí si pobyt ve Vídni prodloužit.",
+   "duvod": "Nadbytečná čárka (infinitiv není vedlejší věta).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Nabízí se návštěva dalších památek veVídni:",
+   "opraveno": "Nabízí se návštěva dalších památek ve Vídni:",
+   "duvod": "Chybějící mezera.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Více o tom, kdo byl Hundertwasser najdete ZDE.",
+   "opraveno": "Více o tom, kdo byl Hundertwasser, najdete ZDE.",
+   "duvod": "Čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Jeho velkou část po Hauptalle je možné projet",
+   "opraveno": "Jeho velkou část po Hauptallee je možné projet",
+   "duvod": "Překlep v názvu: Hauptallee.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "> Zámek Belveder - nedaleko Hlavního nádraží (Hauptbahnhof).",
+   "opraveno": "> Zámek Belveder – nedaleko Hlavního nádraží (Hauptbahnhof).",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "vhodná i při nepříznivém počasí se kterými vám mohu poradit.",
+   "opraveno": "vhodná i při nepříznivém počasí, se kterými vám mohu poradit.",
+   "duvod": "Čárka před vedlejší větou vztažnou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "- Ubytování na 2-3 noci.",
+   "opraveno": "- Ubytování na 2–3 noci.",
+   "duvod": "Rozsah se píše s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Vytipuji pro vás 2-3 nabídky ubytování",
+   "opraveno": "Vytipuji pro vás 2–3 nabídky ubytování",
+   "duvod": "Rozsah se píše s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Z Prahy do Vídně jsem stěhovala přesně ve věku 50 let.",
+   "opraveno": "Z Prahy do Vídně jsem se stěhovala přesně ve věku 50 let.",
+   "duvod": "Chybí zvratné „se“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "projekt „s Blankou za hranice“ ve kterém přináším zajímavé tipy na skvělé výlety nejen ve Vídni a v jeho nejbližším okolí",
+   "opraveno": "projekt „s Blankou za hranice“, ve kterém přináším zajímavé tipy na skvělé výlety nejen ve Vídni a v jejím nejbližším okolí",
+   "duvod": "Čárka před vztažnou větou; Vídeň je ženského rodu (v jejím okolí).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "Pokud máte o tento tip poznání Vídně zájem",
+   "opraveno": "Pokud máte o tento typ poznání Vídně zájem",
+   "duvod": "Záměna tip × typ (druh).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "## Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.",
+   "opraveno": "## Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.",
+   "duvod": "Přídavné jméno „vídeňský“ s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-programem-cestovni-podpora",
+   "puvodne": "## Poznejte Vídeň jako místní - bez stresu",
+   "opraveno": "## Poznejte Vídeň jako místní – bez stresu",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Jak využít pár dní co nejlépe. A co vše ve Vídni vidět?",
+   "opraveno": "Jak využít pár dní co nejlépe? A co vše ve Vídni vidět?",
+   "duvod": "Otázka končí otazníkem (Popis pro Google).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "NEMÁTE ČAS trávit hodiny hledáním kam se podívat?",
+   "opraveno": "NEMÁTE ČAS trávit hodiny hledáním, kam se podívat?",
+   "duvod": "Čárka před vedlejší větou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "i pro vás !",
+   "opraveno": "i pro vás!",
+   "duvod": "Mezera před vykřičníkem.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Pokud budete Vídní projížděť a CHCETE se zdržet 1-2 dny",
+   "opraveno": "Pokud budete Vídní projíždět a CHCETE se zdržet 1–2 dny",
+   "duvod": "Překlep „projíždět“; rozsah s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "(vinice,parky a zahrady, romantická místa",
+   "opraveno": "(vinice, parky a zahrady, romantická místa",
+   "duvod": "Mezera za čárkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "prostřednictvím \"suchých dat a letopočtů\".",
+   "opraveno": "prostřednictvím „suchých dat a letopočtů“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Dejme si 15 minutovku ZDARMA",
+   "opraveno": "Dejme si 15minutovku ZDARMA",
+   "duvod": "Složené slovo s číslicí se píše dohromady.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "NEBUDTE ZTRÁCET ČAS hledáním v průvodcích",
+   "opraveno": "NEBUDETE ZTRÁCET ČAS hledáním v průvodcích",
+   "duvod": "Překlep: NEBUDETE.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "NEBUDETE BLOUDIT a HLEDAT jak nejlépe z místa A do místa B.",
+   "opraveno": "NEBUDETE BLOUDIT a HLEDAT, jak nejlépe z místa A do místa B.",
+   "duvod": "Čárka před vedlejší větou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "vůni pravé Vídeňské kávy a Sacher dortu z původní",
+   "opraveno": "vůni pravé vídeňské kávy a Sacher dortu z původní",
+   "duvod": "Přídavné jméno „vídeňský“ s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "jako dárek za objednané služby - vždy něco co může být",
+   "opraveno": "jako dárek za objednané služby – vždy něco, co může být",
+   "duvod": "Pomlčka místo spojovníku; čárka před vztažnou větou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "a) záloha ve výši 50% po potvrzení prvotní objednávky",
+   "opraveno": "a) záloha ve výši 50 % po potvrzení prvotní objednávky",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "b) doplatek zbylých 50% buď po zaslání finální verze itineráře nebo několik dní",
+   "opraveno": "b) doplatek zbylých 50 % buď po zaslání finální verze itineráře, nebo několik dní",
+   "duvod": "Mezera před %; čárka ve spojce „buď…, nebo“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "výhodné ubytování buď cennově nebo vhodnou polohou",
+   "opraveno": "výhodné ubytování buď cenově, nebo vhodnou polohou",
+   "duvod": "Překlep „cenově“; čárka ve spojce „buď…, nebo“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Často stačí 1-2 dny pro základní nebo hlubší orientaci.",
+   "opraveno": "Často stačí 1–2 dny pro základní nebo hlubší orientaci.",
+   "duvod": "Rozsah se píše s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Dobrý den paní Blanko.",
+   "opraveno": "Dobrý den, paní Blanko.",
+   "duvod": "Oslovení se odděluje čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Zdravím Blani.",
+   "opraveno": "Zdravím, Blani.",
+   "duvod": "Oslovení se odděluje čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "bezvadně užili. Těšíme na Vaše další náměty",
+   "opraveno": "bezvadně užili. Těšíme se na Vaše další náměty",
+   "duvod": "Chybí zvratné „se“ (těšit se).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Z Prahy do Vídně jsem stěhovala přesně ve věku 50 let.",
+   "opraveno": "Z Prahy do Vídně jsem se stěhovala přesně ve věku 50 let.",
+   "duvod": "Chybí zvratné „se“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "projekt „s Blankou za hranice“ ve kterém přináším zajímavé tipy na skvělé výlety nejen ve Vídni a v jeho nejbližším okolí",
+   "opraveno": "projekt „s Blankou za hranice“, ve kterém přináším zajímavé tipy na skvělé výlety nejen ve Vídni a v jejím nejbližším okolí",
+   "duvod": "Čárka před vztažnou větou; Vídeň je ženského rodu (v jejím okolí).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "- Více o mne si můžete přečíst ZDE.",
+   "opraveno": "- Více o mně si můžete přečíst ZDE.",
+   "duvod": "Po předložce „o“ (6. pád) je „mně“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "v malé skupince max.10 osob",
+   "opraveno": "v malé skupince max. 10 osob",
+   "duvod": "Mezera za tečkou zkratky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "chci imformace o termínech",
+   "opraveno": "chci informace o termínech",
+   "duvod": "Překlep: informace.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "## Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a Vídeňskou kávu.",
+   "opraveno": "## Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.",
+   "duvod": "Přídavné jméno „vídeňský“ s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "jakoukoliv formu služby CESTOVNÍ PODPORY je připraven BONUS navíc.",
+   "opraveno": "jakoukoliv formu služby CESTOVNÍ PODPORY, je připraven BONUS navíc.",
+   "duvod": "Čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "## Hodila by se vám tato pomoci i pro vaši organizaci?",
+   "opraveno": "## Hodila by se vám tato pomoc i pro vaši organizaci?",
+   "duvod": "Překlep: pomoc.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "- Doprava do Vídně a zpět do ČR , stejně tak jako ubytování.",
+   "opraveno": "- Doprava do Vídně a zpět do ČR, stejně tak jako ubytování.",
+   "duvod": "Mezera před čárkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-s-podporou-za-zady",
+   "puvodne": "Dostanete typ na vlakovou a autobusovou dopravu",
+   "opraveno": "Dostanete tip na vlakovou a autobusovou dopravu",
+   "duvod": "Záměna tip (rada) × typ (druh).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "relaxace v sirných pramenech na ploše 3500 m.",
+   "opraveno": "relaxace v sirných pramenech na ploše 3500 m².",
+   "duvod": "Plocha se udává v m².",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "3denní pobyt ve Vídni pro skupinku max.10 osob.",
+   "opraveno": "3denní pobyt ve Vídni pro skupinku max. 10 osob.",
+   "duvod": "Mezera za tečkou zkratky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Program 1.den",
+   "opraveno": "Program 1. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "v den příjezdu ve 13,30.",
+   "opraveno": "v den příjezdu ve 13.30.",
+   "duvod": "Čas se odděluje tečkou (nebo dvojtečkou), ne čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "trvání 3 hod zhruba v čase 15,00-18,00.",
+   "opraveno": "trvání 3 hod. zhruba v čase 15.00–18.00.",
+   "duvod": "Zkratka „hod.“ s tečkou; čas s tečkou; rozsah s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "turistické památky a turistické cíle= historie",
+   "opraveno": "turistické památky a turistické cíle = historie",
+   "duvod": "Mezera před rovnítkem.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Hoffburg a muzeum Sisi, Volksgarten Parlament, Rathausplatz,s radnicí (Rathaus).",
+   "opraveno": "Hofburg a muzeum Sisi, Volksgarten, Parlament, Rathausplatz s radnicí (Rathaus).",
+   "duvod": "Překlep Hofburg; chybějící čárka ve výčtu; nadbytečná čárka bez mezery.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "z historie i současnosti a informacemi o životě v Rakousku.",
+   "opraveno": "z historie i současnosti a informace o životě v Rakousku.",
+   "duvod": "Chybný pád: „Čekají vás … historky … a informace“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Program 2.den",
+   "opraveno": "Program 2. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Sraz opět na Hauptbahnhof-místo, kam jste přijeli.",
+   "opraveno": "Sraz opět na Hauptbahnhof – místo, kam jste přijeli.",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Rychlovlakem (S-bahn) doprava",
+   "opraveno": "Rychlovlakem (S-Bahn) doprava",
+   "duvod": "Správný zápis názvu: S-Bahn.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "vidět z Vídně víc, než jen centrum.",
+   "opraveno": "vidět z Vídně víc než jen centrum.",
+   "duvod": "Při srovnání bez slovesa se před „než“ čárka nepíše.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "ve kterých najdete různé bazény. Venkovní bazén naplněný sirnou vodou, prostornou saunu a parní lázeň.",
+   "opraveno": "ve kterých najdete různé bazény: venkovní bazén naplněný sirnou vodou, prostornou saunu a parní lázeň.",
+   "duvod": "Neúplná věta – výčet patří za dvojtečku.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "koupelí v sirných pramenech věděli už Římané",
+   "opraveno": "koupelí v sirných pramenech, věděli už Římané",
+   "duvod": "Čárka za vedlejší větou na začátku souvětí.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Program 3.den",
+   "opraveno": "Program 3. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "posezení u originál Sacher dortu a Vídeňské kávy.",
+   "opraveno": "posezení u originál Sacher dortu a vídeňské kávy.",
+   "duvod": "Přídavné jméno „vídeňský“ s malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Jednolůžkový pokoj je za příplatek 1000Kč",
+   "opraveno": "Jednolůžkový pokoj je za příplatek 1000 Kč",
+   "duvod": "Mezera mezi číslem a jednotkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "je hrazena na místě v Eurech přímo v ubytování a každý dostane vlastní účtenku(fakturu).",
+   "opraveno": "je hrazena na místě v eurech přímo v ubytování a každý dostane vlastní účtenku (fakturu).",
+   "duvod": "Název měny malým písmenem; mezera před závorkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "1. Ubytování - 100 Euro na 2 noci vč.snídaně",
+   "opraveno": "1. Ubytování – 100 Euro na 2 noci vč. snídaně",
+   "duvod": "Pomlčka místo spojovníku; mezera za zkratkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "2. Program a další služby = 88 Euro /2200Kč.",
+   "opraveno": "2. Program a další služby = 88 Euro / 2200 Kč.",
+   "duvod": "Mezery kolem lomítka a mezi číslem a jednotkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Hradí se jako záloha-rezervační poplatek",
+   "opraveno": "Hradí se jako záloha – rezervační poplatek",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "2. Obstaráním jízdenek na hromadnou dopravu",
+   "opraveno": "2. Obstarání jízdenek na hromadnou dopravu",
+   "duvod": "Překlep/chybný tvar: obstarání.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "4. Pomoc s orientací po Vídni, tak aby klienti věděli",
+   "opraveno": "4. Pomoc s orientací po Vídni tak, aby klienti věděli",
+   "duvod": "Čárka patří před „aby“, ne před „tak“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "speciální tramvaj VÍDEŇ-BADEN a zpět",
+   "opraveno": "speciální tramvaj VÍDEŇ–BADEN a zpět",
+   "duvod": "Trasa „odkud–kam“ se píše s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "15,-Euro Senioři, 18,50 Euro běžný dospělý návštěvník.",
+   "opraveno": "15,- Euro senioři, 18,50 Euro běžný dospělý návštěvník.",
+   "duvod": "„senioři“ uprostřed věty malým písmenem; mezera za „15,-“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "Byl to velký skok do neznáma a tak mám stále v živé paměti",
+   "opraveno": "Byl to velký skok do neznáma, a tak mám stále v živé paměti",
+   "duvod": "Před „a tak“ se píše čárka.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "vznikl nápad na projekt s názvem: \"s Blankou za hranice\", ve kterém",
+   "opraveno": "vznikl nápad na projekt s názvem „s Blankou za hranice“, ve kterém",
+   "duvod": "České uvozovky; za „s názvem“ se dvojtečka nepíše.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-relaxacni",
+   "puvodne": "## Přihlášku je možné odeslat nejpozději do 2.10.2024!",
+   "opraveno": "## Přihlášku je možné odeslat nejpozději do 2. 10. 2024!",
+   "duvod": "V datu se za tečkami píše mezera.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Nechte organizaci na jiných a přijeďte si oddichnout.",
+   "opraveno": "Nechte organizaci na jiných a přijeďte si oddychnout.",
+   "duvod": "Překlep: oddychnout.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "3denní pobyt ve Vídni pro skupinku max.10 osob.",
+   "opraveno": "3denní pobyt ve Vídni pro skupinku max. 10 osob.",
+   "duvod": "Mezera za tečkou zkratky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Kde: Vídeň, metropole Rakouska .",
+   "opraveno": "Kde: Vídeň, metropole Rakouska.",
+   "duvod": "Mezera před tečkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Program 1.den",
+   "opraveno": "Program 1. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "v den příjezdu ve 13,30.",
+   "opraveno": "v den příjezdu ve 13.30.",
+   "duvod": "Čas se odděluje tečkou (nebo dvojtečkou), ne čárkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "trvání 3 hod zhruba v čase 15,00-18,00.",
+   "opraveno": "trvání 3 hod. zhruba v čase 15.00–18.00.",
+   "duvod": "Zkratka „hod.“ s tečkou; čas s tečkou; rozsah s pomlčkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "turistické památky a turistické cíle= historie",
+   "opraveno": "turistické památky a turistické cíle = historie",
+   "duvod": "Mezera před rovnítkem.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Hoffburg a muzeum Sisi, Volksgarten Parlament, Rathausplatz,s radnicí (Rathaus).",
+   "opraveno": "Hofburg a muzeum Sisi, Volksgarten, Parlament, Rathausplatz s radnicí (Rathaus).",
+   "duvod": "Překlep Hofburg; chybějící čárka ve výčtu; nadbytečná čárka bez mezery.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "z historie i současnosti a informacemi o životě v Rakousku.",
+   "opraveno": "z historie i současnosti a informace o životě v Rakousku.",
+   "duvod": "Chybný pád: „Čekají vás … historky … a informace“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Program 2.den",
+   "opraveno": "Program 2. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Sraz opět na Hauptbahnhof-místo, kam jste přijeli.",
+   "opraveno": "Sraz opět na Hauptbahnhof – místo, kam jste přijeli.",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Stálá expozice „Vídeň -můj příběh“",
+   "opraveno": "Stálá expozice „Vídeň – můj příběh“",
+   "duvod": "Pomlčka s mezerami z obou stran.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "zapůjčení Audio průvodce v češtině za 5 Euro.",
+   "opraveno": "zapůjčení audioprůvodce v češtině za 5 Euro.",
+   "duvod": "„Audioprůvodce“ (přístroj) se píše dohromady a malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Známá Mariahilferstrasse nebo Kärtnerstrasse jsou",
+   "opraveno": "Známá Mariahilferstrasse nebo Kärntnerstrasse jsou",
+   "duvod": "Překlep v názvu ulice: Kärntner.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Program 3.den",
+   "opraveno": "Program 3. den",
+   "duvod": "Mezera za tečkou řadové číslovky.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Jednolůžkový pokoj je za příplatek 1000Kč",
+   "opraveno": "Jednolůžkový pokoj je za příplatek 1000 Kč",
+   "duvod": "Mezera mezi číslem a jednotkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "je hrazena na místě v Eurech přímo v ubytování a každý dostane vlastní účtenku(fakturu).",
+   "opraveno": "je hrazena na místě v eurech přímo v ubytování a každý dostane vlastní účtenku (fakturu).",
+   "duvod": "Název měny malým písmenem; mezera před závorkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "1. Ubytování - 109 Euro na 2 noci vč.snídaně",
+   "opraveno": "1. Ubytování – 109 Euro na 2 noci vč. snídaně",
+   "duvod": "Pomlčka místo spojovníku; mezera za zkratkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "jízdenky na MHD a další služby = 75 Euro /1850Kč.",
+   "opraveno": "jízdenky na MHD a další služby = 75 Euro / 1850 Kč.",
+   "duvod": "Mezery kolem lomítka a mezi číslem a jednotkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Hradí se jako záloha-rezervační poplatek",
+   "opraveno": "Hradí se jako záloha – rezervační poplatek",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "Byl to velký skok do neznáma a tak mám stále v živé paměti",
+   "opraveno": "Byl to velký skok do neznáma, a tak mám stále v živé paměti",
+   "duvod": "Před „a tak“ se píše čárka.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "viden-adventni",
+   "puvodne": "vznikl nápad na projekt s názvem: \"s Blankou za hranice\", ve kterém",
+   "opraveno": "vznikl nápad na projekt s názvem „s Blankou za hranice“, ve kterém",
+   "duvod": "České uvozovky; za „s názvem“ se dvojtečka nepíše.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "Minipříručka \"7 nejčastějších chyb turistů ve Vídni\" vám ukáže, jak se jim vyhnout. Abyste si své dny ve Vídni opravdu užily.",
+   "opraveno": "Minipříručka „7 nejčastějších chyb turistů ve Vídni“ vám ukáže, jak se jim vyhnout. Abyste si své dny ve Vídni opravdu užili.",
+   "duvod": "České uvozovky; obecné oslovení v mužském rodě „užili“ (Popis pro Google).",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "## 7 nejčastějších chyb turistů ve Vídni...a jak se jim vyhnout.",
+   "opraveno": "## 7 nejčastějších chyb turistů ve Vídni… a jak se jim vyhnout.",
+   "duvod": "Výpustka (…) a mezera za ní.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "Zjistila jsem, že 90% problémů, které návštěvníky překvapí pramení ze 7 základních chyb",
+   "opraveno": "Zjistila jsem, že 90 % problémů, které návštěvníky překvapí, pramení ze 7 základních chyb",
+   "duvod": "Mezera před %; čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "jako DÁREK za váš zájem o můj projekt \"s Blankou za hranice\".",
+   "opraveno": "jako DÁREK za váš zájem o můj projekt „s Blankou za hranice“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "sestry ze Severních Čech",
+   "opraveno": "sestry ze severních Čech",
+   "duvod": "„severní Čechy“ – oblast, přídavné jméno malým písmenem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "Vaše rady a tipy nám ušetřily pár peněz a spousta času.",
+   "opraveno": "Vaše rady a tipy nám ušetřily pár peněz a spoustu času.",
+   "duvod": "Chybný pád: ušetřily (co?) spoustu.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "Tak si stáhněte \"7 chyb turistů ve Vídni\".",
+   "opraveno": "Tak si stáhněte „7 chyb turistů ve Vídni“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "vyhlídkové věže a mnoha dalších nabídek.",
+   "opraveno": "vyhlídkové věže a mnoho dalších nabídek.",
+   "duvod": "Chybný pád: slevy na (co?) … mnoho dalších nabídek (Popis pro Google).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "jakoukoliv formu CESTOVNÍ PODPORY mají možnost si vybrat BONUS navíc.",
+   "opraveno": "jakoukoliv formu CESTOVNÍ PODPORY, mají možnost si vybrat BONUS navíc.",
+   "duvod": "Čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "který si objedná službu CESTOVNÍ PODPORY má možnost si k objednané službě",
+   "opraveno": "který si objedná službu CESTOVNÍ PODPORY, má možnost si k objednané službě",
+   "duvod": "Čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Království železnic rozšiřuje koncep,",
+   "opraveno": "Království železnic rozšiřuje koncept.",
+   "duvod": "Překlep „koncept“; věta končí tečkou.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "čeká nejen 600 m2 modelového kolejiště",
+   "opraveno": "čeká nejen 600 m² modelového kolejiště",
+   "duvod": "Jednotka plochy m² (horní index).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Akce 1+1 vstupenka ZDARMA.Nové muzeum Prátru",
+   "opraveno": "Akce 1+1 vstupenka ZDARMA. Nové muzeum Prátru",
+   "duvod": "Chybějící mezera za tečkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Schreiberhausu, to je útulnost a tradice již 200 let.",
+   "opraveno": "Schreiberhaus, to je útulnost a tradice již 200 let.",
+   "duvod": "Chybný tvar – podmět v 1. pádě.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "buffet, který splní každé přání - tradiční vídeňská kuchyně",
+   "opraveno": "buffet, který splní každé přání – tradiční vídeňská kuchyně",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "vystavených ve vitrínách. Sleva 20% platí pro konzumaci 1 hosta.",
+   "opraveno": "vystavených ve vitrínách. Sleva 20 % platí pro konzumaci 1 hosta.",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "v samém centru Vídně. Sleva 20% platí pro konzumaci 1 hosta.",
+   "opraveno": "v samém centru Vídně. Sleva 20 % platí pro konzumaci 1 hosta.",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Vídeň jako na dlani z výšky 150m.",
+   "opraveno": "Vídeň jako na dlani z výšky 150 m.",
+   "duvod": "Mezera mezi číslem a jednotkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "chvíle bezstarostného života \"na vrcholu Vídně\".",
+   "opraveno": "chvíle bezstarostného života „na vrcholu Vídně“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Sleva 20% na půjčení plavidla ve všední dny.",
+   "opraveno": "Sleva 20 % na půjčení plavidla ve všední dny.",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Budete se cítit jako v Caribiku",
+   "opraveno": "Budete se cítit jako v Karibiku",
+   "duvod": "Česky Karibik.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Belveder to není jen nádherný barokní zámek",
+   "opraveno": "Belveder, to není jen nádherný barokní zámek",
+   "duvod": "Čárka za vytčeným větným členem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "od roku 1781 a tím se stal jedním z prvních",
+   "opraveno": "od roku 1781, a tím se stal jedním z prvních",
+   "duvod": "Před „a tím“ (vysvětlovací/důsledkové) se píše čárka.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Muzeum Bethoven.",
+   "opraveno": "Muzeum Beethoven.",
+   "duvod": "Překlep ve jméně: Beethoven.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "vtipné anekdnoty a technicky vysoce kvalitní",
+   "opraveno": "vtipné anekdoty a technicky vysoce kvalitní",
+   "duvod": "Překlep: anekdoty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "pikantních podrobností o pricezně Sisi.",
+   "opraveno": "pikantních podrobností o princezně Sisi.",
+   "duvod": "Překlep: princezně.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "s 360°panoramatickým výhledem.",
+   "opraveno": "s 360° panoramatickým výhledem.",
+   "duvod": "Chybějící mezera.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Sleva 20% na vstupenku.",
+   "opraveno": "Sleva 20 % na vstupenku.",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Kouzelná cesta časem Vídní - zažijte historii",
+   "opraveno": "Kouzelná cesta časem Vídní – zažijte historii",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "jedinečným způsobem - živě a hmatatelně.",
+   "opraveno": "jedinečným způsobem – živě a hmatatelně.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "bonusy-pro-klienty",
+   "puvodne": "Sleva 20% na zakoupení vstupenky.",
+   "opraveno": "Sleva 20 % na zakoupení vstupenky.",
+   "duvod": "Ve významu „procento“ se % odděluje mezerou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "# CHECKLIST na výlety- poděkování",
+   "opraveno": "# CHECKLIST na výlety – poděkování",
+   "duvod": "Pomlčka s mezerami z obou stran.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "Popis pro Google: Checklist na výlety - 10 věcí",
+   "opraveno": "Popis pro Google: Checklist na výlety – 10 věcí",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "## CHECKLIST - 10 věcí, na které je dobré myslet",
+   "opraveno": "## CHECKLIST – 10 věcí, na které je dobré myslet",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "## - co zabalit do batohu pro pohodu na cestách.",
+   "opraveno": "## – co zabalit do batohu pro pohodu na cestách.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "než budete moci \"CHECKLIST\"stáhnout a prakticky využívat.",
+   "opraveno": "než budete moci „CHECKLIST“ stáhnout a prakticky využívat.",
+   "duvod": "České uvozovky; chybějící mezera.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "ze které jste se registrovali vám přijde potvrzovací e-mail",
+   "opraveno": "ze které jste se registrovali, vám přijde potvrzovací e-mail",
+   "duvod": "Čárka za koncem vložené vedlejší věty.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "\"SOUHLAS SE ZPRACOVÁNÍM OSOBNÍCH ÚDAJŮ\".",
+   "opraveno": "„SOUHLAS SE ZPRACOVÁNÍM OSOBNÍCH ÚDAJŮ“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "potvrďte správnost údajů kliknutím na odkaz .",
+   "opraveno": "potvrďte správnost údajů kliknutím na odkaz.",
+   "duvod": "Mezera před tečkou.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "v podobě CHECKLISTU-10 věcí",
+   "opraveno": "v podobě CHECKLISTU – 10 věcí",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety-podekovani",
+   "puvodne": "Věřím, že vám pomůže, užít si váš výlet bez starostí.",
+   "opraveno": "Věřím, že vám pomůže užít si váš výlet bez starostí.",
+   "duvod": "Nadbytečná čárka před infinitivem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "Checklist na výlety - 10, věcí na které je dobré myslet",
+   "opraveno": "Checklist na výlety – 10 věcí, na které je dobré myslet",
+   "duvod": "Pomlčka místo spojovníku; čárka patří až před „na které“ (Popis pro Google).",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "Spolu s přílohou-váš osobní seznam věcí.",
+   "opraveno": "Spolu s přílohou – váš osobní seznam věcí.",
+   "duvod": "Pomlčka s mezerami místo spojovníku (Popis pro Google).",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "## CHECKLIST - 10 věcí, na které je dobré myslet",
+   "opraveno": "## CHECKLIST – 10 věcí, na které je dobré myslet",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "s praktickou přílohou \"váš osobní seznam věcí\".",
+   "opraveno": "s praktickou přílohou „váš osobní seznam věcí“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "Do CHECKLISTU jsem zbalila své několikaleté know-how",
+   "opraveno": "Do CHECKLISTU jsem sbalila své několikaleté know-how",
+   "duvod": "Spisovně „sbalit“.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "a o projekt \"s Blankou za hranice\".",
+   "opraveno": "a o projekt „s Blankou za hranice“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "řekli první \"cestovatelé\", kteří si ho prohlédli",
+   "opraveno": "řekli první „cestovatelé“, kteří si ho prohlédli",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "Mě velmi pomohl rozeznat, co sebou opravdu zabalit",
+   "opraveno": "Mně velmi pomohl rozeznat, co s sebou opravdu zabalit",
+   "duvod": "3. pád „mně“ (komu pomohl); „s sebou“ (vzít s sebou).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "a nakonec vezmu spoustu \"blbostí\".",
+   "opraveno": "a nakonec vezmu spoustu „blbostí“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "checklist-na-vylety",
+   "puvodne": "je dobré být připraven, než zaskočen a to zejména",
+   "opraveno": "je dobré být připraven než zaskočen, a to zejména",
+   "duvod": "Při srovnání bez slovesa se před „než“ čárka nepíše; před „a to“ čárka ano.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "do-prirody",
+   "puvodne": "tělo i mysl regeneruje.",
+   "opraveno": "tělo i mysl regenerují.",
+   "duvod": "Shoda přísudku s několikanásobným podmětem (tělo i mysl → regenerují).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "do-prirody",
+   "puvodne": "a jít tak pomaleji \"Rokem, krok za krokem\".",
+   "opraveno": "a jít tak pomaleji „Rokem, krok za krokem“.",
+   "duvod": "České uvozovky „…“.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "Cestovní podpora ve Vídni a okolí to jsou programy",
+   "opraveno": "Cestovní podpora ve Vídni a okolí, to jsou programy",
+   "duvod": "Čárka za vytčeným větným členem (Popis pro Google).",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "## Poznejte Vídeň jako místní -využijte službu",
+   "opraveno": "## Poznejte Vídeň jako místní – využijte službu",
+   "duvod": "Pomlčka s mezerami z obou stran.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "Služba CESTOVNÍ PODPORY to je příprava itineráře na míru",
+   "opraveno": "Služba CESTOVNÍ PODPORY, to je příprava itineráře na míru",
+   "duvod": "Čárka za vytčeným větným členem.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "…získáte jistotou, že jdete správně",
+   "opraveno": "…získáte jistotu, že jdete správně",
+   "duvod": "Chybný pád: získáte (co?) jistotu.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "které se turisté mnohdy nedozví.",
+   "opraveno": "které se turisté mnohdy nedozvědí.",
+   "duvod": "Tvar 3. os. č. mn.: nedozvědí.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "7 nejčastějších chyb turistů ve Vídni - a Vy už je dělat nemusíte.",
+   "opraveno": "7 nejčastějších chyb turistů ve Vídni – a vy už je dělat nemusíte.",
+   "duvod": "Pomlčka místo spojovníku; „vy“ v obecném oslovení uprostřed věty malým písmenem.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "v každém ročním období - nejen oblasti hor a jezer.",
+   "opraveno": "v každém ročním období – nejen oblasti hor a jezer.",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "Tahák na výuku němčiny-zDARma.",
+   "opraveno": "Tahák na výuku němčiny – zDARma.",
+   "duvod": "Pomlčka s mezerami místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "fotogalerie",
+   "puvodne": "Krátká foto-ochutnávka z výletů po Rakousku",
+   "opraveno": "Krátká fotoochutnávka z výletů po Rakousku",
+   "duvod": "Složenina s „foto-“ se píše dohromady.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "fotogalerie-bonus",
+   "puvodne": "# Fotogalerie - bonus plus",
+   "opraveno": "# Fotogalerie – bonus plus",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "fotogalerie-bonus",
+   "puvodne": "Bonusová foto-ochutnávka z výletů po Rakousku",
+   "opraveno": "Bonusová fotoochutnávka z výletů po Rakousku",
+   "duvod": "Složenina s „foto-“ se píše dohromady.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "fotogalerie-bonus",
+   "puvodne": "- zajímavá flóra - alpské květenství všeho druhu",
+   "opraveno": "- zajímavá flóra – alpské květenství všeho druhu",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "fotogalerie-bonus",
+   "puvodne": "- překvapivá fauna - zvířátka, která vás pobaví",
+   "opraveno": "- překvapivá fauna – zvířátka, která vás pobaví",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "fotogalerie-bonus",
+   "puvodne": "- ze života lidí - neobvyklé zážitky",
+   "opraveno": "- ze života lidí – neobvyklé zážitky",
+   "duvod": "Pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "fotogalerie-bonus",
+   "puvodne": "na mých Fb stránkách \"s Blankou za hranice - Vídeň\"",
+   "opraveno": "na mých Fb stránkách „s Blankou za hranice – Vídeň“",
+   "duvod": "České uvozovky; pomlčka místo spojovníku.",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "# Den ve Vídni-váš plán do kapsy",
+   "opraveno": "# Den ve Vídni – váš plán do kapsy",
+   "duvod": "spojovník místo pomlčky (s mezerami)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "On-line průvodce Vídení - váš spolehlivý pomocník",
+   "opraveno": "On-line průvodce Vídní – váš spolehlivý pomocník",
+   "duvod": "překlep „Vídení“ → „Vídní“; spojovník místo pomlčky (popis pro Google)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "## Den ve Vídni - váš průvodce do kapsy",
+   "opraveno": "## Den ve Vídni – váš průvodce do kapsy",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "...získáte jistotou, že jdete správně",
+   "opraveno": "...získáte jistotu, že jdete správně",
+   "duvod": "chybný pád: získat co → „jistotu“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "kdy Vídeň poznáte a ne jen proběhnete je tady!",
+   "opraveno": "kdy Vídeň poznáte, a ne jen proběhnete, je tady!",
+   "duvod": "čárka před odporovacím „a ne“ a čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "## s ON-LINE PRŮVODCEM se budete cítit sebejistě.",
+   "opraveno": "## S ON-LINE PRŮVODCEM se budete cítit sebejistě.",
+   "duvod": "nadpis začíná malým písmenem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "sebejistě.\n\nChci odkzkoušenou trasu Vídní.",
+   "opraveno": "sebejistě.\n\nChci odzkoušenou trasu Vídní.",
+   "duvod": "překlep „odkzkoušenou“ (1. výskyt)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "začněte si metropoli užívat!\n\nChci odkzkoušenou trasu Vídní.",
+   "opraveno": "začněte si metropoli užívat!\n\nChci odzkoušenou trasu Vídní.",
+   "duvod": "překlep „odkzkoušenou“ (2. výskyt)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "Trasu, kterou zvládnout dospělí i děti",
+   "opraveno": "Trasu, kterou zvládnou dospělí i děti",
+   "duvod": "překlep: „zvládnout“ → „zvládnou“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "- Start: Karlsplazt – hned 3 trasy metra",
+   "opraveno": "- Start: Karlsplatz – hned 3 trasy metra",
+   "duvod": "překlep v názvu „Karlsplatz“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "cítila podobně, jako každý turista a cestovatel, který se ocitne v nové zemi, jejímž jazykem dobře nehovoří",
+   "opraveno": "cítila podobně jako každý turista a cestovatel, který se ocitne v nové zemi, jejímž jazykem dobře nehovoří",
+   "duvod": "před „jako“ ve srovnání bez slovesa se čárka nepíše",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "on-line PRŮVODCE (procházka Vídní), vznikl z osobní zkušenosti",
+   "opraveno": "on-line PRŮVODCE (procházka Vídní) vznikl z osobní zkušenosti",
+   "duvod": "čárka mezi podmětem a přísudkem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "vyzkoušela jsem nabídnout možnost, projít si trasu samostatně",
+   "opraveno": "vyzkoušela jsem nabídnout možnost projít si trasu samostatně",
+   "duvod": "nadbytečná čárka před infinitivem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "Klient byl nadšen, že mohl vyřešit aktuální situaci a natolik spokojen, že",
+   "opraveno": "Klient byl nadšen, že mohl vyřešit aktuální situaci, a natolik spokojen, že",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "Chci osvědčeného PRŮVODCE .",
+   "opraveno": "Chci osvědčeného PRŮVODCE.",
+   "duvod": "mezera před tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "On-line PRŮVODCE Vídní - uvedení nového produktu",
+   "opraveno": "On-line PRŮVODCE Vídní – uvedení nového produktu",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "originál Sachr dort a Vídeňskou kávu",
+   "opraveno": "originál Sachr dort a vídeňskou kávu",
+   "duvod": "přídavné jméno „vídeňská“ uprostřed věty malým písmenem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "které vás nebudou stát žádné peníze a použijete na ně vždy to",
+   "opraveno": "které vás nebudou stát žádné peníze, a použijete na ně vždy to",
+   "duvod": "chybí čárka uzavírající vedlejší větu (popis pro Google)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "z recyklovatelného \"odpadu\" domácnosti",
+   "opraveno": "z recyklovatelného „odpadu“ domácnosti",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "nebo byste je dokonce vyhodily, jako odpad či nepotřebný materiál",
+   "opraveno": "nebo byste je dokonce vyhodili jako odpad či nepotřebný materiál",
+   "duvod": "shoda (jinde „vytvořili“, obecné „vy“) a nadbytečná čárka před „jako“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "v \"nestabilní\" době",
+   "opraveno": "v „nestabilní“ době",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "o pořádání kurzů \"tvoření dekorací do bytu z přírodních materiálů\".",
+   "opraveno": "o pořádání kurzů „tvoření dekorací do bytu z přírodních materiálů“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "jak v ČR, tak v Rakousku, další vlnou “lock down” a nebylo jasné",
+   "opraveno": "jak v ČR, tak v Rakousku další vlnou „lock down“ a nebylo jasné",
+   "duvod": "nesprávné uvozovky; nadbytečná čárka za dvojicí „jak – tak“",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "s příchodem jara – v březnu 2021 se bude moci konat",
+   "opraveno": "s příchodem jara – v březnu 2021 – se bude moci konat",
+   "duvod": "vsuvka oddělená pomlčkou musí být i uzavřena",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "dozrál plán, začít alespoň krátkými VIDEO-návody, pro výrobu dekorací.",
+   "opraveno": "dozrál plán začít alespoň krátkými VIDEO-návody pro výrobu dekorací.",
+   "duvod": "nadbytečné čárky (před infinitivem a před „pro“)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "Výroba je velmi snadná a postačí Vám vždy materiál",
+   "opraveno": "Výroba je velmi snadná a postačí vám vždy materiál",
+   "duvod": "„vám“ malým písmenem (jinde v textu také malé)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "Tořit můžete společně s dětmi",
+   "opraveno": "Tvořit můžete společně s dětmi",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "nezabere více jak 15-30 minut",
+   "opraveno": "nezabere více jak 15–30 minut",
+   "duvod": "v rozsahu čísel pomlčka, ne spojovník",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "na koloběh života v přírodě - ROKEM KROK ZA KROKEM.",
+   "opraveno": "na koloběh života v přírodě – ROKEM KROK ZA KROKEM.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "že je tady Silvestr a my se ptáme sami sebe jak je možné",
+   "opraveno": "že je tady Silvestr, a my se ptáme sami sebe, jak je možné",
+   "duvod": "chybí čárky (uzavření vedlejší věty, před „jak“)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-do-bytu",
+   "puvodne": "které si můžeš během roku procházet a vyrábět vám pomohou si uvědomit",
+   "opraveno": "které si můžete během roku procházet a vyrábět, vám pomůže si uvědomit",
+   "duvod": "tykání uprostřed vykání („můžeš“); chybí čárka za vedlejší větou; shoda s podmětem „cyklus“ → „pomůže“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "# Dekorace do bytu-Rokem krok za krokem",
+   "opraveno": "# Dekorace do bytu – Rokem krok za krokem",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "Přichází velikonoce, klubou se kuřátka",
+   "opraveno": "Přichází Velikonoce, klubou se kuřátka",
+   "duvod": "svátek „Velikonoce“ velkým písmenem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "Duben, to je i apríl a tak zapátráme doma",
+   "opraveno": "Duben, to je i apríl, a tak zapátráme doma",
+   "duvod": "čárka před „a tak“ (důsledkový poměr)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "Květen nás už tahá ven do přírody a tak si můžeme",
+   "opraveno": "Květen nás už tahá ven do přírody, a tak si můžeme",
+   "duvod": "čárka před „a tak“ (důsledkový poměr)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "Červen to je taková kombinace 2v1 recyklace a tvorba.",
+   "opraveno": "Červen, to je taková kombinace 2v1 recyklace a tvorba.",
+   "duvod": "chybí čárka za vytčeným výrazem (jako u „Duben, to je…“)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "spřádání snů a tužeb - to vše nám umožní",
+   "opraveno": "spřádání snů a tužeb – to vše nám umožní",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "dekorace-rokem-krok-za-krokem",
+   "puvodne": "## Co na tipy říkají .....",
+   "opraveno": "## Co na tipy říkají…",
+   "duvod": "výpustka má tři tečky, bez mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "kdy se vám život zcela radikálně otočí a co udělat pro to",
+   "opraveno": "kdy se vám život zcela radikálně otočí, a co udělat pro to",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "VYDEJTE SE S NÁMI DO SVĚTA !",
+   "opraveno": "VYDEJTE SE S NÁMI DO SVĚTA!",
+   "duvod": "mezera před vykřičníkem",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "rozhodla pro Švýcarsko.Vždycky mě to táhlo",
+   "opraveno": "rozhodla pro Švýcarsko. Vždycky mě to táhlo",
+   "duvod": "chybí mezera za tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "Veronika,blogerka",
+   "opraveno": "Veronika, blogerka",
+   "duvod": "chybí mezera za čárkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "Elif, couching,terapeutka",
+   "opraveno": "Elif, coaching, terapeutka",
+   "duvod": "překlep „couching“; chybí mezera za čárkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "Michaela,blogerka",
+   "opraveno": "Michaela, blogerka",
+   "duvod": "chybí mezera za čárkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "několik žen, které žiji za hranicí vlasti",
+   "opraveno": "několik žen, které žijí za hranicí vlasti",
+   "duvod": "shoda: ženy „žijí“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "pohled na to,\"Proč se některé ze světa vracíme a jiné tam zůstáváme\".",
+   "opraveno": "pohled na to, „Proč se některé ze světa vracíme a jiné tam zůstáváme“.",
+   "duvod": "chybí mezera za čárkou; nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "než jsem pochopila co mi život za hranicí vlasti",
+   "opraveno": "než jsem pochopila, co mi život za hranicí vlasti",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "které stejně jako já žiji za hranici vlasti",
+   "opraveno": "které stejně jako já žijí za hranicí vlasti",
+   "duvod": "shoda „žijí“; i/í: „za hranicí“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "jak-se-zije-za-hranici",
+   "puvodne": "Věřím, že vás jich zpovědi budou inspirovat.",
+   "opraveno": "Věřím, že vás jejich zpovědi budou inspirovat.",
+   "duvod": "„jich“ → přivlastňovací „jejich“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "kontakt-s-blankou-za-hranice",
+   "puvodne": "- ve dvou krásných metropolích",
+   "opraveno": "– ve dvou krásných metropolích",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "kontakt-s-blankou-za-hranice",
+   "puvodne": "přínosnou spolupráci napište mi, ráda",
+   "opraveno": "přínosnou spolupráci, napište mi, ráda",
+   "duvod": "chybí čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "kontakt-s-blankou-za-hranice",
+   "puvodne": "Nechce se vám psát zpráva a raději",
+   "opraveno": "Nechce se vám psát zprávu a raději",
+   "duvod": "chybný pád: psát co → „zprávu“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "# Miniprůvodce - pro lehčí a snadnější poznávání Vídně",
+   "opraveno": "# Miniprůvodce – pro lehčí a snadnější poznávání Vídně",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "Poznejte Vídeň jako místní-snadno, bez bloudění",
+   "opraveno": "Poznejte Vídeň jako místní – snadno, bez bloudění",
+   "duvod": "spojovník místo pomlčky (popis pro Google)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "Miniprůvodce-pro lehčí a snadnější poznávání Vídně je skvělý pomocník.",
+   "opraveno": "Miniprůvodce – pro lehčí a snadnější poznávání Vídně je skvělý pomocník.",
+   "duvod": "spojovník místo pomlčky (popis pro Google)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "## Poznejte Vídeň jako místní - bez stresu",
+   "opraveno": "## Poznejte Vídeň jako místní – bez stresu",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "## VÍDEŇ a okolí - Miniprůvodce",
+   "opraveno": "## VÍDEŇ a okolí – Miniprůvodce",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "tou nejčistší vodou z Alp a oceníte, že",
+   "opraveno": "tou nejčistší vodou z Alp, a oceníte, že",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "abyste se mohli osvěžit a bavit to bude i vaše děti",
+   "opraveno": "abyste se mohli osvěžit, a bavit to bude i vaše děti",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "s informacemi v Miniprůvodce vrátí jeho cena",
+   "opraveno": "s informacemi v Miniprůvodci vrátí jeho cena",
+   "duvod": "chybný pád: v čem → „v Miniprůvodci“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "## Není, co ztratit.",
+   "opraveno": "## Není co ztratit.",
+   "duvod": "nadbytečná čárka",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "v pdf.podobě vás bude stát přibližně tolik, jako jedna návštěva",
+   "opraveno": "v PDF podobě vás bude stát přibližně tolik jako jedna návštěva",
+   "duvod": "chybná tečka/mezera u „PDF“; před „jako“ ve srovnání bez slovesa čárka není",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "kteří již Vídeň navšítivili",
+   "opraveno": "kteří již Vídeň navštívili",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "tyto informace k dispozici řekl:",
+   "opraveno": "tyto informace k dispozici, řekl:",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "„Bylo to tak jak jsem si představoval.",
+   "opraveno": "„Bylo to tak, jak jsem si představoval.",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "věnuje čas zjišťováním informací",
+   "opraveno": "věnuje čas zjišťování informací",
+   "duvod": "chybný pád: věnovat čas čemu → „zjišťování“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "- Pro mé sledovatel, kteří",
+   "opraveno": "- Pro mé sledovatele, kteří",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "které jsem doprovázela městem vím, že",
+   "opraveno": "které jsem doprovázela městem, vím, že",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "cítila podobně, jako každý turista a cestovatel, který se ocitne v nové zemi, jejímž jazykem nehovoří",
+   "opraveno": "cítila podobně jako každý turista a cestovatel, který se ocitne v nové zemi, jejímž jazykem nehovoří",
+   "duvod": "před „jako“ ve srovnání bez slovesa se čárka nepíše",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "minipruvodce-vidni-snadno",
+   "puvodne": "které v MINIPRŮVODCI nabízím jsou ověřené",
+   "opraveno": "které v MINIPRŮVODCI nabízím, jsou ověřené",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "jsem češka a v 50letech jsem se vydala",
+   "opraveno": "jsem Češka a v 50 letech jsem se vydala",
+   "duvod": "národnost velkým písmenem; chybí mezera „50 letech“ (popis pro Google)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "## Jmenuji se Blanka, a právě teď žiji",
+   "opraveno": "## Jmenuji se Blanka a právě teď žiji",
+   "duvod": "nadbytečná čárka před slučovacím „a“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "za hranicí vlasti v Rakousku, ve Vídni a současně i hodně",
+   "opraveno": "za hranicí vlasti v Rakousku, ve Vídni, a současně i hodně",
+   "duvod": "nevětný přístavek „ve Vídni“ musí být oddělen čárkou i na konci",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "A tyto dny a roky mi přináší dříve",
+   "opraveno": "A tyto dny a roky mi přinášejí dříve",
+   "duvod": "shoda s množným podmětem: „přinášejí“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "tuto, dříve pro mě, \"nebezpečnou\" cestu",
+   "opraveno": "tuto, dříve pro mě, „nebezpečnou“ cestu",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "bez výčitek, o co přicházíte a bez strachu kam dojdete.",
+   "opraveno": "bez výčitek, o co přicházíte, a bez strachu, kam dojdete.",
+   "duvod": "chybějící čárky u vedlejších vět",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "Protože to bylo to již potřetí",
+   "opraveno": "Protože to bylo již potřetí",
+   "duvod": "zdvojené „to“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "Co mě \"pudí\" totálně nabourat",
+   "opraveno": "Co mě „pudí“ totálně nabourat",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "\"Podobné situace ve tvém životě se budou opakovat tak dlouho, dokud neodhalíš jejich přínos pro tvůj život\".",
+   "opraveno": "„Podobné situace ve tvém životě se budou opakovat tak dlouho, dokud neodhalíš jejich přínos pro tvůj život“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "čeho se člověk nejvíc bojí a tím získá velkou sílu",
+   "opraveno": "čeho se člověk nejvíc bojí, a tím získá velkou sílu",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "jsem udělal výhodu!",
+   "opraveno": "jsem udělala výhodu!",
+   "duvod": "shoda rodu (autorka je žena)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "které ti život nadělí s vděkem a pokorou",
+   "opraveno": "které ti život nadělí, s vděkem a pokorou",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "z domnělé nemožnosti změny, provázely mé 3 zásadní změny vživotě.",
+   "opraveno": "z domnělé nemožnosti změny provázely mé 3 zásadní změny v životě.",
+   "duvod": "čárka mezi podmětem a přísudkem; chybí mezera „v životě“",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "jsem žena - kozorožka",
+   "opraveno": "jsem žena – kozorožka",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "Říká se: \" řekni bohu o svých plánech a rozesměješ ho\".",
+   "opraveno": "Říká se: „Řekni Bohu o svých plánech a rozesměješ ho.“",
+   "duvod": "nesprávné uvozovky a mezera za nimi; přímá řeč začíná velkým písmenem; „Bůh“ ve smyslu jediného boha velkým",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "## Kristova léta - 33 a první otřes.",
+   "opraveno": "## Kristova léta – 33 a první otřes.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "dlouho vytouženého miminka - dcery.",
+   "opraveno": "dlouho vytouženého miminka – dcery.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "všechny ty emoce, strachu, obav, nejistot",
+   "opraveno": "všechny ty emoce strachu, obav, nejistot",
+   "duvod": "nadbytečná čárka (emoce čeho – strachu, obav…)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "neviděla \"světlo na konci tunelu\".",
+   "opraveno": "neviděla „světlo na konci tunelu“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "## o 10 let později....",
+   "opraveno": "## o 10 let později…",
+   "duvod": "výpustka má tři tečky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "díky své \"kozoroží\" houževnatosti",
+   "opraveno": "díky své „kozoroží“ houževnatosti",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "a \"pevně držím ve svých rukou\".",
+   "opraveno": "a „pevně držím ve svých rukou“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "notnou dávkou naivity, přišla o byt",
+   "opraveno": "notnou dávkou naivity přišla o byt",
+   "duvod": "čárka mezi větnými členy a přísudkem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "s tehdy 15 letou dcerou, stěhovala",
+   "opraveno": "s tehdy 15letou dcerou stěhovala",
+   "duvod": "„15letou“ píšeme dohromady; nadbytečná čárka",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "další \"pád na dno\".",
+   "opraveno": "další „pád na dno“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "jsem se opět vlastní píli, ale současně",
+   "opraveno": "jsem se opět vlastní pílí, ale současně",
+   "duvod": "7. pád: „pílí“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "zvolním tempo, tak abych měla vice času na sebe",
+   "opraveno": "zvolním tempo tak, abych měla více času na sebe",
+   "duvod": "čárka patří před „abych“; překlep „vice“ → „více“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "## a znovu \"BUM\"...",
+   "opraveno": "## a znovu „BUM“...",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "když se objevil \"ON\".",
+   "opraveno": "když se objevil „ON“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "do Rakouska – do Vídně a začala zcela nový život",
+   "opraveno": "do Rakouska – do Vídně – a začala zcela nový život",
+   "duvod": "vsuvka oddělená pomlčkou musí být i uzavřena",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "Co to odstartovalo si můžete přečíst zde.",
+   "opraveno": "Co to odstartovalo, si můžete přečíst zde.",
+   "duvod": "chybí čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "byla silnější, než nulové technické znalosti",
+   "opraveno": "byla silnější než nulové technické znalosti",
+   "duvod": "před „než“ ve srovnání bez slovesa se čárka nepíše",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "muj-pribeh",
+   "puvodne": "- vlasti/denní rutiny, bylo příjemně.",
+   "opraveno": "– vlasti/denní rutiny – bylo příjemně.",
+   "duvod": "spojovník místo pomlčky; vsuvku uzavřít stejným znaménkem",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "\"Hluboké propojení s přírodou, hluboké propojení se sebou navzájem\" říká",
+   "opraveno": "„Hluboké propojení s přírodou, hluboké propojení se sebou navzájem,“ říká",
+   "duvod": "nesprávné uvozovky; čárka před uvozovací větou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "## Ukázky ve VSL \"Ze zápisníku lovců a sběračů\".",
+   "opraveno": "## Ukázky ve VSL „Ze zápisníku lovců a sběračů“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "2-3 hodinové procházky v přírodě",
+   "opraveno": "2–3hodinové procházky v přírodě",
+   "duvod": "rozsah s pomlčkou; „3hodinové“ dohromady",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "## Aromaterapie-Esence přírody",
+   "opraveno": "## Aromaterapie – Esence přírody",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "## Rokem, krok za krokem",
+   "opraveno": "## Rokem krok za krokem",
+   "duvod": "nadbytečná čárka (název projektu jinde bez čárky)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "Bude mi potěšením, probrat vaše potřeby osobně.",
+   "opraveno": "Bude mi potěšením probrat vaše potřeby osobně.",
+   "duvod": "nadbytečná čárka před infinitivem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "nabidka-pro-kolektivy",
+   "puvodne": "jsem měla o Workshopech s tématem PŘÍRODA",
+   "opraveno": "jsem měla o workshopech s tématem PŘÍRODA",
+   "duvod": "obecné slovo uprostřed věty malým písmenem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "žiji za hranici vlasti v Rakousku, ve Vídni a přináším vám",
+   "opraveno": "žiji za hranicí vlasti v Rakousku, ve Vídni, a přináším vám",
+   "duvod": "„za hranicí“ (7. pád); přístavek uzavřít čárkou (popis pro Google)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "## Jmenuji se Blanka, a právě teď žiji",
+   "opraveno": "## Jmenuji se Blanka a právě teď žiji",
+   "duvod": "nadbytečná čárka před slučovacím „a“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "trochu více \"vybarvit\".",
+   "opraveno": "trochu více „vybarvit“.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "ve znamení Kozoroha a tudíž jsem žena",
+   "opraveno": "ve znamení Kozoroha, a tudíž jsem žena",
+   "duvod": "čárka před „a tudíž“ (důsledkový poměr)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "do Rakouska, do Vídně a současně i hodně za hranice",
+   "opraveno": "do Rakouska, do Vídně, a současně i hodně za hranice",
+   "duvod": "přístavek „do Vídně“ uzavřít čárkou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "= dceru, práci, přátelé, zájmy a koníčky",
+   "opraveno": "= dceru, práci, přátele, zájmy a koníčky",
+   "duvod": "4. pád: „přátele“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "Pro lásku, pro zkušenost, pro…..",
+   "opraveno": "Pro lásku, pro zkušenost, pro…",
+   "duvod": "výpustka má tři tečky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "A tyto dny a roky mi přináší dar poznání",
+   "opraveno": "A tyto dny a roky mi přinášejí dar poznání",
+   "duvod": "shoda s množným podmětem: „přinášejí“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "co mě osobně v začátcích pomáhalo",
+   "opraveno": "co mi osobně v začátcích pomáhalo",
+   "duvod": "pomáhat komu → „mi“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "krátké příspěvky pro mé přátelé a známé",
+   "opraveno": "krátké příspěvky pro mé přátele a známé",
+   "duvod": "4. pád: „přátele“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "Jak se z výletů stane budoucí projekt si můžete přečíst ZDE.",
+   "opraveno": "Jak se z výletů stane budoucí projekt, si můžete přečíst ZDE.",
+   "duvod": "chybí čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "cvičení Tai-Chi a Qi -Gong.",
+   "opraveno": "cvičení Tai-Chi a Qi-Gong.",
+   "duvod": "nadbytečná mezera před spojovníkem",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "Procházky přináší regeneraci",
+   "opraveno": "Procházky přinášejí regeneraci",
+   "duvod": "shoda s množným podmětem: „přinášejí“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "mi pomáhá můj cit, vnímat přírodu všemi smysly,",
+   "opraveno": "mi pomáhá můj cit vnímat přírodu všemi smysly,",
+   "duvod": "nadbytečná čárka před infinitivem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "nacházím hojnost, všude kam se podívám.",
+   "opraveno": "nacházím hojnost všude, kam se podívám.",
+   "duvod": "čárka patří před vedlejší větu „kam…“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "## 12 tipů+12 video-návodů na 12 měsíců v roce",
+   "opraveno": "## 12 tipů + 12 video-návodů na 12 měsíců v roce",
+   "duvod": "mezery kolem znaménka +",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "Instagram - s Blankou za hranice",
+   "opraveno": "Instagram – s Blankou za hranice",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "na cestě \"s Blankou za hranice\" - vlasti i denní rutiny, bylo příjemně.",
+   "opraveno": "na cestě „s Blankou za hranice“ – vlasti i denní rutiny – bylo příjemně.",
+   "duvod": "nesprávné uvozovky; spojovník místo pomlčky, vsuvku uzavřít stejným znaménkem",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "pak si zaříďte pravidelný přísun",
+   "opraveno": "pak si zařiďte pravidelný přísun",
+   "duvod": "překlep: „zařiďte“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "odber-novinek",
+   "puvodne": "Byla by škoda, nevyužít všech informací.",
+   "opraveno": "Byla by škoda nevyužít všech informací.",
+   "duvod": "nadbytečná čárka před infinitivem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "odber-novinek",
+   "puvodne": "na hlavní stranu webu, a tam se už proklikáš dál",
+   "opraveno": "na hlavní stranu webu a tam se už proklikáš dál",
+   "duvod": "nadbytečná čárka před slučovacím „a“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "## Proběhlé akce - fotky, popis, reference",
+   "opraveno": "## Proběhlé akce – fotky, popis, reference",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "## Rok 2025 - Španělsko",
+   "opraveno": "## Rok 2025 – Španělsko",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "daleko od turistického ruchu nám nadělila",
+   "opraveno": "daleko od turistického ruchu, nám nadělila",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "řekly účastnice si můžete přečíst níže",
+   "opraveno": "řekly účastnice, si můžete přečíst níže",
+   "duvod": "chybí čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "ranní cvičení mě vždy dodalo energii",
+   "opraveno": "ranní cvičení mi vždy dodalo energii",
+   "duvod": "dodat komu → „mi“ (citace účastnice)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "Po mě to byl Relax, klid, pohoda",
+   "opraveno": "Pro mě to byl relax, klid, pohoda",
+   "duvod": "překlep „Po“ → „Pro“; obecné slovo uprostřed věty malým (citace účastnice)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "## Rok 2024 - Rakousko",
+   "opraveno": "## Rok 2024 – Rakousko",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "## Naturpark Leiser Berge - oblast Dolnorakouska.",
+   "opraveno": "## Naturpark Leiser Berge – oblast Dolního Rakouska.",
+   "duvod": "spojovník místo pomlčky; „Dolnorakousko“ není správný tvar → „Dolního Rakouska“",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "jsem ve spolupráci společně s Markéta Samadhi Hegerová pořádaly",
+   "opraveno": "jsme ve spolupráci společně s Markétou Samadhi Hegerovou pořádaly",
+   "duvod": "chybný pád jména (s kým); shoda „jsme … pořádaly“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "kolem kamených soch",
+   "opraveno": "kolem kamenných soch",
+   "duvod": "„kamenných“ se dvěma n",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "vůně lesa....Po návratu",
+   "opraveno": "vůně lesa… Po návratu",
+   "duvod": "výpustka má tři tečky; chybí mezera (citace účastnice)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "## Přírodou k sobě - sebepéče a seberozvoj",
+   "opraveno": "## Přírodou k sobě – sebepéče a seberozvoj",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "Well-being v přírodě-jednoduchá cesta",
+   "opraveno": "Well-being v přírodě – jednoduchá cesta",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "kde se teď momentálně nacházím to slovně jasně pojmenovat",
+   "opraveno": "kde se teď momentálně nacházím, to slovně jasně pojmenovat",
+   "duvod": "chybí čárka uzavírající vedlejší větu (citace klientky)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "- posílení sebe-hodnoty",
+   "opraveno": "- posílení sebehodnoty",
+   "duvod": "složenina se píše dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "Klíčníkem k vašim pocitům budu vám budu já",
+   "opraveno": "Klíčníkem k vašim pocitům vám budu já",
+   "duvod": "zdvojené „budu“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "Studium čtyřleté university Tai - Chi.",
+   "opraveno": "Studium čtyřleté university Tai-Chi.",
+   "duvod": "nadbytečné mezery kolem spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "vnímání a˙pozorování",
+   "opraveno": "vnímání a pozorování",
+   "duvod": "chybný znak (˙) místo mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "Jedná se o dobrý způsob jak děti vtáhnout",
+   "opraveno": "Jedná se o dobrý způsob, jak děti vtáhnout",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "oblázky, květiny - tolik příležitostí",
+   "opraveno": "oblázky, květiny – tolik příležitostí",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "při 15 minutovém rozhovoru",
+   "opraveno": "při 15minutovém rozhovoru",
+   "duvod": "„15minutovém“ píšeme dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "- 5 ml směs 100% přírodních",
+   "opraveno": "- 5 ml směsi 100% přírodních",
+   "duvod": "2. pád: 5 ml čeho → „směsi“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "přivedla \"odbočka\" z výletů",
+   "opraveno": "přivedla „odbočka“ z výletů",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "bylin z té nejčistčí přírody",
+   "opraveno": "bylin z té nejčistší přírody",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "## Připoj se k mé \"voňavé\" skupině.",
+   "opraveno": "## Připoj se k mé „voňavé“ skupině.",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "Poslání firmy - zdraví z lůna přírody.",
+   "opraveno": "Poslání firmy – zdraví z lůna přírody.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "Vyzkoušej jak voní příroda doma.",
+   "opraveno": "Vyzkoušej, jak voní příroda doma.",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "Osobní frančíza, projekt",
+   "opraveno": "Osobní franšíza, projekt",
+   "duvod": "pravopis „franšíza“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "## Vydat se můzeš se mnou",
+   "opraveno": "## Vydat se můžeš se mnou",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "kterou chodím s klienty je nyní v on-line verzi",
+   "opraveno": "kterou chodím s klienty, je nyní v on-line verzi",
+   "duvod": "chybí čárka uzavírající vedlejší větu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Odzkoušená trasa-vlastní tempo.",
+   "opraveno": "Odzkoušená trasa – vlastní tempo.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Den ve Vídni-váš chytrý průvodce do kapsy.",
+   "opraveno": "Den ve Vídni – váš chytrý průvodce do kapsy.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "s BONUSEM navíc - přehled jízdenek",
+   "opraveno": "s BONUSEM navíc – přehled jízdenek",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "To se hodí-chci vědět více",
+   "opraveno": "To se hodí – chci vědět více",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Průvodce Vídní - 5 nejhezčích parků a zahrad.",
+   "opraveno": "Průvodce Vídní – 5 nejhezčích parků a zahrad.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "s BONUSEM navíc - informace, o kterých",
+   "opraveno": "s BONUSEM navíc – informace, o kterých",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Vídeň v klidu-to mě láká",
+   "opraveno": "Vídeň v klidu – to mě láká",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Kam ve Vídni-5x5 tipů úplně pro každého.",
+   "opraveno": "Kam ve Vídni – 5x5 tipů úplně pro každého.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Přehledný seznam míst kam se ve Vídni podívat ať už přijíždíte",
+   "opraveno": "Přehledný seznam míst, kam se ve Vídni podívat, ať už přijíždíte",
+   "duvod": "chybějící čárky u vedlejších vět",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "sny i touhy.\n\nTo mi nesmí utéct-vydání již brzy",
+   "opraveno": "sny i touhy.\n\nTo mi nesmí utéct – vydání již brzy",
+   "duvod": "spojovník místo pomlčky (1. výskyt)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "ušetří čas i peníze.\n\nTo mi nesmí utéct-vydání již brzy",
+   "opraveno": "ušetří čas i peníze.\n\nTo mi nesmí utéct – vydání již brzy",
+   "duvod": "spojovník místo pomlčky (2. výskyt)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Praktické tipy a rady od češky žijící",
+   "opraveno": "Praktické tipy a rady od Češky žijící",
+   "duvod": "národnost velkým písmenem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "\"7 nejčastějších chyb turistů ve Vídni\" vám ukáže",
+   "opraveno": "„7 nejčastějších chyb turistů ve Vídni“ vám ukáže",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "\"Vídní pěšky i na kole\"-praktická příručka",
+   "opraveno": "„Vídní pěšky i na kole“ – praktická příručka",
+   "duvod": "nesprávné uvozovky; spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "\"Tahák na výuku němčiny\" vám dodá",
+   "opraveno": "„Tahák na výuku němčiny“ vám dodá",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "\"Checklist na výlety\" vám pomůže",
+   "opraveno": "„Checklist na výlety“ vám pomůže",
+   "duvod": "nesprávné uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "## 7 nejčastějších chyb turistů ve Vídni ..a jak se jim vyhnout.",
+   "opraveno": "## 7 nejčastějších chyb turistů ve Vídni… a jak se jim vyhnout.",
+   "duvod": "výpustka má tři tečky, mezera za ní",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Nevíte jak najít nejlepší spojení",
+   "opraveno": "Nevíte, jak najít nejlepší spojení",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "spolu s praktickou přílohou-seznam věcí.",
+   "opraveno": "spolu s praktickou přílohou – seznam věcí.",
+   "duvod": "spojovník místo pomlčky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Přemýšlíte před výletem co vzít a nemít těžký batoh.",
+   "opraveno": "Přemýšlíte před výletem, co vzít a nemít těžký batoh?",
+   "duvod": "chybí čárka před vedlejší větou; otázka má končit otazníkem (jako sousední body)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "První vydání červenec-srpen 2025.",
+   "opraveno": "První vydání červenec–srpen 2025.",
+   "duvod": "v rozsahu pomlčka, ne spojovník",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Potřebujete pomoci více na bázi osobní podpory.",
+   "opraveno": "Potřebujete pomoci více na bázi osobní podpory?",
+   "duvod": "otázka má končit otazníkem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "## Listopad 2024 - Rádio a TV ORF",
+   "opraveno": "## Listopad 2024 – Rádio a TV ORF",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "V tomto rozhovoru Rádia Dráťák, a v televizním",
+   "opraveno": "V tomto rozhovoru Rádia Dráťák a v televizním",
+   "duvod": "nadbytečná čárka před „a“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "s Blankou za hranice města,do přírody",
+   "opraveno": "s Blankou za hranice města, do přírody",
+   "duvod": "chybí mezera za čárkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "\" Jak pravděpodobně všichni pozorujeme",
+   "opraveno": "„Jak pravděpodobně všichni pozorujeme",
+   "duvod": "české uvozovky, bez mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "zavede tentokrát do přírody plného zeleně",
+   "opraveno": "zavede tentokrát do přírody plné zeleně",
+   "duvod": "shoda – příroda (ž. r.) plné",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "Televizní vysílání ORF - od času 5:35 do 10:00 o mém worshopu",
+   "opraveno": "Televizní vysílání ORF – od času 5:35 do 10:00 o mém workshopu",
+   "duvod": "pomlčka; překlep workshopu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "## Únor 2024 - Rádio Prostor",
+   "opraveno": "## Únor 2024 – Rádio Prostor",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "Rádio PROSTO přináší informace",
+   "opraveno": "Rádio PROSTOR přináší informace",
+   "duvod": "překlep v názvu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "„Zelená, rovná se úsměv?“.",
+   "opraveno": "„Zelená, rovná se úsměv?“",
+   "duvod": "nadbytečná tečka za otazníkem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "## Rok 2024 - VSL (Vídeňské svobodné listy)",
+   "opraveno": "## Rok 2024 – VSL (Vídeňské svobodné listy)",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "Pravidelný sloupek \" Z deníku lovců a sběračů\"",
+   "opraveno": "Pravidelný sloupek „Z deníku lovců a sběračů“",
+   "duvod": "české uvozovky, bez mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "## Březen 2022 - Rádio ORF",
+   "opraveno": "## Březen 2022 – Rádio ORF",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "v období doby ko-vidové",
+   "opraveno": "v období doby covidové",
+   "duvod": "pravopis (covidové)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "vydat se vstířc naprosto novým zítřkům",
+   "opraveno": "vydat se vstříc naprosto novým zítřkům",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "A tak se rodí projekt \"s Blankou za hranice\".",
+   "opraveno": "A tak se rodí projekt „s Blankou za hranice“.",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "projekt-v-mediich",
+   "puvodne": "Poslechněte si rozhovor - od 5 minuty o mém projektu.",
+   "opraveno": "Poslechněte si rozhovor – od 5. minuty o mém projektu.",
+   "duvod": "pomlčka; řadová číslovka s tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "pro lepší a snažší poznávání Vídně a Rakouska",
+   "opraveno": "pro lepší a snazší poznávání Vídně a Rakouska",
+   "duvod": "pravopis (snazší)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "Všechny publikace\n\npřináší tipy",
+   "opraveno": "Všechny publikace\n\npřinášejí tipy",
+   "duvod": "spisovný tvar 3. os. mn. č.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "je možné zakoupit od květen - červenec 2025.",
+   "opraveno": "je možné zakoupit od května do července 2025.",
+   "duvod": "chybné skloňování / spojovník v rozsahu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "a hned po jeho vydání dostanete",
+   "opraveno": "a hned po jejich vydání dostanete",
+   "duvod": "shoda – publikace (mn. č.)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "poznávání Vídně-s bonusem navíc.",
+   "opraveno": "poznávání Vídně – s bonusem navíc.",
+   "duvod": "pomlčka s mezerami místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "KAM VE VÍDNI - 5x5 tipů pro každého.",
+   "opraveno": "KAM VE VÍDNI – 5x5 tipů pro každého.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "které se vám při návštěve Vídně hodí",
+   "opraveno": "které se vám při návštěvě Vídně hodí",
+   "duvod": "překlep (návštěvě)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "chcete se inspirovat z celé nabídky\n",
+   "opraveno": "chcete se inspirovat z celé nabídky?\n",
+   "duvod": "chybí otazník u otázky",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-a-minipruvodce",
+   "puvodne": "s praktickou přílohou-váš osobní seznam věcí do batohu. ZDE.",
+   "opraveno": "s praktickou přílohou – váš osobní seznam věcí do batohu. ZDE.",
+   "duvod": "pomlčka s mezerami místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "# Průvodce-Vídeň. 5 nejkrásnějších parků a zahrad.",
+   "opraveno": "# Průvodce – Vídeň. 5 nejkrásnějších parků a zahrad.",
+   "duvod": "pomlčka s mezerami místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "## Objevte Vídeň - zelenou metropoli",
+   "opraveno": "## Objevte Vídeň – zelenou metropoli",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "## e-Průvodce VÍDEŇ - 5 nejkrásnějších parků a zahrad.",
+   "opraveno": "## e-Průvodce VÍDEŇ – 5 nejkrásnějších parků a zahrad.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "pořídit si tohoto autentického průvodce a....",
+   "opraveno": "pořídit si tohoto autentického průvodce a…",
+   "duvod": "výpustka má tři tečky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "(zámecké zahrady Belveder a Schönbrunn zde záměrně nenajdete)",
+   "opraveno": "(zámecké zahrady Belvedere a Schönbrunn zde záměrně nenajdete)",
+   "duvod": "pravopis názvu Belvedere",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "Parky a zahrady- to pro mě není",
+   "opraveno": "Parky a zahrady – to pro mě není",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "Travnaté plochy, která ocení vaše unavené nohy",
+   "opraveno": "Travnaté plochy, které ocení vaše unavené nohy",
+   "duvod": "shoda – plochy, které",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "Teď budete vědět kam zajít.",
+   "opraveno": "Teď budete vědět, kam zajít.",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "výčet encyklopedických údajů - najdete zde",
+   "opraveno": "výčet encyklopedických údajů – najdete zde",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "s jedinečnými zajímavostmi - historické souvislosti",
+   "opraveno": "s jedinečnými zajímavostmi – historické souvislosti",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "## Není, co ztratit.",
+   "opraveno": "## Není co ztratit.",
+   "duvod": "nadbytečná čárka",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "Průvodce v pdf.podobě vás bude stát přibližně tolik, jako jedna návštěva",
+   "opraveno": "Průvodce v pdf podobě vás bude stát přibližně tolik jako jedna návštěva",
+   "duvod": "chybná tečka/mezera; nadbytečná čárka při srovnání",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "kteří již Vídeň navšítivili a dostali",
+   "opraveno": "kteří již Vídeň navštívili a dostali",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "\"Do Vídně občas jezdím spolu s manželem, který tam má pracovní jednání a vždy se snažím využít dobu <čekání>",
+   "opraveno": "„Do Vídně občas jezdím spolu s manželem, který tam má pracovní jednání, a vždy se snažím využít dobu „čekání“",
+   "duvod": "české uvozovky; čárka za vloženou vedlejší větou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "v některém z parků kolem centra.\"",
+   "opraveno": "v některém z parků kolem centra.“",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "vím určitě, kam chci zajít\".",
+   "opraveno": "vím určitě, kam chci zajít.“",
+   "duvod": "české uvozovky, tečka uvnitř",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "kam chodí sami Vídeňané-do parků s vlastním příběhem",
+   "opraveno": "kam chodí sami Vídeňané – do parků s vlastním příběhem",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "s důrazem na prožitek.Oceňuji i bonusové tipy.",
+   "opraveno": "s důrazem na prožitek. Oceňuji i bonusové tipy.",
+   "duvod": "chybí mezera za tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "\núnor 2026\n",
+   "opraveno": "\nÚnor 2026\n",
+   "duvod": "velké písmeno na začátku (jako u ostatních dat)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "věnuje svůj čas zjišťováním informací",
+   "opraveno": "věnuje svůj čas zjišťování informací",
+   "duvod": "pád – věnovat čemu (zjišťování)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "zámecké zahrady Belveder a Schönbrunn (ty v tomto",
+   "opraveno": "zámecké zahrady Belvedere a Schönbrunn (ty v tomto",
+   "duvod": "pravopis názvu Belvedere",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "- Pro mé sledovatel, kteří již",
+   "opraveno": "- Pro mé sledovatele, kteří již",
+   "duvod": "překlep (sledovatele)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "které jsem doprovázela městem vím, že jsou",
+   "opraveno": "které jsem doprovázela městem, vím, že jsou",
+   "duvod": "čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "cítila podobně, jako vzrostlý, zakořeněný strom",
+   "opraveno": "cítila podobně jako vzrostlý, zakořeněný strom",
+   "duvod": "nadbytečná čárka při srovnání",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "rozhodla vytovřit tohoto PRŮVODCE",
+   "opraveno": "rozhodla vytvořit tohoto PRŮVODCE",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "hlavních měst Evropy - místem, kde",
+   "opraveno": "hlavních měst Evropy – místem, kde",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "pruvodce-viden-zahrady-a-parky",
+   "puvodne": "které v PRŮVODCI uvádím jsou mnou osobně ověřené",
+   "opraveno": "které v PRŮVODCI uvádím, jsou mnou osobně ověřené",
+   "duvod": "čárka za vloženou vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "reference",
+   "puvodne": "## Reference zákazníků .",
+   "opraveno": "## Reference zákazníků.",
+   "duvod": "mezera před tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "## Autorský projekt \"Přírodou k sobě\" je",
+   "opraveno": "## Autorský projekt „Přírodou k sobě“ je",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Vídeň - Rakousko",
+   "opraveno": "Vídeň – Rakousko",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "jezdící od U1,U4 Schwedenplatz nebo U2,U4 Schottenring",
+   "opraveno": "jezdící od U1, U4 Schwedenplatz nebo U2, U4 Schottenring",
+   "duvod": "mezera za čárkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "PRAHA - Česká republika",
+   "opraveno": "PRAHA – Česká republika",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Sraz v ulici Proutěná, Kateřinky - na začátku",
+   "opraveno": "Sraz v ulici Proutěná, Kateřinky – na začátku",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "7 min.pěšky ze zastávky",
+   "opraveno": "7 min. pěšky ze zastávky",
+   "duvod": "chybí mezera za tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "pouze „klíčník\", který vám",
+   "opraveno": "pouze „klíčník“, který vám",
+   "duvod": "chybná koncová uvozovka",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "záleží na každém z nás jaký přístup",
+   "opraveno": "záleží na každém z nás, jaký přístup",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Projekt regeneračních procházek <Přírodou k sobě> je",
+   "opraveno": "Projekt regeneračních procházek „Přírodou k sobě“ je",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "energetických cvičení Tai-Chi a Čchi–Kung.",
+   "opraveno": "energetických cvičení Tai-Chi a Čchi-Kung.",
+   "duvod": "spojovník místo pomlčky v názvu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Co se týká \"oficiálních papírů\":",
+   "opraveno": "Co se týká „oficiálních papírů“:",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Lesní mysli =Metsämieli (2021), certifikovaný Instruktor (současný studen) Lesní terapie =Shinrin Yoku (2023) a absolventka 2leté International Tai - Qigong Academy(1999 – 2001)",
+   "opraveno": "Lesní mysli = Metsämieli (2021), certifikovaný instruktor (současný student) Lesní terapie = Shinrin Yoku (2023) a absolventka 2leté International Tai-Qigong Academy (1999–2001)",
+   "duvod": "mezery u „=“; malé „instruktor“; překlep „student“; mezera před závorkou; spojovník v názvu a pomlčka v rozsahu bez mezer",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "„s Blankou za hranice“města do přírody",
+   "opraveno": "„s Blankou za hranice“ města do přírody",
+   "duvod": "chybí mezera za uvozovkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "- posílení sebe-hodnoty",
+   "opraveno": "- posílení sebehodnoty",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Studium čtyřleté university Tai - Chi",
+   "opraveno": "Studium čtyřleté university Tai-Chi",
+   "duvod": "spojovník bez mezer v názvu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "vnímání a˙pozorování zákonitostí",
+   "opraveno": "vnímání a pozorování zákonitostí",
+   "duvod": "chybný znak (˙) místo mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Jedná se o dobrý způsob jak děti vtáhnout",
+   "opraveno": "Jedná se o dobrý způsob, jak děti vtáhnout",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "oblázky, květiny - tolik příležitostí",
+   "opraveno": "oblázky, květiny – tolik příležitostí",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "spoluprace",
+   "puvodne": "Síly i výhody se násobí a přináší efekt oběma stranám.",
+   "opraveno": "Síly i výhody se násobí a přinášejí efekt oběma stranám.",
+   "duvod": "spisovný tvar 3. os. mn. č.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "spoluprace",
+   "puvodne": "Líbí se ti co dělám a",
+   "opraveno": "Líbí se ti, co dělám, a",
+   "duvod": "čárky kolem vedlejší věty",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "spoluprace",
+   "puvodne": "sestavení trasy na míru \"Vídeň, jak ji neznáte\".",
+   "opraveno": "sestavení trasy na míru „Vídeň, jak ji neznáte“.",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "spoluprace",
+   "puvodne": "a chcete aby se o vás dozvědělo",
+   "opraveno": "a chcete, aby se o vás dozvědělo",
+   "duvod": "chybí čárka před „aby“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "spoluprace",
+   "puvodne": "(Česká Republika, Slovensko, Polsko...).",
+   "opraveno": "(Česká republika, Slovensko, Polsko…)?",
+   "duvod": "malé „republika“; věta je otázka",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "spoluprace",
+   "puvodne": "Žijeme ve společenství lidí a proto je",
+   "opraveno": "Žijeme ve společenství lidí, a proto je",
+   "duvod": "čárka před „a proto“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "Tahák na výuku němčiny -\n",
+   "opraveno": "Tahák na výuku němčiny –\n",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "klasická školní výuka a biflování a přesto se chce dorozumět",
+   "opraveno": "klasická školní výuka a biflování, a přesto se chce dorozumět",
+   "duvod": "čárka před „a přesto“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "Blančin \"Tahák na výuku němčiny\" přináší",
+   "opraveno": "Blančin „Tahák na výuku němčiny“ přináší",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "doménou jen náctiletých, a že i přesto",
+   "opraveno": "doménou jen náctiletých a že i přesto",
+   "duvod": "nadbytečná čárka mezi souřadnými „že“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "„Blančin „Tahák na výuku němčiny“ ve mně",
+   "opraveno": "„Blančin ‚Tahák na výuku němčiny‘ ve mně",
+   "duvod": "uvozovky uvnitř citace mají být jednoduché",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "zjistila, že „Tahák“ je tak univerzální",
+   "opraveno": "zjistila, že ‚Tahák‘ je tak univerzální",
+   "duvod": "uvozovky uvnitř citace mají být jednoduché",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "Blančin „Tahák“ doporučuji všem",
+   "opraveno": "Blančin ‚Tahák‘ doporučuji všem",
+   "duvod": "uvozovky uvnitř citace mají být jednoduché",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "\"Tahák na výuku němčiny \" vám ukáže",
+   "opraveno": "„Tahák na výuku němčiny“ vám ukáže",
+   "duvod": "české uvozovky, bez mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "Rozhodně si \"Tahák\" stáhněte",
+   "opraveno": "Rozhodně si „Tahák“ stáhněte",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "Tahák, jak na němčinu je hodnotný",
+   "opraveno": "Tahák, jak na němčinu, je hodnotný",
+   "duvod": "čárka za vloženou vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny",
+   "puvodne": "Díky za propracovaný, a lidsky napsaný, návod",
+   "opraveno": "Díky za propracovaný a lidsky napsaný návod",
+   "duvod": "nadbytečné čárky",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "# Tahák na výuku němčiny - poděkování",
+   "opraveno": "# Tahák na výuku němčiny – poděkování",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "Přečtěte si návod jak na to a shlédněte 3 videa",
+   "opraveno": "Přečtěte si návod, jak na to, a zhlédněte 3 videa",
+   "duvod": "čárky kolem vedlejší věty; zhlédnout (= podívat se)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "## Tahák na výuku němčiny - 3 skvělé tipy",
+   "opraveno": "## Tahák na výuku němčiny – 3 skvělé tipy",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "TAHÁK na výuku němčiny - 3 skvělé tipy",
+   "opraveno": "TAHÁK na výuku němčiny – 3 skvělé tipy",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "budete moci \"TAHÁK\" číst",
+   "opraveno": "budete moci „TAHÁK“ číst",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "ze které jste se registrovali vám přijde",
+   "opraveno": "ze které jste se registrovali, vám přijde",
+   "duvod": "čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "\"SOUHLAS SE ZPRACOVÁNÍM OSOBNÍCH ÚDAJŮ\".",
+   "opraveno": "„SOUHLAS SE ZPRACOVÁNÍM OSOBNÍCH ÚDAJŮ“.",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "kliknutím na odkaz .",
+   "opraveno": "kliknutím na odkaz.",
+   "duvod": "mezera před tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "tahak-na-vyuku-nemciny-podekovani",
+   "puvodne": "můžete začíst i shlédnout videa",
+   "opraveno": "můžete začíst i zhlédnout videa",
+   "duvod": "zhlédnout (= podívat se)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "# VÍDNÍ - pěšky i na kole",
+   "opraveno": "# VÍDNÍ – pěšky i na kole",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "VÍDNÍ PĚŠKY I NA KOLE, vám zjednoduší poznávání metropole Rakouska. 3+3 tipy jak si usnadnit",
+   "opraveno": "VÍDNÍ PĚŠKY I NA KOLE vám zjednoduší poznávání metropole Rakouska. 3+3 tipy, jak si usnadnit",
+   "duvod": "čárka mezi podmětem a přísudkem; chybí čárka před „jak“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "## VÍDNÍ pěšky i na kole - příručka",
+   "opraveno": "## VÍDNÍ pěšky i na kole – příručka",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "pro pěší i cyklo-turisty.",
+   "opraveno": "pro pěší i cykloturisty.",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "## Praktická příručka - Vídní pěšky i na kole.",
+   "opraveno": "## Praktická příručka – Vídní pěšky i na kole.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "Nevíte, jak dojed s dětmi",
+   "opraveno": "Nevíte, jak dojet s dětmi",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "ať už jste pěší či cyklo-turista",
+   "opraveno": "ať už jste pěší či cykloturista",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "můj projekt \"s Blankou za hranice\".",
+   "opraveno": "můj projekt „s Blankou za hranice“.",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "## Co na PŘÍRUČKU - VÍDNÍ PĚŠKY I NA KOLE řekli první čtenáři - obyvatelé",
+   "opraveno": "## Co na PŘÍRUČKU – VÍDNÍ PĚŠKY I NA KOLE řekli první čtenáři – obyvatelé",
+   "duvod": "pomlčky místo spojovníků",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "Tak si stáhni Příručku VÍDNÍ",
+   "opraveno": "Tak si stáhni příručku VÍDNÍ",
+   "duvod": "velké písmeno uprostřed věty",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "Rozhodni se kam se vydáš",
+   "opraveno": "Rozhodni se, kam se vydáš",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "# VÍDNÍ pěšky i na kole - poděkování",
+   "opraveno": "# VÍDNÍ pěšky i na kole – poděkování",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "PRAKTICKOU PŘÍRUČKU - VÍDNÍ PĚŠKY I NA KOLE",
+   "opraveno": "PRAKTICKOU PŘÍRUČKU – VÍDNÍ PĚŠKY I NA KOLE",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "můj projekt \"s Blankou za hranice\" a dění",
+   "opraveno": "můj projekt „s Blankou za hranice“ a dění",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "ještě jednoho kroku než si budete moci",
+   "opraveno": "ještě jednoho kroku, než si budete moci",
+   "duvod": "chybí čárka před „než“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "ze které jste se registrovali vám přijde",
+   "opraveno": "ze které jste se registrovali, vám přijde",
+   "duvod": "čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "\"Souhlas se zpracováním obchodních údajů\".",
+   "opraveno": "„Souhlas se zpracováním obchodních údajů“.",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "kliknutím na odkaz .",
+   "opraveno": "kliknutím na odkaz.",
+   "duvod": "mezera před tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "k PŘÍRUČCE -VÍDNÍ PĚŠKY i NA KOLE",
+   "opraveno": "k PŘÍRUČCE – VÍDNÍ PĚŠKY i NA KOLE",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "pro pěší i cyklo-turisty.",
+   "opraveno": "pro pěší i cykloturisty.",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "Vídeň jako místní - bez stresu",
+   "opraveno": "Vídeň jako místní – bez stresu",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole-podekovani",
+   "puvodne": "To se hodí-kouknu",
+   "opraveno": "To se hodí – kouknu",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety",
+   "puvodne": "rakouskou přírodu všemi smysli.",
+   "opraveno": "rakouskou přírodu všemi smysly.",
+   "duvod": "i/y – smysly",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety",
+   "puvodne": "## Rakouská příroda má co se týká turistiky opravdu co nabídnout.",
+   "opraveno": "## Rakouská příroda má, co se týká turistiky, opravdu co nabídnout.",
+   "duvod": "čárky kolem vložené věty",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety",
+   "puvodne": "zamilujete si Rakousko tak, jako já.",
+   "opraveno": "zamilujete si Rakousko tak jako já.",
+   "duvod": "nadbytečná čárka při srovnání",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "dle konkrétni oblasti nebo zaměření",
+   "opraveno": "dle konkrétní oblasti nebo zaměření",
+   "duvod": "překlep (konkrétní)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "zamilujete si ho tak, jako já.",
+   "opraveno": "zamilujete si ho tak jako já.",
+   "duvod": "nadbytečná čárka při srovnání",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "## Vídeň - jak ji neznáte",
+   "opraveno": "## Vídeň – jak ji neznáte",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Vídeň to není jen Schönbrunn, obří kolo v Pratru, Sachr dort",
+   "opraveno": "Vídeň, to není jen Schönbrunn, obří kolo v Pratru, Sacher dort",
+   "duvod": "čárka za vytčeným členem; pravopis Sacher",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "## Oblast Niederösterreich - Dolní Rakousko",
+   "opraveno": "## Oblast Niederösterreich – Dolní Rakousko",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Dolního Rakouska přináši jak",
+   "opraveno": "Dolního Rakouska přináší jak",
+   "duvod": "překlep (přináší)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Brnu i Bratislavě a to jí dává",
+   "opraveno": "Brnu i Bratislavě, a to jí dává",
+   "duvod": "čárka před „a to“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "## Oblast Oberösterreich - Horní Rakousko",
+   "opraveno": "## Oblast Oberösterreich – Horní Rakousko",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "je jedna z nejoblíbenější oblastí",
+   "opraveno": "je jedna z nejoblíbenějších oblastí",
+   "duvod": "pád – 2. p. mn. č.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "stráněmi Alp astezkami kolem",
+   "opraveno": "stráněmi Alp a stezkami kolem",
+   "duvod": "chybí mezera",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "## Oblast Salzburg - Salcbursko",
+   "opraveno": "## Oblast Salzburg – Salcbursko",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "(něm.Salzburg)",
+   "opraveno": "(něm. Salzburg)",
+   "duvod": "chybí mezera za tečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "typický název Heuriger-to je Rakousko.",
+   "opraveno": "typický název Heuriger – to je Rakousko.",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Vyhlídky s pohledem do krajiny přináší nadhled",
+   "opraveno": "Vyhlídky s pohledem do krajiny přinášejí nadhled",
+   "duvod": "spisovný tvar 3. os. mn. č.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "vysokohorské nádrže či přehrady-tam všude",
+   "opraveno": "vysokohorské nádrže či přehrady – tam všude",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Tato místa nám přináší do života",
+   "opraveno": "Tato místa nám přinášejí do života",
+   "duvod": "spisovný tvar 3. os. mn. č.",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "světového dědictví UNESCO to je vždy příslib",
+   "opraveno": "světového dědictví UNESCO, to je vždy příslib",
+   "duvod": "čárka za vytčeným členem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "## Cyklo-výlety",
+   "opraveno": "## Cyklovýlety",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Cyklo-výlety ve Vídni i v okolí Vídně.",
+   "opraveno": "Cyklovýlety ve Vídni i v okolí Vídně.",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "vedou i cyklo-trasy nebo cyklo-stezky",
+   "opraveno": "vedou i cyklotrasy nebo cyklostezky",
+   "duvod": "pravopis – píše se dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "mají společné propojení ať už historické nebo současné regionální",
+   "opraveno": "mají společné propojení, ať už historické, nebo současné regionální",
+   "duvod": "čárky u „ať už – nebo“",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "říkají první sledovatelé a čtenáři :",
+   "opraveno": "říkají první sledovatelé a čtenáři:",
+   "duvod": "mezera před dvojtečkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "V době co-vidové můžeme",
+   "opraveno": "V době covidové můžeme",
+   "duvod": "pravopis (covidové)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "\nsomilierka\n",
+   "opraveno": "\nsomeliérka\n",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "můžete najít spousta tipů na volný čas",
+   "opraveno": "můžete najít spoustu tipů na volný čas",
+   "duvod": "pád – najít spoustu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "Čech, žijící v Rakousku",
+   "opraveno": "Čech žijící v Rakousku",
+   "duvod": "nadbytečná čárka (určující přívlastek)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "chcete se inspirovat z celé nabídky výletů.",
+   "opraveno": "chcete se inspirovat z celé nabídky výletů?",
+   "duvod": "věta je otázka",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "vylety-v-rakousku",
+   "puvodne": "s praktickou přílohou-váš osobní seznam věcí do batohu. Je to TADY.",
+   "opraveno": "s praktickou přílohou – váš osobní seznam věcí do batohu. Je to TADY.",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Přírodou ke zdraví, přírodou k sobě\"- rok 2026",
+   "opraveno": "„Přírodou ke zdraví, přírodou k sobě“ – rok 2026",
+   "duvod": "české uvozovky; pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Kdy: středa 18.2. 2026, 18,00-20,00",
+   "opraveno": "Kdy: středa 18. 2. 2026, 18.00–20.00",
+   "duvod": "mezery v datu; čas s tečkou; pomlčka v rozsahu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Příroda na talíři - rokem krok za krokem",
+   "opraveno": "Příroda na talíři – rokem krok za krokem",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "které máme běžně kolem sebe pro podporu zdraví těla i duše celé rodiny",
+   "opraveno": "které máme běžně kolem sebe, pro podporu zdraví těla i duše celé rodiny",
+   "duvod": "čárka za vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Počet míst je omezen - maximálně 12 osob.",
+   "opraveno": "Počet míst je omezen – maximálně 12 osob.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Kdy: čtvrtek 16.4.2026, 16,00-18,00",
+   "opraveno": "Kdy: čtvrtek 16. 4. 2026, 16.00–18.00",
+   "duvod": "mezery v datu; čas s tečkou; pomlčka v rozsahu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Regenerační procházka s názvem \"přírodou k sobě\".",
+   "opraveno": "Regenerační procházka s názvem „Přírodou k sobě“.",
+   "duvod": "české uvozovky; velké písmeno názvu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "v přírodě s využití konceptů:",
+   "opraveno": "v přírodě s využitím konceptů:",
+   "duvod": "překlep (s využitím)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Lesní mysl (Wald baden)",
+   "opraveno": "Lesní mysl (Waldbaden)",
+   "duvod": "pravopis německého slova",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Budete překvapeni kolik zpráv",
+   "opraveno": "Budete překvapeni, kolik zpráv",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Kdy: Pátek 19.6.2026",
+   "opraveno": "Kdy: pátek 19. 6. 2026",
+   "duvod": "malé písmeno (jako u ostatních); mezery v datu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "přírodního repelentu - 10 ml.",
+   "opraveno": "přírodního repelentu – 10 ml.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "vše v ceně workshopu.\nPočet míst je omezen - maximálně 10 osob.",
+   "opraveno": "vše v ceně workshopu.\nPočet míst je omezen – maximálně 10 osob.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Kdy: pátek 16.10.2026. 16,30-18,00 hod.",
+   "opraveno": "Kdy: pátek 16. 10. 2026, 16.30–18.00 hod.",
+   "duvod": "mezery v datu; čárka místo tečky; čas s tečkou; pomlčka v rozsahu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "pro nejmenší děti 6-10 let.",
+   "opraveno": "pro nejmenší děti 6–10 let.",
+   "duvod": "pomlčka v rozsahu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "cca 1,5 hodinovým rozmlouváním",
+   "opraveno": "cca 1,5hodinovým rozmlouváním",
+   "duvod": "číslo + přídavné jméno se píše dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "pracovní listy se kterými je možné",
+   "opraveno": "pracovní listy, se kterými je možné",
+   "duvod": "chybí čárka před vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Kdy: Středa (datum bude upřesněno) 18,00-20,00 hod.",
+   "opraveno": "Kdy: středa (datum bude upřesněno) 18.00–20.00 hod.",
+   "duvod": "malé písmeno; čas s tečkou; pomlčka v rozsahu",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "pohodu nejen o vánocích si vyrobíme",
+   "opraveno": "pohodu nejen o Vánocích si vyrobíme",
+   "duvod": "Vánoce s velkým písmenem",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Laskavá náruč\" - směs plná květů pro pohodu. \"Zimní vánoční čaj\" - směs plná ovoce a vánočního koření. \"Ochraný štít\" - směs",
+   "opraveno": "„Laskavá náruč“ – směs plná květů pro pohodu. „Zimní vánoční čaj“ – směs plná ovoce a vánočního koření. „Ochranný štít“ – směs",
+   "duvod": "české uvozovky; pomlčky; překlep Ochranný",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "dvě směsi = ovocnou a bylinou pro výrobu čaje",
+   "opraveno": "dvě směsi = ovocnou a bylinnou pro výrobu čaje",
+   "duvod": "překlep (bylinnou)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "chuťových vjemů. Nejen teoretické, ale hlavně praktické poznávání zdraví z přírody.\nPočet míst je omezen - maximálně 10 osob.",
+   "opraveno": "chuťových vjemů. Nejen teoretické, ale hlavně praktické poznávání zdraví z přírody.\nPočet míst je omezen – maximálně 10 osob.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "informace o workschopech a termínech",
+   "opraveno": "informace o workshopech a termínech",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "název workshopu, na který se přihlašujete nebo váš dotaz",
+   "opraveno": "název workshopu, na který se přihlašujete, nebo váš dotaz",
+   "duvod": "čárka za vloženou vedlejší větou",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "## Podívejte se na již proběhlé workshopy - fotky a reference.",
+   "opraveno": "## Podívejte se na již proběhlé workshopy – fotky a reference.",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "## Výroba bylinných, koupelových solí a purpur - listopad 2025, Vídeň",
+   "opraveno": "## Výroba bylinných koupelových solí a purpur – listopad 2025, Vídeň",
+   "duvod": "nadbytečná čárka (nesouřadné přívlastky); pomlčka",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "a nechybělo spousta úsměvů a radosti",
+   "opraveno": "a nechyběla spousta úsměvů a radosti",
+   "duvod": "shoda podmětu s přísudkem (spousta – nechyběla)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Děkuji za příjemný a krásně provoněný večer",
+   "opraveno": "„Děkuji za příjemný a krásně provoněný večer",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "na pokračování v příštím roce. \"",
+   "opraveno": "na pokračování v příštím roce.“",
+   "duvod": "české uvozovky, bez mezery",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Úžasný relax, krásné vůně a milé ženy jeden z mých nejhezčích",
+   "opraveno": "„Úžasný relax, krásné vůně a milé ženy – jeden z mých nejhezčích",
+   "duvod": "české uvozovky; chybí oddělení (pomlčka)",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Díky moc Blani \"",
+   "opraveno": "Díky moc, Blani.“",
+   "duvod": "čárka před oslovením; české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "## Příroda na talíři - únor 2024, Vídeň",
+   "opraveno": "## Příroda na talíři – únor 2024, Vídeň",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Moc děkujeme za super informace a těšíme se na duben na další\".",
+   "opraveno": "„Moc děkujeme za super informace a těšíme se na duben na další.“",
+   "duvod": "české uvozovky, tečka uvnitř",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "## Přírodou k sobě - duben 2024, Vídeň",
+   "opraveno": "## Přírodou k sobě – duben 2024, Vídeň",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Lesní mysl+ Lesní terapie a Tai-či.",
+   "opraveno": "Lesní mysl + Lesní terapie a Tai-či.",
+   "duvod": "mezera kolem „+“",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Děkuji za zajímavý workshop. Pomohl mi v cestě životem, kde se teď momentálně nacházím to slovně",
+   "opraveno": "„Děkuji za zajímavý workshop. Pomohl mi v cestě životem, kde se teď momentálně nacházím, to slovně",
+   "duvod": "české uvozovky; čárka za vedlejší větou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Tento workshop mě ve změně utvrdil.\"",
+   "opraveno": "Tento workshop mě ve změně utvrdil.“",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "pro děti DEN STROMŮ - říjen 2024, Vídeň",
+   "opraveno": "pro děti DEN STROMŮ – říjen 2024, Vídeň",
+   "duvod": "pomlčka místo spojovníku",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "našem životě, pro ty nejmenší byla pro mě výzva, která se nakonec ukázala, jako velmi příjemně a smyslu-plně využitý čas",
+   "opraveno": "našem životě pro ty nejmenší bylo pro mě výzvou, která se nakonec ukázala jako velmi příjemně a smysluplně využitý čas",
+   "duvod": "shoda (vyprávění – bylo); nadbytečné čárky; smysluplně dohromady",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "kladly spousta otázek",
+   "opraveno": "kladly spoustu otázek",
+   "duvod": "pád – kladly spoustu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Na konci worshopu pak malovaly",
+   "opraveno": "Na konci workshopu pak malovaly",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "\"Pracovní listy jsme využili i v dalších hodinách k opakování a povídání s dětmi.\"",
+   "opraveno": "„Pracovní listy jsme využili i v dalších hodinách k opakování a povídání s dětmi.“",
+   "duvod": "české uvozovky",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "podzimního dne jsem se sešli",
+   "opraveno": "podzimního dne jsme se sešli",
+   "duvod": "překlep (jsme)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Florisdorfer Wasserpark",
+   "opraveno": "Floridsdorfer Wasserpark",
+   "duvod": "překlep v názvu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "vysílání pro národností menšiny",
+   "opraveno": "vysílání pro národnostní menšiny",
+   "duvod": "překlep (národnostní)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "Rádio Vollksgruppen ORF",
+   "opraveno": "Rádio Volksgruppen ORF",
+   "duvod": "překlep v názvu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "## Aromaterapie-tvůrčí workshop",
+   "opraveno": "## Aromaterapie – tvůrčí workshop",
+   "duvod": "pomlčka s mezerami",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "těla i duše - listopad 2024,Vídeň",
+   "opraveno": "těla i duše – listopad 2024, Vídeň",
+   "duvod": "pomlčka; chybí mezera za čárkou",
+   "typ": "gramatika",
+   "typografie": true
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "své olejíčky a spousta nových informací",
+   "opraveno": "své olejíčky a spoustu nových informací",
+   "duvod": "pád – odnášely spoustu",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy",
+   "puvodne": "„Bolo to veĺmi zaujímavé",
+   "opraveno": "„Bolo to veľmi zaujímavé",
+   "duvod": "překlep ve slovenštině (ľ)",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy-akce",
+   "puvodne": "informace o workschopech i dalších akcích",
+   "opraveno": "informace o workshopech i dalších akcích",
+   "duvod": "překlep",
+   "typ": "gramatika"
+  },
+  {
+   "stranka": "workshopy-akce",
+   "puvodne": "název akce, na kterou se přihlašujete nebo váš dotaz",
+   "opraveno": "název akce, na kterou se přihlašujete, nebo váš dotaz",
+   "duvod": "čárka za vloženou vedlejší větou",
+   "typ": "gramatika"
+  }
+ ],
+ "pruvodce": [
+  {
+   "stranka": "home-s-blankou-za-hranice",
+   "puvodne": "Vaše cestovní podpora ve Vídni a okolí. On-line průvodkyně Rakouskem.",
+   "opraveno": "Vaše cestovní podpora ve Vídni a okolí. On-line průvodkyně Rakouskem.",
+   "duvod": "Slovo „průvodkyně“ použité o Blance – nahradit (např. „On-line pomocnice/rádkyně při cestách Rakouskem“).",
+   "typ": "pruvodce",
+   "navrh": "vynechat (zůstane „Vaše cestovní podpora ve Vídni a okolí. Autorka projektu Přírodou k sobě.“)"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "že bez místního průvodce snadno minete to nejlepší.",
+   "opraveno": "že bez místního průvodce snadno minete to nejlepší.",
+   "duvod": "„Průvodce“ zde odkazuje na Blanku jako osobu – nahradit (např. „bez místní znalosti“, „bez někoho místního“).",
+   "typ": "pruvodce",
+   "navrh": "že bez někoho místního snadno minete to nejlepší"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "Děkujeme za vaše průvodcovské služby ve Vídni",
+   "opraveno": "Děkujeme za vaše průvodcovské služby ve Vídni",
+   "duvod": "Recenze označuje Blančiny služby jako „průvodcovské“ – nahradit (např. „za vaše služby“ / „za cestovní podporu“), pokud lze recenzi upravit.",
+   "typ": "pruvodce",
+   "navrh": "Děkujeme za vaše služby ve Vídni (slova klienta v recenzi)"
+  },
+  {
+   "stranka": "viden-cestovni-podpora",
+   "puvodne": "a paní průvodkyně tomu skvěle přizpůsobila celou prohlídku",
+   "opraveno": "a paní průvodkyně tomu skvěle přizpůsobila celou prohlídku",
+   "duvod": "„Průvodkyně“ o Blance – nahradit (např. „a paní Blanka tomu skvěle přizpůsobila“).",
+   "typ": "pruvodce",
+   "navrh": "a paní Blanka tomu skvěle přizpůsobila celou prohlídku (recenze)"
+  },
+  {
+   "stranka": "7-nejcastejsich-chyb-turistu-ve-vidni",
+   "puvodne": "## Praktické tipy od místní průvodkyně, které vám usnadní pobyt",
+   "opraveno": "## Praktické tipy od místní průvodkyně, které vám usnadní pobyt",
+   "duvod": "„Průvodkyně“ o Blance – nahradit (např. „od místní obyvatelky“, „od Češky žijící ve Vídni“).",
+   "typ": "pruvodce",
+   "navrh": "Praktické tipy od Češky žijící ve Vídni, které vám usnadní…"
+  },
+  {
+   "stranka": "do-rakouska",
+   "puvodne": "Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování.",
+   "opraveno": "Průvodce, který vás vede jasně, klidně a bez zbytečného zdržování.",
+   "duvod": "Věta stojí v bloku o službě CESTOVNÍ PODPORY (osobní doprovod), takže „Průvodce“ zde může být čten jako osoba – zvážit přeformulování (např. „Itinerář, který vás vede…“). Na domovské stránce stejná věta patří k produktu Průvodce do kapsy a je v pořádku.",
+   "typ": "pruvodce",
+   "navrh": "ponechat, pokud jde o produkt Průvodce do kapsy; jinak „Podpora, která vás vede jasně…“"
+  },
+  {
+   "stranka": "den-ve-vidni",
+   "puvodne": "že bez místního průvodce snadno minete to nejlepší",
+   "opraveno": "(ověřit/přeformulovat – např. „bez místní podpory“)",
+   "duvod": "slovo „průvodce“ o osobě; obecně, ale nepřímo míří na Blančin osobní doprovod",
+   "typ": "pruvodce",
+   "navrh": "že bez někoho místního snadno minete to nejlepší"
+  },
+  {
+   "stranka": "o-mne",
+   "puvodne": "získání certifikátu průvodkyně Lesní mysli",
+   "opraveno": "(přeformulovat bez slova „průvodkyně“, např. „získání certifikátu Lesní mysli“)",
+   "duvod": "„průvodkyně“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "získání certifikátu Lesní mysli"
+  },
+  {
+   "stranka": "pobyty-nabidka",
+   "puvodne": "s českou průvodkyní, která na GOZO rok žila",
+   "opraveno": "(ověřit, zda jde o Blanku; pokud ano, přeformulovat bez „průvodkyně“)",
+   "duvod": "„průvodkyně“ o osobě – pravděpodobně jiná osoba, ale ověřit",
+   "typ": "pruvodce",
+   "navrh": "jde-li o jinou osobu, ponechat; jste-li to vy: „s Češkou, která na Gozu rok žila“"
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "Jsem certifikovaný průvodce konceptu Lesní mysl.",
+   "opraveno": "(přeformulovat bez „průvodce“; navíc rod: „certifikovaná“)",
+   "duvod": "„průvodce“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "Mám certifikát konceptu Lesní mysl."
+  },
+  {
+   "stranka": "prirodou-k-sobe",
+   "puvodne": "jedním z prvních certifikovaných průvodců v České republice",
+   "opraveno": "(přeformulovat bez „průvodců“)",
+   "duvod": "„průvodců“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "jednou z prvních certifikovaných lektorek v České republice"
+  },
+  {
+   "stranka": "prirodou-ke-zdravi-s-blankou-k-bewit",
+   "puvodne": "a jsem průvodcem dalším ženám i mužům na jejich cestě",
+   "opraveno": "(přeformulovat bez „průvodcem“)",
+   "duvod": "„průvodce“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "a doprovázím další ženy i muže na jejich cestě"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "## Praktické tipy od místní průvodkyně, které vám usnadní",
+   "opraveno": "(přeformulovat bez „průvodkyně“, např. „od místní Češky“)",
+   "duvod": "„průvodkyně“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "Praktické tipy od Češky žijící ve Vídni, které vám usnadní…"
+  },
+  {
+   "stranka": "produkty-ke-stazeni",
+   "puvodne": "Máte chuť poznávat Vídeň s průvodcem či přáteli?",
+   "opraveno": "(ověřit/přeformulovat bez „průvodcem“)",
+   "duvod": "„průvodce“ o osobě (obecně, v kontextu nabídky)",
+   "typ": "pruvodce",
+   "navrh": "ponechat (obecně, ne o vás)"
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "V roce 2021 jsem se stala certifikovanou průvodkyní konceptu Lesní mysl.",
+   "opraveno": "V roce 2021 jsem se stala certifikovanou průvodkyní konceptu Lesní mysl.",
+   "duvod": "slovo „průvodkyně“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "V roce 2021 jsem získala certifikát konceptu Lesní mysl."
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "ale vedení průvodců je vždy rozdílné",
+   "opraveno": "ale vedení průvodců je vždy rozdílné",
+   "duvod": "„průvodců“ o osobách vedoucích procházky (vč. Blanky)",
+   "typ": "pruvodce",
+   "navrh": "ponechat (obecně), nebo „ale vedení je pokaždé jiné“"
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Jsem certifikovaná průvodkyně Lesní mysli =Metsämieli (2021)",
+   "opraveno": "Jsem certifikovaná průvodkyně Lesní mysli =Metsämieli (2021)",
+   "duvod": "slovo „průvodkyně“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "Mám certifikát Lesní mysli – Metsämieli (2021)"
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "Jsem certifikovaný průvodce konceptu Lesní mysl",
+   "opraveno": "Jsem certifikovaný průvodce konceptu Lesní mysl",
+   "duvod": "slovo „průvodce“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "Mám certifikát konceptu Lesní mysl."
+  },
+  {
+   "stranka": "regeneracni-prochazky",
+   "puvodne": "jsem se stala jedním z prvních certifikovaných průvodců v České republice",
+   "opraveno": "jsem se stala jedním z prvních certifikovaných průvodců v České republice",
+   "duvod": "slovo „průvodců“ o Blance",
+   "typ": "pruvodce",
+   "navrh": "jsem se stala jednou z prvních certifikovaných lektorek v České republice"
+  },
+  {
+   "stranka": "vidni-pesky-i-na-kole",
+   "puvodne": "kde najít průvodce nebo stejně naladěné lidi",
+   "opraveno": "kde najít průvodce nebo stejně naladěné lidi",
+   "duvod": "„průvodce“ o osobách (obecně, ne přímo o Blance) – ke zvážení",
+   "typ": "pruvodce",
+   "navrh": "ponechat (obecně, ne o vás)"
+  }
+ ],
+ "typografie": {
+  "home-s-blankou-za-hranice": 7,
+  "viden-cestovni-podpora": 13,
+  "viden-s-programem-cestovni-podpora": 30,
+  "viden-s-podporou-za-zady": 10,
+  "viden-relaxacni": 17,
+  "viden-adventni": 16,
+  "7-nejcastejsich-chyb-turistu-ve-vidni": 5,
+  "bonusy-pro-klienty": 12,
+  "checklist-na-vylety-podekovani": 8,
+  "checklist-na-vylety": 7,
+  "do-prirody": 1,
+  "do-rakouska": 4,
+  "fotogalerie-bonus": 5,
+  "den-ve-vidni": 5,
+  "dekorace-do-bytu": 7,
+  "dekorace-rokem-krok-za-krokem": 3,
+  "jak-se-zije-za-hranici": 6,
+  "kontakt-s-blankou-za-hranice": 1,
+  "minipruvodce-vidni-snadno": 6,
+  "muj-pribeh": 18,
+  "nabidka-pro-kolektivy": 4,
+  "o-mne": 6,
+  "pobyty-nabidka": 5,
+  "prirodou-k-sobe": 5,
+  "prirodou-ke-zdravi-s-blankou-k-bewit": 3,
+  "produkty-ke-stazeni": 17,
+  "projekt-v-mediich": 10,
+  "pruvodce-a-minipruvodce": 4,
+  "pruvodce-viden-zahrady-a-parky": 14,
+  "reference": 1,
+  "regeneracni-prochazky": 15,
+  "spoluprace": 1,
+  "tahak-na-vyuku-nemciny": 7,
+  "tahak-na-vyuku-nemciny-podekovani": 6,
+  "vidni-pesky-i-na-kole": 5,
+  "vidni-pesky-i-na-kole-podekovani": 8,
+  "vylety-v-rakousku": 10,
+  "workshopy": 30
+ }
+}

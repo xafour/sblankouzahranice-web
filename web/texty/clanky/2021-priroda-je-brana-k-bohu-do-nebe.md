@@ -102,7 +102,7 @@ Takový trénink dovedností vedoucích k životní rovnováze prováděných id
 Když jsem se s tímto projektem setkala poprvé a uslyšela název, bylo mi jasné, že to se mnou velmi rezonuje. Věděla jsem, že to musím, chtěla se dozvědět víc. Prošla jsem kurzem pro Průvodce lesní mysli.
 Více o procházkách do přírody spojených s títmto konceptem ZDE.
 
-[obrázek: blog-prispevek-foto.png]
+[obrázek: blog-prispevek-foto.jpg]
 
 Jenže v tuto chvíli nastává ten okamžik na PRVNÍ OTÁZKU tohoto příspěvku:
 „Taky se vám stává, že často v životě přemýšlíte jak některé věci, o kterých víte, že jsou správně pak prakticky uchopit, začlenit do svého života, zrealizovat a žít je v kontextu všech okolností?“

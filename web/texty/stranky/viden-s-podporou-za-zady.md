@@ -283,7 +283,7 @@ vidět a navštívit:
 
 ## Pro každého klienta, který si objedná jakoukoliv formu služby CESTOVNÍ PODPORY je připraven BONUS navíc.
 
-[obrázek: Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.png]
+[obrázek: Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.jpg]
 
 ## BONUS = DÁREK
 

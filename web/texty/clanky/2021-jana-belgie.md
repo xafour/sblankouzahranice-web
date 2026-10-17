@@ -50,9 +50,9 @@ Ve zmiňované Belgii mi asi nejvíc překážel můj věk.
 Najednou mi došlo, že ve 20 člověk opravdu snáz tápe v běžných životních situacích, ve 40 je to takové bolestivější. Nejsem vzdávací typ, umím si poradit tak, že někdy překvapím i sama sebe, ale umím i nadávat. Třeba, když nemůžu najít obchod, poštu, tělocvičnu a člověk je tím pádem vlastně stále někde ztracen. Prostě když už jste ztraceni po několikáté v životě ve věku, kdy už to není až takové dobrodružství, tak je to v každodenním provozu otrava.
 V Belgii pro mě bylo nejtěžší administrativně zvládnout těhotenství a porod. Když neznáte běžnou praxi země, netušíte, jak zažádat o mateřskou, rodičák nebo jak fungují jesličky, není to lehké. Nástup do práce byl také náročný, ale pak jsem najednou jednoho dne zjistila, že se směji s maminkami na hřišti nad nějakou situací a vlámsky jim odpovídám a neřeším, jaké slovo použít. Boží pocit! A jak říkám, ostatní jazyky šly téměř samy, ale ta prokletá vlámština.
 
-[obrázek: Antverpy-foto-z-Canvy-S.png]
+[obrázek: Antverpy-foto-z-Canvy-S.jpg]
 
-[obrázek: Antverpy-2-foto-z-Canvy-S.png]
+[obrázek: Antverpy-2-foto-z-Canvy-S.jpg]
 
 - Jaké největší rozdíly jsi vnímala v nových zemích oproti tvé vlasti? Co se ti tam líbilo a co naopak třeba ne?
 Překvapilo mě, jak jiná Belgie a její mentalita je. Já si to představovala jako Německo, Rakousko, ale ouha. Belgičani jsou úplně jiní. Vlámy jsem vnímala jako velmi uzavřené, ale zároveň tolerantní a vlídné lidi, vždy ochotné pomoci. Co se mi moc líbilo je vyšší bezpečnost na silnicích, méně "machrů" za volantem a také naprosto bezkonkurenční cyklistické stezky. Belgičané jsou také uvědomělejší občané své země, a i když někdy s něčím nesouhlasí, dovedou věci následovat pro dobro společnosti. To mě bavilo a na to jsem narazila zpět u nás v ČR. Mám na mysli tu věčnou „opozici“ a říkání "NE" často jen z jakési potřeby vyhranit se.

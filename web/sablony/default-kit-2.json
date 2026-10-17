@@ -106,22 +106,22 @@
     },
     {
      "_id": "sbz_zelena",
-     "color": "#0A431B",
-     "title": "Nový – Zelená (hlavní)"
+     "color": "#145A38",
+     "title": "Nový – Tmavě zelená (tlačítka, nadpisy)"
     },
     {
      "_id": "sbz_oliva",
-     "color": "#6F7B0D",
-     "title": "Nový – Olivová (akcent)"
+     "color": "#A8653F",
+     "title": "Nový – Doplňková tmavá (jen drobné zvýraznění)"
     },
     {
      "_id": "sbz_svetla",
-     "color": "#DEE5A3",
-     "title": "Nový – Světle olivová"
+     "color": "#F5E1CF",
+     "title": "Nový – Doplňková světlá (pozadí sekcí)"
     },
     {
      "_id": "sbz_krem",
-     "color": "#F8F9F1",
+     "color": "#FBF7F0",
      "title": "Nový – Krémové pozadí"
     },
     {
@@ -131,13 +131,18 @@
     },
     {
      "_id": "sbz_seda",
-     "color": "#6B7268",
+     "color": "#6E655E",
      "title": "Nový – Šedá (popisky)"
     },
     {
      "_id": "sbz_bila",
      "color": "#FFFFFF",
      "title": "Nový – Bílá"
+    },
+    {
+     "_id": "sbz_louka",
+     "color": "#DEE5A3",
+     "title": "Nový – Světle olivová (pozadí sekcí)"
     }
    ],
    "custom_typography": [
@@ -308,23 +313,23 @@
      "title": "Nový – Nadtitulek",
      "typography_font_family": "Source Sans 3",
      "typography_font_size": {
-      "size": 14,
+      "size": 18,
       "sizes": [],
       "unit": "px"
      },
      "typography_font_size_mobile": {
-      "size": 13,
+      "size": 16,
       "sizes": [],
       "unit": "px"
      },
      "typography_font_size_tablet": {
-      "size": 14,
+      "size": 18,
       "sizes": [],
       "unit": "px"
      },
-     "typography_font_weight": "600",
+     "typography_font_weight": "700",
      "typography_letter_spacing": {
-      "size": 1.5,
+      "size": 1.2,
       "sizes": [],
       "unit": "px"
      },
@@ -520,7 +525,7 @@
   "_elementor_template_type": "kit",
   "_wp_page_template": "default"
  },
- "modified": "2026-10-14 23:42:03",
+ "modified": "2026-10-16 14:59:41",
  "obsah_wordpress": "",
  "parent": 0,
  "slug": "default-kit-2",

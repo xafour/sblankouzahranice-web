@@ -2,13 +2,15 @@
 
 Adresa: https://sblankouzahranice.eu/nabidka-pro-kolektivy/
 
+Popis pro Google: Workshopy a programy v přírodě pro školy, kolektivy a dětské skupiny. Program ke DNI STROMŮ spolu s pracovními listy.
+
 ## Nabídka pro kolektivy, školy a dětské skupiny.
 
 ## Hluboké propojení s přírodou, hluboké propojení se sebou.
 
 ## Pomožme dětem vnímat přírodu a zažít přirozenost.
 
-[obrázek: Nabidka-komplet.png]
+[obrázek: Nabidka-komplet.jpg]
 
 Připravila jsem pro vás několik témat pro spolupráci, jimiž se prolíná téma přírody jako základní.
 Jedná se většinou o mé autorské projekty, které mám všechny již roky odzkoušené a které jsem nyní nově přizpůsobila i dětským kolektivům.
@@ -78,7 +80,7 @@ Ideální doplnění předmětu tělesné výchovy.
 
 ## Kontakt
 
-[obrázek: Kontakt-new.png]
+[obrázek: Kontakt-new.jpg]
 
 ## Více informací najdete ZDE.
 

@@ -6,7 +6,7 @@ Popis pro Google: Vídeň a okolí s programem a cestovní podporou můžete obj
 
 ## Cestovní podpora Vídeň a okolí s programem pro skupiny a firmy.
 
-[obrázek: skupinova-podpora-e1712573329377.png]
+[obrázek: skupinova-podpora-e1712573329377.jpg]
 
 ## ...poznejte metropoli Rakouska jako místní s Češkou žijící ve Vídni.
 

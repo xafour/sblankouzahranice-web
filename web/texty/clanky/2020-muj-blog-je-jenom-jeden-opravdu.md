@@ -33,7 +33,7 @@ Mám-li být úspěšná, mají-li se moje stránky a články líbit a přiná�
 
 ## Tak si to shrňme hezky popořádku:-)
 
-[obrázek: blog-prispevek-foto.png]
+[obrázek: blog-prispevek-foto.jpg]
 
 ## otázka PROČ?
 

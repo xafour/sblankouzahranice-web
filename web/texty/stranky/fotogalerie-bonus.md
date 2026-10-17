@@ -2,7 +2,7 @@
 
 Adresa: https://sblankouzahranice.eu/fotogalerie-bonus/
 
-Popis pro Google: Fotogalerie projektu s Blankou za hranice. Bonusové foto, které na mém webu nenajdete. Malá ochutnávka, co vše se dá na výletech...
+Popis pro Google: Bonusové fotky z výletů po Rakousku: alpské květiny, zvířata, neobvyklé zážitky i netradiční dopravní značky, které jinde nenajdete.
 
 ## FOTOGALERIE
 

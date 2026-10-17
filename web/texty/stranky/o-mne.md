@@ -6,7 +6,7 @@ Popis pro Google: Jmenuji se Blanka Štulíková a několik let již žiji za hr
 
 ## Co dělá Češka v Rakousku? Z Prahy do Vídně.
 
-[obrázek: O-MNE-kraken-3sv-e1712643586386.png]
+[obrázek: O-MNE-kraken-3sv-e1712643586386.jpg]
 
 ## Jmenuji se Blanka, a právě teď žiji za hranicí své vlasti i své denní rutiny.
 
@@ -55,9 +55,9 @@ Protože mám ráda přírodu ve všech jejích podobách a můj partner mi cht�
 Nejdříve to byly jen krátké příspěvky pro mé přátelé a známé v ČR, později se z našich výletů vyklubal můj nový projekt
 „s Blankou za hranice“.
 
-[obrázek: 3.png]
+[obrázek: 3.jpg]
 
-[obrázek: 4.png]
+[obrázek: 4.jpg]
 
 Jak se z výletů stane budoucí projekt si můžete přečíst ZDE.
 
@@ -74,9 +74,9 @@ Uvědomuji si čím dál jasněji, že kdybychom se nechali inspirovat pravidly 
 A proto vám nabízím nejen poznávání nových míst v přírodě, ale i poznávání sebe sama prostřednictvím krátkých ozdravných procházek do přírody. Na procházkách propojuji své intuitivní vnímání moudrosti přírody spolu s finským konceptem Lesní mysli i mým dlouholetým praktikováním cvičení Tai-Chi a Qi -Gong.
 Procházky přináší regeneraci, sebepoznání i načerpání energie.
 
-[obrázek: 8.png]
+[obrázek: 8.jpg]
 
-[obrázek: 6.png]
+[obrázek: 6.jpg]
 
 ## Vydejte se s Blankou za hranice města do přírody a přírodou k sobě.
 
@@ -96,9 +96,9 @@ Vnáším si tak přírodu do mých domovů a naplňuje mě to radostí.
 Je to nejen tvůrčí vyjádření, ale i práce rukama a v neposlední řadě celoroční výzdoba bytu zadarmo.
 Je to naladění se na koloběh života v přírodě a také možnost jít rokem o trochu vědoměji a pomaleji. Pokud chceš inspiraci na tvoření a výzdobu bytu pomocí dekorací z přírody, zvu tě k tvoření každý měsíc po celý rok.
 
-[obrázek: 13.png]
+[obrázek: 13.jpg]
 
-[obrázek: 12.png]
+[obrázek: 12.jpg]
 
 ## 12 tipů+12 video-návodů na 12 měsíců v roce
 

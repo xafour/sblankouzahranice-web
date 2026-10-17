@@ -6,7 +6,7 @@ Popis pro Google: Společně projdeme celým rokem měsíc po měsíci v promě
 
 ## Rokem krok za krokem.
 
-[obrázek: Dekorace-e1712687646527.png]
+[obrázek: Dekorace-e1712687646527.jpg]
 
 Vyrobte si jednoduché přírodní dekorace do bytu.
 

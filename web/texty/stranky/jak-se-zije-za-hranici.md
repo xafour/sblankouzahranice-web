@@ -2,11 +2,11 @@
 
 Adresa: https://sblankouzahranice.eu/jak-se-zije-za-hranici/
 
-Popis pro Google: Příběhy žen, které se vydali na zkušenou do světa. Život za hranicí vlasti. Proč se některé ze světa vracíme a jiné tam zůstáváme?
+Popis pro Google: Šest žen, šest zemí, šest skutečných příběhů. Jak se žije v zahraničí, proč se některé vracíme a jiné zůstávají a jak zvládnout nový začátek.
 
 ## Život v zahraničí.
 
-[obrázek: Jak-se-zije-za-hranici-upra.png]
+[obrázek: Jak-se-zije-za-hranici-upra.jpg]
 
 ## Příběhy žen, které se vydaly na zkušenou do světa.
 
@@ -75,17 +75,17 @@ Věřím, že vás jich zpovědi budou inspirovat. Třeba v nich naleznete podob
 
 Nechte se provést šesti zeměmi a autentickými příběhy obyčejných a přitom neobyčejně zajímavých žen.
 
-[obrázek: Fotka-globus-na-ruce2.png]
+[obrázek: Fotka-globus-na-ruce2.jpg]
 
 Oddělovač
 
-[obrázek: 1upoutavka-s-prvkem2.png]
+[obrázek: 1upoutavka-s-prvkem2.jpg]
 
-[obrázek: 2-upoutavka-s-prvkem-2.png]
+[obrázek: 2-upoutavka-s-prvkem-2.jpg]
 
-[obrázek: 3Upoutavka-s-prvkem-3.png]
+[obrázek: 3Upoutavka-s-prvkem-3.jpg]
 
-[obrázek: 5-Upoutavka-Veronika2.png]
+[obrázek: 5-Upoutavka-Veronika2.jpg]
 
 [obrázek: Vystrizek-novy-opr.-1.jpg]
 

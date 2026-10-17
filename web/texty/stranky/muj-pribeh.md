@@ -19,7 +19,7 @@ Dnes žiji život, ve kterém nic není možné plánovat, život plný nečekan
 
 ## Každý den přináší nové možnosti, život je výzva a cesta je cíl.
 
-[obrázek: jajaja-removebg-preview.png]
+[obrázek: jajaja-removebg-preview.jpg]
 
 MŮJ PŘÍBĚH
 
@@ -67,7 +67,7 @@ Bylo mi 33 let, když od nás manžel odešel a já byla rozvedená, sama s malo
 Cítila jsem se na vše sama, neboť mi v té době ještě v poměrně mladém věku zemřela i moje maminka. Tehdy poprvé přišly všechny ty emoce, strachu, obav, nejistot, jak to vše zvládnu, kde hledat pomoc, jak nás uživím a co nás v budoucnu čeká?
 Bála jsem se budoucnosti a neviděla "světlo na konci tunelu".
 
-[obrázek: muj-pribeh-rozvod-2.png]
+[obrázek: muj-pribeh-rozvod-2.jpg]
 
 ## o 10 let později....
 
@@ -77,7 +77,7 @@ V této euforii, jak to vše dobře zvládám, jsem svojí neopatrností a notno
 Já sama se s tehdy 15 letou dcerou, stěhovala z velkého bytu v centru metropole do nedostavěného domku na samotě v lese, kam nevedla zpevněná, osvětlená cesta a kde nebylo nejen dobré dopravní spojení do Prahy, ale ani internet! K tomu navíc výpověď z práce.
 A opět přišel další "pád na dno". Znovu jsem neviděla žádné světlo na konci tunelu. Dostavil se pocit strachu z budoucnosti. Cítila jsem beznaděj, naštvání a smutek, že věci nejdou tak, jak jsem doufala.
 
-[obrázek: muj-pribeh-dum1-2.png]
+[obrázek: muj-pribeh-dum1-2.jpg]
 
 ## konečně přichází klid...
 
@@ -85,7 +85,7 @@ Jak už možná tušíte, po dalších několika letech jsem se opět vlastní p
 Plánovala jsem, že zvolním tempo, tak abych měla vice času na sebe.
 Dalo by se říci, že jsem v té době dosáhla toho, co jsem si předsevzala, žila docela spokojený a vyrovnaný život a těšila se na to, jak začnu uskutečňovat své sny, místo každodenní práce v zaměstnání.
 
-[obrázek: muj-pribeh-partnerstvi-2.png]
+[obrázek: muj-pribeh-partnerstvi-2.jpg]
 
 ## a znovu "BUM"...
 

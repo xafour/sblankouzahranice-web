@@ -1,6 +1,6 @@
 /* ===== BEGIN sbz design system (spravuje git: BlankaWeb/design/sbz.css) ===== */
 /* Zvýraznění části nadpisu (náhrada „fancy text“) */
-.sbz-hl{background:linear-gradient(transparent 60%,var(--e-global-color-sbz_svetla) 60%);padding:0 .12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.sbz-hl{background:linear-gradient(transparent 60%,var(--e-global-color-sbz_louka,#DEE5A3) 60%);padding:0 .12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 /* Karta: bílé pozadí, jemný stín */
 .sbz-karta>.elementor-widget-container,.sbz-karta.elementor-column>.elementor-widget-wrap{background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 2px rgba(10,67,27,.06),0 8px 24px rgba(10,67,27,.07)}
 .sbz-karta.elementor-column>.elementor-widget-wrap{height:100%;align-content:flex-start}
@@ -14,7 +14,7 @@
 .sbz-kroky li::before{content:counter(k);position:absolute;left:0;top:0;width:38px;height:38px;border-radius:50%;background:var(--e-global-color-sbz_zelena);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:600}
 /* Odkazy v textu */
 .sbz-text a{color:var(--e-global-color-sbz_zelena);text-decoration:underline;text-underline-offset:2px}
-.sbz-text a:hover{color:var(--e-global-color-sbz_oliva)}
+.sbz-text a:hover{text-decoration-thickness:2px}
 .sbz-text p:last-child{margin-bottom:0}
 /* Reference */
 .sbz-reference .elementor-testimonial-content{font-style:normal}
@@ -28,4 +28,59 @@
 .elementor-widget-icon-box.sbz-karta,.elementor-widget-icon-box.sbz-karta>.elementor-widget-container{height:100%}
 /* Mobil: menší mezery mezi fotkami v mřížce */
 @media (max-width:767px){.sbz-foto .widget-image-caption{font-size:13px}.elementor-column:has(>.elementor-widget-wrap>.sbz-foto){padding:0 4px}}
+/* Úvodní fotka (hero): styl „karta“ = text v krémové kartě nad fotkou bez závoje */
+.sbz-uvod-karta>.elementor-widget-wrap{background:rgba(251,246,239,.94);border-radius:16px;padding:44px 36px!important;box-shadow:0 12px 40px rgba(20,40,30,.18)}
+@media (max-width:767px){.sbz-uvod-karta>.elementor-widget-wrap{padding:28px 18px!important}}
+/* Slabší krémový závoj: nadpis a text čitelné díky jemné světlé záři kolem písmen */
+.sbz-uvod-krem .elementor-heading-title,.sbz-uvod-krem .elementor-widget-text-editor{text-shadow:0 0 18px rgba(251,247,240,.95),0 0 4px rgba(251,247,240,.9)}
+/* Úvod „panel“ (Blanka 16. 10.): světlý závoj zůstává, text v tmavě zeleném panelu kvůli kontrastu, hlavní věty větší */
+.sbz-uvod-panel>.elementor-widget-wrap{background:rgba(20,90,56,.88);border-radius:16px;padding:28px 44px!important;box-shadow:0 12px 40px rgba(20,40,30,.25)}
+.sbz-uvod-panel .elementor-heading-title,.sbz-uvod-panel .elementor-widget-text-editor,.sbz-uvod-panel .elementor-widget-text-editor p{color:#fff!important;text-shadow:none}
+.sbz-uvod-panel p.elementor-heading-title{color:var(--e-global-color-sbz_louka,#DEE5A3)!important;font-size:24px!important;letter-spacing:1px!important}
+.sbz-uvod-panel h1.elementor-heading-title{font-size:40px!important}
+.sbz-uvod-panel .elementor-widget-text-editor,.sbz-uvod-panel .elementor-widget-text-editor p{font-size:23px!important;line-height:1.45!important;font-weight:500}
+.sbz-uvod-panel .elementor-widget-text-editor p{margin-bottom:8px}
+.sbz-uvod-panel .elementor-widget:not(.elementor-widget-button){margin-bottom:12px}
+/* tlačítka na tmavém panelu: hlavní světle olivové, vedlejší bílý obrys; po najetí bílé */
+.sbz-uvod-panel .sbz-btn-primary .elementor-button{background:var(--e-global-color-sbz_louka,#DEE5A3)!important;border-color:var(--e-global-color-sbz_louka,#DEE5A3)!important;color:var(--e-global-color-sbz_zelena,#145A38)!important}
+.sbz-uvod-panel .elementor-widget-button{align-self:center;margin:6px 6px 0!important}
+.sbz-uvod-panel .elementor-button{border:2px solid!important}
+.sbz-uvod-panel .sbz-btn-secondary .elementor-button{background:transparent!important;border-color:#fff!important;color:#fff!important}
+.sbz-uvod-panel .sbz-btn .elementor-button:hover,.sbz-uvod-panel .sbz-btn .elementor-button:focus{background:#fff!important;border-color:#fff!important;color:var(--e-global-color-sbz_zelena,#145A38)!important}
+@media (max-width:767px){.sbz-uvod-panel>.elementor-widget-wrap{padding:20px 16px!important}
+.sbz-uvod-panel .elementor-widget-button{margin:6px 4px 0!important}
+.sbz-uvod-panel p.elementor-heading-title{font-size:18px!important}.sbz-uvod-panel h1.elementor-heading-title{font-size:26px!important}
+.sbz-uvod-panel .elementor-widget-text-editor,.sbz-uvod-panel .elementor-widget-text-editor p{font-size:19px!important}
+.sbz-uvod-panel .sbz-btn .elementor-button{padding:12px 18px!important}}
+/* Úvod „krem“ (Blanka 16. 10.): fotka vidět, bez podkladu pod písmem (tmavé podbarvení Blanka nechce).
+   Dvě hlavní věty (nadtitulek a popis) větší, tučnější a téměř černé/tmavě zelené se silnou světlou září kolem písmen */
+.sbz-uvod-zvyraz .elementor-heading-title{color:#0F4A2D!important;font-size:22px!important;font-weight:800!important;letter-spacing:1px!important}
+.sbz-uvod-zvyraz.elementor-widget-text-editor,.sbz-uvod-zvyraz.elementor-widget-text-editor p{color:#14201A!important;font-size:24px!important;line-height:1.45!important;font-weight:600!important}
+.sbz-uvod-zvyraz .elementor-heading-title,.sbz-uvod-zvyraz.elementor-widget-text-editor p{text-shadow:0 0 2px #fff,0 0 6px rgba(255,255,255,.95),0 0 14px rgba(251,247,240,.95),0 0 28px rgba(251,247,240,.9)!important}
+@media (max-width:767px){.sbz-uvod-zvyraz .elementor-heading-title{font-size:17px!important}
+.sbz-uvod-zvyraz.elementor-widget-text-editor,.sbz-uvod-zvyraz.elementor-widget-text-editor p{font-size:19px!important}}
+/* Světlé závoje: tlačítka vedle sebe i na mobilu zarovnaná na střed */
+.sbz-uvod .elementor-widget-button{text-align:center}
+/* Tlačítka: po najetí myší se prohodí tmavě zelená a světle olivová */
+.sbz-btn .elementor-button{transition:filter .2s,background-color .2s,box-shadow .2s}
+.sbz-btn .elementor-button:hover,.sbz-btn .elementor-button:focus{box-shadow:0 4px 14px rgba(20,40,30,.18)}
+/* Úvod „půlka“: text vlevo, fotka vpravo celá a ostrá (bez závoje) */
+.sbz-uvod-foto img{width:100%;height:auto;border-radius:16px;box-shadow:0 10px 30px rgba(20,40,30,.15)}
+@media (max-width:767px){.sbz-uvod-pulka .elementor-widget-heading h1{font-size:28px}}
+/* ---- Palety k výběru (15. 10.) – každá zkušební stránka má barvy napevno, aby šla porovnat i po změně hlavní palety ----
+   Vždy: světle olivová #DEE5A3 (jako rámečky fotek z Canvy) + tmavě zelená #145A38; mění se doplňková světlá a doplňková tmavá. */
+/* 1 „Louka a broskev“ (stránka 25082) */
+body.page-id-25082{--e-global-color-sbz_zelena:#145A38;--e-global-color-sbz_louka:#DEE5A3;--e-global-color-sbz_svetla:#F5E1CF;--e-global-color-sbz_oliva:#A8653F;--e-global-color-sbz_krem:#FBF7F0}
+/* 2 „Louka a okr“ (stránka 25085) */
+body.page-id-25085{--e-global-color-sbz_zelena:#145A38;--e-global-color-sbz_louka:#DEE5A3;--e-global-color-sbz_svetla:#F2E6C2;--e-global-color-sbz_oliva:#8F6A2A;--e-global-color-sbz_krem:#FBF8EE}
+/* 3 „Louka a kámen“ (stránka 25088) */
+body.page-id-25088{--e-global-color-sbz_zelena:#145A38;--e-global-color-sbz_louka:#DEE5A3;--e-global-color-sbz_svetla:#E8E6DF;--e-global-color-sbz_oliva:#6F655B;--e-global-color-sbz_krem:#F8F8F4}
+/* ---- Varianty k výběru (platí jen pro zkušební stránky variant; po výběru se jedna z nich stane hlavní paletou) ---- */
+/* B „Teplá“ = od 15. 10. hlavní paleta (vybrala Blanka, se zelenou z varianty C) – stránka varianty B už nic nepřepisuje */
+/* C „Moderní“: bezpatkové nadpisy, svěžejší zelená + medová */
+body.page-id-25043{--e-global-color-sbz_zelena:#145A38;--e-global-color-sbz_oliva:#B07D12;--e-global-color-sbz_svetla:#F5E3B0;--e-global-color-sbz_krem:#F7F7F4;
+ --e-global-typography-sbz_h1-font-family:"Source Sans 3";--e-global-typography-sbz_h2-font-family:"Source Sans 3";--e-global-typography-sbz_h3-font-family:"Source Sans 3";
+ --e-global-typography-sbz_h1-font-weight:700;--e-global-typography-sbz_h2-font-weight:700;--e-global-typography-sbz_h3-font-weight:700}
+body.page-id-25043 .sbz-karta>.elementor-widget-container,body.page-id-25043 .sbz-karta.elementor-column>.elementor-widget-wrap{border-radius:4px;box-shadow:none;border:1px solid #E3E5DE}
+body.page-id-25043 .sbz-foto img,body.page-id-25043 .sbz-foto-vysoka img,body.page-id-25043 .sbz-obrazek img{border-radius:4px}
 /* ===== END sbz design system ===== */

@@ -33,7 +33,7 @@ Postup výroby:
 - Barvičkami a štětcem dokreslete potřebné detaily obrázku, případně dopište název destinace a rok, jako připomínku dovolené.
 A máte hotovo!
 
-[obrázek: Sumava-2020-1.png]
+[obrázek: Sumava-2020-1.jpg]
 
 Na plochu s kamínky je možné dokreslit i pár jednoduchých obrázků a nápisů, které vám připomenou místo nebo zážitek.
 

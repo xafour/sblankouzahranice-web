@@ -5,7 +5,8 @@
  "excerpt": "",
  "link": "https://sblankouzahranice.eu/zasady-cookies-eu/",
  "meta": {
-  "_wp_page_template": "elementor_theme"
+  "_wp_page_template": "elementor_theme",
+  "_yoast_wpseo_meta-robots-noindex": "1"
  },
  "modified": "2024-11-05 22:45:08",
  "obsah_wordpress": "[cmplz-document type=\"cookie-statement\" region=\"eu\"]",

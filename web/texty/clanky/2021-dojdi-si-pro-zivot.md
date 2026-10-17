@@ -8,7 +8,7 @@ Jak už víte z mé sekce VÝLETY, tak procházky v přírodě ve Vídni, výlet
 A hlavně důvodem ke každodenní vděčnosti.
 Procházky prostě miluji! Vždycky si při nich báječně „vyčistím“ hlavu, a hlavně mě při chůzi v přírodě vždy napadne nějaká synchronicita s životem.
 
-[obrázek: cesta-v-lese-a-ja1.png]
+[obrázek: cesta-v-lese-a-ja1.jpg]
 
 Vyjít si na procházku ven (od práce na PC) jsem se rozhodla právě tehdy, když vylezlo sluníčko po docela dlouhé době deště. Šla jsem po louce kolem lesa a říkala jsem si, jak je vše kolem krásné, když je to tak nádherně zalité sluncem.
 
@@ -50,7 +50,7 @@ Vždyť jen tehdy když se v přírodě vystřídá slunce a déšť, můžeme p
 Stejné je to i v našem životě!
 Jen tehdy, když prožijeme sluncem zalité dny i ty zamračené, dokážeme rozeznat a vnímat barevnost života.
 
-[obrázek: duha-zivota.png]
+[obrázek: duha-zivota.jpg]
 
 A ještě na závěr mě to vede k jednomu poznání, které musím zmínit.
 Život se neodehrává za zavřenými dveřmi, v izolaci, v kanceláři nebo před počítačem, život se odehrává tam venku!

@@ -13,9 +13,9 @@ Do přírody si chodím pravidelně pro inspiraci i moudrost. Více v příspěv
 
 ## Ale moment, ještě se vrátím na počátek k prvotní otázce. Proč se tolik bojíme změn?
 
-[obrázek: Fotka-ruka-pres-oblicej2.png]
+[obrázek: Fotka-ruka-pres-oblicej2.jpg]
 
-[obrázek: Fotka-odmitani-2-S.png]
+[obrázek: Fotka-odmitani-2-S.jpg]
 
 My lidé máme rádi zažité věci, navyklé způsoby práce, vyšlapané cestičky, zažité denní rituály.
 Na otázku „co je u tebe nového?“, odpovídáme často „zaplaťpánbůh nic“.

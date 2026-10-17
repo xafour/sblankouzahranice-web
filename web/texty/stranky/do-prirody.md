@@ -2,11 +2,11 @@
 
 Adresa: https://sblankouzahranice.eu/do-prirody/
 
-Popis pro Google: Vydejte se s Blankou za hranice města i vlastní mysli do přírody a přírodou k sobě a ke zdraví. Využijte moudrost a energii přírody.
+Popis pro Google: Regenerační procházky, přírodní esence a dekorace z přírody. Objevte moudrost přírody a načerpejte klid, zdraví a harmonii.
 
 ## Vydejte se do přírody, přírodou k sobě, ke zdraví a harmonii.
 
-[obrázek: do-prirody-1-e1712642931724.png]
+[obrázek: do-prirody-1-e1712642931724.jpg]
 
 Regenerační vycházky do přírody, esence z přírody, aromaterapie a další.
 

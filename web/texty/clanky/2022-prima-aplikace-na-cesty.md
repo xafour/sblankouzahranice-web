@@ -12,7 +12,7 @@ Aplikace na cesty, to je téma příspěvků snad všech cestovatelských webů.
 
 ## to jsou otázky, které se nám honí hlavou před každou větší cestou, dovolenou nebo pár dny mimo domov.
 
-[obrázek: time-to-travel.png]
+[obrázek: time-to-travel.jpg]
 
 ## Nebudu zde uvádět všechny nejznámější aplikace na nejlevnější letenky, zajištění ubytování či různé druhy map či aplikace pro předpověď počasí. Tyhle najdete na každém cestovatelském webu.
 
@@ -44,7 +44,7 @@ Aplikace Fuelio vás určitě zaujme, pokud si na cestách často pronajímáte 
 
 Hledání parkovacího místa můžete být v některých destinacích na dlouho. Pokud chcete předejít kolapsu řidiče, můžete využít aplikaci Parkopedia, která vám pomůže najít nejlevnější parkování nebo dokonce i parkování zdarma na ulici. Mimo USA.
 
-[obrázek: na-ture.png]
+[obrázek: na-ture.jpg]
 
 6. AllTrails | Naplánuje vám ten nejlepší trek přírodou
 
@@ -68,7 +68,7 @@ Aplikace, které vám mohou zachránit život to je poslední desátá aplikace,
 
 Více v mém článku ZDE.
 
-[obrázek: I-love-travel.png]
+[obrázek: I-love-travel.jpg]
 
 ## Ať už se budete vydávat na pravidelnou dovolenou, dlouhé poznávací zájezdy, nebo krátké výlety do přírody, přeji vám nejen pohodové a pohodlné cestování, ale hlavně šťastné návraty bez nehod! Osobně vím a nyní i prožívám, jak je toto přání důležité.
 

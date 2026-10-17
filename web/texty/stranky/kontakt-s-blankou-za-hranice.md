@@ -26,7 +26,7 @@ Napiš mi
 
 Odeslat
 
-[obrázek: mapka-kontakt.png]
+[obrázek: mapka-kontakt.jpg]
 
 Najdete mě střídavě ve Vídni a v Praze
 - ve dvou krásných metropolích

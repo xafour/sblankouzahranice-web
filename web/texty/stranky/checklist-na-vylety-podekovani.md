@@ -10,7 +10,7 @@ Popis pro Google: Checklist na výlety - 10 věcí, na které je dobré myslet, 
 
 Oddělovač
 
-[obrázek: obrazek-Ruka-s-knihou-checklistu.png]
+[obrázek: obrazek-Ruka-s-knihou-checklistu.jpg]
 
 ## Děkuji vám za váš zájem o CHECKLIST na výlety a za váš zájem o dění na mém webu a můj projekt.
 

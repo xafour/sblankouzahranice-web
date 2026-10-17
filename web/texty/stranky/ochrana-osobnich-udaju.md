@@ -1,6 +1,6 @@
 # Ochrana osobních údajů
 
-Adresa: https://sblankouzahranice.eu/sample-page/
+Adresa: https://sblankouzahranice.eu/ochrana-osobnich-udaju/
 
 I. Obsah a účel dokumentu
 1.V tomto dokumentu jsou obsaženy informace týkající se ochrany osobních údajů poskytnutých návštěvníky webových stránek www.sblankouzahranice.eu (mými klienty a zájemci o mé služby a produkty).

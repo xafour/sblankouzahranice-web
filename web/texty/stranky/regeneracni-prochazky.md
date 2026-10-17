@@ -2,7 +2,7 @@
 
 Adresa: https://sblankouzahranice.eu/regeneracni-prochazky/
 
-Popis pro Google: Přírodou k sobě jsou "Regenerační procházky do přírody" s využitím konceptu Lesní mysl, Lesní terapie a zkušenosti z Tai-Chi a Qi-Gong.
+Popis pro Google: Well-being v přírodě.
 
 ## Regenerační procházky do přírody
 
@@ -41,7 +41,7 @@ chci informace o termínech
 
 Přihlášky na vypsané termíny a bližší info na e-mail: blanka@sblankouzahranice.eu
 
-## Kdo vám bude dělat průvodce
+## Kdo vás bude přírodou provázet
 
 Jmenuji se Blanka.
 V přírodě čerpám moudrost, inspiraci a energii pro svůj život a naučím to i vás.
@@ -112,7 +112,7 @@ Kromě příjemné procházky, odpočinku a krásy v přírodě si navíc domů 
 - posílení odolnosti a imunity organizmu
 - návody a tipy, jak se občas zastavit a zpomalit
 
-[obrázek: upoutavka1-S.png]
+[obrázek: upoutavka1-S.jpg]
 
 > Proč na regenerační procházku
 
@@ -192,7 +192,7 @@ Oddělovač
 
 ## Máte zájem o soukromou vedenou procházku právě u vás? Kontaktujte mě prostřednictvím formuláře. Ozvu se vám a určitě najdeme řešení.
 
-[obrázek: Voucher-na-lesni-mysl.png]
+[obrázek: Voucher-na-lesni-mysl.jpg]
 
 ## Těším se s vámi na viděnou v přírodě.
 

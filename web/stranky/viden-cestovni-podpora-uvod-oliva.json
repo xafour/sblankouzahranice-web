@@ -1,0 +1,4726 @@
+{
+ "ID": 25067,
+ "categories": [],
+ "date": "2026-10-15 10:53:28",
+ "excerpt": "",
+ "link": "https://sblankouzahranice.eu/viden-cestovni-podpora-uvod-oliva/",
+ "meta": {
+  "_elementor_data": [
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "19a580a",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "p",
+         "title": "Individuální cestovní podpora ve Vídni"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "db7fc72",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h1"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h1",
+         "title": "Vídeň bez starostí, na míru a s podporou za zády"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "763f36c",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "62a81bc",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "tel:+420777060809"
+         },
+         "size": "md",
+         "text": "Domluvit 15 minut zdarma",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "22d013a",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/4zRXn/buy/"
+         },
+         "size": "md",
+         "text": "Objednat službu",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "bde8c8f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "align": "center",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "b4e5607",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "background_image": {
+      "alt": "",
+      "id": 21914,
+      "size": "",
+      "source": "library",
+      "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/09/Zahlavi-individ.podpora2.jpg"
+     },
+     "background_overlay_background": "classic",
+     "background_overlay_color": "#E6EBC0",
+     "background_overlay_opacity": {
+      "size": 0.74,
+      "sizes": [],
+      "unit": "px"
+     },
+     "background_position": "center center",
+     "background_repeat": "no-repeat",
+     "background_size": "cover",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "css_classes": "sbz-uvod sbz-uvod-oliva",
+     "custom_height": {
+      "size": 560,
+      "sizes": [],
+      "unit": "px"
+     },
+     "custom_height_mobile": {
+      "size": 480,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "height": "min-height",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "120",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "120",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "72",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "72",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c8e299e",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Chystáte se do Vídně?"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "86cb438",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "fa9c9d7",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "16",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "72",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "48",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "48",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "33f2767",
+        "settings": {
+         "__globals__": {
+          "description_color": "globals/colors?id=sbz_text",
+          "description_typography_typography": "globals/typography?id=sbz_text",
+          "primary_color": "globals/colors?id=sbz_svetla",
+          "secondary_color": "globals/colors?id=sbz_zelena",
+          "title_color": "globals/colors?id=sbz_zelena",
+          "title_typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "sbz-karta",
+         "description_text": "",
+         "icon_padding": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "position": "top",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-hourglass-half"
+         },
+         "shape": "circle",
+         "title_size": "h3",
+         "title_text": "Nemáte čas trávit hodiny hledáním, kam se podívat?",
+         "view": "stacked"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "306bf48",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "28f437c",
+        "settings": {
+         "__globals__": {
+          "description_color": "globals/colors?id=sbz_text",
+          "description_typography_typography": "globals/typography?id=sbz_text",
+          "primary_color": "globals/colors?id=sbz_svetla",
+          "secondary_color": "globals/colors?id=sbz_zelena",
+          "title_color": "globals/colors?id=sbz_zelena",
+          "title_typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "sbz-karta",
+         "description_text": "",
+         "icon_padding": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "position": "top",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-route"
+         },
+         "shape": "circle",
+         "title_size": "h3",
+         "title_text": "Nevíte si rady s plánováním cesty?",
+         "view": "stacked"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "c3b4aee",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b3b2c21",
+        "settings": {
+         "__globals__": {
+          "description_color": "globals/colors?id=sbz_text",
+          "description_typography_typography": "globals/typography?id=sbz_text",
+          "primary_color": "globals/colors?id=sbz_svetla",
+          "secondary_color": "globals/colors?id=sbz_zelena",
+          "title_color": "globals/colors?id=sbz_zelena",
+          "title_typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "sbz-karta",
+         "description_text": "",
+         "icon_padding": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "position": "top",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-comments"
+         },
+         "shape": "circle",
+         "title_size": "h3",
+         "title_text": "Bojíte se, že se nedomluvíte?",
+         "view": "stacked"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "e9c2bdb",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "761279b",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "16",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "16",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "adfda9b",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h3",
+         "title": "Nechte to na mě a využijte službu cestovní podpory, abyste si své dny ve Vídni opravdu užili."
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "222531a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "3b67816",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 820,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "80",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "24",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "70e5719",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "p",
+         "title": "Služba na míru"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9bb3b18",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Nechte si ušít návštěvu Vídně na míru"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "34fb1eb",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomohu objevit skutečnou duši tohoto města a vyhnout se turistickým pastem.</p><p>Mé služby jsou navržené tak, abyste z Vídně získali maximum, ať už máte na návštěvu den nebo týden.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bd7d334",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Zažijte Vídeň jinak"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a6ece86",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "63da791",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Bez starostí a v klidu."
+          },
+          {
+           "_id": "6bc6ec3",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Bez bloudění a ztráty času."
+          },
+          {
+           "_id": "214982b",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "S informacemi, které se hodí."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "81c5be3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 55,
+       "_inline_size": 55,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bad70dc",
+        "settings": {
+         "_css_classes": "sbz-foto-vysoka sbz-bez-ramu",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 18691,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky1.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "12783e1",
+      "isInner": false,
+      "settings": {
+       "_column_size": 45,
+       "_inline_size": 45,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "b89c91b",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6a5b7f9",
+        "settings": {
+         "__globals__": {
+          "description_color": "globals/colors?id=sbz_text",
+          "description_typography_typography": "globals/typography?id=sbz_text",
+          "primary_color": "globals/colors?id=sbz_svetla",
+          "secondary_color": "globals/colors?id=sbz_zelena",
+          "title_color": "globals/colors?id=sbz_zelena",
+          "title_typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "sbz-karta",
+         "description_text": "Plán cesty přesně podle vašich přání, tempa a délky pobytu.",
+         "icon_padding": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "position": "top",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-map-marked-alt"
+         },
+         "shape": "circle",
+         "title_size": "h3",
+         "title_text": "Itineráře na míru",
+         "view": "stacked"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "9899c7d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "64a72cb",
+        "settings": {
+         "__globals__": {
+          "description_color": "globals/colors?id=sbz_text",
+          "description_typography_typography": "globals/typography?id=sbz_text",
+          "primary_color": "globals/colors?id=sbz_svetla",
+          "secondary_color": "globals/colors?id=sbz_zelena",
+          "title_color": "globals/colors?id=sbz_zelena",
+          "title_typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "sbz-karta",
+         "description_text": "Jízdenky, doprava, orientace ve městě – vyřešíme to spolu.",
+         "icon_padding": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "position": "top",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-hands-helping"
+         },
+         "shape": "circle",
+         "title_size": "h3",
+         "title_text": "Organizační pomoc na místě",
+         "view": "stacked"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "a7def06",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3454421",
+        "settings": {
+         "__globals__": {
+          "description_color": "globals/colors?id=sbz_text",
+          "description_typography_typography": "globals/typography?id=sbz_text",
+          "primary_color": "globals/colors?id=sbz_svetla",
+          "secondary_color": "globals/colors?id=sbz_zelena",
+          "title_color": "globals/colors?id=sbz_zelena",
+          "title_typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "sbz-karta",
+         "description_text": "Procházka městem s příběhy, které v průvodcích nenajdete.",
+         "icon_padding": {
+          "size": 18,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_size": {
+          "size": 26,
+          "sizes": [],
+          "unit": "px"
+         },
+         "position": "top",
+         "selected_icon": {
+          "library": "fa-solid",
+          "value": "fas fa-walking"
+         },
+         "shape": "circle",
+         "title_size": "h3",
+         "title_text": "Osobní doprovod ve Vídni",
+         "view": "stacked"
+        },
+        "widgetType": "icon-box"
+       }
+      ],
+      "id": "71d3e6d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "3324105",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "0",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4037840",
+        "settings": {
+         "_css_classes": "sbz-foto-vysoka sbz-bez-ramu",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 18650,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d156ece",
+      "isInner": false,
+      "settings": {
+       "_column_size": 40,
+       "_inline_size": 40,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8502de5",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Tahle nabídka je <span class=\"sbz-hl\">i pro vás</span>"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0430ee4",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "40ed3b8",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud jedete do Vídně a <strong>nechcete bloudit a ztrácet čas</strong>."
+          },
+          {
+           "_id": "3c3fbaa",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud chcete <strong>ušetřit dlouhé minuty a hodiny hledání</strong> na internetu."
+          },
+          {
+           "_id": "8bd238e",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud budete Vídní projíždět a <strong>chcete svůj čas efektivně využít</strong>."
+          },
+          {
+           "_id": "deea06f",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud <strong>máte jasnou představu a nevíte, kde přesně hledat</strong>."
+          },
+          {
+           "_id": "e3f4dea",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud by se vám hodil <strong>předem rámcový plán cesty</strong>."
+          },
+          {
+           "_id": "8cd5e28",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud chcete <strong>zažít město očima obyvatelky Vídně</strong> se skutečným životem, a ne jen prostřednictvím „suchých dat a letopočtů“."
+          },
+          {
+           "_id": "b002f1a",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Pokud <strong>jste si nejistí kvůli němčině</strong> a bojíte se, že se v Rakousku nedorozumíte."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "6d0b37f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 60,
+       "_inline_size": 60,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "f04eef3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "99b6724",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Nechte si připravit detailní plán cesty na míru nebo využijte podporu na místě"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "49d5a0f",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_svetla",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Dejme si 15minutovku zdarma a řekněte mi své představy.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "bf979fc",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_svetla",
+          "button_background_hover_color": "globals/colors?id=sbz_bila",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "tel:+420777060809"
+         },
+         "size": "md",
+         "text": "Zavolat hned pro domluvu",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b043289",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_bila",
+          "button_background_hover_color": "globals/colors?id=sbz_bila",
+          "button_hover_border_color": "globals/colors?id=sbz_bila",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/kontakt-s-blankou-za-hranice/"
+         },
+         "size": "md",
+         "text": "Pošlete mi telefon, ozvu se vám",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "06dce07",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_svetla",
+          "typography_typography": "globals/typography?id=sbz_maly"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Nebuďte zaskočeni, volat vám bude rakouské číslo.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "3b88d3a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "align": "center",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "29cd274",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_zelena"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 860,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "80",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "80",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4ac718c",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 24790,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg"
+         },
+         "image_size": "large",
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/den-ve-vidni/"
+         },
+         "link_to": "custom"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2a8386f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 40,
+       "_inline_size": 40,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ded8b9c",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "p",
+         "title": "Ekonomičtější varianta"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "6ff1d69",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Neshodneme se v termínu nebo chcete ušetřit?"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "246b88b",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Pak se vám bude hodit on-line <strong>Průvodce do kapsy</strong> – stejná trasa, kterou chodím s klienty při osobním doprovodu.</p><p>Trasa širším centrem Vídně s popisem památek a mapkou ke stažení do mobilu. Vede vás jasně, klidně a bez zbytečného zdržování. Nebloudíte, nehledáte a máte jistotu, že jdete správně. Roky prověřená trasa a spokojení klienti.</p><p><strong>Váš bod jistoty při objevování Vídně – klidný den za 40 € / 980 Kč.</strong></p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cc5ca45",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Vyzkouším Průvodce do kapsy",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "72b9ecf",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/den-ve-vidni/"
+         },
+         "size": "md",
+         "text": "Více o průvodci",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "ffc8b0d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 60,
+       "_inline_size": 60,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "86c41e4",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "665af59",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Proč využít <span class=\"sbz-hl\">cestovní podporu</span> nebo Průvodce do kapsy"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "4a21696",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "159d7c9",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b27b4f2",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "efba7b6",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Ušetříte čas</strong> hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat."
+          },
+          {
+           "_id": "b521db7",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Neztratíte se ve výběru</strong> a pořizování nejvýhodnějších jízdenek městské dopravy."
+          },
+          {
+           "_id": "3e317f5",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Snadno se zorientujete v dopravě</strong> a zjistíte, jak nejlépe z místa A do místa B."
+          },
+          {
+           "_id": "aa91be3",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Během jednoho odpoledne projdete</strong> kolem nejznámějších turistických cílů Vídně."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "d8bc41f",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "73267cd",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "ace58ed",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Lehce najdete legendární Hotel Sacher</strong>, kde si v kavárně vychutnáte pravou vídeňskou kávu a Sacher dort."
+          },
+          {
+           "_id": "fb6c375",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Dozvíte se něco praktického z běžného života ve Vídni</strong> a poznáte Rakousko autentičtěji."
+          },
+          {
+           "_id": "2a1e8bd",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "<strong>Užijete si své dny naplno</strong>, protože budete mít ve Vídni pomoc a podporu za zády."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "476580a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "d05ce9a",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c382ddb",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hofburg",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18003,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6fd53df",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c07b80b",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Karlskirche",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18004,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Karlskirche.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d49e440",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "544f547",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Státní opera",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18005,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Opera.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "4493994",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "82f1aa6",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "24",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "1c3b387",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/4zRXn/buy/"
+         },
+         "size": "md",
+         "text": "Tak to se hodí, chci cestovní podporu",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "62eaa59",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/AaExm/buy/"
+         },
+         "size": "md",
+         "text": "Vyzkouším Průvodce do kapsy",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "74c0f61",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "align": "center",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "13161d1",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "16",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8781aa8",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "p",
+         "title": "Individuální cestovní podpora"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "597b2e8",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Jak <span class=\"sbz-hl\">spolupráce probíhá</span>?"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a506c9c",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text sbz-kroky",
+         "align": "left",
+         "editor": "<ol><li>Při prvním kontaktu e-mailem či telefonem si ujasníme vaše přání, představy a potřeby.</li><li>Ujasníme si délku a termín vašeho pobytu.</li><li>Na základě těchto informací zpracuji nabídku do konkrétní objednávky včetně cenové kalkulace a zašlu vám ji k odsouhlasení.</li><li>Po vašem potvrzení začnu na objednávce nebo itineráři pracovat detailně.</li><li>Podle potvrzeného harmonogramu vám zašlu finální verzi itineráře či služby.</li><li>Potvrdíme si předání dokumentu, případně doupřesníme detaily.</li><li>Většinou klientům předem zašlu nebo při příjezdu předám malý dárek navíc – vždy něco, co pomůže při výletu do Vídně.</li><li>Pak už se na vás těší Vídeň i já.</li></ol>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "b794c2d",
+      "isInner": false,
+      "settings": {
+       "_column_size": 58,
+       "_inline_size": 58,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8f3a469",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Platba"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cf5708d",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Platba probíhá ve dvou částech:</p><p><strong>a)</strong> záloha 50 % po potvrzení prvotní objednávky,<br><strong>b)</strong> doplatek 50 % po zaslání finální verze itineráře nebo několik dní před vaším příjezdem do Vídně. Termín splatnosti je vždy součástí objednávky.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a9403b5",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Co služba nezahrnuje"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7bab86d",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p><strong>Součástí služby není provádění jakýchkoliv rezervací.</strong> Rezervace ubytování, dopravy a podobně si provádíte sami na základě doporučených podkladů nebo podle vlastního výběru.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "7fd5f16",
+      "isInner": false,
+      "settings": {
+       "_column_size": 42,
+       "_inline_size": 42,
+       "css_classes": "sbz-karta"
+      }
+     }
+    ],
+    "id": "7dd9e5d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "716665b",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Co služba cestovní podpory <span class=\"sbz-hl\">zahrnuje</span>"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "3292603",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "ee21cae",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "16",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "5a3d004",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "7c2f4c1",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Doporučení ohledně dopravního spojení."
+          },
+          {
+           "_id": "08eacc9",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Doporučení a výběr nejvýhodnějších jízdenek pro městskou dopravu a váš pobyt ve Vídni."
+          },
+          {
+           "_id": "c788a01",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Itinerář na příslušný počet dní včetně trasy prohlídky městem, případně i s mapkou ke stažení do mobilu."
+          },
+          {
+           "_id": "608e1e9",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Základní informace o místech a památkách na vaší trase."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "cda6694",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "0cc3737",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "0aaa824",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Doporučení výhodného ubytování – cenou nebo polohou – podle vašich přání."
+          },
+          {
+           "_id": "6f7419d",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Na přání osobní vyzvednutí na nádraží a pomoc s prvotní orientací ve městě."
+          },
+          {
+           "_id": "634a5f9",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Na přání osobní doprovod po městě nebo na vybrané památky ve Vídni a okolí – půldenní, celodenní i vícedenní program."
+          },
+          {
+           "_id": "e02d604",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-check"
+           },
+           "text": "Podpora nemusí být po celou dobu pobytu. Často stačí 1–2 dny pro základní nebo hlubší orientaci."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "f33cb1e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "45f1eb2",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "16",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "47aa514",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Přečtěte si <span class=\"sbz-hl\">reference</span> od mých klientů"
+        },
+        "widgetType": "heading"
+       }
+      ],
+      "id": "cc6f98a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "4dd1f15",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "_element_id": "individualnipodporareference",
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "777b534",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Moc bych Vám chtěla za Vaši službu poděkovat. Díky Vám jsem ušetřila spoustu času stráveného na internetu hledáním potřebných věcí o Vídni, ať už se jedná o dopravu, památky atd. <br>Byla s Vámi velmi dobrá spolupráce. Komunikace byla naprosto bezproblémová, navržené změny jste ochotně a rychle doplnila do itineráře a z vlastní iniciativy doporučila změny s ohledem na počasí. <br>Díky Vaší podpoře přímo na nádraží byl náš příjezd do Vídně klidnější a pohodovější.<br><br>Itineráři nemám vůbec nic co vytknout. Byl velice dobře vypracovaný a mapka centra, která se dala spustit v navigaci, byla velmi, velmi užitečná. Bez ní bychom v centru Vídně bloudili a určitě se někde ztratili. Trasa se dala za jeden den v pohodě ujít, <br>ale bylo to celkem náročné. Z vlastní nabyté zkušenosti bych pro ty, co jsou ve Vídni úplně poprvé, volila tuto procházku určitě s Vaší podporou. Pobyt ve Vídni jsme si velmi užili.",
+         "testimonial_image": {
+          "alt": "Jana Slováková",
+          "id": 18756,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/09/Vystrizek.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "s rodinou",
+         "testimonial_name": "Jana Slováková"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cd20d1f",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Zdravím Blani.<br>Tvoje práce pro nás byla skvělá.  Moc si toho vážíme. Určitě nám to hodně ušetřilo čas a ulehčilo pobyt. Rády doporučíme svým známým. Překvapilo nás, že je vůbec něco takového možné.  Skvělý nápad! Určitě rády využijeme tvé služby i později. Třeba před Vánoci, kdy je vše krásně vyzdobené nejen ve Vídni, jak jsi nám ukázala. Díky!",
+         "testimonial_image": {
+          "alt": "Věra a Stáňa",
+          "id": 18825,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/10/vystrizek-spolecne-foto.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "sestry",
+         "testimonial_name": "Věra a Stáňa"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "019da53",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Ještě jednou děkujeme za pomoc, přípravu a hezký čas strávený s Vámi.<br>Návštěva \"světelné zahrady\" byl skutečně skvělý nápad. Bylo to moc fajn. Zkrátka užily jsme si Vídeň tak, jak jsme si to představovaly a to i díky Vám.<br>Ještě jednou díky a krásné vánoce.",
+         "testimonial_image": {
+          "alt": "Jana,Naďa a Eva",
+          "id": 24115,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/12/vystrizek-reference.png"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "2 sestry s maminkou",
+         "testimonial_name": "Jana,Naďa a Eva"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a47c513",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Milá Blanko, moc děkujeme za krásně strávený den s Vámi. Bezvadně připravený itinerář, praktické rady a doporučení přispěly k tomu, že jsme si dny ve Vídni bezvadně užili. Těšíme na Vaše další náměty na výlety i v okolí Vídně. (Jarmila).<br><br>Díky za praktické rady a doporučení, velice nám pomohly v orientaci ve Vídni, též jízdenka na celou dobu pobytu je skvělou volbou. (Markéta).<br><br>Výlet byl super, užily jsme si Vídeň v klidu a pohodě. Určitě se sem zase vrátíme. Tento typ výletu (s cestovní podporou) mohu jen doporučit. (Ivana).",
+         "testimonial_image": {
+          "alt": "Jarmila, Markéta, Ivana +1",
+          "id": 21616,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/06/Foto-zen-pani-Sucur.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "Parta 4 skvělých žen",
+         "testimonial_name": "Jarmila, Markéta, Ivana +1"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e4e1f20",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Aho Blani, včera jsme v pořádku dorazily domů. Moc děkuji za všechno. Krásně jsi nám připravila program, moc jsme si to užily.",
+         "testimonial_image": {
+          "alt": "Martina Váchová",
+          "id": 21746,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/08/foto-do-recenze-Podnikavky.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "Zakladatelka projektu Podnikavé ženy z Vysočiny",
+         "testimonial_name": "Martina Váchová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e223e56",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Děkujeme za vaše průvodcovské služby ve Vídni, moc nám to usnadnilo a zpříjemnilo letní návštěvu Vídně. Bylo to pro nás přínosné a moc jsme si to užili.",
+         "testimonial_image": {
+          "alt": "Reneta Šebelová",
+          "id": 23882,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/07/reis.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "s dcerou",
+         "testimonial_name": "Reneta Šebelová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "adaed3a",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Děkujeme Blance za krásnou dvoudenní prohlídku Vídně. Počasí s teplotami přes 38°C nás všechny strašilo, ale Blanka nám všem zkušeně dala challenge s prohlídkou Vídně už od \"brzkého\" rána a tak se z horkého dne mezi všemi těmi krásami Vídně stal velmi příjemný den. Kdo brzo chodí, nestojí v Café Sacher frontu na tu jejich dobrotu. Zajímavostí, dobrých rad a nevšedních pohledů na Vídeň od Blanky uslyšíte opravdu hodně. Pomůže vám s lístky, metrem, rozumnou trasou a počká na vás před Schönbrunnem, aby vás doprovodila za další zajímavosti Vídně. Ještě jednou děkujeme a doporučujeme.",
+         "testimonial_image": {
+          "alt": "Rodina Trefancova",
+          "id": 24920,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/07/canva-foto-na-recenzi-1.png"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "červen 2026",
+         "testimonial_name": "Rodina Trefancova"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "09eff39",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "31b8674",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Moc děkuju za itinerář na náš výlet, bylo to tak jak jsem si představoval. Měl jsem mustr, co a jak, a to bylo super! Skvělá a rychlá služba.",
+         "testimonial_image": {
+          "alt": "Karel Koutek",
+          "id": 23068,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-cykliste.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "a skupina cyklistů",
+         "testimonial_name": "Karel Koutek"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "af28d0e",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Děkujeme paní Blance za službu cestovní podpory. Ve Vídni jsme byli poprvé a paní Blanka nám vypracovala itinerář, díky kterému jsme navštívili podstatnou část těch nejkrásnějších památek. <br>Její služba nám ušetřila mnoho času, který bychom museli strávit přípravou programu. <br>Navíc nám dala rady a tipy, jak se po Vídni dopravovat, což nám následně usnadnilo samostatné cestování a orientaci v této metroli. Nadto je paní velmi milá a procházka s jejím doprovodem historickým centrem města byla příjemným zpestřením programu. Její službu mohu všem doporučit.",
+         "testimonial_image": {
+          "alt": "Kamila Chrbjatova",
+          "id": 23228,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/03/rodina2-1.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "s rodinou",
+         "testimonial_name": "Kamila Chrbjatova"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "dcd89ab",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Děkujeme za krásně sestavený program prohlídky centra Vídně s ohledem na mé omezené schopnosti chůze a se zakomponováním návštěvy dvou nejznámějších kaváren a restaurace s original Wiener Schnitzel. Zvláštní dík pak za pomoc v nouzi s odtahem vozidla a organizací výměny pneu, což se zprvu zdálo být těžko řešitelné.<br> Moc děkujeme a doporučujeme službu dál.",
+         "testimonial_image": {
+          "alt": "pan Hermann s přítelkyní",
+          "id": 24784,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/03/foto.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "únor 2026",
+         "testimonial_name": "pan Hermann s přítelkyní"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "53a381e",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Děkujeme za spolupráci. Se spoluprací jsme byli velmi spokojeni. Služba cestovní podpory nám podstatně usnadnila sestavení plánu programu, sama bych to vzhledem k časovému vytížení nedala dohromady.<br>Vaši službu bych doporučila a také doporučím dalším školám a známým, pokud bude někdo chtít navštívit Vídeň:-)",
+         "testimonial_image": {
+          "alt": "Pavla Petrová",
+          "id": 21741,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/08/Foto-do-recenzeS.jpg"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "Gymnázium Thomase Manna",
+         "testimonial_name": "Pavla Petrová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "37d1aee",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Dobrý den Blani.<br>Museli jsme se sestrou konstatovat, že jste se nám opravdu velmi zamlouvala a moc děkujeme. Váš přístup, který je lidský a i pro ty naše patnáctileté holky srozumitelný, věřím, že vaše zajímavé a netradiční příběhy je upoutaly. Určitě jsme si odnesly nádherný zážitek z Vídně. Jak procházku s vámi ve středu, tak i potom doporučený program na druhý den. Byly jsme vážně moc spokojené a určitě vás doporučíme dále.",
+         "testimonial_image": {
+          "alt": "Pavla Šimičová",
+          "id": 23970,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2025/08/Snimek-obrazovky-2025-08-26-215841.png"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "se sestrou a dcerami",
+         "testimonial_name": "Pavla Šimičová"
+        },
+        "widgetType": "testimonial"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "201e2cd",
+        "settings": {
+         "__globals__": {
+          "content_content_color": "globals/colors?id=sbz_text",
+          "content_typography_typography": "globals/typography?id=sbz_text",
+          "job_text_color": "globals/colors?id=sbz_seda",
+          "job_typography_typography": "globals/typography?id=sbz_maly",
+          "name_text_color": "globals/colors?id=sbz_zelena",
+          "name_typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_css_classes": "sbz-karta sbz-reference",
+         "_margin": {
+          "bottom": "24",
+          "isLinked": false,
+          "left": "0",
+          "right": "0",
+          "top": "0",
+          "unit": "px"
+         },
+         "testimonial_alignment": "left",
+         "testimonial_content": "Paní Blanku rozhodně doporučujeme. Je to Češka žijící ve Vídni a má krásné a zajímavé příběhy ke každé budově i místu, které jsme navštívili. <br>Procházka po Vídni byla opravdu moc příjemná. Strávili jsme spolu čtyři hodiny, během kterých jsme prošli mnoho krásných míst a udelali si i malou zastávku na kávu. <br>Byli jsme tam i s naším desetiletým synem a paní průvodkyně tomu skvěle přizpůsobila celou prohlídku, takže to bavilo i jeho. Byla velmi milá, ochotná a bylo vidět, že svou práci dělá s nadšením. <br>Jeste jednou moc děkujeme za krásný zážitek a určitě můžeme jen doporučit.",
+         "testimonial_image": {
+          "alt": "rodina Koutkova",
+          "id": 24807,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2026/03/Snimek-obrazovky-2026-03-15-234646-e1773614886942.png"
+         },
+         "testimonial_image_position": "top",
+         "testimonial_image_size": "thumbnail",
+         "testimonial_job": "únor 2026",
+         "testimonial_name": "rodina Koutkova"
+        },
+        "widgetType": "testimonial"
+       }
+      ],
+      "id": "cdc3664",
+      "isInner": false,
+      "settings": {
+       "_column_size": 50,
+       "_inline_size": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "7cb5d23",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "658f219",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Zde může být i vaše recenze. Chystáte se do Vídně a chcete pobyt prožít bez stresu a starostí? Napište mi – program na míru mám i pro vás.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "415c735",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "align": "center",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/kontakt-s-blankou-za-hranice/"
+         },
+         "size": "md",
+         "text": "Napsat Blance",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "e226098",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "9dd3725",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 760,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "16",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "debbd40",
+        "settings": {
+         "_css_classes": "sbz-foto-vysoka",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 19763,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/11/20170704_183039.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "3a59bb6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 40,
+       "_inline_size": 40,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4ee7564",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Kdo vám bude <span class=\"sbz-hl\">oporou</span> ve Vídni"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ca96010",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni. Z Prahy do Vídně jsem se přestěhovala ve věku 50 let. Byl to velký skok do neznáma, a tak mám stále v živé paměti, jak se člověk v novém prostředí nesnadno orientuje.</p><p>Rakousko jsem začala objevovat především prostřednictvím výletů do přírody a postupně se seznamovala se životem ve Vídni. V roce 2020 vznikl můj projekt „s Blankou za hranice“, ve kterém pomáhám krajanům s poznáváním Vídně a Rakouska. Jsem milovnice přírody a všeho opravdového.</p><p>Více o mně si můžete přečíst <a href=\"/o-mne/\">na stránce Kdo je Blanka</a>, rozhovor v rádiu ORF si můžete <a href=\"https://volksgruppen.orf.at/cesi/radiotelevize/stories/3145808\" target=\"_blank\" rel=\"noopener\">poslechnout zde</a>.</p><p>Těším se na vás v metropoli Rakouska a pomohu vám, abyste si svůj pobyt ve Vídni opravdu užili.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59453aa",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "on",
+          "nofollow": "",
+          "url": "https://form.simpleshop.cz/4zRXn/buy/"
+         },
+         "size": "md",
+         "text": "Objednat službu",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "43a8f0c",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "_element_width": "auto",
+         "_margin": {
+          "bottom": "12",
+          "isLinked": false,
+          "left": "0",
+          "right": "12",
+          "top": "0",
+          "unit": "px"
+         },
+         "align": "left",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/kontakt-s-blankou-za-hranice/"
+         },
+         "size": "md",
+         "text": "Poslat zprávu",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "cdf632c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 60,
+       "_inline_size": 60,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "7149928",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "cc28d2f",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "center",
+         "header_size": "h2",
+         "title": "Co <span class=\"sbz-hl\">můžete ve Vídni vidět</span> a navštívit"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b27db20",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "center",
+         "editor": "<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>"
+        },
+        "widgetType": "text-editor"
+       }
+      ],
+      "id": "04bfbcc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "50f90db",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 820,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "16",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "63498af",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Schmetterlinghaus",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17924,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5282144",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "8b87fb5",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Typický vídeňský fiakr",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18277,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "5f4ee86",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "4195119",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Albertina",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18280,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "f80aa74",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "3a3a18c",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "435fe90",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hundertwasserhaus",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17933,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hundertwasserhaus.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "39ba7fc",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "037f69b",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Vláček v parku Prátr",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17934,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Liliputbahn.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "d5d8d59",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "17c9884",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Vídeňská opera",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18276,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "32a4d69",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "6c7ebd3",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "b219b09",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Zámek Belvedere",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17939,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-1.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "bd13da4",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "a988222",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Zámek Belvedere",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17940,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "129b73c",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "50ec713",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Zámek Belvedere",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17941,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-3.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "42162e5",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "d997db4",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "72ae163",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Zámek Schönbrunn",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17942,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-1.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e441483",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "2597925",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Zámek Schönbrunn",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17943,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-3.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "e8c1723",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "d5e8e8a",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Zámek Schönbrunn",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 17944,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "711eb83",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "2992e2d",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7a65735",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hotel Sacher",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18006,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hotel-Sacher-Wien.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "6435cc6",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9842a62",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Originál Sacher dort",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18138,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "dde0308",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ea5f8fe",
+        "settings": {
+         "_css_classes": "sbz-foto",
+         "align": "center",
+         "caption": "Hofburg",
+         "caption_source": "custom",
+         "image": {
+          "alt": "",
+          "id": 18008,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "cf3ff75",
+      "isInner": false,
+      "settings": {
+       "_column_size": 33,
+       "_inline_size": 33.333,
+       "_inline_size_mobile": 50,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "d223a63",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "8",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "8",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "0",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "0",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [],
+      "id": "1486b4e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 100,
+       "_inline_size": null,
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "76c4437",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "40",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "40",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "24",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "24",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7c1abf7",
+        "settings": {
+         "_css_classes": "sbz-obrazek",
+         "align": "center",
+         "image": {
+          "alt": "",
+          "id": 20373,
+          "size": "",
+          "source": "library",
+          "url": "https://sblankouzahranice.eu/wp-content/uploads/2024/03/Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.jpg"
+         },
+         "image_size": "large"
+        },
+        "widgetType": "image"
+       }
+      ],
+      "id": "2d3eaca",
+      "isInner": false,
+      "settings": {
+       "_column_size": 40,
+       "_inline_size": 40,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "ca2cf94",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "p",
+         "title": "A to není zdaleka vše"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "e1c34c6",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Bonus = <span class=\"sbz-hl\">dárek</span> pro každého klienta"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "090ffaf",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Pro každého klienta, který si objedná jakoukoliv formu služby cestovní podpory, je připraven bonus navíc, který vám ušetří další náklady. Se službou cestovní podpory ušetříte nejen peníze, ale i čas a nervy.</p><p>Bonus má podobu slevy na jednu akci během pobytu. Vybrat si můžete z deseti zajímavých atrakcí pro děti i dospělé, návštěv typických restaurací nebo vstupů na zajímavá turistická místa v metropoli Rakouska.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "9bda44e",
+        "settings": {
+         "__globals__": {
+          "border_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_zelena",
+          "button_hover_border_color": "globals/colors?id=sbz_zelena",
+          "button_text_color": "globals/colors?id=sbz_zelena",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "align": "left",
+         "background_color": "rgba(0,0,0,0)",
+         "border_border": "solid",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "border_width": {
+          "bottom": "2",
+          "isLinked": true,
+          "left": "2",
+          "right": "2",
+          "top": "2",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/bonusy-pro-klienty/"
+         },
+         "size": "md",
+         "text": "Seznam bonusů",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "d095f0a",
+      "isInner": false,
+      "settings": {
+       "_column_size": 60,
+       "_inline_size": 60,
+       "content_position": "middle",
+       "css_classes": ""
+      }
+     }
+    ],
+    "id": "78d15a4",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_krem"
+     },
+     "background_background": "classic",
+     "content_position": "middle",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   },
+   {
+    "elType": "section",
+    "elements": [
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "59dd6a2",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_oliva",
+          "typography_typography": "globals/typography?id=sbz_nadtitulek"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "p",
+         "title": "Pro firmy, školy a spolky"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "410d0e4",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h2"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h2",
+         "title": "Nabídku připravím <span class=\"sbz-hl\">i pro skupiny</span>"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "fd1a5a6",
+        "settings": {
+         "__globals__": {
+          "text_color": "globals/colors?id=sbz_text",
+          "typography_typography": "globals/typography?id=sbz_text"
+         },
+         "_css_classes": "sbz-text",
+         "align": "left",
+         "editor": "<p>Na základě služby cestovní podpory mohu stejně nebo podobně připravit výlety a pobyty ve Vídni a okolí i pro vaši organizaci. Některé věci budete mít zajištěné a nemusíte se o ně starat, něco si zařídíte sami.</p><p>Dopravu do Vídně a zpět a rezervaci ubytování je nutné provést samostatně – dostanete tipy na vlakovou a autobusovou dopravu a na různé typy ubytování podle vašeho zadání. Organizační pomoc na místě po příjezdu v rozsahu objednávky je zajištěna.</p><p>Další služby, jako doprovod na celodenní výlety v okolí Vídně (zámek, lázeňské město…) nebo rezervace vstupenek, jsou na domluvě. Program je možné jakkoliv upravovat. Cena se odvíjí od rozsahu služeb, počtu hodin a počtu účastníků.</p>"
+        },
+        "widgetType": "text-editor"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "c07de18",
+        "settings": {
+         "__globals__": {
+          "background_color": "globals/colors?id=sbz_zelena",
+          "button_background_hover_color": "globals/colors?id=sbz_oliva",
+          "button_text_color": "globals/colors?id=sbz_bila",
+          "hover_color": "globals/colors?id=sbz_bila",
+          "typography_typography": "globals/typography?id=sbz_tlacitko"
+         },
+         "align": "left",
+         "border_radius": {
+          "bottom": "8",
+          "isLinked": true,
+          "left": "8",
+          "right": "8",
+          "top": "8",
+          "unit": "px"
+         },
+         "link": {
+          "is_external": "",
+          "nofollow": "",
+          "url": "/kontakt-s-blankou-za-hranice/"
+         },
+         "size": "md",
+         "text": "Chci nabídku pro skupinu",
+         "text_padding": {
+          "bottom": "15",
+          "isLinked": false,
+          "left": "28",
+          "right": "28",
+          "top": "15",
+          "unit": "px"
+         }
+        },
+        "widgetType": "button"
+       }
+      ],
+      "id": "ddc03a3",
+      "isInner": false,
+      "settings": {
+       "_column_size": 58,
+       "_inline_size": 58,
+       "css_classes": ""
+      }
+     },
+     {
+      "elType": "column",
+      "elements": [
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "3b8860b",
+        "settings": {
+         "__globals__": {
+          "title_color": "globals/colors?id=sbz_zelena",
+          "typography_typography": "globals/typography?id=sbz_h3"
+         },
+         "_css_classes": "",
+         "align": "left",
+         "header_size": "h3",
+         "title": "Doprovázela jsem takto již"
+        },
+        "widgetType": "heading"
+       },
+       {
+        "elType": "widget",
+        "elements": [],
+        "id": "7d97d53",
+        "settings": {
+         "__globals__": {
+          "icon_color": "globals/colors?id=sbz_oliva",
+          "icon_typography_typography": "globals/typography?id=sbz_text",
+          "text_color": "globals/colors?id=sbz_text"
+         },
+         "icon_list": [
+          {
+           "_id": "003395a",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-users"
+           },
+           "text": "Skupinu podnikatelek Ženy z Vysočiny."
+          },
+          {
+           "_id": "a6eacaf",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-users"
+           },
+           "text": "30 studentů Česko-německého gymnázia z Prahy."
+          },
+          {
+           "_id": "71f8a1e",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-users"
+           },
+           "text": "Spolek 50 seniorů z Poděbrad."
+          },
+          {
+           "_id": "9d51d2f",
+           "selected_icon": {
+            "library": "fa-solid",
+            "value": "fas fa-users"
+           },
+           "text": "Firmu z Moravy v čele s jejím majitelem a ředitelem."
+          }
+         ],
+         "icon_self_align": "left",
+         "icon_self_vertical_align": "flex-start",
+         "icon_size": {
+          "size": 16,
+          "sizes": [],
+          "unit": "px"
+         },
+         "icon_vertical_offset": {
+          "size": 4,
+          "sizes": [],
+          "unit": "px"
+         },
+         "space_between": {
+          "size": 12,
+          "sizes": [],
+          "unit": "px"
+         },
+         "text_indent": {
+          "size": 10,
+          "sizes": [],
+          "unit": "px"
+         }
+        },
+        "widgetType": "icon-list"
+       }
+      ],
+      "id": "053ea3e",
+      "isInner": false,
+      "settings": {
+       "_column_size": 42,
+       "_inline_size": 42,
+       "css_classes": "sbz-karta"
+      }
+     }
+    ],
+    "id": "188c58b",
+    "isInner": false,
+    "settings": {
+     "__globals__": {
+      "background_color": "globals/colors?id=sbz_bila"
+     },
+     "background_background": "classic",
+     "content_width": {
+      "size": 1140,
+      "sizes": [],
+      "unit": "px"
+     },
+     "gap": "extended",
+     "layout": "boxed",
+     "padding": {
+      "bottom": "88",
+      "isLinked": false,
+      "left": "24",
+      "right": "24",
+      "top": "88",
+      "unit": "px"
+     },
+     "padding_mobile": {
+      "bottom": "56",
+      "isLinked": false,
+      "left": "16",
+      "right": "16",
+      "top": "56",
+      "unit": "px"
+     }
+    }
+   }
+  ],
+  "_elementor_edit_mode": "builder",
+  "_elementor_page_settings": {
+   "hide_title": "yes"
+  },
+  "_elementor_template_type": "wp-page",
+  "_wp_page_template": "default",
+  "_yoast_wpseo_meta-robots-noindex": "1"
+ },
+ "modified": "2026-10-15 10:53:28",
+ "obsah_wordpress": "<p>Individuální cestovní podpora ve Vídni</p>\t\t\t\t\n\t\t\t\t\t<h1>Vídeň bez starostí, na míru a s podporou za zády</h1>\t\t\t\t\n\t\t<p>Nechte si ušít návštěvu Vídně na míru a proměňte běžný výlet v nezapomenutelný zážitek.</p>\t\t\n\t\t\t\t\t<a href=\"tel:+420777060809\">\n\t\t\t\t\t\t\t\t\tDomluvit 15 minut zdarma\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/4zRXn/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tObjednat službu\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Chystáte se do Vídně?</h2>\t\t\t\t\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t\tNemáte čas trávit hodiny hledáním, kam se podívat?\t\t\t\t\t\t\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t\tNevíte si rady s plánováním cesty?\t\t\t\t\t\t\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t\tBojíte se, že se nedomluvíte?\t\t\t\t\t\t\n\t\t\t\t\t</h3>\n\t\t\t\t\t<h3>Nechte to na mě a využijte službu cestovní podpory, abyste si své dny ve Vídni opravdu užili.</h3>\t\t\t\t\n\t\t\t\t\t<p>Služba na míru</p>\t\t\t\t\n\t\t\t\t\t<h2>Nechte si ušít návštěvu Vídně na míru</h2>\t\t\t\t\n\t\t<p>Vídeň nabízí tolik krásných míst a zážitků, že bez místního průvodce snadno minete to nejlepší. Jako Češka, žijící ve Vídni už 10 let, vám pomohu objevit skutečnou duši tohoto města a vyhnout se turistickým pastem.</p><p>Mé služby jsou navržené tak, abyste z Vídně získali maximum, ať už máte na návštěvu den nebo týden.</p>\t\t\n\t\t\t\t\t<h3>Zažijte Vídeň jinak</h3>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBez starostí a v klidu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tBez bloudění a ztráty času.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tS informacemi, které se hodí.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"644\" height=\"613\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky1.jpg.webp\" alt=\"vitam vas Blanka\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky1.jpg 644w, https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky1-300x286.jpg 300w\" sizes=\"(max-width: 644px) 100vw, 644px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t\tItineráře na míru\t\t\t\t\t\t\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tPlán cesty přesně podle vašich přání, tempa a délky pobytu.\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t\tOrganizační pomoc na místě\t\t\t\t\t\t\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tJízdenky, doprava, orientace ve městě – vyřešíme to spolu.\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<h3>\n\t\t\t\t\t\t\tOsobní doprovod ve Vídni\t\t\t\t\t\t\n\t\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tProcházka městem s příběhy, které v průvodcích nenajdete.\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"645\" height=\"611\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg.webp\" alt=\"průvoce Vídeň\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2.jpg 645w, https://sblankouzahranice.eu/wp-content/uploads/2023/09/do-hlavicky2-300x284.jpg 300w\" sizes=\"(max-width: 645px) 100vw, 645px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Tahle nabídka je i pro vás</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud jedete do Vídně a <strong>nechcete bloudit a ztrácet čas</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud chcete <strong>ušetřit dlouhé minuty a hodiny hledání</strong> na internetu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud budete Vídní projíždět a <strong>chcete svůj čas efektivně využít</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud <strong>máte jasnou představu a nevíte, kde přesně hledat</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud by se vám hodil <strong>předem rámcový plán cesty</strong>.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud chcete <strong>zažít město očima obyvatelky Vídně</strong> se skutečným životem, a ne jen prostřednictvím „suchých dat a letopočtů“.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPokud <strong>jste si nejistí kvůli němčině</strong> a bojíte se, že se v Rakousku nedorozumíte.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t<h2>Nechte si připravit detailní plán cesty na míru nebo využijte podporu na místě</h2>\t\t\t\t\n\t\t<p>Dejme si 15minutovku zdarma a řekněte mi své představy.</p>\t\t\n\t\t\t\t\t<a href=\"tel:+420777060809\">\n\t\t\t\t\t\t\t\t\tZavolat hned pro domluvu\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"/kontakt-s-blankou-za-hranice/\">\n\t\t\t\t\t\t\t\t\tPošlete mi telefon, ozvu se vám\n\t\t\t\t\t</a>\n\t\t<p>Nebuďte zaskočeni, volat vám bude rakouské číslo.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/den-ve-vidni/\">\n\t\t\t\t\t\t\t<img width=\"450\" height=\"369\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg.webp\" alt=\"On-line Průvodce do kapsy\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo.jpg 450w, https://sblankouzahranice.eu/wp-content/uploads/2026/03/houpaci-kreslo-300x246.jpg 300w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t<p>Ekonomičtější varianta</p>\t\t\t\t\n\t\t\t\t\t<h2>Neshodneme se v termínu nebo chcete ušetřit?</h2>\t\t\t\t\n\t\t<p>Pak se vám bude hodit on-line <strong>Průvodce do kapsy</strong> – stejná trasa, kterou chodím s klienty při osobním doprovodu.</p><p>Trasa širším centrem Vídně s popisem památek a mapkou ke stažení do mobilu. Vede vás jasně, klidně a bez zbytečného zdržování. Nebloudíte, nehledáte a máte jistotu, že jdete správně. Roky prověřená trasa a spokojení klienti.</p><p><strong>Váš bod jistoty při objevování Vídně – klidný den za 40 € / 980 Kč.</strong></p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tVyzkouším Průvodce do kapsy\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"/den-ve-vidni/\">\n\t\t\t\t\t\t\t\t\tVíce o průvodci\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Proč využít cestovní podporu nebo Průvodce do kapsy</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Ušetříte čas</strong> hledáním v průvodcích, co ve Vídni navštívit a kudy se k památkám dostat.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Neztratíte se ve výběru</strong> a pořizování nejvýhodnějších jízdenek městské dopravy.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Snadno se zorientujete v dopravě</strong> a zjistíte, jak nejlépe z místa A do místa B.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Během jednoho odpoledne projdete</strong> kolem nejznámějších turistických cílů Vídně.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Lehce najdete legendární Hotel Sacher</strong>, kde si v kavárně vychutnáte pravou vídeňskou kávu a Sacher dort.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Dozvíte se něco praktického z běžného života ve Vídni</strong> a poznáte Rakousko autentičtěji.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<strong>Užijete si své dny naplno</strong>, protože budete mít ve Vídni pomoc a podporu za zády.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"731\" height=\"358\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg.jpg.webp\" alt=\"Hofburg\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg.jpg 731w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-300x147.jpg 300w\" sizes=\"(max-width: 731px) 100vw, 731px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"589\" height=\"444\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Karlskirche.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Karlskirche.jpg 589w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Karlskirche-300x226.jpg 300w\" sizes=\"(max-width: 589px) 100vw, 589px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Karlskirche</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Opera.jpg.webp\" alt=\"Opera Viden\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Opera.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Opera-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Státní opera</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/4zRXn/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tTak to se hodí, chci cestovní podporu\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/AaExm/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tVyzkouším Průvodce do kapsy\n\t\t\t\t\t</a>\n\t\t\t\t\t<p>Individuální cestovní podpora</p>\t\t\t\t\n\t\t\t\t\t<h2>Jak spolupráce probíhá?</h2>\t\t\t\t\n\t\t<ol><li>Při prvním kontaktu e-mailem či telefonem si ujasníme vaše přání, představy a potřeby.</li><li>Ujasníme si délku a termín vašeho pobytu.</li><li>Na základě těchto informací zpracuji nabídku do konkrétní objednávky včetně cenové kalkulace a zašlu vám ji k odsouhlasení.</li><li>Po vašem potvrzení začnu na objednávce nebo itineráři pracovat detailně.</li><li>Podle potvrzeného harmonogramu vám zašlu finální verzi itineráře či služby.</li><li>Potvrdíme si předání dokumentu, případně doupřesníme detaily.</li><li>Většinou klientům předem zašlu nebo při příjezdu předám malý dárek navíc – vždy něco, co pomůže při výletu do Vídně.</li><li>Pak už se na vás těší Vídeň i já.</li></ol>\t\t\n\t\t\t\t\t<h3>Platba</h3>\t\t\t\t\n\t\t<p>Platba probíhá ve dvou částech:</p><p><strong>a)</strong> záloha 50 % po potvrzení prvotní objednávky,<br><strong>b)</strong> doplatek 50 % po zaslání finální verze itineráře nebo několik dní před vaším příjezdem do Vídně. Termín splatnosti je vždy součástí objednávky.</p>\t\t\n\t\t\t\t\t<h3>Co služba nezahrnuje</h3>\t\t\t\t\n\t\t<p><strong>Součástí služby není provádění jakýchkoliv rezervací.</strong> Rezervace ubytování, dopravy a podobně si provádíte sami na základě doporučených podkladů nebo podle vlastního výběru.</p>\t\t\n\t\t\t\t\t<h2>Co služba cestovní podpory zahrnuje</h2>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tDoporučení ohledně dopravního spojení.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tDoporučení a výběr nejvýhodnějších jízdenek pro městskou dopravu a váš pobyt ve Vídni.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tItinerář na příslušný počet dní včetně trasy prohlídky městem, případně i s mapkou ke stažení do mobilu.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tZákladní informace o místech a památkách na vaší trase.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tDoporučení výhodného ubytování – cenou nebo polohou – podle vašich přání.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tNa přání osobní vyzvednutí na nádraží a pomoc s prvotní orientací ve městě.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tNa přání osobní doprovod po městě nebo na vybrané památky ve Vídni a okolí – půldenní, celodenní i vícedenní program.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tPodpora nemusí být po celou dobu pobytu. Často stačí 1–2 dny pro základní nebo hlubší orientaci.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t<h2>Přečtěte si reference od mých klientů</h2>\t\t\t\t\n\t\t\t\t\t\t\tMoc bych Vám chtěla za Vaši službu poděkovat. Díky Vám jsem ušetřila spoustu času stráveného na internetu hledáním potřebných věcí o Vídni, ať už se jedná o dopravu, památky atd. <br>Byla s Vámi velmi dobrá spolupráce. Komunikace byla naprosto bezproblémová, navržené změny jste ochotně a rychle doplnila do itineráře a z vlastní iniciativy doporučila změny s ohledem na počasí. <br>Díky Vaší podpoře přímo na nádraží byl náš příjezd do Vídně klidnější a pohodovější.<br><br>Itineráři nemám vůbec nic co vytknout. Byl velice dobře vypracovaný a mapka centra, která se dala spustit v navigaci, byla velmi, velmi užitečná. Bez ní bychom v centru Vídně bloudili a určitě se někde ztratili. Trasa se dala za jeden den v pohodě ujít, <br>ale bylo to celkem náročné. Z vlastní nabyté zkušenosti bych pro ty, co jsou ve Vídni úplně poprvé, volila tuto procházku určitě s Vaší podporou. Pobyt ve Vídni jsme si velmi užili.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/09/Vystrizek-150x150.jpg.webp\" alt=\"recenze Jana Slováková\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tJana Slováková\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ts rodinou\n\t\t\t\t\t\t\tZdravím Blani.<br>Tvoje práce pro nás byla skvělá.  Moc si toho vážíme. Určitě nám to hodně ušetřilo čas a ulehčilo pobyt. Rády doporučíme svým známým. Překvapilo nás, že je vůbec něco takového možné.  Skvělý nápad! Určitě rády využijeme tvé služby i později. Třeba před Vánoci, kdy je vše krásně vyzdobené nejen ve Vídni, jak jsi nám ukázala. Díky!\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/10/vystrizek-spolecne-foto-150x150.jpg.webp\" alt=\"cestovni podpora\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVěra a Stáňa\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsestry\n\t\t\t\t\t\t\tJeště jednou děkujeme za pomoc, přípravu a hezký čas strávený s Vámi.<br>Návštěva \"světelné zahrady\" byl skutečně skvělý nápad. Bylo to moc fajn. Zkrátka užily jsme si Vídeň tak, jak jsme si to představovaly a to i díky Vám.<br>Ještě jednou díky a krásné vánoce.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/12/vystrizek-reference-150x150.png.webp\" alt=\"reference\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tJana,Naďa a Eva\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 sestry s maminkou\n\t\t\t\t\t\t\tMilá Blanko, moc děkujeme za krásně strávený den s Vámi. Bezvadně připravený itinerář, praktické rady a doporučení přispěly k tomu, že jsme si dny ve Vídni bezvadně užili. Těšíme na Vaše další náměty na výlety i v okolí Vídně. (Jarmila).<br><br>Díky za praktické rady a doporučení, velice nám pomohly v orientaci ve Vídni, též jízdenka na celou dobu pobytu je skvělou volbou. (Markéta).<br><br>Výlet byl super, užily jsme si Vídeň v klidu a pohodě. Určitě se sem zase vrátíme. Tento typ výletu (s cestovní podporou) mohu jen doporučit. (Ivana).\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/06/Foto-zen-pani-Sucur-150x150.jpg.webp\" alt=\"Cestovni podpora\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tJarmila, Markéta, Ivana +1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tParta 4 skvělých žen\n\t\t\t\t\t\t\tAho Blani, včera jsme v pořádku dorazily domů. Moc děkuji za všechno. Krásně jsi nám připravila program, moc jsme si to užily.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/08/foto-do-recenze-Podnikavky-150x150.jpg.webp\" alt=\"\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMartina Váchová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZakladatelka projektu Podnikavé ženy z Vysočiny\n\t\t\t\t\t\t\tDěkujeme za vaše průvodcovské služby ve Vídni, moc nám to usnadnilo a zpříjemnilo letní návštěvu Vídně. Bylo to pro nás přínosné a moc jsme si to užili.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/07/reis-150x150.jpg.webp\" alt=\"reference\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tReneta Šebelová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ts dcerou\n\t\t\t\t\t\t\tDěkujeme Blance za krásnou dvoudenní prohlídku Vídně. Počasí s teplotami přes 38°C nás všechny strašilo, ale Blanka nám všem zkušeně dala challenge s prohlídkou Vídně už od \"brzkého\" rána a tak se z horkého dne mezi všemi těmi krásami Vídně stal velmi příjemný den. Kdo brzo chodí, nestojí v Café Sacher frontu na tu jejich dobrotu. Zajímavostí, dobrých rad a nevšedních pohledů na Vídeň od Blanky uslyšíte opravdu hodně. Pomůže vám s lístky, metrem, rozumnou trasou a počká na vás před Schönbrunnem, aby vás doprovodila za další zajímavosti Vídně. Ještě jednou děkujeme a doporučujeme.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/07/canva-foto-na-recenzi-1-150x150.png.webp\" alt=\"\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRodina Trefancova\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tčerven 2026\n\t\t\t\t\t\t\tMoc děkuju za itinerář na náš výlet, bylo to tak jak jsem si představoval. Měl jsem mustr, co a jak, a to bylo super! Skvělá a rychlá služba.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/Vystrizek-cykliste-150x150.jpg.webp\" alt=\"recenze\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tKarel Koutek\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ta skupina cyklistů\n\t\t\t\t\t\t\tDěkujeme paní Blance za službu cestovní podpory. Ve Vídni jsme byli poprvé a paní Blanka nám vypracovala itinerář, díky kterému jsme navštívili podstatnou část těch nejkrásnějších památek. <br>Její služba nám ušetřila mnoho času, který bychom museli strávit přípravou programu. <br>Navíc nám dala rady a tipy, jak se po Vídni dopravovat, což nám následně usnadnilo samostatné cestování a orientaci v této metroli. Nadto je paní velmi milá a procházka s jejím doprovodem historickým centrem města byla příjemným zpestřením programu. Její službu mohu všem doporučit.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/03/rodina2-1-150x150.jpg.webp\" alt=\"recenze\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tKamila Chrbjatova\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ts rodinou\n\t\t\t\t\t\t\tDěkujeme za krásně sestavený program prohlídky centra Vídně s ohledem na mé omezené schopnosti chůze a se zakomponováním návštěvy dvou nejznámějších kaváren a restaurace s original Wiener Schnitzel. Zvláštní dík pak za pomoc v nouzi s odtahem vozidla a organizací výměny pneu, což se zprvu zdálo být těžko řešitelné.<br> Moc děkujeme a doporučujeme službu dál.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/foto-150x150.jpg.webp\" alt=\"cestovni podpora\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tpan Hermann s přítelkyní\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túnor 2026\n\t\t\t\t\t\t\tDěkujeme za spolupráci. Se spoluprací jsme byli velmi spokojeni. Služba cestovní podpory nám podstatně usnadnila sestavení plánu programu, sama bych to vzhledem k časovému vytížení nedala dohromady.<br>Vaši službu bych doporučila a také doporučím dalším školám a známým, pokud bude někdo chtít navštívit Vídeň:-)\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/08/Foto-do-recenzeS-150x150.jpg.webp\" alt=\"recenze Gymnazium\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPavla Petrová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGymnázium Thomase Manna\n\t\t\t\t\t\t\tDobrý den Blani.<br>Museli jsme se sestrou konstatovat, že jste se nám opravdu velmi zamlouvala a moc děkujeme. Váš přístup, který je lidský a i pro ty naše patnáctileté holky srozumitelný, věřím, že vaše zajímavé a netradiční příběhy je upoutaly. Určitě jsme si odnesly nádherný zážitek z Vídně. Jak procházku s vámi ve středu, tak i potom doporučený program na druhý den. Byly jsme vážně moc spokojené a určitě vás doporučíme dále.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2025/08/Snimek-obrazovky-2025-08-26-215841-150x150.png.webp\" alt=\"Reisebetreuung\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPavla Šimičová\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tse sestrou a dcerami\n\t\t\t\t\t\t\tPaní Blanku rozhodně doporučujeme. Je to Češka žijící ve Vídni a má krásné a zajímavé příběhy ke každé budově i místu, které jsme navštívili. <br>Procházka po Vídni byla opravdu moc příjemná. Strávili jsme spolu čtyři hodiny, během kterých jsme prošli mnoho krásných míst a udelali si i malou zastávku na kávu. <br>Byli jsme tam i s naším desetiletým synem a paní průvodkyně tomu skvěle přizpůsobila celou prohlídku, takže to bavilo i jeho. Byla velmi milá, ochotná a bylo vidět, že svou práci dělá s nadšením. <br>Jeste jednou moc děkujeme za krásný zážitek a určitě můžeme jen doporučit.\n\t\t\t\t\t\t\t<img width=\"150\" height=\"150\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2026/03/Snimek-obrazovky-2026-03-15-234646-e1773614886942-150x150.png.webp\" alt=\"reference\" />\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\trodina Koutkova\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\túnor 2026\n\t\t<p>Zde může být i vaše recenze. Chystáte se do Vídně a chcete pobyt prožít bez stresu a starostí? Napište mi – program na míru mám i pro vás.</p>\t\t\n\t\t\t\t\t<a href=\"/kontakt-s-blankou-za-hranice/\">\n\t\t\t\t\t\t\t\t\tNapsat Blance\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"506\" height=\"900\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/11/20170704_183039-506x900.jpg.webp\" alt=\"ja ve Vidni cestovni podpora\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/11/20170704_183039-506x900.jpg 506w, https://sblankouzahranice.eu/wp-content/uploads/2023/11/20170704_183039-169x300.jpg 169w, https://sblankouzahranice.eu/wp-content/uploads/2023/11/20170704_183039-768x1366.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/11/20170704_183039.jpg 820w\" sizes=\"(max-width: 506px) 100vw, 506px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<h2>Kdo vám bude oporou ve Vídni</h2>\t\t\t\t\n\t\t<p>Jmenuji se Blanka, jsem Češka a od ledna 2017 žiji ve Vídni. Z Prahy do Vídně jsem se přestěhovala ve věku 50 let. Byl to velký skok do neznáma, a tak mám stále v živé paměti, jak se člověk v novém prostředí nesnadno orientuje.</p><p>Rakousko jsem začala objevovat především prostřednictvím výletů do přírody a postupně se seznamovala se životem ve Vídni. V roce 2020 vznikl můj projekt „s Blankou za hranice“, ve kterém pomáhám krajanům s poznáváním Vídně a Rakouska. Jsem milovnice přírody a všeho opravdového.</p><p>Více o mně si můžete přečíst <a href=\"/o-mne/\">na stránce Kdo je Blanka</a>, rozhovor v rádiu ORF si můžete <a href=\"https://volksgruppen.orf.at/cesi/radiotelevize/stories/3145808\" target=\"_blank\" rel=\"noopener\">poslechnout zde</a>.</p><p>Těším se na vás v metropoli Rakouska a pomohu vám, abyste si svůj pobyt ve Vídni opravdu užili.</p>\t\t\n\t\t\t\t\t<a href=\"https://form.simpleshop.cz/4zRXn/buy/\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\tObjednat službu\n\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"/kontakt-s-blankou-za-hranice/\">\n\t\t\t\t\t\t\t\t\tPoslat zprávu\n\t\t\t\t\t</a>\n\t\t\t\t\t<h2>Co můžete ve Vídni vidět a navštívit</h2>\t\t\t\t\n\t\t<p>Obejdete památky, poznáte Vídeň a v klidu si dáte originál Sacher dort a vídeňskou kávu.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"640\" height=\"409\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1.jpg 640w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Burggarten-1-300x192.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Schmetterlinghaus</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"860\" height=\"484\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg.webp\" alt=\"Vidensky fiakr\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S.jpg 860w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Fiakr2-S-768x432.jpg 768w\" sizes=\"(max-width: 860px) 100vw, 860px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Typický vídeňský fiakr</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"383\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg.webp\" alt=\"Viden Albertina\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/Albertina-300x168.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Albertina</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"591\" height=\"443\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hundertwasserhaus.jpg.webp\" alt=\"Hundertwasserhaus\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hundertwasserhaus.jpg 591w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hundertwasserhaus-300x225.jpg 300w\" sizes=\"(max-width: 591px) 100vw, 591px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hundertwasserhaus</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"648\" height=\"404\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Liliputbahn.jpg.webp\" alt=\"Pratr\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Liliputbahn.jpg 648w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Liliputbahn-300x187.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/elementor/thumbs/Liliputbahn-qr9gp2fo1iyjipbtr46h19sjw1ylr8numyjumcy1dc.jpg 450w\" sizes=\"(max-width: 648px) 100vw, 648px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vláček v parku Prátr</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"900\" height=\"506\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg.webp\" alt=\"Viden noc\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-900x506.jpg 900w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-300x169.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-768x432.jpg 768w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni-1536x864.jpg 1536w, https://sblankouzahranice.eu/wp-content/uploads/2023/06/nocni.jpg 1600w\" sizes=\"(max-width: 900px) 100vw, 900px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Vídeňská opera</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-1.jpg.webp\" alt=\"Belveder\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-1.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-1-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Zámek Belvedere</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-2.jpg.webp\" alt=\"Belveder\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-2.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-2-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Zámek Belvedere</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-3.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-3.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Belveder-3-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Zámek Belvedere</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-1.jpg.webp\" alt=\"Schönbrunn\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-1.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-1-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Zámek Schönbrunn</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"682\" height=\"384\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-3.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-3.jpg 682w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-3-300x169.jpg 300w\" sizes=\"(max-width: 682px) 100vw, 682px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Zámek Schönbrunn</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"703\" height=\"372\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-2.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-2.jpg 703w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Schonbrunn-2-300x159.jpg 300w\" sizes=\"(max-width: 703px) 100vw, 703px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Zámek Schönbrunn</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"657\" height=\"398\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hotel-Sacher-Wien.jpg.webp\" alt=\"Hotel Sachr\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hotel-Sacher-Wien.jpg 657w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hotel-Sacher-Wien-300x182.jpg 300w\" sizes=\"(max-width: 657px) 100vw, 657px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hotel Sacher</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"754\" height=\"635\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg.webp\" alt=\"Sachr - cesty do Vidne\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2.jpg 754w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Sachr-2-300x253.jpg 300w\" sizes=\"(max-width: 754px) 100vw, 754px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Originál Sacher dort</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"713\" height=\"367\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg.webp\" alt=\"\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2.jpg 713w, https://sblankouzahranice.eu/wp-content/uploads/2023/05/Hofburg-2-300x154.jpg 300w\" sizes=\"(max-width: 713px) 100vw, 713px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Hofburg</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"450\" height=\"450\" src=\"https://sblankouzahranice.eu/wp-content/uploads/2024/03/Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.jpg.webp\" alt=\"Bonusy všechny\" srcset=\"https://sblankouzahranice.eu/wp-content/uploads/2024/03/Bonusy-slevy-vyhody-obrazek-na-soc.site_-1.jpg 450w, https://sblankouzahranice.eu/wp-content/uploads/2024/03/Bonusy-slevy-vyhody-obrazek-na-soc.site_-1-300x300.jpg 300w, https://sblankouzahranice.eu/wp-content/uploads/2024/03/Bonusy-slevy-vyhody-obrazek-na-soc.site_-1-150x150.jpg 150w\" sizes=\"(max-width: 450px) 100vw, 450px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t<p>A to není zdaleka vše</p>\t\t\t\t\n\t\t\t\t\t<h2>Bonus = dárek pro každého klienta</h2>\t\t\t\t\n\t\t<p>Pro každého klienta, který si objedná jakoukoliv formu služby cestovní podpory, je připraven bonus navíc, který vám ušetří další náklady. Se službou cestovní podpory ušetříte nejen peníze, ale i čas a nervy.</p><p>Bonus má podobu slevy na jednu akci během pobytu. Vybrat si můžete z deseti zajímavých atrakcí pro děti i dospělé, návštěv typických restaurací nebo vstupů na zajímavá turistická místa v metropoli Rakouska.</p>\t\t\n\t\t\t\t\t<a href=\"/bonusy-pro-klienty/\">\n\t\t\t\t\t\t\t\t\tSeznam bonusů\n\t\t\t\t\t</a>\n\t\t\t\t\t<p>Pro firmy, školy a spolky</p>\t\t\t\t\n\t\t\t\t\t<h2>Nabídku připravím i pro skupiny</h2>\t\t\t\t\n\t\t<p>Na základě služby cestovní podpory mohu stejně nebo podobně připravit výlety a pobyty ve Vídni a okolí i pro vaši organizaci. Některé věci budete mít zajištěné a nemusíte se o ně starat, něco si zařídíte sami.</p><p>Dopravu do Vídně a zpět a rezervaci ubytování je nutné provést samostatně – dostanete tipy na vlakovou a autobusovou dopravu a na různé typy ubytování podle vašeho zadání. Organizační pomoc na místě po příjezdu v rozsahu objednávky je zajištěna.</p><p>Další služby, jako doprovod na celodenní výlety v okolí Vídně (zámek, lázeňské město…) nebo rezervace vstupenek, jsou na domluvě. Program je možné jakkoliv upravovat. Cena se odvíjí od rozsahu služeb, počtu hodin a počtu účastníků.</p>\t\t\n\t\t\t\t\t<a href=\"/kontakt-s-blankou-za-hranice/\">\n\t\t\t\t\t\t\t\t\tChci nabídku pro skupinu\n\t\t\t\t\t</a>\n\t\t\t\t\t<h3>Doprovázela jsem takto již</h3>\t\t\t\t\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tSkupinu podnikatelek Ženy z Vysočiny.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t30 studentů Česko-německého gymnázia z Prahy.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tSpolek 50 seniorů z Poděbrad.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tFirmu z Moravy v čele s jejím majitelem a ředitelem.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>",
+ "parent": 0,
+ "slug": "viden-cestovni-podpora-uvod-oliva",
+ "title": "Vídeň – cestovní podpora (úvod: světle olivový závoj)",
+ "type": "page"
+}
